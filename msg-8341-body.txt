@@ -1,0 +1,1685 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.175.144 with SMTP id ca16csp278019ldc;
+        Tue, 25 Nov 2014 05:16:56 -0800 (PST)
+X-Received: by 10.68.255.195 with SMTP id as3mr43595639pbd.38.1416921416092;
+        Tue, 25 Nov 2014 05:16:56 -0800 (PST)
+Return-Path: <blurb.52610@envfrm.rsys5.com>
+Received: from omp.makebooks.blurb.com (omp.makebooks.blurb.com. [199.7.204.114])
+        by mx.google.com with ESMTP id qp3si1829660pac.147.2014.11.25.05.16.55
+        for <dinsmorealex@gmail.com>;
+        Tue, 25 Nov 2014 05:16:56 -0800 (PST)
+Received-SPF: pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) client-ip=199.7.204.114;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) smtp.mail=blurb.52610@envfrm.rsys5.com;
+       dkim=pass header.i=@makebooks.blurb.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=makebooks.blurb.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=blurb; d=makebooks.blurb.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=support@makebooks.blurb.com;
+ bh=v6WYLWfyXcBgrOmbAIB73DKJdKc=;
+ b=k65x6UjFnR8BkNXw06YYHdH06glczvnVrxYRdIN3oBFxJask8KRdFAseAg9Az5GANxO0mL4XwcAi
+   Itwm8os2nVAD+Yts0JHhsIf3UGxJDWrhCV/uFd8gaphkXZ9UTOZ1EFKFxNBfEyUR6HUc0OrwOCyx
+   Os9VQvRbOMAe/25GNuA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=blurb; d=makebooks.blurb.com;
+ b=q6gNcf/Xbrj6vUNNqC87Hyy7sfWwE092HYJUkR5/GAxGhNBxl07pyp6gw8KC1hPpj+khdMB5r93V
+   ndOU7JIH42Y8J3WccRgxsveqH9HxmmwYvTlIed1sjCD1y9Va474/av1q2nat0nsw3qe9nm+xfKdv
+   zDaTrVhwkxc/etBnvh8=;
+Received: by omp.makebooks.blurb.com id hei0ke1615k0 for <dinsmorealex@gmail.com>; Tue, 25 Nov 2014 05:09:59 -0800 (envelope-from <blurb.52610@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 25 Nov 2014 05:09:59 -0800
+To: dinsmorealex@gmail.com
+From: "Blurb" <support@makebooks.blurb.com>
+Reply-To: "Blurb" <noreply@makebooks.blurb.com>
+Subject: =?UTF-8?B?Q2hpbGRyZW4ncyBib29rc+KAlGEgZ2lmdCB0aGV5J2xsIGFsd2F5?=
+	=?UTF-8?B?cyByZW1lbWJlcg==?=
+List-Unsubscribe: <http://makebooks.blurb.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6k&_ei_=EolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2>, <mailto:unsubscribe-WQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6k@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: KpgkuhjLHtLzfxnuHptQJhu
+X-rext: 4.interact5.EjnHnGfBzuB3ph6DnroHCbVg0hnYfuTaPAs
+X-cid: blurb.386275
+Message-ID: <0.0.6.443.1D008B11D9A41C6.0@omp.makebooks.blurb.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html>
+ <head>
+  <title>'Tis the season to gift a cookbook</title>
+  <style type=3D=22text/css=22>
+=40charset =22UTF-8=22;
+html =7B
+	-webkit-text-size-adjust: none;
+=7D
+=2EReadMsgBody =7B
+	width: 100%;
+=7D
+=2EExternalClass =7B
+	width: 100%;
+=7D
+=2EExternalClass * =7B
+	line-height: 100%
+=7D
+=2EappleLinksWhite a =7B
+	color: =23ffffff;
+	text-decoration: none;
+=7D
+body =7B
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	margin: 0 auto;
+	background-repeat: repeat-x;
+=7D
+=40media screen and (max-width: 620px) =7B
+*=5Bclass=5D=2Eblock =7B
+	display: block =21important;
+=7D
+*=5Bclass=5D=2Ehide =7B
+	display: none =21important;
+=7D
+*=5Bclass=5D=2Erel =7B
+	position: relative =21important;
+=7D
+*=5Bclass=5D=2Eabs =7B
+	position: absolute =21important;
+=7D
+*=5Bclass=5D=2Eshow =7B
+	display: block =21important;
+	width: auto =21important;
+	overflow: visible =21important;
+	float: none =21important;
+	max-height: inherit =21important;
+	line-height: inherit =21important;
+=7D
+/* ALIGNMENT */
+*=5Bclass=5D=2Ealigncenter =7B
+	text-align: center =21important;
+=7D
+*=5Bclass=5D=2Ealignleft =7B
+	text-align: left =21important;
+=7D
+/*** heights & widths ****/
+*=5Bclass=5D=2Ewidth1 =7B
+	width: 1px =21important;
+=7D
+*=5Bclass=5D=2Ewidth2 =7B
+	width: 2px =21important;
+=7D
+*=5Bclass=5D=2Ewidth3 =7B
+	width: 3px =21important;
+=7D
+*=5Bclass=5D=2Ewidth4 =7B
+	width: 4px =21important;
+=7D
+*=5Bclass=5D=2Ewidth5 =7B
+	width: 5px =21important;
+=7D
+*=5Bclass=5D=2Ewidth6 =7B
+	width: 6px =21important;
+=7D
+*=5Bclass=5D=2Ewidth7 =7B
+	width: 7px =21important;
+=7D
+*=5Bclass=5D=2Ewidth8 =7B
+	width: 8px =21important;
+=7D
+*=5Bclass=5D=2Ewidth9 =7B
+	width: 9px =21important;
+=7D
+*=5Bclass=5D=2Ewidth10 =7B
+	width: 10px =21important;
+=7D
+*=5Bclass=5D=2Ewidth11 =7B
+	width: 11px =21important;
+=7D
+*=5Bclass=5D=2Ewidth12 =7B
+	width: 12px =21important;
+=7D
+*=5Bclass=5D=2Ewidth13 =7B
+	width: 13px =21important;
+=7D
+*=5Bclass=5D=2Ewidth14 =7B
+	width: 14px =21important;
+=7D
+*=5Bclass=5D=2Ewidth15 =7B
+	width: 15px =21important;
+=7D
+*=5Bclass=5D=2Ewidth20 =7B
+	width: 20px =21important;
+=7D
+*=5Bclass=5D=2Ewidth22 =7B
+	width: 22px =21important;
+=7D
+*=5Bclass=5D=2Ewidth25 =7B
+	width: 25px =21important;
+=7D
+*=5Bclass=5D=2Ewidth30 =7B
+	width: 30px =21important;
+=7D
+*=5Bclass=5D=2Ewidth35 =7B
+	width: 35px =21important;
+=7D
+*=5Bclass=5D=2Ewidth40 =7B
+	width: 40px =21important;
+=7D
+*=5Bclass=5D=2Ewidth45 =7B
+	width: 45px =21important;
+=7D
+*=5Bclass=5D=2Ewidth50 =7B
+	width: 50px =21important;
+=7D
+*=5Bclass=5D=2Ewidth138 =7B
+	width: 138px =21important;
+=7D
+*=5Bclass=5D=2Ewidth139 =7B
+	width: 139px =21important;
+=7D
+*=5Bclass=5D=2Ewidth150 =7B
+	width: 150px =21important;
+=7D
+*=5Bclass=5D=2Ewidth194 =7B
+	width: 194px =21important;
+=7D
+*=5Bclass=5D=2Ewidth210 =7B
+	width: 210px =21important;
+=7D
+*=5Bclass=5D=2Ewidth242 =7B
+	width: 242px =21important;
+=7D
+*=5Bclass=5D=2Ewidth245 =7B
+	width: 245px =21important;
+=7D
+*=5Bclass=5D=2Ewidth250 =7B
+	width: 250px =21important;
+=7D
+*=5Bclass=5D=2Ewidth290 =7B
+	width: 290px =21important;
+=7D
+*=5Bclass=5D=2Ewidth300 =7B
+	width: 300px =21important;
+=7D
+*=5Bclass=5D=2Ewidth312 =7B
+	width: 312px =21important;
+=7D
+*=5Bclass=5D=2Ewidth320 =7B
+	width: 320px =21important;
+=7D
+*=5Bclass=5D=2Ewidth340 =7B
+	width: 340px =21important;
+=7D
+*=5Bclass=5D=2Ehauto =7B
+	height: auto =21important;
+=7D
+*=5Bclass=5D=2Eheight1 =7B
+	height: 1px =21important;
+=7D
+*=5Bclass=5D=2Eheight2 =7B
+	height: 2px =21important;
+=7D
+*=5Bclass=5D=2Eheight3 =7B
+	height: 3px =21important;
+=7D
+*=5Bclass=5D=2Eheight4 =7B
+	height: 4px =21important;
+=7D
+*=5Bclass=5D=2Eheight5 =7B
+	height: 5px =21important;
+=7D
+*=5Bclass=5D=2Eheight6 =7B
+	height: 6px =21important;
+=7D
+*=5Bclass=5D=2Eheight7 =7B
+	height: 7px =21important;
+=7D
+*=5Bclass=5D=2Eheight8 =7B
+	height: 8px =21important;
+=7D
+*=5Bclass=5D=2Eheight9 =7B
+	height: 9px =21important;
+=7D
+*=5Bclass=5D=2Eheight10 =7B
+	height: 10px =21important;
+=7D
+*=5Bclass=5D=2Eheight11 =7B
+	height: 11px =21important;
+=7D
+*=5Bclass=5D=2Eheight12 =7B
+	height: 12px =21important;
+=7D
+*=5Bclass=5D=2Eheight13 =7B
+	height: 13px =21important;
+=7D
+*=5Bclass=5D=2Eheight14 =7B
+	height: 14px =21important;
+=7D
+*=5Bclass=5D=2Eheight15 =7B
+	height: 15px =21important;
+=7D
+*=5Bclass=5D=2Eheight20 =7B
+	height: 20px =21important;
+=7D
+*=5Bclass=5D=2Eheight25 =7B
+	height: 25px =21important;
+=7D
+*=5Bclass=5D=2Eheight30 =7B
+	height: 30px =21important;
+=7D
+*=5Bclass=5D=2Eheight35 =7B
+	height: 35px =21important;
+=7D
+*=5Bclass=5D=2Eheight40 =7B
+	height: 40px =21important;
+=7D
+*=5Bclass=5D=2Eheight42 =7B
+	height: 42px =21important;
+=7D
+*=5Bclass=5D=2Eheight45 =7B
+	height: 45px =21important;
+=7D
+*=5Bclass=5D=2Eheight50 =7B
+	height: 50px =21important;
+=7D
+*=5Bclass=5D=2Eheight250 =7B
+	height: 250px =21important;
+=7D
+/*** padding/margin ****/
+*=5Bclass=5D=2Epaddingr0 =7B
+	padding-right: 0px =21important;
+=7D
+*=5Bclass=5D=2Epaddingr15 =7B
+	padding-right: 15px =21important;
+=7D
+*=5Bclass=5D=2Epaddingr55 =7B
+	padding-right: 55px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl0 =7B
+	padding-left: 0px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl15 =7B
+	padding-left: 15px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl55 =7B
+	padding-left: 55px =21important;
+=7D
+*=5Bclass=5D=2Epaddinglr55 =7B
+	padding-left: 60px =21important;
+	padding-right: 60px =21important;
+=7D
+*=5Bclass=5D=2Epaddingb10 =7B
+	padding-bottom: 10px =21important
+=7D
+/*** fonts ****/
+*=5Bclass=5D=2Efont14 =7B
+	font-size: 14px =21important;
+=7D
+*=5Bclass=5D=2Efont15 =7B
+	font-size: 15px =21important;
+=7D
+*=5Bclass=5D=2Efont24 =7B
+	font-size: 24px =21important;
+=7D
+*=5Bclass=5D=2Efont28 =7B
+	font-size: 28px =21important;
+=7D
+*=5Bclass=5D=2Efont32 =7B
+	font-size: 32px =21important;
+=7D
+*=5Bclass=5D=2Eline16 =7B
+	line-height: 16px =21important;
+=7D
+*=5Bclass=5D=2Eline20 =7B
+	line-height: 20px =21important;
+=7D
+*=5Bclass=5D=2Eline22 =7B
+	line-height: 22px =21important;
+=7D
+*=5Bclass=5D=2Eline26 =7B
+	line-height: 26px =21important;
+=7D
+*=5Bclass=5D=2Eline30 =7B
+	line-height: 34px =21important;
+=7D
+*=5Bclass=5D=2Eline34 =7B
+	line-height: 34px =21important;
+=7D
+/*** positioning ***/
+*=5Bclass=5D=2Etop21 =7B
+	top: 21px =21important;
+=7D
+*=5Bclass=5D=2Ebggrey =7B
+	background-color: =23f5f5f5 =21important;
+=7D
+*=5Bclass=5D=2Ebggrey_drk =7B
+	background-color: =23e3e3e3 =21important;
+=7D
+*=5Bclass=5D=2Ebgwhite =7B
+	background-color: =23ffffff =21important;
+=7D
+=7D</style>
+ </head>
+ <body width=3D=22100%=22 style=3D=22padding:0; margin:0;=22 bgcolor=3D=22=
+=23FFFFFF=22>
+  <=21--=5Bif gte mso 9=5D>
+<style>
+=2Emr15=7B margin-right:15px =21important;=7D
+=2Eml15=7B margin-left:15px =21important;=7D
+=2Emr5lr5 =7B margin-left:5px =21important; margin-right:5px =21important;=
+=7D
+=2Emr20lr20 =7B margin-left:20px =21important; margin-right:20px =21importa=
+nt;=7D
+=2Emm1=7B margin-left:30px =21important; margin-right:30px =21important;=7D
+=2Emm2=7B margin-left:15px =21important; margin-right:15px =21important;=7D
+=2Emm3=7B margin-left:50px =21important; margin-right:50px =21important;=7D
+=2Emm4=7B margin-left:15px =21important; margin-right:5px =21important;=7D
+=2Emm5=7B margin-left:10px =21important; margin-right:10px =21important;=7D
+</style>
+<=21=5Bendif=5D--> <center>
+  <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=22>
+   <tbody>
+    <tr>
+     <td align=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+     <table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22 cellpa=
+dding=3D=220=22 class=3D=22width320=22 >
+      <tbody>
+       <tr>
+        <td bgcolor=3D=22=23FFFFFF=22>
+
+        <=21-- header image-->
+
+        <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=
+ width=3D=22600=22 class=3D=22width320=22 >
+         <tbody>
+          <tr>
+           <td width=3D=22600=22 class=3D=22width320=22 align=3D=22center=
+=22 valign=3D=22top=22 ><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DY=
+ATWRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8=
+N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img src=3D=22http://respo=
+nsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-2195-hero=2Ejp=
+g=22 style=3D=22display:block; border:0;=22 alt=3D=22Beautiful Books=2E Bea=
+utiful Presents=2E=22 width=3D=22600=22 class=3D=22width320 hauto=22 /></a>=
+</td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2225=22 style=3D=22line-height:25px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21--intro block-->
+
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=
+=22 class=3D=22width320=22 >
+         <tbody>
+          <tr>
+           <td width=3D=2220=22 class=3D=22width15=22 ></td>
+           <td width=3D=22560=22 align=3D=22left=22 valign=3D=22top=22 clas=
+s=3D=22width290=22 >
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:22px; line-height:28px; color:=23000000; font-weight:bold; text-align:c=
+enter;=22 class=3D=22font14 line20=22 >Fun books for the little ones on you=
+r gift list</div><br>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=22=
+ >No other gift opens a child's world the way a book can=2E The power of wo=
+rds and imagination takes them on journeys to a magical world of the mind, =
+one full of adorable animals, mysterious monsters, or fantastic friends=2E<=
+/div><br>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=22=
+ >Here are the most popular children's books in our bookstore=2E These beau=
+tifully illustrated books encourage kids to imagine, explore their creativi=
+ty, and learn about the world around them=2E</div><br>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=22=
+ >With our new lower ground shipping price of =244=2E99 for your first book=
+, and =241=2E99 for your second, it's never been more affordable to get the=
+se books to your door and into the hands of loved ones come Christmas time=
+=2E</div>
+           </td>
+           <td width=3D=2220=22 class=3D=22width15=22 ></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2225=22 style=3D=22line-height:25px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21--cta block-->
+
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=
+=22 class=3D=22width320=22 >
+         <tbody>
+          <tr>
+           <td width=3D=22180=22 class=3D=22width15=22 ></td>
+           <td width=3D=22240=22  align=3D=22center=22 height=3D=2240=22 va=
+lign=3D=22middle=22 style=3D=22background-color:=2300adef;=22 class=3D=22wi=
+dth290=22>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:16px; line-height:22px; color:=23ffffff; font-weight:bold; text-align:c=
+enter; letter-spacing:0=2E05em;=22 class=3D=22font14 line20=22 ><a href=3D=
+=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgag=
+EM7Fm7UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATWTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd=
+828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQ=
+Kh27umSa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:bl=
+ock;=22>Browse All Books</a></div>
+           </td>
+           <td width=3D=22180=22 class=3D=22width15=22 ></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2225=22 style=3D=22line-height:25px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21--row 1-->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATWWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Beards-Make-Good-Homes-For-Penguins=
+=2Ejpg=22 width=3D=22140=22 alt=3D=22Beards Make Good Homes for Penguins =
+=7C Katie Abey=22 style=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Beards Make Good Homes for Penguins</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Katie Abey</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2455=2E32</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATWWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATWAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-The-Owl-and-the-Pussycat=2Ejpg=22 wid=
+th=3D=22140=22 alt=3D=22The Owl and the Pussycat =7C Sara Hitz Arnold=22 st=
+yle=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >The Owl and the Pussycat</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Sara Hitz Arnold</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2432=2E74</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATWAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATWCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-A-Very-Clever-Shape=2Ejpg=22 width=3D=
+=22140=22 alt=3D=22A Very Clever Shape =7C Linda Scholes=22 style=3D=22disp=
+lay:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >A Very Clever Shape</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Linda Scholes</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2424=2E16</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATWCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATYRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-The-Princess-and-the-Pea=2Ejpg=22 wid=
+th=3D=22140=22 alt=3D=22The Princess and The Pea =7C Biljana Kroll=22 style=
+=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >The Princess and The Pea</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Biljana Kroll</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2430=2E00</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATYRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2225=22 style=3D=22line-height:25px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21--row 2-->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATYTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Have-You-Seen-Kyles-Kitten=2Ejpg=22 w=
+idth=3D=22140=22 alt=3D=22Have you seen Kyle's Kitten? =7C Sara Hitz Arnold=
+=22 style=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Have you seen Kyle's Kitten?</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Sara Hitz Arnold</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2429=2E99</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATYTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATYWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-How-to-Make-Friends-in-Space=2Ejpg=22=
+ width=3D=22140=22 alt=3D=22How To Make Friends In Space =7C George Velez=
+=22 style=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >How To Make Friends In Space</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >George Velez</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2424=2E00</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATYWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATYAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Ollie-Loo=2Ejpg=22 width=3D=22140=22 =
+alt=3D=22Ollie + Loo =7C Joni Taylor=22 style=3D=22display:block;border: 0p=
+x;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Ollie + Loo</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Joni Taylor</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2443=2E22</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATYAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATYCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Werebeast=2Ejpg=22 width=3D=22140=22 =
+alt=3D=22Werebeast =7C Lindsay Ritscher=22 style=3D=22display:block;border:=
+ 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Werebeast</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Lindsay Ritscher</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2421=2E49</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATYCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2250=22 style=3D=22line-height:50px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21--hashtag block-->
+
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=
+=22 class=3D=22width320=22 >
+         <tbody>
+          <tr>
+           <td width=3D=2220=22 class=3D=22width15=22 ></td>
+           <td width=3D=22560=22 align=3D=22left=22 valign=3D=22top=22 clas=
+s=3D=22width290=22 bgcolor=3D=22=23ebf5f5=22><br>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:16px; line-height:24px; color:=23000000; font-weight:bold; text-align:c=
+enter;=22 class=3D=22font14 line20=22 >Do you have a favorite read from the=
+&nbsp;Blurb&nbsp;bookstore?</div>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:16px; line-height:24px; color:=23000000; text-align:center;=22 class=3D=
+=22font14 line20=22 >Spread the word via Twitter using the&nbsp;hashtag</di=
+v>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:24px; line-height:28px; color:=23000000; text-align:center; font-weight=
+:bold;=22 class=3D=22font15 line24=22 >=23myfavblurbbook</div><br>
+           </td>
+           <td width=3D=2220=22 class=3D=22width15=22 ></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2225=22 style=3D=22line-height:25px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21--row 3-->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATARY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Arlos-Big-Words=2Ejpg=22 width=3D=221=
+40=22 alt=3D=22Arlo's Big Words =7C Adam Leonhardt=22 style=3D=22display:bl=
+ock;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Arlo's Big Words</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Adam Leonhardt</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2462=2E00</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATARY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATATY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Everyday-Superheroes=2Ejpg=22 width=
+=3D=22140=22 alt=3D=22Everyday Superheroes =7C Natasha Grey=22 style=3D=22d=
+isplay:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Everyday Superheroes</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Natasha Grey</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2417=2E60</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATATY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATAWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-20-Questions=2Ejpg=22 width=3D=22140=
+=22 alt=3D=2220 Questions =7C Nicole Reaves=22 style=3D=22display:block;bor=
+der: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >20 Questions</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Nicole Reaves</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2429=2E95</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATAWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATAAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-A-Whimsical-Tale-of-Invention=2Ejpg=
+=22 width=3D=22140=22 alt=3D=22A Whimsical Tale of Invention =7C Kara Poole=
+y=22 style=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >A Whimsical Tale of Invention</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Kara Pooley</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2435=2E49</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATAAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2225=22 style=3D=22line-height:25px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21--row 4-->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATACY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Things-I-Love=2Ejpg=22 width=3D=22140=
+=22 alt=3D=22Things I Love =7C Jessica Rose=22 style=3D=22display:block;bor=
+der: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Things I Love</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Jessica Rose</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2419=2E61</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATACY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATBRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Talking-to-Birds=2Ejpg=22 width=3D=22=
+140=22 alt=3D=22Talking To Birds =7C Amanda Banham=22 style=3D=22display:bl=
+ock;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Talking To Birds</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Amanda Banham</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2427=2E14</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATBRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATBTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-An-Unexpected-Blossom=2Ejpg=22 width=
+=3D=22140=22 alt=3D=22An Unexpected Blossom =7C Victor Khramov=22 style=3D=
+=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >An Unexpected Blossom</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Victor Khramov</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2437=2E41</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATBTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATBWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Rose-Raindrop-Cowboys=2Ejpg=22 width=
+=3D=22140=22 alt=3D=22The Rose, the Rain, and the Cowboy =7C Jim Gelder=22 =
+style=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >The Rose, the Rain, and the Cowboy</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Jim Gelder</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2423=2E91</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATBWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2225=22 style=3D=22line-height:25px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21--row 5-->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 ><img src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i5/responsysimages/content/blurb/spacer=2Egif=22 height=3D=221=22 width=
+=3D=221=22 style=3D=22display:block; border:0;=22 alt=3D=22=22 />
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATBAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Two-Long-Ears=2Ejpg=22 width=3D=22140=
+=22 alt=3D=22Two Long Ears =7C Jacob A=2E Boehne=22 style=3D=22display:bloc=
+k;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Two Long Ears</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Jacob A=2E Boehne</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2420=2E00</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATBAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 >
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><br><a href=3D=22http://makebooks=2E=
+blurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRo=
+g5Mm2Hy6kVXtpKX%3DYATBCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/MAR-2197-Cinderella=2Ejpg=22 width=3D=22140=22=
+ alt=3D=22Cinderella =7C Lucy Harris=22 style=3D=22display:block;border: 0p=
+x;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >Cinderella</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22 >Lucy Harris</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 height=3D=2220=22 valign=3D=22top=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23000000;=22 class=3D=22font14 line20=
+=22 >=2438=2E49</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:12px; line-height:16px; color:=23ffffff; width:100px; background-col=
+or:=2300adef; height:20px;=22 class=3D=22font14 line20=22 ><a href=3D=22htt=
+p://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7=
+UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATBCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=23ffffff; text-decoration:none; display:block; p=
+adding-top:2px;=22>Buy Now</a></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22150=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 ><img src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i5/responsysimages/content/blurb/spacer=2Egif=22 height=3D=221=22 width=
+=3D=221=22 style=3D=22display:block; border:0;=22 alt=3D=22=22 />
+           </td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2275=22 style=3D=22line-height:75px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+
+        <=21-- FOOTER -->
+
+              <=21-- FOOTER -->
+       =20
+        <table bgcolor=3D=22=23ffffff=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 width=3D=22600=22 class=3D=22hide=22>
+          <tr>
+            <td width=3D=22600=22 align=3D=22center=22 bgcolor=3D=22=23ffff=
+ff=22 class=3D=22width320=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6kVXtpK=
+X%3DYATCRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8=
+UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmi=
+ddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/con=
+tent/blurb/icon-blurb-47=2Epng=22 border=3D=220=22 alt=3D=22Blurb=22 title=
+=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRog5M=
+m2Hy6kVXtpKX%3DYATCTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEg=
+Rn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=
+=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsy=
+simages/content/blurb/icon-facebook-41=2Epng=22 border=3D=220=22 alt=3D=22F=
+acebook=22 title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http:/=
+/makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7Uio=
+A9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATCWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8=
+tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=
+=2E=22><img align=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=
+=2Enet/i5/responsysimages/content/blurb/icon-gplus-41=2Epng=22 border=3D=22=
+0=22 alt=3D=22Google Plus=22 title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<=
+a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjH=
+JlYQGrgagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATCAY&_ei_=3DEi2L-z0LtlVk=
+TFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i=
+-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=22 src=3D=22http://respon=
+sys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/icon-twitter-41=2Ep=
+ng=22 border=3D=220=22 alt=3D=22Twitter=22 title=3D=22=22 /></a>&nbsp;&nbsp=
+;&nbsp;&nbsp;<a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATCCY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KS=
+CzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=22 src=3D=
+=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/ico=
+n-linkedin-41=2Epng=22 border=3D=220=22 alt=3D=22LinkedIn=22 title=3D=22=22=
+ /></a></td>
+          </tr>
+<tr><td>&nbsp;</td></tr>
+        </table>
+        <table bgcolor=3D=22=23ffffff=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 width=3D=22600=22 class=3D=22width320=22>
+          <tr>
+            <td width=3D=22600=22 align=3D=22center=22 bgcolor=3D=22=23ffff=
+ff=22 class=3D=22width320=22><div style=3D=22font-size:10px; font-family:Ar=
+ial, Helvetica, sans-serif; color:=23666666; line-height:18px;=22> <a href=
+=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGr=
+gagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6kVXtpKX%3DYATDRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ=
+5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4=
+vbQKh27umSa=2E=22 style=3D=22color: =2300adef; text-decoration: none=22 tar=
+get=3D=22_top=22>Privacy</a> =7C <a href=3D=22http://makebooks=2Eblurb=2Eco=
+m/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6kV=
+XtpKX%3DYATDTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYb=
+wTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=
+ =2300adef; text-decoration: none=22 target=3D=22_top=22>Pricing</a> =7C <a=
+ href=3D=22http://makebooks=2Eblurb=2Ecom/pub/optout?_ri_=3DX0Gzc2X%3DWQpgl=
+LjHJlYQGrgagEM7Fm7UioA9gjha8IzenRog5Mm2Hy6k&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2=
+DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2=22 style=3D=22colo=
+r: =2300adef; text-decoration: none=22 target=3D=22_top=22>Unsubscribe</a><=
+br />
+                <br />
+                Blurb, Inc=2E PO Box 728, San Francisco, CA 94104-0728<br />
+                &copy;2014 Blurb, All Rights Reserved</div></td>
+          </tr>
+        </table>
+
+        <=21-- space -->
+
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=22100=22 style=3D=22line-height:100px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  </center><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+makebooks=2Eblurb=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGrgagEM7Fm7UioA=
+9gjha8IzenRog5Mm2Hy6kVXHkMX%3Dw&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_=
+5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSBv2UdWief=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/E0sZ9o7WxByc6POmr_P=
+7hikzO8xMQ118dH3BvzCm0-MyRt9E2aUDoxJjA1MDYDAkT6huJNehJ_WwdipgcgN0Wku8dFmn/%=
+24UID=22>
+
+
+ </body>
+</html>
+
+

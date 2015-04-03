@@ -1,0 +1,922 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.175.144 with SMTP id ca16csp467036ldc;
+        Mon, 8 Dec 2014 00:30:07 -0800 (PST)
+X-Received: by 10.229.118.1 with SMTP id t1mr50180106qcq.17.1418027406523;
+        Mon, 08 Dec 2014 00:30:06 -0800 (PST)
+Return-Path: <201412080830052d62d5948bca4579bb3cdd8e830fbcaf-C20934W2H281GM@bounces.amazon.com>
+Received: from a15-252.smtp-out.amazonses.com (a15-252.smtp-out.amazonses.com. [54.240.15.252])
+        by mx.google.com with ESMTPS id p77si42692120qgd.26.2014.12.08.00.30.05
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 08 Dec 2014 00:30:06 -0800 (PST)
+Received-SPF: pass (google.com: domain of 201412080830052d62d5948bca4579bb3cdd8e830fbcaf-C20934W2H281GM@bounces.amazon.com designates 54.240.15.252 as permitted sender) client-ip=54.240.15.252;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 201412080830052d62d5948bca4579bb3cdd8e830fbcaf-C20934W2H281GM@bounces.amazon.com designates 54.240.15.252 as permitted sender) smtp.mail=201412080830052d62d5948bca4579bb3cdd8e830fbcaf-C20934W2H281GM@bounces.amazon.com;
+       dkim=pass header.i=@amazon.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=amazon.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1418027405;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=IwdrHiTFpSAUBmYS8w3N5PIZsDU5OY6SX/XaZL1TdjM=;
+	b=rrD/PRKMHm9fPqKhkZxfhsEJFCU2LtPL0mKVTzli0GePn4ZWs048Z94ZGO1e0iVg
+	Cud/ENTzXSdX779iOQcuKVocHFxEHHrREw4VPjtq5szI2wYZ8nKPgGn8Dpl8HjB8hcE
+	GIa9AvinMR3+5sjRIkE8YMwBh+t+Qd3RvBmjEUKo=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=v52wzeq2nhi2ivaga2mkkcxigoeqeycs; d=amazon.com; t=1418027405;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=IwdrHiTFpSAUBmYS8w3N5PIZsDU5OY6SX/XaZL1TdjM=;
+	b=oP+llfxU9edIFmaiRE6dbgfCwxglSvivG9jq6A72Dk93Lv4KRWOs2zkaJYPHCnB+
+	O3Wd+7ttAkmiHGc9bDH9b2ZWn+9PEEECy9s4AivrBcyVG19Mn5Pbm/O+bclR5fhpj48
+	lyEFt0n1mXaMf6DUbis/D7lFoiU/EFf8E+fjSBcA=
+Date: Mon, 8 Dec 2014 08:30:05 +0000
+From: "Amazon.com" <store-news@amazon.com>
+To: "dinsmorealex@gmail.com" <dinsmorealex@gmail.com>
+Message-ID: <0000014a29051043-cb4da851-df5f-41b2-a962-b5d5e5634a1a-000000@email.amazonses.com>
+Subject: Alex Dinsmore: Green Monday Deals
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_14040011_87622223.1418027405177"
+Bounces-to: 201412080830052d62d5948bca4579bb3cdd8e830fbcaf-C20934W2H281GM@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: merchandizing
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.201412080830052d62d5948bca4579bb3cdd8e830fbcaf@1418027405253.massmail-sender-na-1d-i-b83b18d9.us-east-1.amazon.com>
+X-SES-Outgoing: 2014.12.08-54.240.15.252
+Feedback-ID: us-east-1.MjAxNDEyMDgwODMwMDUyZDYyZDU5NDhiY2E0NTc5YmIzY2RkOGU4MzBmYmNhZi1DMjA5MzRXMkgyODFHTUBib3VuY2VzLmFtYXpvbi5jb20=:AmazonSES
+
+------=_Part_14040011_87622223.1418027405177
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_14040012_1640403766.1418027405177"
+
+------=_Part_14040012_1640403766.1418027405177
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Recommended for you
+
+http://www.amazon.com/gp/../gp/yourstore/home?ie=3DUTF8/ref=3Dpe_supersubje=
+ctlink//
+
+Green Monday Deals:
+http://www.amazon.com/b/ref=3Dpe_gm?node=3D9017820011
+
+AMAZON.COM
+
+Your=C2=A0Amazon:
+http://www.amazon.com/gp/yourstore/home/ref=3Dpe_yourstore/
+
+Today's=C2=A0Deals:
+http://www.amazon.com/gp/goldbox/ref=3Dpe_todaysdeal/
+
+Amazon App:
+https://www.amazon.com/gp/feature.html/ref=3Dpe_aa/?ie=3DUTF8&docId=3D10006=
+25601
+
+Green Monday Deals
+http://www.amazon.com/gp/b/ref=3Dpe_ecg/?ie=3DUTF8&node=3D9017820011
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=09=09
+Kindle Fire HDX 4G LTE Tablets:
+http://www.amazon.com/gp/b/ref=3Dpe_stripe/?ie=3DUTF8&node=3D10488646011
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Find Great Deals on Millions of Items Storewide
+
+Books
+http://www.amazon.com/b/ref=3Dpe_lf1/?node=3D283155=20
+
+Movies & TV
+http://www.amazon.com/b/ref=3Dpe_lf2/?node=3D2625373011
+
+Amazon Fire Phone
+http://www.amazon.com/gp/product/ref=3Dpe_lf3/?ASIN=3DB00EOE0WKQ
+
+Amazon Fire TV
+http://www.amazon.com/gp/product/ref=3Dpe_lfa1/?ASIN=3DB00CX5P8FC
+
+Kindle E-readers
+http://www.amazon.com/gp/product/ref=3Dpe_lf4/?ASIN=3DB00I15SB16
+
+Kindle Fire Tablets
+http://www.amazon.com/gp/product/ref=3Dpe_lf5/?ASIN=3DB00KC6I06S
+
+Instant Video
+http://www.amazon.com/b/ref=3Dpe_aiv/?node=3D2858778011
+
+CDs & Vinyl
+http://www.amazon.com/b/ref=3Dpe_lf7/?node=3D5174
+
+Digital Music
+http://www.amazon.com/b/ref=3Dpe_lf8/?node=3D163856011
+
+Electronics
+http://www.amazon.com/b/ref=3Dpe_lf9/?node=3D172282
+
+Video Games
+http://www.amazon.com/b/ref=3Dpe_lf10/?node=3D468642
+
+Cell Phones & Accessories
+http://www.amazon.com/b/ref=3Dpe_lf11/?node=3D2335752011
+
+Computers
+http://www.amazon.com/b/ref=3Dpe_lf12/?node=3D541966
+
+Software
+http://www.amazon.com/b/ref=3Dpe_lf12b/?node=3D229534
+
+Sports & Outdoors
+http://www.amazon.com/b/ref=3Dpe_lf13/?node=3D3375251
+
+Automotive
+http://www.amazon.com/b/ref=3Dpe_lf14/?node=3D15684181
+
+Industrial & Scientific
+http://www.amazon.com/gp/b/ref=3Dpe_lf15/?node=3D16310091
+
+Prime
+http://www.amazon.com/gp/subs/primeclub/signup/main.html/ref=3Dpe_lf16/
+
+Musical Instruments
+http://www.amazon.com/gp/b/ref=3Dpe_lfa2/?node=3D11091801
+
+Toys & Games
+http://www.amazon.com/b/ref=3Dpe_lf17/?node=3D165793011
+
+Baby
+http://www.amazon.com/b/ref=3Dpe_lf18/?node=3D165796011
+
+Clothing
+http://www.amazon.com/b/ref=3Dpe_lf19/?node=3D1036592
+
+Shoes
+http://www.amazon.com/b/ref=3Dpe_lf20/?node=3D1040668
+
+Jewelry
+http://www.amazon.com/b/ref=3Dpe_lf21/?node=3D3367581
+
+Watches
+http://www.amazon.com/b/ref=3Dpe_lf21b/?node=3D377110011
+
+Beauty
+http://www.amazon.com/b/ref=3Dpe_lf22/?node=3D3760911
+
+Magazines
+http://www.amazon.com/b/ref=3Dpe_lf23/?node=3D599858
+
+Pet Supplies
+http://www.amazon.com/b/ref=3Dpe_lfa3/?node=3D2619533011
+
+Home
+http://www.amazon.com/b/ref=3Dpe_lf23h/?node=3D1055398
+
+Kitchen & Dining
+http://www.amazon.com/b/ref=3Dpe_lf25/?node=3D284507=20
+
+Office & School Supplies
+http://www.amazon.com/b/ref=3Dpe_lf26/?node=3D1064954
+
+Home Improvement
+http://www.amazon.com/b/ref=3Dpe_lf27/?node=3D228013
+
+Grocery
+http://www.amazon.com/b/ref=3Dpe_lf28/?node=3D16310101
+
+Patio, Lawn & Garden
+http://www.amazon.com/b/ref=3Dpe_lf29/?node=3D286168
+
+Health & Personal Care
+http://www.amazon.com/b/ref=3Dpe_lf30/?node=3D3760901
+
+Amazon Mobile Apps
+http://www.amazon.com/mobile_email_apps/?ref=3Dpe_ma
+
+Gift Cards
+http://www.amazon.com/gp/gc/ref=3Dpe_gc
+
+Fine Art
+http://www.amazon.com/b/ref=3Dpe_lfa4/?node=3D6685269011
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Amazon.com
+http://www.amazon.com/ref=3Dpe_footer/
+
+Connect with Us
+On Facebook
+http://www.amazon.com/gp/redirect.html/ref=3Dpe_facebook_footer/?location=
+=3Dhttp://www.facebook.com/Amazon&token=3D6BD0FB927CC51E76FF446584B1040F70E=
+A7E88E1
+
+On Twitter
+http://www.amazon.com/gp/redirect.html/ref=3Dpe_twitter_footer/?location=3D=
+http://twitter.com/amazon&token=3D7A1A4AE8F6CE0BD277D8295E58702D283F329C0F
+
+On Pinterest
+http://www.amazon.com/gp/redirect.html/ref=3Dpe_pinterest_footer/?location=
+=3Dhttp://www.pinterest.com/amazon&token=3D7BA4C7DA7E25FD68725161D7D739AAE1=
+A1A82774
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+We hope you found this message to be useful. However, if you'd rather not r=
+eceive future e-mails of this sort from Amazon.com, please opt-out here: ht=
+tp://www.amazon.com//gp/gss/o/10do9lWoQQ8MfxNInvCZ7TM25REZPlN7xfhqTBeKzhXza=
+a5RlGPJybn6s-lG6qqps
+
+Please note that product prices and availability are subject to change. Pri=
+ces and availability were accurate at the time this newsletter was sent; ho=
+wever, they may differ from those you see when you visit Amazon.com.
+
+   =20
+
+   (c) 2014 Amazon.com, Inc. or its affiliates. All rights reserved. Amazon=
+, the Amazon logo, Prime, Kindle, Fire and Kindle Freetime are trademarks o=
+f Amazon.com, Inc. or its affiliates. Amazon.com, 410 Terry Avenue N., Seat=
+tle, WA 98109-5210. Reference: 128568170
+
+Please note that this message was sent to the following e-mail address: din=
+smorealex@gmail.com
+
+
+------=_Part_14040012_1640403766.1418027405177
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"Amazon" content=3D"True" />
+
+<title>Amazon.com: Alex Dinsmore: Green Monday Deals</title>
+
+<style type=3D"text/css">
+.ReadMsgBody { width: 100%; background-color: #ffffff; }
+.ExternalClass { width: 100%; background-color: #ffffff; }
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div { line-height: 100%; }
+html { width: 100%; }
+body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; font-fam=
+ily:Arial, sans-serif;}
+body { margin: 0; padding: 0; }
+table { border-spacing: 0; }
+table td { border-collapse: collapse; }
+.yshortcuts a { border-bottom: none !important; }
+a { color: #336699; text-decoration: none;}
+.hide { max-height: 0px; font-size: 0; display: none; }
+.btn {width:280px; text-align: center!important;}
+.farm-row{ font-family:Arial, sans-serif; font-size:12px; padding: 3px; col=
+or:#333333}
+
+
+@media only screen and (max-width: 670px)  {
+body[yahoo] .deviceWidth {width:100% !important}
+body[yahoo] td[class=3D"wrap"] {
+padding: 0 10px;
+}
+body[yahoo] td[class=3D"column"] img {width: 100% !important;height:auto !i=
+mportant;}
+}
+@media only screen and (max-width: 640px)  {
+body[yahoo] table[class=3D"table550"] { width: 87% !important; float: none =
+!important; }
+body[yahoo] .center {text-align: center!important;}
+body[yahoo] .footerLinks {width:32%; margin-bottom:40px}
+body[yahoo] .btn {width:50%; text-align: center!important;}
+body[yahoo] .farm-row{ font-family:Arial, sans-serif; font-size:12px; paddi=
+ng: 3px; color:#333333}
+body[yahoo] td[class=3D"linkfarm"] {display: none;}
+body[yahoo] table[class=3D"table1-3"] { width: 30% !important; }
+body[yahoo] table[class=3D"table3-1"] { width: 64% !important; }
+
+}
+
+@media only screen and (max-width: 479px) {
+body[yahoo] td[class=3D"column"] img {width: 290px !important;height:auto !=
+important;}
+body[yahoo] .deviceWidth {width:100% !important}
+body[yahoo] table[class=3D"table550"] { float: none !important; }
+body[yahoo] table[class=3D"table1-3"] { width: 100% !important; }
+body[yahoo] table[class=3D"table3-1"] { width: 100% !important; }
+body[yahoo] .center {text-align: center!important;}
+body[yahoo] td[class=3D"column"] {
+display: block;
+width: 100%;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+body[yahoo] .footerLinks { width:32%; margin-bottom:40px}
+body[yahoo] .btn {width:100%; text-align: center!important;}
+body[yahoo] td[class=3D"x-site"] {display: none;}
+body[yahoo] td[class=3D"linkfarm"] {display: none;}
+body[yahoo].farm-row{ font-family:Arial, sans-serif; font-size:12px; paddin=
+g: 3px; color:#333333}
+}
+
+</style>
+</head>
+
+<body style=3D"background-color: #e3e3e3" yahoo=3D"fix"><img src=3D"http://=
+www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV62&H=3DR38NEGUMSVP=
+YLY5F9T1BFCPJMAEA&T=3DO&U=3Dhttp%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F0=
+1%2Fnav%2Ftransp.gif" />
+
+<!-- Wrapper -->
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"ReadMsgBody" style=3D"background-color: #e3e3e3" yahoo=3D"fix">
+<tr><td>
+<td valign=3D"top" align=3D"center" class=3D"wrap" style=3D"background-colo=
+r: rgb(229, 229, 229);">
+<div align=3D"center" class=3D"wrap" width=3D"640">
+
+<!-- site-wide slot -->
+<table width=3D"640" border=3D"0" align=3D"center" cellspacing=3D"0" class=
+=3D"deviceWidth">
+  <tr>
+<td><span style=3D"font-family:arial,sans-serif;font-size:10px;line-height:=
+10px;color:#555;"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71W=
+EX&C=3D2I9MJZQA8PV62&H=3DT7FA1RQZUGBHV0H4LKZNUSJE51AA&T=3DC&U=3Dhttp%3A%2F%=
+2Fwww.amazon.com%2Fgp%2F..%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%2Fref%3Dpe_3=
+19940_128568170_pe_supersubjectlink%2F%2F" style=3D"font-family:verdana,ari=
+al,helvetica,sans-serif;font-size:9px;color:#999999;text-decoration: underl=
+ine;">Recommended for you</a></span></td><td class=3D"x-site" align=3D"righ=
+t">
+<a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV=
+62&H=3DOZAIMVSKATSZSQDUJEARCOATF8SA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2=
+Fb%2Fref%3Dpe_319940_128568170_pe_gm%3Fnode%3D9017820011"><img src=3D"http:=
+//g-ec2.images-amazon.com/images/G/01/img14/events/other/sponsorships/10311=
+_green-monday_v4_300x50.png" alt=3D"Green Monday Deals" hspace=3D"0" vspace=
+=3D"0" border=3D"0"></a>
+</td>
+
+</tr></table>
+<!-- site-wide slot end-->
+
+<!-- header-->
+<table width=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth">
+<tr>
+<td>
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" height=3D"6px"> <=
+tr><td>
+<table width=3D"640" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcol=
+or=3D"#e3e3e3" align=3D"center" height=3D"6" class=3D"deviceWidth"><tbody><=
+tr>
+<td width=3D"100%" bgcolor=3D"#429350" align=3D"center"><p width=3D"100%" s=
+tyle=3D"border-bottom: 6px solid #429350; height: 0px !important; max-heigh=
+t: 0px !important; font-size:0px; margin: 0;">&nbsp;</p></td>
+</tr></tbody></table>
+
+</td></tr>
+<tr>
+<td width=3D"100%" valign=3D"middle" bgcolor=3D"#ffffff">
+
+<!-- Logo -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" clas=
+s=3D"deviceWidth"><tr><td align=3D"right" class=3D"center" style=3D"padding=
+:4px 4px"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2=
+I9MJZQA8PV62&H=3DRMH03AYAKAESEQTAOCPHWRMTSCWA&T=3DC&U=3Dhttp%3A%2F%2Fwww.am=
+azon.com%2Fref%3Dpe_319940_128568170_pe_sef_logo">  <img src=3D"http://g-ec=
+2.images-amazon.com/images/G/01/e-mail/logos/a_global_blk_110x48.png" alt=
+=3D"Amazon.com" hspace=3D"0" vspace=3D"0" border=3D"0">  </a></td></tr></ta=
+ble>
+<!-- Logo End -->
+
+<!-- Nav -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"right" cla=
+ss=3D"deviceWidth">
+<tr><td class=3D"center" style=3D"font-size: 12px; color: #336699; font-wei=
+ght: 700; text-align: right; font-family:Arial,sans-serif;vertical-align:bo=
+ttom;padding:10px 10px 0px 10px">
+
+<a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV=
+62&H=3DV0XMJN5GD4CJB9U9SWJM6OZXGUKA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2=
+Fgp%2Fyourstore%2Fhome%2Fref%3Dpe_319940_128568170_pe_yourstore%2F" style=
+=3D"text-decoration: underline; color: #336699;">Your&nbsp;Amazon</a>&nbsp;=
+&nbsp;
+
+<a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV=
+62&H=3DIBQFOJAOJL7OEOCDGCXJAI6KIYOA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2=
+Fgp%2Fgoldbox%2Fref%3Dpe_319940_128568170_pe_todaysdeal%2F" style=3D"text-d=
+ecoration: underline; color: #336699;">Today's&nbsp;Deals</a>&nbsp;&nbsp;
+
+<a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV=
+62&H=3DRMMJAPM7JYAWOVSDXLRPTSEN3SWA&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%=
+2Fgp%2Ffeature.html%2Fref%3Dpe_319940_128568170_pe_aa%2F%3Fie%3DUTF8%26docI=
+d%3D1000625601" style=3D"text-decoration: underline; color: #336699;">Amazo=
+n&nbsp;App</a>
+</td></tr></table>
+<!-- End Nav -->
+
+</td>
+</tr>
+</table>
+
+
+<!-- divider -->
+<table width=3D"640" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tr>
+<td align=3D"center"><img src=3D"http://g-ec2.images-amazon.com/images/G/01=
+/template/section-div_640x8.jpg" alt=3D"=3D =3D =3D =3D =3D =3D =3D =3D =3D=
+ =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D " border=3D"0" align=3D"middle=
+" style=3D"bicubic; width:100%; max-width:640px; max-height:8px; color:#CCC=
+CCC; line-height:1px"/></td>
+</tr>
+</table>
+<!-- divider end -->
+
+<!-- header end-->
+
+<!-- one column hero-->
+<table width=3D"640"  class=3D"deviceWidth" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tr>
+<td align=3D"center" valign=3D"middle" class=3D"deviceWidth"><p><span style=
+=3D"mso-table-lspace:0;mso-table-rspace:0; margin:0"><a align=3D"center" hr=
+ef=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV62&H=
+=3DKSO0HA8B9GEPY28WAY4TMKIU8TEA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%=
+2Fb%2Fref%3Dpe_319940_128568170_pe_ecg%2F%3Fie%3DUTF8%26node%3D9017820011">=
+<img src=3D"http://g-ec2.images-amazon.com/images/G/01/e-mail/img14/610x340=
+/gm-ds-610._V334983027_.jpg" alt=3D"Green Monday Deals" hspace=3D"0" vspace=
+=3D"0" border=3D"0" align=3D"top" style=3D"max-width:610px; max-height:480p=
+x; width:100%; height:auto; display:block; -ms-interpolation-mode:bicubic"/=
+></a></span></span></p></td>
+</tr>
+</table>   =20
+
+<!-- one column hero end-->
+
+<table class=3D"deviceWidth" width=3D"640" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#FFFFFF">
+<!--Article Title-->
+<!--End Article Title-->
+<!--Content-->
+<!--End Content-->
+<tr>
+<td align=3D"left" valign=3D"top" height=3D"64" style=3D"padding:10px 15px"=
+><table width=3D"280" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#FFFFF=
+F">
+<tr>
+<td align=3D"center" width=3D"270"height=3D"50" bgcolor=3D"#FFC435" style=
+=3D"-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px=
+; color: #303942; display: block;"><a href=3D"http://www.amazon.com/gp/r.ht=
+ml?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV62&H=3DS96TV5QKRQALKWLLMJNUYGX4ZJKA&T=3D=
+C&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fb%2Fref%3Dpe_319940_128568170_pe_b=
+utton%2F%3Fie%3DUTF8%26node%3D9017820011" style=3D"color: #303942; font-siz=
+e:16px; font-weight: bold; font-family: Arial, sans-serif; text-decoration:=
+ none; line-height:50px; width:100%; display:inline-block">&nbsp;&nbsp;See =
+deals&nbsp;&nbsp;</a></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width=3D"640" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tr>
+<td align=3D"center"><img src=3D"http://g-ec2.images-amazon.com/images/G/01=
+/template/section-div_640x8.jpg" alt=3D"=3D =3D =3D =3D =3D =3D =3D =3D =3D=
+ =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D " border=3D"0" align=3D"middle=
+" style=3D"bicubic; width:100%; max-width:640px; max-height:8px; color:#CCC=
+CCC; line-height:1px"/></td>
+</tr>
+</table>
+<!-- stripe --> =20
+<table width=3D"640"  class=3D"deviceWidth" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tr>
+<td align=3D"center" valign=3D"middle" class=3D"deviceWidth"><p><span style=
+=3D"mso-table-lspace:0;mso-table-rspace:0; margin:0"><a align=3D"center" hr=
+ef=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV62&H=
+=3DIJLRH2KSRCV7UHCH7NA7FTUWVYQA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%=
+2Fb%2Fref%3Dpe_319940_128568170_pe_stripe%2F%3Fie%3DUTF8%26node%3D104886460=
+11"><img src=3D"http://g-ec2.images-amazon.com/images/G/01/kindle/merch/201=
+4/campaign/tablet/eStripe_HDX4G_GM_610x200._V334523948_.jpg" alt=3D"Kindle =
+Fire HDX 4G LTE Tablets" hspace=3D"0" vspace=3D"0" border=3D"0" align=3D"mi=
+ddle" style=3D"max-width:610px; max-height:200px; width:100%; height:auto; =
+display:block; -ms-interpolation-mode:bicubic" /></a></span></p></td>
+</tr>
+</table>
+<!-- stripe end-->
+
+<!-- divider -->
+<table width=3D"640" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tr>
+<td align=3D"center" class=3D"linkfarm"><img src=3D"http://g-ec2.images-ama=
+zon.com/images/G/01/template/section-div_640x8.jpg" alt=3D"=3D =3D =3D =3D =
+=3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D " border=3D=
+"0" align=3D"middle" style=3D"bicubic; width:100%; max-width:640px; max-hei=
+ght:8px; color:#CCCCCC; line-height:1px"/></td>
+</tr>
+</table>
+
+<!-- divider end -->
+
+<!-- linkfarm -->
+
+<table width=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=
+=3D"center" class=3D"deviceWidth" bgcolor=3D"#FFFFFF" valign=3D"middle">
+<tr>
+<td width=3D"100%" bgcolor=3D"#FFFFFF" class=3D"linkfarm" style=3D"font-fam=
+ily:Helvetica, Arial, sans-serif;"><table width=3D"100%" border=3D"0" align=
+=3D"center" cellpadding=3D"10" cellspacing=3D"0" bgcolor=3D"#FFFFFF" class=
+=3D"farm">
+<tr>
+<td width=3D"100%" align=3D"left" class=3D"farmhead" style=3D"font-family:a=
+rial;font-size:14px;color:#e47911;line-height:16px; font-weight:bold;"><fon=
+t face=3D"arial, verdana,a sans-serif" size=3D"3" color=3D"#e47911" style=
+=3D"font-family:arial;font-size:14px;color:#e47911;line-height:16px"><b>Fin=
+d Great Deals on Millions of Items Storewide</b></font></td>
+</tr>
+<tr>
+<td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-f=
+amily:arial,helvetica,sans-serif;font-size:14px">
+<tr>
+<td width=3D"140" class=3D"farm1"><table style=3D"font-family:arial,helveti=
+ca,sans-serif;font-size:12px" width=3D"100%" border=3D"0" cellspacing=3D"2"=
+ cellpadding=3D"0">
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DAYHV77ABFAOIG8OLOICNB3OY1L8A&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf1%2F%3Fnode%3D283155=
+" style=3D"color:#666;text-decoration:none">Books</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DCJIJGRJZLLQ4BCJETVAGPAFVAQKA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf2%2F%3Fnode%3D262537=
+3011" style=3D"color:#666;text-decoration:none">Movies & TV</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DGIT1QMFCU2WOBGY8WIAJBLIHSD8A&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fproduct%2Fref%3Dpe_319940_128568170_pe_lf3%2F%3FAS=
+IN%3DB00EOE0WKQ" style=3D"color:#666;text-decoration:none">Amazon Fire Phon=
+e</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D27XJFHTKIRBDHENP5ORDOQRIT94A&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fproduct%2Fref%3Dpe_319940_128568170_pe_lf4%2F%3FAS=
+IN%3DB00CX5P8FC" style=3D"color:#666;text-decoration:none">Amazon Fire TV</=
+a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DROKEMR8AVWIPRRUVANAHEQQCPEEA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fproduct%2Fref%3Dpe_319940_128568170_pe_lf5%2F%3FAS=
+IN%3DB00I15SB16" style=3D"color:#666;text-decoration:none">Kindle E-readers=
+</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DPF5TWVJKGYHOWE6B7ZWSKRG0TEIA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fproduct%2Fref%3Dpe_319940_128568170_pe_lf6%2F%3FAS=
+IN%3DB00KC6I06S" style=3D"color:#666;text-decoration:none">Fire Tablets</a>=
+</td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DONJ64HZAKTAIEDZSZ9XIDCY3TKGA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf7%2F%3Fnode%3D5174" =
+style=3D"color:#666;text-decoration:none">CDs & Vinyl</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DN1GCNRRYJOZPM2BAZO3VSZX5FYWA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf8%2F%3Fnode%3D163856=
+011" style=3D"color:#666;text-decoration:none">Digital Music</a></td>
+</tr>
+</table></td>
+<td width=3D"180" class=3D"farm2"><table style=3D"font-family:arial,helveti=
+ca,sans-serif;font-size:12px" width=3D"100%" border=3D"0" cellspacing=3D"2"=
+ cellpadding=3D"0">
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DLDDJJ07QKCF0QFC0BNIMBKTOM2MA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf9%2F%3Fnode%3D172282=
+" style=3D"color:#666;text-decoration:none">Electronics</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D7CDLGBOLMVZIITPWPFQXTPS1T2GA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf10%2F%3Fnode%3D46864=
+2" style=3D"color:#666;text-decoration:none">Video Games</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DNPRBCFWVUIYPGDBOGZ7OQHVWL3QA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf11%2F%3Fnode%3D23357=
+52011" style=3D"color:#666;text-decoration:none">Cell Phones & Accessories<=
+/a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DOOTNMB83AQZDVBM8XXILYGAWQQSA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf12%2F%3Fnode%3D54196=
+6" style=3D"color:#666;text-decoration:none">Computers & Software</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DH7XZE3GZUYOEYAJRZDFUHEAUKLGA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf13%2F%3Fnode%3D10649=
+54" style=3D"color:#666;text-decoration:none">Office & School Supplies</a><=
+/td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DKLO7YYCKPEJUEGWBADCFL34A8YQA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf14%2F%3Fnode%3D59985=
+8" style=3D"color:#666;text-decoration:none">Magazines</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DQMV1JFARF5MXLRKFQ3ZAAMYZ60GA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fb%2Fref%3Dpe_319940_128568170_pe_lf15%2F%3Fnode%3D=
+11091801" style=3D"color:#666;text-decoration:none">Musical Instruments</a>=
+</td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DNY5E0Y1P8CESIE9WLSGADUW43PKA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf16%2F%3Fnode%3D66852=
+69011" style=3D"color:#666;text-decoration:none">Fine Art</a></td>
+
+</tr>
+</table></td>
+<td width=3D"160" class=3D"farm3"><table style=3D"font-family:arial,helveti=
+ca,sans-serif;font-size:12px" width=3D"100%" border=3D"0" cellspacing=3D"2"=
+ cellpadding=3D"0">
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DMX1W22IAFSJJ2BKENXX3SROBVAQA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf19%2F%3Fnode%3D57545=
+16011" style=3D"color:#666;text-decoration:none">Clothing, Shoes &amp; More=
+</a></a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D6Q7KA5UL2QVIK2AQVUGPYUMAOQ8A&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf30%2F%3Fnode%3D37609=
+01" style=3D"color:#666;text-decoration:none">Health &amp; Personal Care</a=
+></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DCAHPJAICBXGNXBCEFG64DJ4RLKIA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf22%2F%3Fnode%3D37609=
+11" style=3D"color:#666;text-decoration:none">Beauty</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DDLKLKEVPGAGONE17DXJVZZ01ASSA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf30%2F%3Fnode%3D16310=
+101" style=3D"color:#666;text-decoration:none">Grocery &amp; Gourmet Food</=
+a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D5EJLFOYKWXOGST9ZG7M6XIK7KT4A&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf18%2F%3Fnode%3D16579=
+6011" style=3D"color:#666;text-decoration:none">Baby</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D2EYGA3BMI1QETWWCPM59JBLNURQA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf13%2F%3Fnode%3D16579=
+3011" style=3D"color:#666;text-decoration:none">Toys &amp; Games</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D3A7SGNANVCSMQBZHLAOJ38DT0D0A&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf13%2F%3Fnode%3D33752=
+51" style=3D"color:#666;text-decoration:none">Sports &amp; Outdoors</a></td=
+>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D5FXK2YUJ3DJGJGCHVINMNEXVQKGA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fgc%2Fref%3Dpe_319940_128568170_pe_gc" style=3D"col=
+or:#666;text-decoration:none">Gift Cards</a></td>
+</tr>
+</table></td>
+<td width=3D"180" class=3D"farm4"><table style=3D"font-family:arial,helveti=
+ca,sans-serif;font-size:12px" width=3D"100%" border=3D"0" cellspacing=3D"2"=
+ cellpadding=3D"0">
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D8BQJWTNWMBAXAZAUFYOWSGLGG5MA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf23h%2F%3Fnode%3D1055=
+398" style=3D"color:#666;text-decoration:none">Home, Kitchen & Dining</a></=
+td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DGOD9YQLWASORRUPTLNLSB6K0XYAA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf29%2F%3Fnode%3D28616=
+8" style=3D"color:#666;text-decoration:none">Patio, Lawn & Garden</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DSQUQONRAQV4J30WH0EITLHABEEUA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf27%2F%3Fnode%3D22801=
+3" style=3D"color:#666;text-decoration:none">Home Improvement</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3D3GKAYNXQIUZ1ZARLFWSRKOT36ROA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lfa3%2F%3Fnode%3D26195=
+33011" style=3D"color:#666;text-decoration:none">Pet Supplies</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DTOJPK9PEP5SRRD2AF3ETLMTCSRMA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_lf14%2F%3Fnode%3D15684=
+181" style=3D"color:#666;text-decoration:none">Automotive</a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DMBXKIUFTGVFYZ1J2NRNERIBYHJKA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fgp%2Fb%2Fref%3Dpe_319940_128568170_pe_lf15%2F%3Fnode%3D=
+16310091" style=3D"color:#666;text-decoration:none">Industrial & Scientific=
+</a><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQ=
+A8PV62&H=3D5FXK2YUJ3DJGJGCHVINMNEXVQKGA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.c=
+om%2Fgp%2Fgc%2Fref%3Dpe_319940_128568170_pe_gc" style=3D"color:#666;text-de=
+coration:none"></a></td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DHTQQVAE8EWUQDRTAX8TXLSIKPDYA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fmobile_email_apps%2F%3Fref%3Dpe_ma%26ref_%3Dpe_319940_1=
+28568170" style=3D"color:#666;text-decoration:none">Amazon Mobile Apps</a><=
+/td>
+</tr>
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DD55WUKWN5RR7ZBRLLKFUBPVN2FOA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fb%2Fref%3Dpe_319940_128568170_pe_aiv%2F%3Fnode%3D285877=
+8011" style=3D"color:#666;text-decoration:none">Amazon Instant Video</a></t=
+d>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+
+
+<!-- linkfarm-end -->
+
+<!-- divider -->
+<table width=3D"640" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tr>
+<td align=3D"center" class=3D"x-site"><img src=3D"http://g-ec2.images-amazo=
+n.com/images/G/01/template/section-div_640x8.jpg" alt=3D"=3D =3D =3D =3D =
+=3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D " border=3D=
+"0" align=3D"middle" style=3D"bicubic; width:100%; max-width:640px; max-hei=
+ght:8px; color:#CCCCCC; line-height:1px"/></td>
+</tr>
+</table>
+<!-- divider end -->
+
+<!-- social bar -->
+
+<table width=3D"640" class=3D"deviceWidth" border=3D"0" align=3D"center" ce=
+llpadding=3D"8" cellspacing=3D"0" bgcolor=3D"#FFFFFF">
+<tr><td width=3D"50%">
+
+
+<table border=3D"0" align=3D"left" cellpadding=3D"6" cellspacing=3D"0" clas=
+s=3D"settings" cborder=3D"0">
+<tr>
+<td align=3D"left"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71=
+WEX&C=3D2I9MJZQA8PV62&H=3DEBS2AG3AYYKHX7AR3L2JVXAKUISA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%2Fref%3Dpe_319940_128568170_pe_footer_amazonlogo%2F" targ=
+et=3D"_blank"><img src=3D"http://g-ecx.images-amazon.com/images/G/01/us-mai=
+l/navAmazonLogoFooter.gif" alt=3D"Amazon.com"border=3D"0"align=3D"left"/></=
+a><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8=
+PV62&H=3D1MAQAEDT1CALJJ5VMHYAARZARSSA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com=
+%2Fref%3Dpe_319940_128568170_sef_logo"></a></td>
+</tr>
+</table></td>
+<td align=3D"right"><table class=3D"connect" border=3D"0" cellpadding=3D"6"=
+ cellspacing=3D"0" align=3D"right">
+<tr>
+<td align=3D"right"><span style=3D"font-family:arial,sans-serif; font-size:=
+10px; line-height:10px; color:#666">Connect</span></td>
+<td class=3D"facebook"><font style=3D"font-family: verdana,arial,sans-serif=
+; font-size: 10px; color: #999;" color=3D"#999" face=3D"verdana,arial,sans-=
+serif" size=3D"1"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71W=
+EX&C=3D2I9MJZQA8PV62&H=3DRU5RTHHZPZWG4ZZ8LCLJ8REGOAOA&T=3DC&U=3Dhttp%3A%2F%=
+2Fwww.amazon.com%2Fgp%2Fredirect.html%2Fref%3Dpe_319940_128568170_pe_facebo=
+ok_footer%2F%3Flocation%3Dhttp%3A%2F%2Fwww.facebook.com%2FAmazon%26token%3D=
+6BD0FB927CC51E76FF446584B1040F70EA7E88E1" target=3D"_blank"><img src=3D"htt=
+p://g-ecx.images-amazon.com/images/G/01/us-mail/FBlogo.gif" alt=3D"facebook=
+" border=3D"0" height=3D"30" hspace=3D"0" vspace=3D"0" width=3D"30" style=
+=3D"width:30px; height:30px;" /></a></font></td>
+<td class=3D"twitter"><span style=3D"font-family:arial,sans-serif; font-siz=
+e:10px; line-height:10px; color:#666"><font style=3D"font-family: verdana,a=
+rial,sans-serif; font-size: 10px; color: #999;" color=3D"#999" face=3D"verd=
+ana,arial,sans-serif" size=3D"1"><a href=3D"http://www.amazon.com/gp/r.html=
+?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8PV62&H=3DQNAAGOAQWFU4IESMEP3DVWOLG3WA&T=3DC&=
+U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fredirect.html%2Fref%3Dpe_319940_1285=
+68170_pe_twitter_footer%2F%3Flocation%3Dhttp%3A%2F%2Ftwitter.com%2Famazon%2=
+6token%3D7A1A4AE8F6CE0BD277D8295E58702D283F329C0F" target=3D"_blank"><img s=
+rc=3D"http://g-ecx.images-amazon.com/images/G/01/us-mail/TwitterLogo.gif" a=
+lt=3D"twitter" border=3D"0" height=3D"30" hspace=3D"0" vspace=3D"0" width=
+=3D"30" style=3D"width:30px; height:30px;" /></a></font></span></td><td cla=
+ss=3D"x-site"><font style=3D"font-family: verdana,arial,sans-serif; font-si=
+ze: 10px; color: #999;" color=3D"#999" face=3D"verdana,arial,sans-serif" si=
+ze=3D"1"><a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I=
+9MJZQA8PV62&H=3DDR5XA8ORWLIEEA4VTQBX7VAT7JMA&T=3DC&U=3Dhttp%3A%2F%2Fwww.ama=
+zon.com%2Fgp%2Fredirect.html%2Fref%3Dpe_319940_128568170_pe_pinterest_foote=
+r%2F%3Flocation%3Dhttp%3A%2F%2Fwww.pinterest.com%2Famazon%26token%3D7BA4C7D=
+A7E25FD68725161D7D739AAE1A1A82774" target=3D"_blank"><img src=3D"http://g-e=
+cx.images-amazon.com/images/G/01/us-mail/pinterest_favicon_30x30.png" alt=
+=3D"pinterest" border=3D"0" height=3D"30" hspace=3D"0" vspace=3D"0" width=
+=3D"30" /></a></font></td>=20
+</tr>
+</table></td>
+</tr>
+</table>
+
+<!-- social bar end -->
+
+<!-- footer-drop-shadow -->
+<table width=3D"640" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcol=
+or=3D"white" align=3D"center" height=3D"3" class=3D"deviceWidth"><tbody><tr=
+>
+<td width=3D"100%" bgcolor=3D"white" align=3D"center"><p width=3D"100%" sty=
+le=3D"border-bottom: 3px solid #666666; height: 0px !important; max-height:=
+ 0px !important; font-size:0px; margin: 0;">&nbsp;</p></td>
+</tr></tbody></table>
+<!-- footer-drop-shadow end -->
+
+<!-- legal -->
+
+<!-- legal -->
+<table class=3D"deviceWidth" style=3D"font-family:arial,sans-serif;font-siz=
+e:10px;color:#999;line-height:16px" border=3D"0" cellpadding=3D"10" cellspa=
+cing=3D"0" width=3D"640" align=3D"center">
+
+<tr>
+<td align=3D"left" valign=3D"top">We hope you found this message to be usef=
+ul. However, if you'd rather not receive future e-mails of this sort from A=
+mazon.com, please opt-out <a href=3D"http://www.amazon.com/gp/r.html?R=3DEO=
+7IV5N71WEX&C=3D2I9MJZQA8PV62&H=3DMQ0ZHT90K7F3X7KGWLVIMAHO4M8A&T=3DX&U=3Dhtt=
+p%3A%2F%2Fwww.amazon.com%2F%2Fgp%2Fgss%2Fo%2F10do9lWoQQ8MfxNInvCZ7TM25REZPl=
+N7xfhqTBeKzhXzaa5RlGPJybn6s-lG6qqps"> here</a>.<br />
+<br />
+
+
+&nbsp;
+ <br />
+<br />
+
+Please note that product prices and availability are subject to change. Pri=
+ces and availability were accurate at the time this newsletter was sent; ho=
+wever, they may differ from those you see when you visit Amazon.com.
+<br /><br />
+=C2=A9 2014 Amazon.com, Inc. or its affiliates. All rights reserved. Amazon=
+, the Amazon logo, Prime, Kindle, Fire and Kindle Freetime are trademarks o=
+f Amazon.com, Inc. or its affiliates. Amazon.com, 410 Terry Avenue N., Seat=
+tle, WA 98109-5210. Reference: 128568170
+<br /><br />
+Please note that this message was sent to the following e-mail address: din=
+smorealex@gmail.com</td>
+</tr>
+</table>
+<!-- legal-end -->
+
+<!-- legal-end -->
+
+</div></td>
+</td>
+</tr>
+</table>
+<!-- End Wrapper -->
+
+<img src=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D2I9MJZQA8P=
+V62&H=3DG2MUCQTJNE4IC9YMSHQEA34MEDSA&T=3DE&U=3Dhttp%3A%2F%2Fimages.amazon.c=
+om%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif" /></body>
+</html>
+
+------=_Part_14040012_1640403766.1418027405177--
+
+------=_Part_14040011_87622223.1418027405177--

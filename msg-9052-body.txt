@@ -1,0 +1,222 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp2565903ldh;
+        Tue, 3 Feb 2015 08:04:16 -0800 (PST)
+X-Received: by 10.50.50.142 with SMTP id c14mr18375824igo.42.1422979455961;
+        Tue, 03 Feb 2015 08:04:15 -0800 (PST)
+Return-Path: <bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org>
+Received: from o1.list.fightforthefuture.org (o1.list.fightforthefuture.org. [50.31.33.35])
+        by mx.google.com with ESMTPS id v2si435553icq.66.2015.02.03.08.04.15
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 03 Feb 2015 08:04:15 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org designates 50.31.33.35 as permitted sender) client-ip=50.31.33.35;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org designates 50.31.33.35 as permitted sender) smtp.mail=bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org;
+       dkim=pass header.i=@list.fightforthefuture.org
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=list.fightforthefuture.org; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	s=smtpapi; bh=vkCCN3Dh7i/FOBesEYo1fF/ikww=; b=kLjF7fRbxiqChIy6He
+	DWZoS6do75u+r81Bqpk9Od8XuXXGfMm4WdWf9j2B1QjWnUbTlLIldIcDRoaec0Zb
+	pjbtchOGTDczPf3Tev62/5ER/S+ulu+QnywPY0WpW0Ttc6jyltRaD1KUuwPH9pms
+	+YTDk+7ORlL2VUtTlkK7zG3z0=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=vkCCN3Dh7i/FOBesEYo1fF/ikww=; b=rq47oMeiBgEHsPHhF6
+	rAAsbotqjnbNbDUJGwlIGvH8/REjlCZh2Kj5kL6ss88ZqRtD4Jem23E40Sy+MzHr
+	NRwwOcwknSAsCKRriAxFXH6AyUHdcfpnRQVZhX0Kspm+hqAzqzZZSUXykFvSlXIr
+	XStRB+t3RzQa6SnBvEDhMvR8M=
+Received: by filter0107p1mdw1.sendgrid.net with SMTP id filter0107p1mdw1.31349.54D0F1321
+        2015-02-03 16:02:59.944710552 +0000 UTC
+Received: from list.fightforthefuture.org (ec2-54-87-226-46.compute-1.amazonaws.com [54.87.226.46])
+	by ismtpd-025 (SG) with ESMTP id 14b502e3290.7b34.80c8df
+	for <noreply@list.fightforthefuture.org>; Tue, 03 Feb 2015 16:02:59 +0000 (UTC)
+Date: Tue, 03 Feb 2015 16:02:59 +0000
+From: Evan Greer from FFTF <info@list.fightforthefuture.org>
+Reply-to: info@fightforthefuture.org
+To: dinsmorealex@gmail.com
+Message-ID: <54d0f133b6665_33fe29ab63ea82281929@21226a8a-f86b-4826-a4a1-74c6430fc64a.mail>
+Subject: To put it bluntly
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_54d0f133b4492_33fe29ab63ea822818d8";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://list.fightforthefuture.org/mpss/u/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/um8>, <mailto:unsubscribe@list.fightforthefuture.org?subject=http://list.fightforthefuture.org/mpss/u/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/um8>
+X-SG-EID: fTk2GWsSovuA2NZwoXLUxwmBKlaM2Ltb9Sa8mKPC5/vCRGVYJlGqzMey3YoyXcKK0dpBMNP9G5Pzkt
+ hKf4G8N+iypSol2DAXXn1RlVf2df+jf8zgPUtSy+XE3pOxx5w3kseR0H9dAh68S2aHWN1i4Q0oXIkA
+ MHD+NLX19fZyIGjtqQ/QiZtDqGd9rXRvtV7f
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZtAQ7fI2ZgA9W+aM6vN/egYZWpwkkoINnWVPfuOqD+5pH9NCBi2XotMqo6
+ dFWbA+AL7y2Lcw/EpR0bHRrOoq25YeB9cpDw3eO5kia1YpJJgvTjgAqMEYC5Pgpgu61z/VKUFmXIPz
+ p3qmj/T+ALzTiK8=
+X-Feedback-ID: 855142:FS3YJhBa/x3YcS8zSTuc4u5bd0kydSlb0DeBxJfUxMI=:vN5jmoCIFm1CAJOBcJi5Yw==:SG
+
+----==_mimepart_54d0f133b4492_33fe29ab63ea822818d8
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Fight for the Future member,
+
+To put it bluntly, it=E2=80=99s time to get serious. If you care about the =
+Internet, https://www.battleforthenet.com/countdown/?org=3Dfftf&t=3DdXNlcml=
+kPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ4Mg=3D=3D
+
+The FCC=E2=80=99s proposed net neutrality rules are expected to drop this w=
+eek. What matters most right now is that we keep up a constant and sustaine=
+d barrage of online protest between now and the vote calling for the best p=
+ossible protections for a free and open web.
+
+The Internet is awesome at defending itself. As always, we=E2=80=99ve built=
+ the tools to make it easy for *EVERYONE* to maximize their potential as an=
+ Internet defending hero.=20
+
+https://www.battleforthenet.com/countdown/?org=3Dfftf&t=3DdXNlcmlkPTQ3Nzk2N=
+Dc3LGVtYWlsaWQ9OTQ4Mg=3D=3D
+
+Participating is easy. If you have a website, blog, or Tumblr, you can grab=
+ a snippet of code to display this awesome countdown timer on your site, an=
+d help drive phone calls and emails to lawmakers in DC. If not, you can joi=
+n with Twitter, and sign up to tweet the countdown, https://twitter.com/fig=
+htfortheftr/status/562049333059932160,?t=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9=
+OTQ4Mg=3D=3D either once a day, once a week, or just once before the vote o=
+n Feb 26th, it=E2=80=99s your choice.
+
+Thousands have already signed up, helping us reach more than 3.4 million pe=
+ople every day already. If even just half the people on our list did this, =
+we=E2=80=99ll be louder than anything Comcast can dish out.
+
+https://www.battleforthenet.com/countdown/?org=3Dfftf&t=3DdXNlcmlkPTQ3Nzk2N=
+Dc3LGVtYWlsaWQ9OTQ4Mg=3D=3D
+
+The atmosphere here at Fight for the Future is electric right now. We=E2=80=
+=99re on the cusp of a victory that no one thought was possible, and we owe=
+ it all to supporters like you.
+
+With gratitude and hope,
+-Evan at FFTFP.S. Exciting news! CREDO selected us to receive donations fro=
+m their customers this month! The more votes we get, the more funds we=E2=
+=80=99ll receive to fight for Internet freedom. To be clear: this is a way =
+you can fund our work, even if you have no money to give. Tens of thousands=
+ of dollars are at stake. =C2=A0https://www.credodonations.com?t=3DdXNlcmlk=
+PTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ4Mg=3D=3D/ It could make a huge difference. Than=
+ks!P.P.S There=E2=80=99s an excellent article in The Guardian today that te=
+lls the saga of how a scrappy band of Internet freedom activists managed to=
+ beat Big Cable on net neutrality against all odds. We=E2=80=99re quoted in=
+ it. http://www.theguardian.com/technology/2015/feb/02/net-neutrality-activ=
+ists-fcc-big-cable-republicans.?t=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ4Mg=
+=3D=3D
+Want more awesome more often?=0D
+=0D
+* Like us on Facebook: https://www.facebook.com/fightfortheftr=0D
+* Follow us on Twitter: https://twitter.com/fightfortheftr=0D
+* Keep us fighting. Chip in what you can: https://donate.fightforthefuture.=
+org
+If you would like to unsubscribe and stop receiving these emails click here=
+: http://list.fightforthefuture.org/mpss/u/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4K=
+JfDEaHQ/ut6.
+
+----==_mimepart_54d0f133b4492_33fe29ab63ea822818d8
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<style type="text/css">
+					
+			p {
+				margin: 1em 0;
+			}
+
+			@media only screen and (max-device-width: 480px) {
+				
+				[class="body"] {
+					font-size: 16px !important;
+					line-height: 19px !important;
+				}	 
+					
+				img[class="header"] {
+					width: 320px !important;
+					height: 48px !important;
+				}		
+							
+				table[class="sidebox"] {
+					width: 150px !important;
+				} 
+
+				img[class="sidebox"] {
+					width: 120px !important;
+					height: 79px !important;
+				}
+
+				img[class="sidebox-button"] {
+					width: 120px !important;
+					height: 22px !important;
+				} 
+
+				table[class="table-footer"] {
+					width: 320px !important;
+					padding: 5px !important;
+				}		
+			}
+		</style>
+  </head>
+<body>
+  <p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Dear Fight for the Future member,</span></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">To put it bluntly, it&rsquo;s time to get serious. If you care about the Internet, </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/h0/yZH-2BImYNhf0NpOFB6eZZzllqtOv2C6V6JK-2FOhEUc1yI79g-2FI1B0br-2BwqeXCD7lL6n-2FRG0vbTzxPtp4nNGY2KVYv2sKb6-2FK6tzmmCt7302fZgRxdoLEW6sScUpWGeETmB"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">click here to join the Internet Countdown.</span></a></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The FCC&rsquo;s proposed net neutrality rules are expected to drop </span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">this week.</span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> What matters most right now is that we keep up a constant and sustained barrage of online protest between now and the vote
+  calling for the best possible protections for a free and open web.</span></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Internet is awesome at defending itself. As always, we&rsquo;ve built the tools to make it easy for *EVERYONE* to maximize their potential as an Internet defending hero. </span></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/h1/yZH-2BImYNhf0NpOFB6eZZzllqtOv2C6V6JK-2FOhEUc1yI79g-2FI1B0br-2BwqeXCD7lL6n-2FRG0vbTzxPtp4nNGY2KVYv2sKb6-2FK6tzmmCt7302fZgRxdoLEW6sScUpWGeETmB"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">Your voice matters. Click here to join the Internet Countdown for net neutrality.</span></a></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Participating is easy. If you have a website, blog, or Tumblr, you can grab a snippet of code to display this awesome countdown timer on your site, and help drive phone calls and emails to lawmakers in DC. If not, you can join with Twitter, and sign up to tweet the countdown, </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/h2/VE2atosPJwyp5yA4oN-2FSajKsgJbjZSwW9iP8gs2xDKBFbHeSXJWVsjeTK-2FkGF9INZJ61B2v95CRwFowfyr4Br727zpat1s8FF9RB6igNvJNi-2BHoBhUMaml5HEadIvDChk27Afsrh3q0lVQX4Nkx1Zw-3D-3D"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">like this</span></a><span 
+ style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">, either once a day, once a week, or just once before the vote on Feb 26th, it&rsquo;s your choice.</span></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Thousands have already signed up, helping us reach more than 3.4 million people every day already. If even just half the people on our list did this, we&rsquo;ll be louder than anything Comcast can dish out.</span></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/h3/yZH-2BImYNhf0NpOFB6eZZzllqtOv2C6V6JK-2FOhEUc1yI79g-2FI1B0br-2BwqeXCD7lL6n-2FRG0vbTzxPtp4nNGY2KVYv2sKb6-2FK6tzmmCt7302fZgRxdoLEW6sScUpWGeETmB"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">Will you help us win a historic victory for free speech? Click here and let&rsquo;s do this.</span></a></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The atmosphere here at Fight for the Future is electric right now. We&rsquo;re on the cusp of a victory that no one thought was possible, and we owe it all to supporters like you.</span></p>
+<strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">With gratitude and hope,</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">-Evan at FFTF<br/>
+<br/>
+<span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">P.S. Exciting news! CREDO selected us to receive donations from their customers this month! The more votes we get, the more funds we&rsquo;ll receive to fight for Internet freedom. To be clear: this is a way you can fund our work, even if you have no money to give. Tens of thousands of dollars are at stake. &nbsp;<strong><a href="http://list.fightforthefuture.org/mpss/c/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/h4/F1-2FGbKTLgmw1a2iiczfdyV4zzAfxDb5pKRg5pooDRqcHl4Kr0OV6RKsaVMu8xSb3VoV2SyFpgl9REW9gfRnenRhkXjmLqoWQKTf4IfqFAGU-3D" target="_blank">Please click here and vote for Fight for the Future!</a></strong> It could make a huge difference. Thanks!<br/>
+<br/>
+</span>P.P.S There&rsquo;s an excellent article in The Guardian today that tells the saga of how a scrappy band of Internet freedom activists managed to beat Big Cable on net neutrality against all odds. We&rsquo;re quoted in it. </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/h5/B9l36O5L8ZSJ5Nvvw9TvtuU2oCeYi9u9U3H1wCHTWIFfF-2F0tvVLM-2BcnGLBjfUgrpoxtrparxHohdvLrQdU0AfbaieNbm6YDFI2vuufMPvP-2FPD0S8RxrDz1t-2BZ8Z6TpN7n-2BZP0quDVDAsdlP11osmnPpD-2FEoJxZJT7RnSFF5bCZUgyiRLjG54kBJaC36sGFC4"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;">Check it out and share.</span></a><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">.</span></p>
+  <br>
+  <img src="http://action.fightforthefuture.org/beacon.gif?t=dXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ4Mg==">
+
+<p>
+	Want more awesome more often?<br />
+	<br />
+	* <a href="https://www.facebook.com/fightfortheftr" target="_blank">Like us on Facebook</a><br />
+	* <a href="https://twitter.com/fightfortheftr" target="_blank">Follow us on Twitter</a><br />
+	<br />
+	<a href="https://donate.fightforthefuture.org" style="font-size: 110%" target="_blank"><strong>* Keep us fighting, chip in what you can.</strong></a></p>
+
+<img src="http://list.fightforthefuture.org/mpss/o/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/o.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+<p>
+	If you would like to unsubscribe and stop receiving these emails <a href="http://list.fightforthefuture.org/mpss/u/3wA/ZgwNAA/t.1k8/dg5-VURtRMqKl4KJfDEaHQ/uh7">click here</a>.</p>
+
+</body>
+</html>
+
+
+----==_mimepart_54d0f133b4492_33fe29ab63ea822818d8--

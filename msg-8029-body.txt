@@ -1,0 +1,202 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.182.152.40 with SMTP id uv8csp63486obb;
+        Sat, 25 Oct 2014 10:00:28 -0700 (PDT)
+X-Received: by 10.68.222.70 with SMTP id qk6mr12376501pbc.65.1414256427854;
+        Sat, 25 Oct 2014 10:00:27 -0700 (PDT)
+Return-Path: <bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org>
+Received: from o1.list.fightforthefuture.org (o1.list.fightforthefuture.org. [50.31.33.35])
+        by mx.google.com with ESMTPS id um3si1195990pac.79.2014.10.25.10.00.27
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 25 Oct 2014 10:00:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org designates 50.31.33.35 as permitted sender) client-ip=50.31.33.35;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org designates 50.31.33.35 as permitted sender) smtp.mail=bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org;
+       dkim=pass header.i=@list.fightforthefuture.org
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=list.fightforthefuture.org; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	s=smtpapi; bh=8aGR26IBwGHx64rjPIa0o9zVCDg=; b=sOMozKkMHMWci3jFRs
+	WJXk7DaeHtLZvvlPT7T6D0e6eh0z2s7gkhQZNBYCzvltxR2dHbLvms08lKwAsndl
+	7Hp2AKpSd+SmT8FaH5np5gP2hQ0HXPFN1HK8V6aWEmaXU4h7DP6ByZjTFIk8NHpF
+	YMAYDm1FVeGzBdJdR8cXooLQQ=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=8aGR26IBwGHx64rjPIa0o9zVCDg=; b=ip/O+27RtprUDaptim
+	RYLWa9PbVg25n5qvI4Y8d6eWUZGtM/e0W1K4oDhwhhFoUaPBEeW2Z4zbG07lsrZm
+	LkKG9qrX6dv6xhG1ZxGps4JuRjwcz7GURRMnxdlY8VRQKNKUX7kkHhptUWh4eiMU
+	vsg90sGJnmEfqgVyA8i7/gjUw=
+Received: by filter0045p1mdw1.sendgrid.net with SMTP id filter0045p1mdw1.14814.544BD726A
+        2014-10-25 17:00:23.019835677 +0000 UTC
+Received: from list.fightforthefuture.org (ec2-54-89-208-239.compute-1.amazonaws.com [54.89.208.239])
+	by ismtpd-019.iad1.sendgrid.net (SG) with ESMTP id 14948407028.7190.17b9c5
+	for <noreply@list.fightforthefuture.org>; Sat, 25 Oct 2014 17:00:22 +0000 (GMT)
+Date: Sat, 25 Oct 2014 17:00:22 +0000
+From: Kevin Huang from FFTF <info@list.fightforthefuture.org>
+Reply-To: info@fightforthefuture.org
+To: dinsmorealex@gmail.com
+Message-ID: <544bd726dd449_23f8daa86beac95854@09fe9cff-30c8-4dd9-a94a-3758f4a3a7af.mail>
+Subject: Speak up for net neutrality in Brooklyn
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_544bd726db333_23f8daa86beac9575a";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://list.fightforthefuture.org/mpss/u/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/um8>, <mailto:unsubscribe@list.fightforthefuture.org?subject=http://list.fightforthefuture.org/mpss/u/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/um8>
+X-SG-EID: fTk2GWsSovuA2NZwoXLUxwmBKlaM2Ltb9Sa8mKPC5/uaWQ4tSjLap5eSLgY2lEqaYVTXi43fv9WNmr8yAmyPhuTeVoMsOfvW7vhNjrImGoSfsTVpC0KQwOWWFb7h5++Zpelg91VbefY2tnwEEGdt+VLjMplv3eEuB2xtqM7TsunUA2vCol5rCDt1NUVRLKVX
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZqgBUMP/fzeEzamFHx+un8tu1g4X5UnFxKTKyegdz75pk3HyilWb2kVCn/1MVvSDo12Q40cGryt/JM6cQo7eIarn16o5D2gg/DdwEDTloKvaNxn0ce7f8Q+5iRkTiUZDJGYv1LkScuQEE8EQtQ+JwIA=
+X-Feedback-ID: 855142:FS3YJhBa/x3YcS8zSTuc4u5bd0kydSlb0DeBxJfUxMI=:stuo+yA/Saq8uvxnOVW8Og==:SG
+
+----==_mimepart_544bd726db333_23f8daa86beac9575a
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Fight for the Future member,
+Love the Internet? Hate Comcast? Then we need you to http://cms.fightforthe=
+future.org/BrooklynNetNeutrality/.?t=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTE5=
+Mg=3D=3D
+The fight for real Net Neutrality and against the Comcast-Time Warner Cable=
+ merger rages on =E2=80=94 and we want to give you and other New Yorkers an=
+ opportunity to take up this debate in your community.
+http://cms.fightforthefuture.org/BrooklynNetNeutrality/.?t=3DdXNlcmlkPTQ3Nz=
+k2NDc3LGVtYWlsaWQ9OTE5Mg=3D=3D
+Here are the details:
+What: New York Speaks: A Hearing on Our Rights to Connect and Communicate
+When: Mon., Oct. 27, from 6=E2=80=938 p.m.
+Where: Dweck Center, Brooklyn Central Library, 10 Grand Army Plaza
+Who: We're partnering with our allies at Common Cause, Consumers Union, Dai=
+ly Kos and the Media Action Grassroots Network to host this event.
+RSVP: http://cms.fightforthefuture.org/BrooklynNetNeutrality/?t=3DdXNlcmlkP=
+TQ3Nzk2NDc3LGVtYWlsaWQ9OTE5Mg=3D=3D if you haven't already.
+Bring: A sign with your message for the FCC
+While the FCC has ignored the many calls for public hearings on Net Neutral=
+ity and the merger, you deserve a chance to http://cms.fightforthefuture.or=
+g/BrooklynNetNeutrality/?t=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTE5Mg=3D=3D o=
+n what's at stake. We'll document and submit your comments to the FCC and h=
+elp build the record for real Net Neutrality =E2=80=94 and against the Comc=
+ast quest for world domination.
+The FCC could make decisions on these issues at any point in the next few m=
+onths =E2=80=94 http://cms.fightforthefuture.org/BrooklynNetNeutrality/?t=
+=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTE5Mg=3D=3D
+For the Internet,
+Kevin
+Fight for the Future
+P.S. Can't make it? Please help https://act.freepress.net/donate/2014_end/?=
+source=3Dnyc_fcc&t=3D7&akid=3D4984.None.Q1ldFn&t=3DdXNlcmlkPTQ3Nzk2NDc3LGVt=
+YWlsaWQ9OTE5Mg=3D=3D for real Net Neutrality with a donation of $10 (or mor=
+e!) today.=20
+Want more awesome more often?=0D
+=0D
+* Like us on Facebook: https://www.facebook.com/fightfortheftr=0D
+* Follow us on Twitter: https://twitter.com/fightfortheftr=0D
+* Keep us fighting. Chip in what you can: https://donate.fightforthefuture.=
+org
+If you would like to unsubscribe and stop receiving these emails click here=
+: http://list.fightforthefuture.org/mpss/u/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJU=
+zZaKsUQ/ut6.
+
+----==_mimepart_544bd726db333_23f8daa86beac9575a
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<style type="text/css">
+					
+			p {
+				margin: 1em 0;
+			}
+
+			@media only screen and (max-device-width: 480px) {
+				
+				[class="body"] {
+					font-size: 16px !important;
+					line-height: 19px !important;
+				}	 
+					
+				img[class="header"] {
+					width: 320px !important;
+					height: 48px !important;
+				}		
+							
+				table[class="sidebox"] {
+					width: 150px !important;
+				} 
+
+				img[class="sidebox"] {
+					width: 120px !important;
+					height: 79px !important;
+				}
+
+				img[class="sidebox-button"] {
+					width: 120px !important;
+					height: 22px !important;
+				} 
+
+				table[class="table-footer"] {
+					width: 320px !important;
+					padding: 5px !important;
+				}		
+			}
+		</style>
+  </head>
+<body>
+  <p id="docs-internal-guid-e0020828-441a-7260-9934-44a9989f3619" style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Hi Fight for the Future member,</span></p>
+<br/>
+
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Love the Internet? Hate Comcast? Then we need you to </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/h0/Xb67NgXkp9XwXPFNgN-2Fqds81HLbRZH1ohBNW6gjwbwxvm7WkfGIf-2BOJpkHGjljlspZaT3DbLRDCtHGyfSgOWUXLhuoKRyIA-2BI8uaNigREDMKOTSm7kD3NNb7fL3RxwAMdCIdxu2A9ExntBVoE9iChA-3D-3D"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">join us on Monday</span></a><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">.</span></p>
+<br/>
+
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">The fight for </span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline;">real</span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> Net Neutrality and against the Comcast-Time Warner Cable merger rages on &mdash; and we want to give you and other New Yorkers an opportunity to take up this debate in your community.</span></p>
+<br/>
+
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/h1/Xb67NgXkp9XwXPFNgN-2Fqds81HLbRZH1ohBNW6gjwbwxvm7WkfGIf-2BOJpkHGjljlspZaT3DbLRDCtHGyfSgOWUXLhuoKRyIA-2BI8uaNigREDMKOTSm7kD3NNb7fL3RxwAMdCIdxu2A9ExntBVoE9iChA-3D-3D"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">Speak Out With Us in Brooklyn on Mon., Oct. 27</span></a><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">.</span></p>
+<br/>
+
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Here are the details:</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">What:</span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> New York Speaks: A Hearing on Our Rights to Connect and Communicate</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">When:</span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> Mon., Oct. 27, from 6&ndash;8 p.m.</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Where:</span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> Dweck Center, Brooklyn Central Library, 10 Grand Army Plaza</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Who:</span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> We're partnering with our allies at Common Cause, Consumers Union, Daily Kos and the Media Action Grassroots Network to host this event.</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">RSVP: </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/h2/Xb67NgXkp9XwXPFNgN-2Fqds81HLbRZH1ohBNW6gjwbwxvm7WkfGIf-2BOJpkHGjljlspZaT3DbLRDCtHGyfSgOWUXLhuoKRyIA-2BI8uaNigREDMKOTSm7kD3NNb7fL3RxwAMdCIdxu2A9ExntBVoE9iChA-3D-3D"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">Sign up here</span></a><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> if you haven't already.</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Bring:</span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> A sign with your message for the FCC</span></p>
+<br/>
+
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">While the FCC has ignored the many calls for public hearings on Net Neutrality and the merger, you deserve a chance to </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/h3/Xb67NgXkp9XwXPFNgN-2Fqds81HLbRZH1ohBNW6gjwbwxvm7WkfGIf-2BOJpkHGjljlspZaT3DbLRDCtHGyfSgOWUXLhuoKRyIA-2BI8uaNigREDMKOTSm7kD3NNb7fL3RxwAMdCIdxu2A9ExntBVoE9iChA-3D-3D"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">share your thoughts</span></a><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: base
+ line;"> on what's at stake. We'll document and submit your comments to the FCC and help build the record for real Net Neutrality &mdash; and against the Comcast quest for world domination.</span></p>
+<br/>
+
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">The FCC could make decisions on these issues at any point in the next few months &mdash; <a href="http://list.fightforthefuture.org/mpss/c/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/h4/Xb67NgXkp9XwXPFNgN-2Fqds81HLbRZH1ohBNW6gjwbwxvm7WkfGIf-2BOJpkHGjljlspZaT3DbLRDCtHGyfSgOWUXLhuoKRyIA-2BI8uaNigREDMKOTSm7kD3NNb7fL3RxwAMdCIdxu2A9ExntBVoE9iChA-3D-3D" target="_blank">speak out with us before it's too late.</a></span></p>
+<br/>
+
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">For the Internet,</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Kevin</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Fight for the Future</span></p>
+<br/>
+
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">P.S. Can't make it? Please help </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/h5/v6imBLULm1QmE4ONcm4wepORLUPiFoe6jYoSXF3Mx5CA2F99XLEHGmSqRTzFPeH5gvBc8AZqHM-2BCvtukWZUK7bEf9GMiTFzWI7ULYjXvQzlviRbz-2FoFshMlqfan8-2Bc-2FLfUYLlw2i6BUYYLvBDH9gWL5giUsX5qus0CuJUFgTg2k-3D"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">fund the fight</span></a><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> for real Net Neutrality with a donation of $10 (
+ or more!) today. </span></p>
+  <br>
+  <img src="http://action.fightforthefuture.org/beacon.gif?t=dXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTE5Mg==">
+
+<p>
+	Want more awesome more often?<br />
+	<br />
+	* <a href="https://www.facebook.com/fightfortheftr" target="_blank">Like us on Facebook</a><br />
+	* <a href="https://twitter.com/fightfortheftr" target="_blank">Follow us on Twitter</a><br />
+	<br />
+	<a href="https://donate.fightforthefuture.org" style="font-size: 110%" target="_blank"><strong>* Keep us fighting, chip in what you can.</strong></a></p>
+
+<img src="http://list.fightforthefuture.org/mpss/o/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/o.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+<p>
+	If you would like to unsubscribe and stop receiving these emails <a href="http://list.fightforthefuture.org/mpss/u/3QA/ZgwNAA/t.1hf/RPkjUPRSR0a7BJUzZaKsUQ/uh7">click here</a>.</p>
+
+</body>
+</html>
+
+
+----==_mimepart_544bd726db333_23f8daa86beac9575a--

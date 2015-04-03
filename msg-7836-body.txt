@@ -1,0 +1,609 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.170.118.88 with SMTP id k85csp70400ykb;
+        Sat, 27 Sep 2014 08:39:06 -0700 (PDT)
+X-Received: by 10.68.57.131 with SMTP id i3mr40276811pbq.103.1411832346358;
+        Sat, 27 Sep 2014 08:39:06 -0700 (PDT)
+Return-Path: <blurb.52610@envfrm.rsys5.com>
+Received: from omp.makebooks.blurb.com (omp.makebooks.blurb.com. [199.7.204.114])
+        by mx.google.com with ESMTP id tl10si14837404pac.46.2014.09.27.08.39.05
+        for <dinsmorealex@gmail.com>;
+        Sat, 27 Sep 2014 08:39:06 -0700 (PDT)
+Received-SPF: pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) client-ip=199.7.204.114;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) smtp.mail=blurb.52610@envfrm.rsys5.com;
+       dkim=pass header.i=@makebooks.blurb.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=makebooks.blurb.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=blurb; d=makebooks.blurb.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=support@makebooks.blurb.com;
+ bh=qfF6zcMUv6oToQBfPBW5m9IUQes=;
+ b=Hq1RuSXgWH7F64SnSf0T/22HTzyJrna+Oiy5Zp02BsiXBM5h7NQEtCUHq9NC5fkvTfKKU++EeBSg
+   5VgRVVlKV5ThI/viYipY+oZI1Pm/0SVN1vYpDExzJ4LhnD/iK3cRBnY9GXMmUcXKK6IHzYKZM9WT
+   AGl7E3X6QxDt4TwpX+Q=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=blurb; d=makebooks.blurb.com;
+ b=qF85SQ2c0XHcsGa5lUIVWjGT2XFdfaJl/LTNPcaoCG6OqyZ/4rLY7pWsVf/6F3aDvpSLwoQ0lZRm
+   3lQjpMgPKwNHw/ZF5WYG4SiPj3+H+DcAUFCuw2ae/zOPY2NEO36t9AwUNSCHcM4p3/fD1qLh62lj
+   B57fK8JUYnaIK6JEEYo=;
+Received: by omp.makebooks.blurb.com id h4rd1k1hctof for <dinsmorealex@gmail.com>; Sat, 27 Sep 2014 08:26:23 -0700 (envelope-from <blurb.52610@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Sat, 27 Sep 2014 08:26:23 -0700
+To: dinsmorealex@gmail.com
+From: "Blurb" <support@makebooks.blurb.com>
+Reply-To: "Blurb" <noreply@makebooks.blurb.com>
+Subject: Get tips from Blurb's own designers [VIDEO]
+List-Unsubscribe: <http://makebooks.blurb.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvC&_ei_=EolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2>, <mailto:unsubscribe-WQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvC@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: KpgkuhjLHtLzfxnuHptQJhu
+X-rext: 4.interact5.Er1FlhmI531S9pzc7DQ1Z1kM83iBuXVHFN8
+X-cid: blurb.338955
+Message-ID: <0.1.DC.17F.1CFDA6765294D5C.0@omp.makebooks.blurb.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html>
+<head>
+<title>Blurb's Book Camp Video Five: Book design tips and tricks</title>
+<style type=3D=22text/css=22>
+=40charset =22UTF-8=22;
+html =7B
+	-webkit-text-size-adjust: none;
+=7D
+=2EReadMsgBody =7B
+	width: 100%;
+=7D
+=2EExternalClass =7B
+	width: 100%;
+=7D
+=2EExternalClass * =7B
+	line-height: 100%
+=7D
+=2EappleLinksWhite a =7B
+	color: =23ffffff;
+	text-decoration: none;
+=7D
+body =7B
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	margin: 0 auto;
+	background-repeat: repeat-x;
+=7D
+=40media screen and (max-width: 620px) =7B
+*=5Bclass=5D=2Eblock =7B
+	display: block =21important;
+=7D
+*=5Bclass=5D=2Ehide =7B
+	display: none =21important;
+=7D
+*=5Bclass=5D=2Erel =7B
+	position: relative =21important;
+=7D
+*=5Bclass=5D=2Eabs =7B
+	position: absolute =21important;
+=7D
+*=5Bclass=5D=2Eshow =7B
+	display: block =21important;
+	width: auto =21important;
+	overflow: visible =21important;
+	float: none =21important;
+	max-height: inherit =21important;
+	line-height: inherit =21important;
+=7D
+/* ALIGNMENT */
+*=5Bclass=5D=2Ealigncenter =7B
+	text-align: center =21important;
+=7D
+*=5Bclass=5D=2Ealignleft =7B
+	text-align: left =21important;
+=7D
+/*** heights & widths ****/
+*=5Bclass=5D=2Ewidth15 =7B
+	width: 15px =21important;
+=7D
+*=5Bclass=5D=2Ewidth20 =7B
+	width: 20px =21important;
+=7D
+*=5Bclass=5D=2Ewidth150 =7B
+	width: 150px =21important;
+=7D
+*=5Bclass=5D=2Ewidth194 =7B
+	width: 194px =21important;
+=7D
+*=5Bclass=5D=2Ewidth210 =7B
+	width: 210px =21important;
+=7D
+*=5Bclass=5D=2Ewidth242 =7B
+	width: 242px =21important;
+=7D
+*=5Bclass=5D=2Ewidth245 =7B
+	width: 245px =21important;
+=7D
+*=5Bclass=5D=2Ewidth250 =7B
+	width: 250px =21important;
+=7D
+*=5Bclass=5D=2Ewidth290 =7B
+	width: 290px =21important;
+=7D
+*=5Bclass=5D=2Ewidth300 =7B
+	width: 300px =21important;
+=7D
+*=5Bclass=5D=2Ewidth312 =7B
+	width: 312px =21important;
+=7D
+*=5Bclass=5D=2Ewidth320 =7B
+	width: 320px =21important;
+=7D
+*=5Bclass=5D=2Ehauto =7B
+	height: auto =21important;
+=7D
+/*** padding/margin ****/
+*=5Bclass=5D=2Epaddingr0 =7B
+	padding-right: 0px =21important;
+=7D
+*=5Bclass=5D=2Epaddingr15 =7B
+	padding-right: 15px =21important;
+=7D
+*=5Bclass=5D=2Epaddingr55 =7B
+	padding-right: 55px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl0 =7B
+	padding-left: 0px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl15 =7B
+	padding-left: 15px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl55 =7B
+	padding-left: 55px =21important;
+=7D
+*=5Bclass=5D=2Epaddinglr55 =7B
+	padding-left: 60px =21important;
+	padding-right: 60px =21important;
+=7D
+*=5Bclass=5D=2Epaddingb10 =7B
+	padding-bottom: 10px =21important
+=7D
+/*** fonts ****/
+*=5Bclass=5D=2Efont14 =7B
+	font-size: 14px =21important;
+=7D
+*=5Bclass=5D=2Eline16 =7B
+	line-height: 16px =21important;
+=7D
+*=5Bclass=5D=2Eline20 =7B
+	line-height: 20px =21important;
+=7D
+*=5Bclass=5D=2Eline22 =7B
+	line-height: 22px =21important;
+=7D
+/*** positioning ***/
+*=5Bclass=5D=2Etop21 =7B
+	top: 21px =21important;
+=7D
+*=5Bclass=5D=2Ebggrey =7B
+	background-color: =23f5f5f5 =21important;
+=7D
+*=5Bclass=5D=2Ebggrey_drk =7B
+	background-color: =23e3e3e3 =21important;
+=7D
+*=5Bclass=5D=2Ebgwhite =7B
+	background-color: =23ffffff =21important;
+=7D
+=7D</style>
+</head>
+<body width=3D=22100%=22 style=3D=22padding:0; margin:0;=22 bgcolor=3D=22=
+=23FFFFFF=22>
+<=21--=5Bif gte mso 9=5D>
+<style>
+=2Emr15=7B margin-right:15px =21important;=7D
+=2Eml15=7B margin-left:15px =21important;=7D
+=2Emr5lr5 =7B margin-left:5px =21important; margin-right:5px =21important;=
+=7D
+=2Emr20lr20 =7B margin-left:20px =21important; margin-right:20px =21importa=
+nt;=7D
+=2Emm1=7B margin-left:30px =21important; margin-right:30px =21important;=7D
+=2Emm2=7B margin-left:15px =21important; margin-right:15px =21important;=7D
+=2Emm3=7B margin-left:50px =21important; margin-right:50px =21important;=7D
+=2Emm4=7B margin-left:15px =21important; margin-right:5px =21important;=7D
+=2Emm5=7B margin-left:10px =21important; margin-right:10px =21important;=7D
+</style>
+<=21=5Bendif=5D-->
+<center>
+  <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=22>
+    <tr>
+      <td align=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+        <table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 class=3D=22width320=22>
+          <tr>
+            <td bgcolor=3D=22=23FFFFFF=22>
+
+              <=21-- super subject -->
+       =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td align=3D=22center=22 valign=3D=22middle=22><div style=
+=3D=22font-family:Arial, Helvetica, sans-serif; font-size:11px; color:=2399=
+9999;=22>4 DAYS ONLY: Save 25% on all photo books made by you with the code=
+: GREATTIPS</div>
+                  </td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=225=22 style=3D=22line-height:5px;=22><img =
+src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blu=
+rb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bloc=
+k; border:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21--header image-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i5/responsysimages/content/blurb/MAR-1481-header=2Epng=22 style=3D=22dis=
+play:block; border:0;=22 alt=3D=22Blurb Book Camp Video Five=22 width=3D=22=
+600=22 class=3D=22width320 hauto=22 /></td>
+                </tr>
+              </table>
+
+              <=21--hero image-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvCV=
+XtpKX%3DWADWTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYb=
+wTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img src=3D=22htt=
+p://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1481-=
+hero=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=22Book design t=
+ips and tricks=22 width=3D=22600=22 class=3D=22width320 hauto=22 /></a></td>
+                </tr>
+              </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21--Text block-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=2220=22 class=3D=22width15=22><img src=3D=22=
+http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=
+=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; border=
+:0;=22 /></td>
+                  <td width=3D=22560=22 align=3D=22left=22 valign=3D=22top=
+=22 class=3D=22width290=22><div style=3D=22font-family:Arial, Helvetica, sa=
+ns-serif; font-size:15px; line-height:22px; color:=23000000;=22 class=3D=22=
+font14 line20=22>Take down the flag and pack up your bunk, because the last=
+ week of Book Camp is upon us=2E Time for some really creative book-making =
+as a grand finale=2E In this short video, you'll learn how to design a cust=
+om book like the professionals do=2E Learn about cover design, simple typog=
+raphy principles, and how to make sure your photos look their best&mdash;ev=
+erything you need to make a gorgeous book=2E</div></td>
+                  <td width=3D=2220=22 class=3D=22width15=22><img src=3D=22=
+http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=
+=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; border=
+:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- CTA block -->
+
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22200=22><img src=3D=22http://responsys=2Ehs=
+=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=2Egif=22 height=3D=
+=221=22 width=3D=221=22 style=3D=22display:block; border:0;=22 /></td>
+                  <td width=3D=22200=22 align=3D=22center=22 valign=3D=22to=
+p=22 class=3D=22width290=22><div style=3D=22font-family:Arial, Helvetica, s=
+ans-serif; font-size:15px; font-weight:bold; color:=2300adef; border: 4px s=
+olid =2300adef; padding: 5px;=22 class=3D=22font15 line22=22><a href=3D=22h=
+ttp://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoub=
+YUS1DiFJB9zaSzdSsfCUp7mzczeazgvCVXtpKX%3DWADWWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5s=
+d828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vb=
+QKh27umSa=2E=22 style=3D=22text-decoration:none; color: =2300adef; display:=
+ block;=22>Watch the Video</a></div></td>
+                  <td width=3D=22200=22><img src=3D=22http://responsys=2Ehs=
+=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=2Egif=22 height=3D=
+=221=22 width=3D=221=22 style=3D=22display:block; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2235=22 style=3D=22line-height:35px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+                           =20
+              <=21--offer block-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 bgcolor=3D=22=2300adef=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=2220=22 class=3D=22width15=22><img src=3D=22=
+http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=
+=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; border=
+:0;=22 /></td>
+                  <td width=3D=22560=22 align=3D=22center=22 valign=3D=22to=
+p=22 class=3D=22width290=22><br>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:14px; line-height: 26px; color:=23ffffff;=22 class=3D=22font14=
+ line22=22>Book Camp graduates&mdash;</div>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:20px; line-height: 26px; color:=23ffffff;=22 class=3D=22font18=
+ line22=22>SAVE 25% ON ALL PHOTO BOOKS</div>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:14px; line-height: 22px; color:=23ffffff;=22 class=3D=22font14=
+ line22=22>(up to =2475 off) when you use the code GREATTIPS at checkout*</=
+div><br>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:20px; font-weight:bold; color:=23ffffff;=22 class=3D=22font18 =
+line22=22>CODE: GREATTIPS</div><br>
+                  </td>
+                  <td width=3D=2220=22 class=3D=22width15=22><img src=3D=22=
+http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=
+=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; border=
+:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21--last week-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22125=22 class=3D=22hide=22 align=3D=22cente=
+r=22 valign=3D=22top=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvCVXtpK=
+X%3DWADWAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8=
+UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22display: b=
+lock;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimag=
+es/content/blurb/MAR-1481-video-thumbnail=2Ejpg=22 style=3D=22border:0;=22 =
+width=3D=22105=22 /></a></td>
+                  <td width=3D=22475=22 class=3D=22width320 block=22 align=
+=3D=22left=22 valign=3D=22top=22><div style=3D=22font-family:Arial, Helveti=
+ca, sans-serif; font-size:14px; line-height:20px; color:=23000000;=22 class=
+=3D=22font14 line22=22>PS Want to make your book with BookWright, our newes=
+t book-making desktop app? Check out the <a href=3D=22http://makebooks=2Ebl=
+urb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCU=
+p7mzczeazgvCVXtpKX%3DWADYRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6=
+GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 styl=
+e=3D=22text-decoration:none; color:=2300adef;=22>short video</a> and get st=
+arted today=2E</div></td>
+                </tr>
+              </table>
+                          =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21--giftcenter-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 bgcolor=3D=22=23ebebeb=22 class=3D=22width320=22>
+                  <tr>
+                    <td colspan=3D=223=22 align=3D=22center=22 class=3D=22w=
+idth320=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysim=
+ages/content/blurb/MAR-1481-giftcenter-header=2Epng=22 width=3D=22600=22 st=
+yle=3D=22display:block;border: 0px;=22 class=3D=22width320=22 /></td>
+                  </tr>
+                  <tr>
+                   <td width=3D=2220=22 class=3D=22width15=22><img src=3D=
+=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spa=
+cer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; bor=
+der:0;=22 /></td>
+                   <td width=3D=22560=22 align=3D=22center=22 valign=3D=22t=
+op=22 class=3D=22width290=22>
+                     <div style=3D=22font-family:Arial, Helvetica, sans-ser=
+if; font-size:14px; line-height:22px; color:=23000000; text-align: left;=22=
+ class=3D=22font14 line22=22><br>Turn your creativity into an incredible (a=
+nd incredibly thoughtful) gift=2E Just grab your photos and get some inspir=
+ation at our <a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvCVXtpKX%3DWADYTY&=
+_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwN=
+a7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22text-decoration:none;=
+ color:=2300adef;=22>Gift&nbsp;Center</a>, where you're sure to pick up the=
+ ideas and know-how you'll need to make the perfect present=2E<br><br></div>
+                   </td>
+                   <td width=3D=2220=22 class=3D=22width15=22><img src=3D=
+=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spa=
+cer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; bor=
+der:0;=22 /></td>
+                  </tr>
+                </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2250=22 style=3D=22line-height:50px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- footer -->
+
+              <=21-- FOOTER -->
+       =20
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=
+=22 class=3D=22hide=22>
+          <tr>
+            <td width=3D=22600=22 align=3D=22center=22 bgcolor=3D=22=23ffff=
+ff=22 class=3D=22width320=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvC=
+VXtpKX%3DWADYWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlY=
+bwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22=
+absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimage=
+s/content/blurb/icon-blurb-47=2Epng=22 border=3D=220=22 alt=3D=22Blurb=22 t=
+itle=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=
+=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzd=
+SsfCUp7mzczeazgvCVXtpKX%3DWADYAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie=
+_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22=
+><img align=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/=
+i5/responsysimages/content/blurb/icon-facebook-41=2Epng=22 border=3D=220=22=
+ alt=3D=22Facebook=22 title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=
+=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGj=
+SzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvCVXtpKX%3DWADYCY&_ei_=3DEi2L-z0LtlVkT=
+FJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-=
+5w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=22 src=3D=22http://respons=
+ys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/icon-gplus-41=2Epng=
+=22 border=3D=220=22 alt=3D=22Google Plus=22 title=3D=22=22 /></a>&nbsp;&nb=
+sp;&nbsp;&nbsp;<a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0=
+Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvCVXtpKX%3DWADAR=
+Y&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_S=
+wNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=22 s=
+rc=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blur=
+b/icon-twitter-41=2Epng=22 border=3D=220=22 alt=3D=22Twitter=22 title=3D=22=
+=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=2Eblurb=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzcze=
+azgvCVXtpKX%3DWADATY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgR=
+n7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=
+=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsy=
+simages/content/blurb/icon-linkedin-41=2Epng=22 border=3D=220=22 alt=3D=22L=
+inkedIn=22 title=3D=22=22 /></a></td>
+          </tr>
+<tr><td>&nbsp;</td></tr>
+        </table>
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=
+=22 class=3D=22width320=22>
+          <tr>
+            <td width=3D=22600=22 align=3D=22center=22 bgcolor=3D=22=23ffff=
+ff=22 class=3D=22width320=22><div style=3D=22font-size:10px; font-family:Ar=
+ial, Helvetica, sans-serif; color:=23666666; line-height:18px;=22> <a href=
+=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGj=
+SzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvCVXtpKX%3DWADAWY&_ei_=3DEi2L-z0LtlVkT=
+FJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-=
+5w0i4vbQKh27umSa=2E=22 style=3D=22color: =2300adef; text-decoration: none=
+=22 target=3D=22_top=22>Privacy</a> =7C <a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp=
+7mzczeazgvCVXtpKX%3DWADAAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6G=
+xZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22color: =2300adef; text-decoration: none=22 target=3D=22_top=22>Pricin=
+g</a> =7C <a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/optout?_ri_=3DX0G=
+zc2X%3DWQpglLjHJlYQGjSzgtoubYUS1DiFJB9zaSzdSsfCUp7mzczeazgvC&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2=
+=22 style=3D=22color: =2300adef; text-decoration: none=22 target=3D=22_top=
+=22>Unsubscribe</a><br />
+                <br />
+                Blurb, Inc=2E PO Box 728, San Francisco, CA 94104-0728<br />
+                &copy;2014 Blurb, All Rights Reserved</div></td>
+          </tr>
+        </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- T&Cs -->
+
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td align=3D=22left=22 class=3D=22width320=22><div style=
+=3D=22font-size: 10px; font-family: Arial, Helvetica, sans-serif; line-heig=
+ht:14px; color: =23666666;=22 class=3D=22line16=22>
+*GREATTIPS: Offer valid through September 30, 2014 (11:59 p=2Em=2E local ti=
+me)=2E Valid for photo books made by you=2E A 25% discount is applied to yo=
+ur product total for books that you make with no minimum purchase=2E Maximu=
+m discount is USD =2475, CAD =2475, AUD =2475, EUR &euro;60, or GBP &pound;=
+50 off product total=2E This offer is good for one-time use, and cannot be =
+combined with volume discounts, other promotional codes, gift cards, or use=
+d for adjustments on previous orders=2E</td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2250=22 style=3D=22line-height:50px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</center><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+makebooks=2Eblurb=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGjSzgtoubYUS1Di=
+FJB9zaSzdSsfCUp7mzczeazgvCVXHkMX%3Dw&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8t=
+Yuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSBv2UdWief=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/Ef6xsMsln29EqD4GOht=
+DyqtlWq3y5xtvFaIwt1oLILloL290CkXqk-kXXFwjOK5oIAMBji_uJUjSzgQ-82ZsKArh5WTa/%=
+24UID=22>
+
+
+</body>
+</html>
+
+

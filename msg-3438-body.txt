@@ -1,0 +1,553 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.184.162 with SMTP id ev2csp32131ldc;
+        Thu, 9 May 2013 13:59:49 -0700 (PDT)
+X-Received: by 10.68.25.233 with SMTP id f9mr14368841pbg.118.1368133187937;
+        Thu, 09 May 2013 13:59:47 -0700 (PDT)
+Return-Path: <m-XC0F88FnZKNrvRA637WD_qkVwlsu83VYfdK__pvP6gN9HBhGIkJDiTuLpUqXIx@bounce.linkedin.com>
+Received: from mailc-fc.linkedin.com (mailc-fc.linkedin.com. [199.101.162.79])
+        by mx.google.com with ESMTP id tc4si2860285pbc.34.2013.05.09.13.59.47
+        for <dinsmorealex@gmail.com>;
+        Thu, 09 May 2013 13:59:47 -0700 (PDT)
+Received-SPF: pass (google.com: domain of m-XC0F88FnZKNrvRA637WD_qkVwlsu83VYfdK__pvP6gN9HBhGIkJDiTuLpUqXIx@bounce.linkedin.com designates 199.101.162.79 as permitted sender) client-ip=199.101.162.79;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of m-XC0F88FnZKNrvRA637WD_qkVwlsu83VYfdK__pvP6gN9HBhGIkJDiTuLpUqXIx@bounce.linkedin.com designates 199.101.162.79 as permitted sender) smtp.mail=m-XC0F88FnZKNrvRA637WD_qkVwlsu83VYfdK__pvP6gN9HBhGIkJDiTuLpUqXIx@bounce.linkedin.com;
+       dkim=pass header.i=@linkedin.com;
+       dmarc=pass (p=REJECT dis=none) d=linkedin.com
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-Class:X-LinkedIn-fbl;
+	b=PH+tBGjwf6GDdgRW8RUMA3nIX5n8t4xwKR5G7psSYOV3pV8TBy0g2taryNu6zR41
+	034zvKWRaK7ZpKcBg36V+QIhMZHSCd7yDh0TTaqZ9efE+u1tz+gwcgZ/wgEoyH5q
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1368133185;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl:
+	X-LinkedIn-Template;
+	bh=aV3UxHechgD1duFR70TGc+7pMCQ=;
+	b=yzlubxSJoj/sfi7T72CKtrCPL6ogzVGm+zfKJ86glgsKaM/g+vzq5fGu1hANiB3+
+	Wzdk8aMWbVcJoQFyi7V0E+vjQmKR5Xzd+D6AZAIl9emVUBQPa20iMHVbcavtTsAC
+	D1k7B5RRDAe2pErDHC3RFykj/3otjiKPISIk95IgGYw=;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Thu, 9 May 2013 20:59:45 +0000 (UTC)
+From: LinkedIn Updates <messages-noreply@linkedin.com>
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+Message-ID: <750499592.111188093.1368133185342.JavaMail.app@ela4-app2056.prod>
+Subject: Jennifer Kahrs's new skill, and other updates from your network
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_111188085_1876273600.1368133185315"
+X-LinkedIn-Template: network_updates_digest_type
+X-LinkedIn-Class: NETWORKDIGEST
+X-LinkedIn-fbl: m-XC0F88FnZKNrvRA637WD_qkVwlsu83VYfdK__pvP6gN9HBhGIkJDiTuLpUqXIx
+
+------=_Part_111188085_1876273600.1368133185315
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!--Hero Update ID-->
+LinkedIn
+------------
+
+
+  LinkedIn Network Updates
+  FEATURED UPDATES
+  ---
+
+
+
+Jennifer Kahrs has added skills:
+Art Exhibitions,
+Editorial,
+Logo Design,
+Photoshop,
+InDesign
+Endorse Jennifer
+http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/VeOB1VMOP_NWzMXi2S2bhEYwYi_icJiPe5b/fpg/52334540/?hs=false&tok=2fxFXyjd0HXRI1&trackinfo=updateId%2C5736465363646832640
+
+
+
+
+WHAT YOUR NETWORK IS SAYING
+
+          
+
+
+
+
+ * Bernard Rougerie Check out our new link ! http://lnkd.in/VBSrsR      
+   View Link: http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/nua/s1433612394/https%3A%2F%2Fwww%2Efacebook%2Ecom%2Frareposters/lNB8/5737970108496609280/EML_nus_share-F1-2/?hs=false&tok=3KT50AvVkHXRI1
+   
+   Add a comment: http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/nds/31237874/M/U/5737970108496609280/WBoS/EML_nus_share-F1-2/?hs=false&tok=2S4EvBf-AHXRI1
+
+
+
+
+NEW CONNECTIONS
+
+          
+
+* Andrew Schrijver is now connected to Sophie Cohen, Mika Mann, John Capotorto                and 
+James Kemp                
+          
+
+* Hailey Harmon is now connected to Stephen Lento
+          
+
+* Kate Deibler is now connected to Ben Foster                and 
+Ella Burton                
+          
+
+* Bernard Rougerie is now connected to Trish Fuller                and 
+Guillaume Batteux                
+          
+
+* Sebastian Franzen is now connected to Hannah Chatalbash                and 
+Melinda Brown                
+
+
+
+  See all updates
+  http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/nth/false/eml-comm_nus-f-see_all-0/?hs=false&tok=30aZ_cf8kHXRI1
+
+This email was intended for Alex Dinsmore (Assistant at Yorgo Alexopoulos Multimedia). Follow this link to learn why we include this information.
+http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/plh/http%3A%2F%2Fhelp%2Elinkedin%2Ecom%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F4788/-GXI/?hs=false&tok=1pzPK8ZugHXRI1
+
+(c) 2013, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, USA
+            
+------=_Part_111188085_1876273600.1368133185315
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+      <html>
+        <head>
+          <style type="text/css">
+            html {-webkit-text-size-adjust:none;}
+            body {background-color: #F4F4F4; padding:0; margin:0; width:100%; margin:0 auto;}
+            *[class].tdwrap{display: inline-block !important;}
+            *[class].vspacer{ margin-left: 50px; }
+            *[class].responsive-50per{ width: 50% !important; }
+            *[class].responsive-75per{ width: 75% !important; }
+            @media all and (max-width: 590px){
+              *[class].responsive{width:320px !important;}
+              *[class].responsive-spacer table{width: 20px !important; }
+              *[class].vspacer{ margin-top: 10px !important; margin-bottom: 15px !important; margin-left: 0 !important; }
+              *[class].res-font16{font-size:16px !important;}
+              *[class].res-font12{font-size:12px !important;}
+              *[class].res-font18{font-size:18px !important;}
+              *[class].res-font18 span{font-size: 18px !important;}
+              *[class].responsive-50per{ width: 100% !important;}
+              *[class].responsive-spacer70{ width: 70px !important; }
+              *[class].hideIMG{ height: 0px !important; width: 0px !important; }
+              *[class].res-height20{ height: 20px !important; }
+              *[class].res-height20 div{ height: 20px !important; }
+              *[class].res-height10{ height: 10px !important; }
+              *[class].res-height10 div{ height: 10px !important; }
+              *[class].res-height0 { height: 0px !important; }
+              *[class].res-height0 div{ height: 0px !important; }
+              *[class].res-width280{ width: 280px !important; }
+              *[class].res-width25{ width: 25px !important; }
+              *[class].res-width10{ width: 10px !important; }
+              *[class].res-width10 table{ width: 10px !important; }
+              *[class].res-width60{width: 60px !important;}
+              *[class].res-padding{ width: 0 !important; }
+              *[class].res-padding table{ width: 0 !important; }
+              *[class].cellpadding-none{ width: 0px !important; }
+              *[class].cellpadding-none table{ border: collapse !important; }
+              *[class].cellpadding-none table td{ padding: 0 !important; }
+              *[class].display-none{ display: none !important; }
+              *[class].remove-margin{ margin: 0 !important; }
+              *[class].remove-border{ border: none !important; }
+              *[class].res-img60{width: 60px !important; height: 60px !important;}
+              *[class].res-img100{ width: 100px !important; height: 100px !important; }
+              *[class].res-img320{width: 320px !important; height: auto !important; position: relative;}
+              *[class].res-border{border-top: 1px solid #E1E1E1 !important;}
+              *[class].mobile-hidden{ display: none !important; height: 0px !important; width:0px !important; }
+              *[class].full-width{ width:100% !important; }
+              *[class].mobile-capitalize{ text-transform: capitalize !important; }
+            }
+            @media only screen and (max-device-width: 480px) {
+              p[class=anet-digest-activity],
+              span[class=anet-digest-count],
+              td[class=anet-digest-right-rail] {
+                display:none;
+              }
+            }
+          </style>
+        </head>
+        <body >
+
+
+
+
+<!-- INCOMING PROPERTIES -->
+<!--Hero Update ID-->
+      
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #DFDFDF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;" bgcolor="#DFDFDF" width="100%" class=""><tr><td width="98%" valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px none;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none" bgcolor="#DFDFDF" width="575" class="responsive"><tr><td width="98%" valign="top" align="left">
+  <!-- HEADER -->
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+  <tr>
+    <td align="left" valign="middle">
+      <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/hom/?hs=false&amp;tok=3mwxFd7pkHXRI1">
+        <img src="http://www.linkedin.com/scds/common/u/images/logos/logo_emails_trans_98x24.png" height="24" width="98" alt="LinkedIn" border="0" style="vertical-align:bottom;display:block">
+      </a>
+    </td>
+    <td align="right" style="font-size:11px; font-family:Arial,sans-serif; color:#999999;" valign="top" width="70%">
+    </td>
+  </tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+</table>
+  <!-- DARK GREY BAR -->
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" bgcolor="#333333">
+    <tr>
+      <td width="50" class="responsive-spacer"><table width="50" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td width="100%">
+        <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;padding-top: 10px; padding-bottom: 10px;" width="100%" height="75">
+          <tr>
+            <td align="left" valign="middle">
+              <span style="color:#fff;font-size:20px;" class="res-font16">What are your connections up to?</span>
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:2px;font-size:2px;line-height:2px;">&nbsp;</div></td></tr></table>
+              <span style="color:#999;font-size:15px;" class="res-font12">Stay on top of what's happening in your network.</span>
+            </td>
+            <td align="right" valign="middle">
+              <div class="vspacer">
+                <table border="0" cellpadding="0" cellspacing="0" align=""><tr><td align="center" height="30" valign="middle" bgcolor="#287BBC" background="http://www.linkedin.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png" style="background:url(http://www.linkedin.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x scroll 100% 0 #287BBC;background-color:#287BBC;border:1px solid #1B5480;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;"><div style="padding-right:13px;padding-left:13px;"><a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/nth/false/eml_nus_home_top/?hs=false&amp;tok=0ySR7tB60HXRI1" style="text-decoration:none;"><span style="font-size:13px;font-family:Arial;font-weight:bold;color:#ffffff;white-space:nowrap;display:block;">See all updates</span></a></div></td></tr></table>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+  </table>
+
+  <!-- HERO -->
+
+
+
+<!--Tracking Codes -->
+
+
+
+
+
+
+<!--End of Tracking Codes-->
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;color:#333333; background:url(http://www.linkedin.com/scds/common/u/img/email/bg_nus_digest_shadow.png) repeat-x left top #fff; background-color: #fff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td width="50" class="responsive-spacer">
+      <table width="50" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table>
+    </td>
+    <td width="100%">
+      <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;font-color:#4B4B4B;font-size:13px;">
+            <tr>
+              <td width="100" valign="top">
+                  <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/52334540/eml-comm_nus-heroskill-pic-0-F1-2/?hs=false&amp;tok=211p8YQukHXRI1&amp;trackinfo=updateId%2C5736465363646832640">
+                      <img src="http://m3.licdn.com/mpr/mpr/shrink_100_100/p/1/000/031/29e/22ef83a.jpg" width="100" height="100" border="0" alt="Jennifer Kahrs">
+                </a>
+              </td>
+              <td width="15">
+                <table width="15" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table>
+              </td>
+              <td width="99%" valign="middle" style="font-size:15px;color:#333;">
+                    <span><a style="color:#069;text-decoration:none;font-weight:bold;font-size:15px;" href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/52334540/eml-comm_nus-heroskill-name-0-F1-2/?hs=false&tok=3phze-jwUHXRI1&trackinfo=updateId%2C5736465363646832640">Jennifer Kahrs</a> has added skills:</span>
+                    <span>
+                        Art Exhibitions,
+                        Editorial,
+                        Logo Design,
+                        Photoshop,
+                        InDesign
+                    </span>
+                <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+                    <table border="0" cellpadding="0" cellspacing="0" align=""><tr><td align="center" height="30" valign="middle" bgcolor="#EBEBEB" background="http://www.linkedin.com/scds/common/u/images/email/textures/texture_button_secondary_v1.png" style="background:url(http://www.linkedin.com/scds/common/u/images/email/textures/texture_button_secondary_v1.png) repeat-x scroll 100% 0 #287BBC;background-color:#EBEBEB;border:1px solid #A7A7A7;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;"><div style="padding-right:13px;padding-left:13px;"><a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/52334540/eml-comm_nus-heroskill-CTA-0-F1-2/?hs=false&amp;tok=133L8Ea1YHXRI1&amp;trackinfo=updateId%2C5736465363646832640" style="text-decoration:none;"><span style="font-size:13px;font-family:Arial;font-weight:bold;color:#444444;white-space:nowrap;display:block;">Endorse Jennifer</span></a></div></td></tr></table>
+              </td>
+            </tr>
+          </table>
+          <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+    </td>
+    <td width="50" class="responsive-spacer"><table width="50" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  </tr>
+</table>
+<table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+
+  <!-- BODY -->
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;color:#333333;border:1px solid #F4F4F4;" width="100%" bgcolor="#ffffff">
+    <tr>
+      <td width="50" class="responsive-spacer"><table width="50" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td width="100%">
+                <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:30px;font-size:30px;line-height:30px;">&nbsp;</div></td></tr></table>
+
+
+<!-- INCOMING PROPERTIES -->
+
+<!-- NEW UPDATES -->
+
+<!-- SECTION TITLE -->
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+  <tr>
+    <td style="color:#666;font-family:Arial;font-size:11px;">
+          WHAT YOUR NETWORK IS SAYING
+    </td>
+  </tr>
+</table>
+
+<table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+<div style="height:1px;font-size:1px;line-height:1px;border-top:1px solid #DDDDDD;">&nbsp;</div>
+<!-- SECTION UPDATES -->
+          
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;font-color:#4B4B4B;font-size:13px;">
+<tr>
+  <td width="40" valign="top">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/31237874/EML_nus_share-F1-2/?hs=false&amp;tok=3IqLKKDS4HXRI1&amp;trackinfo=updateId%2C5737970108496609280"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/8/000/1fb/18e/2d79ed3.jpg" width="40" height="40" border="0" alt="Bernard Rougerie"></a>
+  </td>
+  <td><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td width="99%" valign="top">
+    <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/31237874/EML_nus_share-F1-2/?hs=false&amp;tok=3IqLKKDS4HXRI1&amp;trackinfo=updateId%2C5737970108496609280" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Bernard Rougerie</a>
+Check out our new link ! http://lnkd.in/VBSrsR        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:7px;font-size:7px;line-height:7px;">&nbsp;</div></td></tr></table>
+        <table border="0" cellspacing="0" cellpadding="0" style="border-left:1px solid #DDDDDD;font-family:Arial;font-color:#4B4B4B;font-size:13px;">
+        <tr>
+          <td><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+            <td valign="top">
+                  <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/nua/s1433612394/https%3A%2F%2Fwww%2Efacebook%2Ecom%2Frareposters/lNB8/5737970108496609280/EML_nus_share-F1-2/?hs=false&amp;tok=3KT50AvVkHXRI1&amp;trackinfo=updateId%2C5737970108496609280"><img width="80" height="60" src="http://m3.licdn.com/media-proxy/ext?w=80&amp;h=60&amp;f=''&amp;hash=rsh8MgpiScy9XcHifTwLAyPfm9U%3D&amp;url=https%3A%2F%2Ffbcdn-profile-a.akamaihd.net%2Fhprofile-ak-ash3%2F50415_122130635237_4942989_n.jpg" border="0" alt="Rare Posters"></a>
+            </td>
+            <td><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+          <td valign="top">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/nua/s1433612394/https%3A%2F%2Fwww%2Efacebook%2Ecom%2Frareposters/lNB8/5737970108496609280/EML_nus_share-F1-2/?hs=false&amp;tok=3KT50AvVkHXRI1&amp;trackinfo=updateId%2C5737970108496609280" style="color:#069;">
+Rare Posters                </a>
+                <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table>
+                Rare Posters, Brooklyn, NY. 72 likes &#xb7; 1 talking about this &#xb7; 1 were here.
+                <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table>
+            <div>
+            <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/nds/31237874/M/U/5737970108496609280/WBoS/EML_nus_share-F1-2/?hs=false&amp;tok=2S4EvBf-AHXRI1&amp;trackinfo=updateId%2C5737970108496609280" style="color:#069;font-size:11px;">Comment </a>
+            </div>
+          </td>
+          <td><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+        </tr>
+        </table>
+  </td>
+</tr>
+</table>
+
+
+                <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table>
+                <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:30px;font-size:30px;line-height:30px;">&nbsp;</div></td></tr></table>
+
+
+<!-- INCOMING PROPERTIES -->
+
+<!-- NEW UPDATES -->
+
+<!-- SECTION TITLE -->
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+  <tr>
+    <td style="color:#666;font-family:Arial;font-size:11px;">
+          NEW CONNECTIONS
+    </td>
+  </tr>
+</table>
+
+<table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+<div style="height:1px;font-size:1px;line-height:1px;border-top:1px solid #DDDDDD;">&nbsp;</div>
+<!-- SECTION UPDATES -->
+          
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;font-color:#4B4B4B;font-size:13px;">
+	<tr>
+		<td width="40" valign="top">
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/160164110/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=1UZYrnR4MHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/6/000/201/162/0bf2c8e.jpg" width="40" height="40" border="0"></a>
+		</td>
+		<td width="16" valign="top">
+			<div style="height:3px;font-size:3px;line-height:3px;">&nbsp;</div><!-- VERTICAL SPACER -->
+			<img src="http://www.linkedin.com/scds/common/u/img/email/new-connection-arrows.gif" width="16" height="33" border="0" alt="">
+		</td>
+		<td width="40" valign="top">
+			
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/48919488/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=03eXhm6aoHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/3/000/076/35d/2ef9309.jpg" width="40" height="40" border="0"></a>
+			
+		</td>
+		<td><table width="10" border="0" cellspacing="0" cellpadding="0"><tr><td></tr></table></td>
+		<td width="99%" valign="top">
+
+			<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/160164110/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=1UZYrnR4MHXRI1&amp;trackinfo=updateId%2C-1" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Andrew Schrijver</a>
+			is now connected to
+				
+          <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/48919488/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=03eXhm6aoHXRI1&amp;trackinfo=updateId%2C-1" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Sophie Cohen</a>
+
+	      and <a style="color:#006699;font-family:Arial;font-size:13px;text-decoration:none;" href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/160164110/EML_nus_dig_conn-F1-2/?hs=false&tok=1UZYrnR4MHXRI1&trackinfo=updateId%2C-1">2</a> other people
+
+		</td>
+	</tr>
+	</table>
+
+          
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+
+
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;font-color:#4B4B4B;font-size:13px;">
+	<tr>
+		<td width="40" valign="top">
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/66608079/EML_nus_conn-F1-2/?hs=false&amp;tok=1PHicEb0wHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/3/000/06d/1c9/35b595d.jpg" width="40" height="40" border="0" alt="Hailey Harmon"></a>
+		</td>
+		<td width="16" valign="top">
+			<table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:3px;font-size:3px;line-height:3px;">&nbsp;</div></td></tr></table>
+			<img src="http://www.linkedin.com/scds/common/u/img/email/new-connection-arrows.gif" width="16" height="33" border="0" alt="">
+		</td>
+		<td width="40" valign="top">
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/44464885/EML_nus_conn-F1-2/?hs=false&amp;tok=3IYb3ZJ7QHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/1/000/09e/08e/17da222.jpg" width="40" height="40" border="0" alt="Stephen Lento"></a>
+		</td>
+		<td><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+		<td width="99%" valign="top">	
+      <a style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;" href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/66608079/EML_nus_conn-F1-2/?hs=false&tok=1PHicEb0wHXRI1&trackinfo=updateId%2C-1">Hailey Harmon</a> is now connected to <a style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;" href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/44464885/EML_nus_conn-F1-2/?hs=false&tok=3IYb3ZJ7QHXRI1&trackinfo=updateId%2C-1">Stephen Lento</a>
+		</td>
+	</tr>
+	</table>
+	
+          
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;font-color:#4B4B4B;font-size:13px;">
+	<tr>
+		<td width="40" valign="top">
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/62255006/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=16Nw3UfFsHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/1/000/199/35c/069fb52.jpg" width="40" height="40" border="0"></a>
+		</td>
+		<td width="16" valign="top">
+			<div style="height:3px;font-size:3px;line-height:3px;">&nbsp;</div><!-- VERTICAL SPACER -->
+			<img src="http://www.linkedin.com/scds/common/u/img/email/new-connection-arrows.gif" width="16" height="33" border="0" alt="">
+		</td>
+		<td width="40" valign="top">
+			
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/8664457/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=1vttacyEAHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/3/000/0d8/0cf/1d456a8.jpg" width="40" height="40" border="0"></a>
+			
+		</td>
+		<td><table width="10" border="0" cellspacing="0" cellpadding="0"><tr><td></tr></table></td>
+		<td width="99%" valign="top">
+
+			<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/62255006/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=16Nw3UfFsHXRI1&amp;trackinfo=updateId%2C-1" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Kate Deibler</a>
+			is now connected to
+				
+          <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/8664457/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=1vttacyEAHXRI1&amp;trackinfo=updateId%2C-1" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Ben Foster</a>
+
+
+		</td>
+	</tr>
+	</table>
+
+          
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;font-color:#4B4B4B;font-size:13px;">
+	<tr>
+		<td width="40" valign="top">
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/31237874/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=2CTJpW6JwHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/8/000/1fb/18e/2d79ed3.jpg" width="40" height="40" border="0"></a>
+		</td>
+		<td width="16" valign="top">
+			<div style="height:3px;font-size:3px;line-height:3px;">&nbsp;</div><!-- VERTICAL SPACER -->
+			<img src="http://www.linkedin.com/scds/common/u/img/email/new-connection-arrows.gif" width="16" height="33" border="0" alt="">
+		</td>
+		<td width="40" valign="top">
+			
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/12989818/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=00uoGC4ZkHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/2/000/249/263/302ef41.jpg" width="40" height="40" border="0"></a>
+			
+		</td>
+		<td><table width="10" border="0" cellspacing="0" cellpadding="0"><tr><td></tr></table></td>
+		<td width="99%" valign="top">
+
+			<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/31237874/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=2CTJpW6JwHXRI1&amp;trackinfo=updateId%2C-1" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Bernard Rougerie</a>
+			is now connected to
+				
+          <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/12989818/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=00uoGC4ZkHXRI1&amp;trackinfo=updateId%2C-1" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Trish Fuller</a>
+
+
+		</td>
+	</tr>
+	</table>
+
+          
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;font-color:#4B4B4B;font-size:13px;">
+	<tr>
+		<td width="40" valign="top">
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/67371277/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=3xrf0W3bgHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/3/000/113/33c/2810af4.jpg" width="40" height="40" border="0"></a>
+		</td>
+		<td width="16" valign="top">
+			<div style="height:3px;font-size:3px;line-height:3px;">&nbsp;</div><!-- VERTICAL SPACER -->
+			<img src="http://www.linkedin.com/scds/common/u/img/email/new-connection-arrows.gif" width="16" height="33" border="0" alt="">
+		</td>
+		<td width="40" valign="top">
+			
+					<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/233450738/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=33beDi9ToHXRI1&amp;trackinfo=updateId%2C-1"><img src="http://m3.licdn.com/mpr/mpr/shrink_40_40/p/6/000/22f/251/10d6295.jpg" width="40" height="40" border="0"></a>
+			
+		</td>
+		<td><table width="10" border="0" cellspacing="0" cellpadding="0"><tr><td></tr></table></td>
+		<td width="99%" valign="top">
+
+			<a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/67371277/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=3xrf0W3bgHXRI1&amp;trackinfo=updateId%2C-1" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Sebastian Franzen</a>
+			is now connected to
+				
+          <a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/fpg/233450738/EML_nus_dig_conn-F1-2/?hs=false&amp;tok=33beDi9ToHXRI1&amp;trackinfo=updateId%2C-1" style="color:#069;font-family:Arial;font-size:13px;font-weight:bold;text-decoration:none;">Hannah Chatalbash</a>
+
+
+		</td>
+	</tr>
+	</table>
+
+
+
+                <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table>
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:30px;font-size:30px;line-height:30px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="50" class="responsive-spacer"><table width="50" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+  </table>
+
+
+  <!-- SEE MORE UPDATES BUTTON -->
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" height="55" bgcolor="#333333">
+    <tr><td height="10"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <table border="0" cellpadding="0" cellspacing="0" align=""><tr><td align="center" height="30" valign="middle" bgcolor="#287BBC" background="http://www.linkedin.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png" style="background:url(http://www.linkedin.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x scroll 100% 0 #287BBC;background-color:#287BBC;border:1px solid #1B5480;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;"><div style="padding-right:13px;padding-left:13px;"><a href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/nth/false/eml-comm_nus-f-see_all-0/?hs=false&amp;tok=30aZ_cf8kHXRI1" style="text-decoration:none;"><span style="font-size:13px;font-family:Arial;font-weight:bold;color:#ffffff;white-space:nowrap;display:block;">See all updates</span></a></div></td></tr></table>
+      </td>
+    </tr>
+    <tr>
+      <td height="15"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table><td>
+    </tr>
+    <tr>
+      <td style="color: #ffffff; font-size: 12px; font-weight: bold;" align="center">What do you think of this email?&nbsp;<a href="https://www.research.net/s/WHYBYFZ" style="color:#ffffff; font-size: 12px;">Let us know!</a></td>
+    </tr>
+    <tr><td height="10"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+  </table>
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" class="responsive">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+  <tr>
+    <td align="left" style="font-size:11px; font-family:Arial,sans-serif; color:#999999;">
+            You are receiving Network Updates emails. <a style="color:#006699;text-decoration:underline;" href="https://www.linkedin.com/e/-2qaq1e-hgif6a00-67/VeOB1VMOP_NWzMXi2S2bhEYwYi_icJiPe5b/uns/20010/161002932/sh3262seli6sgp2/dinsmorealex%40gmail%2Ecom/-2qaq1e-hgif6a00-67/eml-comm_nus-f-unsub-offline/?hs=false&tok=0S3Lc50GUHXRI1">Unsubscribe</a>.
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+
+                This email was intended for Alex Dinsmore (Assistant at Yorgo Alexopoulos Multimedia). <a style="color: #006699" href="http://www.linkedin.com/e/-2qaq1e-hgif6a00-67/plh/http%3A%2F%2Fhelp%2Elinkedin%2Ecom%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F4788/-GXI/?hs=false&tok=1pzPK8ZugHXRI1">Learn why we included this</a>. &copy; 2013, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, USA
+    </td>
+  </tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+</table>
+
+</td></tr></table></td></tr></table>
+            </body>
+      </html>
+------=_Part_111188085_1876273600.1368133185315--

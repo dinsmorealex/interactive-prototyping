@@ -1,0 +1,506 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.12.71 with SMTP id w7csp113134ldb;
+        Mon, 9 Dec 2013 08:22:11 -0800 (PST)
+X-Received: by 10.49.75.10 with SMTP id y10mr34801631qev.56.1386606131145;
+        Mon, 09 Dec 2013 08:22:11 -0800 (PST)
+Return-Path: <201312091622081dd2e4a393d74420960765f1dd8d2699@bounces.amazon.com>
+Received: from smtp-out-173-198.amazon.com (smtp-out-173-198.amazon.com. [207.171.173.198])
+        by mx.google.com with ESMTP id q7si8635380qev.101.2013.12.09.08.22.10
+        for <dinsmorealex@gmail.com>;
+        Mon, 09 Dec 2013 08:22:10 -0800 (PST)
+Received-SPF: pass (google.com: domain of 201312091622081dd2e4a393d74420960765f1dd8d2699@bounces.amazon.com designates 207.171.173.198 as permitted sender) client-ip=207.171.173.198;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 201312091622081dd2e4a393d74420960765f1dd8d2699@bounces.amazon.com designates 207.171.173.198 as permitted sender) smtp.mail=201312091622081dd2e4a393d74420960765f1dd8d2699@bounces.amazon.com;
+       dkim=pass header.i=@amazon.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=amazon.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1386606130;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=pdG5U+CTthf+/4jxkO3BNNOtMu5tfbKSwnq5C/L7LR8=;
+	b=Snq2jSMfmE9G07MySJy4bjaoN38WsXxjI9+Bfb9cFadK8H41chNZzZDtEjV4tcc/
+	KRJnDQlR9VTrmWBxPOcR2/UqE2vYwJwcKJm17MIUFgVpednNU9oDzdEHT7YkY71Nhu9
+	0BA0J6U1RvwflU8TzTQIUdrmlXHkhvg25VAOVpi8=
+Return-Path: 201312091622081dd2e4a393d74420960765f1dd8d2699@bounces.amazon.com
+Date: Mon, 9 Dec 2013 16:22:10 +0000
+From: "Amazon.com" <ship-confirm@amazon.com>
+Reply-To: "ship-confirm@amazon.com" <ship-confirm@amazon.com>
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+Message-ID: <00000142d82a73ad-16685d84-13bc-4ec5-bf0e-8e81285a4361-000000@email.amazonses.com>
+Subject: Your Amazon.com order of "The Neverending Story" has shipped!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_4257529_1595023656.1386606129888"
+Bounces-to: 201312091622081dd2e4a393d74420960765f1dd8d2699@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.201312091622081dd2e4a393d74420960765f1dd8d2699@1386606129891.rte-svc-1d2-i-dd1948ad.us-east-1.amazon.com>
+X-SES-Outgoing: 207.171.173.198
+
+------=_Part_4257529_1595023656.1386606129888
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4257530_524220891.1386606129888"
+
+------=_Part_4257530_524220891.1386606129888
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+Amazon.com Shipping Confirmation
+Order #110-9201357-5832237
+http://www.amazon.com/ref=cs_sce_g/
+
+--------------------------------------------------------------------
+Greetings Alex Dinsmore! 
+
+We thought you'd like to know that we shipped your items, and that this completes your order. Your order is being shipped and cannot be changed by you or by our customer service department. 
+
+Your guaranteed delivery date is:
+   Wednesday, December 11, 2013
+   
+Track your package at http://www.amazon.com/gp/css/your-orders-access/ref=cs_sce_wms .
+
+Your shipment was sent to:
+   Alex Dinsmore
+   844 MYRTLE AVE APT 1
+   BROOKLYN, NY 11206-6502
+   United States
+
+Depending on the ship speed you chose, it may take 24 hours for tracking information to be available in your account.									
+
+====================================================================
+
+Your Shipment Details 
+
+   The Neverending Story                    
+   $16.56
+   Sold by Amazon.com LLC
+
+--------------------------------------------------------------------
+   Item Subtotal: $16.56
+   Shipping and Handling: $12.98
+
+    Promotion Applied: -$0.00
+   Total Before Tax: $29.54 
+	
+   Sales Tax Collected: $2.62
+
+   Shipment Total: $32.16 
+   Paid by Visa: $32.16 
+
+====================================================================
+You can access your account at www.amazon.com/gp/css/your-account-access/ref=cs_sce_ya/ from which you can view your orders.
+
+To return an order, visit our Online Returns Center at http://www.amazon.com/gp/orc/returns/homepage.html/ref=cs_sce_r/ .
+
+If you need further assistance with your order, you'll find links to email or call Amazon.com Customer Service in our Help Department at http://www.amazon.com/customer-service?ref=cs_sce_h/ .
+
+Thank you for shopping with us.
+Amazon.com
+www.amazon.com/ref=cs_sce_g
+
+--------------------------------------------------------------------
+
+Please note: This e-mail was sent from a notification-only address
+that cannot accept incoming e-mail. Please do not reply to this message. 
+
+------=_Part_4257530_524220891.1386606129888
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <title></title> =20
+ </head>=20
+ <body style=3D"margin: 0;">=20
+  <table width=3D"640" cellspacing=3D"0" style=3D"font: 12px/ 16px Arial, s=
+ans-serif; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); ma=
+rgin:0 auto;" id=3D"container" cellpadding=3D"0">=20
+   <tbody>=20
+    <tr>=20
+     <td valign=3D"top" style=3D"padding: 20px 0px 10px 20px; width: 100px;=
+ border-collapse: collapse;" id=3D"topNav"> <a href=3D"http://www.amazon.co=
+m/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG14KBDH777U&H=3DEZ57IPFY9JRNPWAUMXUBCW2=
+BOXEA&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_385040_30332190_TE_=
+M3T1_ST1_g_i" title=3D"Visit Amazon.com"><img alt=3D"Amazon" border=3D"0" h=
+eight=3D"31" id=3D"amazonLogo" src=3D"http://g-ecx.images-amazon.com/images=
+/G/01/x-locale/cs/te/logo.png" style=3D"font-size:11px;" width=3D"107" /></=
+a> </td>=20
+     <td style=3D"text-align:right; padding:0px 20px;">=20
+      <table cellspacing=3D"0" style=3D"font:12px/ 16px Arial, sans-serif; =
+color: rgb(51, 51, 51); margin:0 auto; border-collapse:collapse;" id=3D"mar=
+ketingContent" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td style=3D"border-bottom: 1px solid rgb(204, 204, 204); width: 4=
+90px;" class=3D"topHeaderLinks">=20
+          <table align=3D"right" style=3D"font:12px/ 16px Arial, sans-serif=
+; color: rgb(51, 51, 51);">=20
+           <tbody>=20
+            <tr style=3D"padding: 5px 0px 5px 0px; white-space: nowrap; bor=
+der-collapse: collapse; text-align: right; width: 490px;">=20
+             <td>=20
+              <div class=3D"unified_widget rcmBody">
+               <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4NL1=
+&C=3D3TG14KBDH777U&H=3DMJSQIYL1OL78P8JZIOSSGDJQSXMA&T=3DC&U=3Dhttps%3A%2F%2=
+Fwww.amazon.com%3A443%2Fgp%2Fredirect.html%2Fref%3Dpe_385040_30332190_amb_l=
+ink_375944182_1%2F192-5797644-9264931%3Fie%3DUTF8%26location%3Dhttps%253A%2=
+52F%252Fwww.amazon.com%252Fgp%252Fyourstore%252Fhome%253Fie%253DUTF8%2526re=
+f%253Dswm001%26token%3D661ABEA050EC7ED103349320C53489637F654274%26pf_rd_m%3=
+DATVPDKIKX0DER%26pf_rd_s%3Demail-center-1%26pf_rd_r%3D0V0J8582Q3B34B0FE0H9%=
+26pf_rd_t%3D401%26pf_rd_p%3D1633342582%26pf_rd_i%3Dcontentsymphonyslot" sty=
+le=3D"text-decoration: none; color: rgb(0, 102, 153); font-family: Arial, s=
+an-serif">Your Recommendations</a>
+               <div class=3D"h_rule"></div>
+              </div> </td>=20
+             <td> <span style=3D"text-decoration:none; color:#CCC; font:15p=
+x Arial, san-serif;">&nbsp;|&nbsp; </span> </td>=20
+             <td> <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4=
+NL1&C=3D3TG14KBDH777U&H=3DLWBYKMHXNXPRJ9WR6SUYAHKQPLQA&T=3DC&U=3Dhttps%3A%2=
+F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-orders-access%2Fref%3Dpe_385040_303321=
+90_TE_M3T1_ST1_oh_tn" style=3D"text-decoration: none; color: rgb(0, 102, 15=
+3); font-family: Arial, san-serif">Your Orders</a> </td>=20
+             <td> <span style=3D"text-decoration:none; color:#CCC; font:15p=
+x Arial, san-serif;">&nbsp;|&nbsp;</span> </td>=20
+             <td> <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4=
+NL1&C=3D3TG14KBDH777U&H=3DALKLLSQUEKSM7AGWKJXKVXIUQH8A&T=3DC&U=3Dhttps%3A%2=
+F%2Fwww.amazon.com%2Fref%3Dpe_385040_30332190_TE_M3T1_ST1_g_tn" style=3D"te=
+xt-decoration: none; color: rgb(0, 102, 153); font-family: Arial, san-serif=
+"> Amazon.com</a> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"padding: 7px 0px 0px 20px; text-align: right; width: =
+490px;"> <span style=3D"font:20px Arial, san-serif;">Shipping Confirmation<=
+/span> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"padding: 0px 0px 5px 20px; text-align: right; width: =
+490px;"> <span style=3D"font-size:12px;"> Order #<a href=3D"http://www.amaz=
+on.com/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG14KBDH777U&H=3DE93XSA0APJAAY84TVF=
+AUI3PFAO4A&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Forder-detail=
+s%3ForderId%3D110-9201357-5832237%26ref%3DTE_M3T1_ST1_on%26ref_%3Dpe_385040=
+_30332190" style=3D"text-decoration:none; color:#006699;">110-9201357-58322=
+37</a> </span> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"width:640px;"> <p style=3D"font:18px Arial,=
+ sans-serif; color:#cc6600; margin:15px 20px 0 20px;">Hello Alex Dinsmore,<=
+/p> <p style=3D"margin:4px 20px 18px 20px; width:640px;"> Thank you for sho=
+pping with us. We thought you'd like to know that we shipped your item, and=
+ that this completes your order. Your order is on its way, and can no longe=
+r be changed. If you need to return an item from this shipment or manage ot=
+her orders, please visit <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA=
+4CRXSJ4NL1&C=3D3TG14KBDH777U&H=3DURXJFFMF9MYMPQMVJUIAKAPUYUEA&T=3DC&U=3Dhtt=
+ps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-orders-access%2Fref%3Dpe_385040=
+_30332190_TE_M3T1_ST1_oh_bd" style=3D"color:#006699;">Your Orders</a> on Am=
+azon.com. </p> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"padding:0 20px;width:640px;">=20
+      <table cellspacing=3D"0" style=3D"border-top:3px solid #2d3741;width:=
+640px;" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td valign=3D"top" style=3D"font:14px Arial, san-serif; padding:11=
+px 0 14px 18px;width:280px;background-color:#efefef;"> <span style=3D"color=
+:#666;">Your guaranteed delivery date is:</span> <br /> <p style=3D"margin:=
+2px 0 9px 0;"> <strong>Wednesday, December 11, 2013</strong> </p> <a href=
+=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG14KBDH777U&H=
+=3DHACC2ZLD603CZUAGDJU47XDMQ2EA&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp=
+%2Fcss%2Fshiptrack%2Fview.html%2Fref%3Dpe_385040_30332190_TE_M3T1_ST1_typ%3=
+Fie%3DUTF8%26addressID%3Dkgmjqsloqip%26trackingNumber%3D9341989949005104715=
+398%26latestArrivalDate%3D1386820800%26shipMethod%3DUSPS_SC_AT_BPM%26orderI=
+D%3D110-9201357-5832237%26shipmentDate%3D1386605340%26orderingShipmentId%3D=
+1965642302113%26packageId%3D1"> <img alt=3D"Track your package" border=3D"0=
+" height=3D"26" id=3D"trackYourPackage" src=3D"https://images-na.ssl-images=
+-amazon.com/images/G/01/x-locale/cs/te/button-track.png" style=3D"font-size=
+:13px;" width=3D"149" /> </a> </td>=20
+         <td valign=3D"top" style=3D"font:14px Arial, san-serif; padding:11=
+px 18px 14px 18px;width:280px;background-color:#efefef;"><span style=3D"col=
+or:#666;">Your order was sent to:</span><br /> <p style=3D"margin:2px 0;"> =
+<strong> Alex Dinsmore <br /> 844 MYRTLE AVE APT 1 <br />=20
+            <nowrap>
+             BROOKLYN, NY 11206-6502
+            </nowrap> <br /> United States </strong> </p> </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" style=3D"font-size:10px; color:#666; padding:0 1=
+0px 20px 10px; line-height:16px;width:640px;"> <p style=3D"margin:10px 0 0 =
+0; font:11px/16px Arial, sans-serif;color:#333;"> Depending on the ship spe=
+ed you chose, it may take 24 hours for tracking information to be available=
+ in your account. </p> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"padding:0px 20px 0px 20px;">=20
+      <div style=3D"display:none;"></div>
+      <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+">
+       <tbody>
+        <tr>
+         <td align=3D"center"><map name=3D"CBCC_SCE_30"><area shape=3D"rect=
+" coords=3D"0,0,600,37" alt=3D"Get $30 instantly when you get the Amazon.co=
+m Rewards Visa Card" href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4=
+NL1&C=3D3TG14KBDH777U&H=3DRHC9JBEHZUAKEGDWXUBAASZDHSUA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref%3Dpe_385040_30332190_scc0=
+02%2F183-8669561-6744929%3Fie%3DUTF8%26location%3Dhttp%253A%252F%252Fwww.am=
+azon.com%252Fgp%252Fcobrandcard%252Fmarketing.html%253Fie%253DUTF8%2526plac=
+e%253Dcamp%2526plattr%253DCBSCES30%2526pr%253Dcon321%26token%3D3A0F170E7CEF=
+E27BDC730D3D7344512BC1296B83%26pf_rd_m%3DATVPDKIKX0DER%26pf_rd_s%3Demail-ce=
+nter-1%26pf_rd_r%3D17MR117ZJBT589KVJZ7S%26pf_rd_t%3D401%26pf_rd_p%3D1633301=
+522%26pf_rd_i%3Dcontentsymphonyslot"></area> </map><img src=3D"https://imag=
+es-na.ssl-images-amazon.com/images/G/01/credit/img13/CBCC/Email/cbcc-get30i=
+nst_email._V383419930_.png" width=3D"600" align=3D"center" usemap=3D"#CBCC_=
+SCE_30" alt=3D"Get $30 instantly when you get the Amazon.com Rewards Visa C=
+ard" height=3D"37" border=3D"0" /></td>
+        </tr>
+       </tbody>
+      </table> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"width:640px;"> <p style=3D"font:18px Arial,=
+ sans-serif; color:#cc6600; border-bottom:1px solid #ccc; margin:10px 20px =
+3px 20px; padding:0 0 3px 0;"> Shipment Details </p> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"padding:16px 40px;width:640px;">=20
+      <table width=3D"560" cellspacing=3D"0" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td align=3D"center" valign=3D"top" style=3D"width:150px;height:11=
+5px;"> <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG=
+14KBDH777U&H=3D71WCSWTE0DFMKDFUKOVV36QXAXQA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amaz=
+on.com%2Fdp%2F0525457585%2Fref%3Dpe_385040_30332190_TE_M3T1_ST1_dp_i1" styl=
+e=3D"margin:0 20px 0 0;" title=3D"ItemImage"> <img border=3D"0" id=3D"asin"=
+ src=3D"http://ecx.images-amazon.com/images/I/51Gq3qQ6LUL._SCLZZZZZZZ__SY11=
+5_SX115_.jpg" style=3D"margin:0 0 14px 0;" /> </a> </td>=20
+         <td valign=3D"top" style=3D"color:#666; padding:10px 10px 0 10px;w=
+idth:330px;height:115px;"> <p style=3D"margin:0 0 0 7px; padding:0;"> <a hr=
+ef=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG14KBDH777U&H=
+=3D0V7EPOWJMVIXJ5ESTPWHWBOAWCQA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fdp%=
+2F0525457585%2Fref%3Dpe_385040_30332190_TE_M3T1_ST1_dp_1" style=3D"font:14p=
+x Arial, sans-serif; text-decoration:none; color:#006699;"> The Neverending=
+ Story </a> <br /> <span style=3D"font:12px Arial, sans-serif;"> Sold by Am=
+azon.com LLC </span> </p>=20
+          <div style=3D"vertical-align: top; align=3Dcenter;">=20
+           <table border=3D"0" cellspacing=3D"4" cellpadding=3D"0">=20
+            <tbody style=3D"vertical-align: bottom;">=20
+             <tr>=20
+              <td style=3D"vertical-align:top"> </td>=20
+              <td> <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ=
+4NL1&C=3D3TG14KBDH777U&H=3DAACSLLIDXYAEAZ8GUXSAU2DUWYCA&T=3DC&U=3Dhttp%3A%2=
+F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref%3Dpe_385040_30332190_cm_=
+sw_cl_fa_sce%2F179-3272569-5448862%3F_encoding%3DUTF8%26location%3Dhttp%253=
+A%252F%252Fwww.facebook.com%252Fdialog%252Ffeed%253Fapp_id%253D164734381262=
+%2526caption%253D%2526display%253Dpopup%2526link%253Dhttp%25253A%25252F%252=
+52Fwww.amazon.com%25252Fdp%25252F0525457585%25252Fref%25253Dcm_sw_r_fa_sce%=
+2526name%253D%2526picture%253Dhttp%25253A%25252F%25252Fecx.images-amazon.co=
+m%25252Fimages%25252FI%25252F51Gq3qQ6LUL._SCLZZZZZZZ__SY115_SX115_.jpg%2526=
+redirect_uri%253Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fdp%25252F052=
+5457585%25252Fref%25253Dcm_sw_r_fa_sce%26token%3D6BD0FB927CC51E76FF446584B1=
+040F70EA7E88E1"> <img src=3D"http://g-ecx.images-amazon.com/images/G/01/x-l=
+ocale/personalization/live-meter/facebook._V199133872_.gif" width=3D"16" al=
+t=3D"Facebook" style=3D"vertical-align:middle" height=3D"16" border=3D"0" /=
+> </a> </td>=20
+              <td> <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ=
+4NL1&C=3D3TG14KBDH777U&H=3DR0OBCW40KBWXJBZDFQEX1WZVA3KA&T=3DC&U=3Dhttp%3A%2=
+F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref%3Dpe_385040_30332190_cm_=
+sw_cl_tw_sce%2F179-3272569-5448862%3F_encoding%3DUTF8%26location%3Dhttp%253=
+A%252F%252Ftwitter.com%252Fshare%253Fcount%253Dnone%2526original_referer%25=
+3Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fdp%25252F0525457585%25252Fr=
+ef%25253Dcm_sw_r_tw_sce%2526related%253Damazon%25252Camazondeals%25252Camaz=
+onmp3%2526text%253DThe%252520Neverending%252520Story%252520%252520%252520%2=
+52520%252520%252520%252520%252520%252520%252520%252520%252520%252520%252520=
+%252520%252520%252520%252520%252520%252520by%252520Amazon%2526twitterURL%25=
+3Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fdp%25252F0525457585%25252Fr=
+ef%25253Dcm_sw_r_tw_sce%2526via%253Damazon%26token%3D7A1A4AE8F6CE0BD277D829=
+5E58702D283F329C0F"> <img src=3D"http://g-ecx.images-amazon.com/images/G/01=
+/x-locale/communities/social/twitter._V388046070_.gif" width=3D"16" alt=3D"=
+Twitter" style=3D"vertical-align:middle" height=3D"16" border=3D"0" /> </a>=
+ </td>=20
+              <td> <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ=
+4NL1&C=3D3TG14KBDH777U&H=3DEE8Z0ASXAAFOU0FV5N078YAR2ZIA&T=3DC&U=3Dhttp%3A%2=
+F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref%3Dpe_385040_30332190_cm_=
+sw_cl_pi_sce%2F179-3272569-5448862%3F_encoding%3DUTF8%26location%3Dhttp%253=
+A%252F%252Fpinterest.com%252Fpin%252Fcreate%252Fbutton%252F%253Fdescription=
+%253DThe%252520Neverending%252520Story%252520%252520%252520%252520%252520%2=
+52520%252520%252520%252520%252520%252520%252520%252520%252520%252520%252520=
+%252520%252520%252520%252520by%252520Amazon%25252C%252520http%25253A%25252F=
+%25252Fwww.amazon.com%25252Fdp%25252F0525457585%25252Fref%25253Dcm_sw_r_pi_=
+sce%2526is_video%253Dfalse%2526media%253Dhttp%25253A%25252F%25252Fecx.image=
+s-amazon.com%25252Fimages%25252FI%25252F51Gq3qQ6LUL._SCLZZZZZZZ__SY115_SX11=
+5_.jpg%2526title%253D%2526url%253Dhttp%25253A%25252F%25252Fwww.amazon.com%2=
+5252Fdp%25252F0525457585%25252Fref%25253Dcm_sw_r_pi_sce%26token%3D9F58B3662=
+58E1A8B5259E9BEF3482E02341F42D3"> <img src=3D"http://g-ecx.images-amazon.co=
+m/images/G/01/x-locale/communities/social/pinterest._V149279734_.png" width=
+=3D"16" alt=3D"Pinterest" style=3D"vertical-align:middle" height=3D"16" bor=
+der=3D"0" /> </a> </td>=20
+             </tr>=20
+            </tbody>=20
+           </table>=20
+          </div> </td>=20
+         <td align=3D"right" valign=3D"top" style=3D"font:14px Arial, san-s=
+erif; padding:10px 0 0 0;width:80px;height:115px;"> <strong>$16.56</strong>=
+ </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"3" style=3D"border-top: 1px solid rgb(234, 234, 234=
+); padding: 0pt 0pt 16px;width:560px;"> &nbsp; </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"font:12p=
+x/18px Arial, sans-serif; padding:0 10px 0 0; color: rgb(51, 51, 51); width=
+:480px;" class=3D"chargeDescription"> Item Subtotal: </td>=20
+         <td align=3D"right" valign=3D"top" style=3D"font:12px/18px Arial, =
+sans-serif; color: rgb(51, 51, 51); width:80px;" class=3D"chargeAmount"> $1=
+6.56 </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"font:12p=
+x/18px Arial, sans-serif; padding:0 10px 0 0; color: rgb(51, 51, 51); width=
+:480px;" class=3D"chargeDescription"> Shipping &amp; Handling: </td>=20
+         <td align=3D"right" valign=3D"top" style=3D"font:12px/18px Arial, =
+sans-serif; color: rgb(51, 51, 51); width:80px;" class=3D"chargeAmount"> $1=
+2.98 </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"font:12p=
+x/18px Arial, sans-serif; padding:0 10px 0 0; color: rgb(51, 51, 51); width=
+:480px;" class=3D"chargeDescription"> Promotion Applied: </td>=20
+         <td align=3D"right" valign=3D"top" style=3D"font:12px/18px Arial, =
+sans-serif; color: rgb(51, 51, 51); width:80px;" class=3D"chargeAmount"> -$=
+0.00 </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"font:12p=
+x/18px Arial, sans-serif; padding:0 10px 0 0; color: rgb(51, 51, 51); width=
+:480px;" class=3D"chargeDescription"> Total Before Tax: </td>=20
+         <td align=3D"right" valign=3D"top" style=3D"font:12px/18px Arial, =
+sans-serif; color: rgb(51, 51, 51); width:80px;" class=3D"chargeAmount"> $2=
+9.54 </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"font:12p=
+x/18px Arial, sans-serif; padding:0 10px 0 0; color: rgb(51, 51, 51); width=
+:480px;" class=3D"chargeDescription"> Sales Tax Collected: </td>=20
+         <td align=3D"right" valign=3D"top" style=3D"font:12px/18px Arial, =
+sans-serif; color: rgb(51, 51, 51); width:80px;" class=3D"chargeAmount"> $2=
+.62 </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"font:14p=
+x Arial, sans-serif; padding:10px 10px 10px 0;color:#333;width:480px;"> Shi=
+pment Total: </td>=20
+         <td align=3D"right" valign=3D"top" style=3D"color:#333;font:14px A=
+rial, sans-serif;padding:10px 0 5px 0;color:#333;width:80px;"> <strong> $32=
+.16 </strong> </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"font:12p=
+x/18px Arial, sans-serif; padding:0 10px 0 0; color: rgb(51, 51, 51); width=
+:480px;" class=3D"chargeDescription"> Paid by Visa: </td>=20
+         <td align=3D"right" valign=3D"top" style=3D"font:12px/18px Arial, =
+sans-serif; color: rgb(51, 51, 51); width:80px;" class=3D"chargeAmount"> $3=
+2.16 </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"padding:0 20px; line-height:22px;width:640p=
+x;"> <p style=3D"border-top:1px solid #ccc; padding:20px 0 0 0;"> Returns a=
+re easy. Visit our <a href=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ=
+4NL1&C=3D3TG14KBDH777U&H=3DFHIPWMAEACH3YPLUJO1BFFCZAYIA&T=3DC&U=3Dhttp%3A%2=
+F%2Fwww.amazon.com%2Fgp%2Fcss%2Freturns%2Fhomepage.html%2Fref%3Dpe_385040_3=
+0332190_TE_M3T1_ST1_r" style=3D"color:#006699;">Online Return Center</a>. <=
+br /> If you need further assistance with your order, please visit <a href=
+=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG14KBDH777U&H=
+=3DTVSARAVEWNAEX79TFJKGMIGMXTWA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fcus=
+tomer-service%3Fref%3DTE_M3T1_ST1_cs%26ref_%3Dpe_385040_30332190" style=3D"=
+color:#006699;">Customer Service</a>. </p> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"padding:0 20px 0 20px; line-height:22px;wid=
+th:640px;"> <p style=3D"margin:10px 0; padding:0 0 20px 0; border-bottom:1p=
+x solid #eaeaea;">We hope to see you again soon!<br /> <span style=3D"font:=
+14px Arial, san-serif;"> <strong>Amazon.com</strong> </span> </p> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"padding:10px 20px 10px 20px;">=20
+      <table cellspacing=3D"0" style=3D"width:100%; border-bottom:1px solid=
+ #eaeaea; padding:0 0 20px 0;" cellpadding=3D"0">=20
+       <tbody>=20
+        <tr>=20
+         <td>=20
+          <div style=3D"display:none;"></div>
+          <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0">
+           <tbody>
+            <tr>
+             <td align=3D"center"><map name=3D"mappedbookspromo"><area shap=
+e=3D"rect" coords=3D"0,0,300,75" alt=3D"Books" href=3D"http://www.amazon.co=
+m/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG14KBDH777U&H=3DIZGVF7SLBXWC4MQSFJI4AAP=
+ENP8A&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref=
+%3Dpe_385040_30332190_lbk002%2F184-4189584-8572705%3F_encoding%3DUTF8%26loc=
+ation%3Dhttp%253A%252F%252Fwww.amazon.com%252Fb%253Fie%253DUTF8%2526node%25=
+3D45%26token%3D3A0F170E7CEFE27BDC730D3D7344512BC1296B83%26pf_rd_m%3DATVPDKI=
+KX0DER%26pf_rd_s%3Demail-center-1%26pf_rd_r%3D073VH7PDGS3S8GM6CAH6%26pf_rd_=
+t%3D401%26pf_rd_p%3D1670653322%26pf_rd_i%3Dcontentsymphonyslot"></area> </m=
+ap><img src=3D"https://images-na.ssl-images-amazon.com/images/G/01/img13/bo=
+oks/email/1105_booksq4_transaction1_300x75._V352971760_.png" width=3D"300" =
+align=3D"center" usemap=3D"#mappedbookspromo" alt=3D"Books" height=3D"75" b=
+order=3D"0" /></td>
+            </tr>
+           </tbody>
+          </table> </td>=20
+         <td>=20
+          <div style=3D"display:none;"></div>
+          <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0">
+           <tbody>
+            <tr>
+             <td align=3D"center"><map name=3D"holidaytoylist"><area shape=
+=3D"rect" coords=3D"0,0,300,75" alt=3D"Holiday Toy List" href=3D"http://www=
+.amazon.com/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG14KBDH777U&H=3DKSKO3IBUB5ANU=
+MSPEPYGDCD3TN8A&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.=
+html%2Fref%3Dpe_385040_30332190_rtl001%2F188-0770614-0572762%3Flocation%3Dh=
+ttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fholidaytoylist%26token%3D3A0F170E7CEFE27B=
+DC730D3D7344512BC1296B83%26pf_rd_m%3DATVPDKIKX0DER%26pf_rd_s%3Demail-center=
+-1%26pf_rd_r%3D1DHQZTX3PH9S1MM8PZR4%26pf_rd_t%3D401%26pf_rd_p%3D1671453382%=
+26pf_rd_i%3Dcontentsymphonyslot"></area> </map><img src=3D"https://images-n=
+a.ssl-images-amazon.com/images/G/01/img13/traffic/holiday-toy-list/email/ht=
+l_email_300x75_generic._V353693254_.jpg" width=3D"300" align=3D"center" use=
+map=3D"#holidaytoylist" alt=3D"Holiday Toy List" height=3D"75" border=3D"0"=
+ /></td>
+            </tr>
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table> </td>=20
+    </tr>=20
+    <tr>=20
+     <td colspan=3D"2" style=3D"font-size:10px; color:#666; padding:0 20px =
+20px 20px; line-height:16px;width:640px;"> <p>This email was sent from a no=
+tification-only address that cannot accept incoming email. Please do not re=
+ply to this message.</p> </td>=20
+    </tr>=20
+   </tbody>=20
+  </table> =20
+ <img src=3D"http://www.amazon.com/gp/r.html?R=3D3EA4CRXSJ4NL1&C=3D3TG14KBD=
+H777U&H=3DQ8XWL6A9K2XHNVYNGAXXUOVQOJSA&T=3DE&U=3Dhttp%3A%2F%2Fimages.amazon=
+.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif" /></body>
+</html>=20
+
+------=_Part_4257530_524220891.1386606129888--
+
+------=_Part_4257529_1595023656.1386606129888--

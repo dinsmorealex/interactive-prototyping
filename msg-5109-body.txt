@@ -1,0 +1,925 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.182.121.5 with SMTP id lg5csp250312obb;
+        Wed, 13 Nov 2013 19:01:26 -0800 (PST)
+X-Received: by 10.49.82.111 with SMTP id h15mr26265018qey.33.1384398086199;
+        Wed, 13 Nov 2013 19:01:26 -0800 (PST)
+Return-Path: <m-XhmaM5Fohr3IYOsiNOmSnlrI_hicRwg2PUI5n0wDjC3dftRKUCdSHjFXePBkH7@bounce.linkedin.com>
+Received: from mailb-ec.linkedin.com (mailb-ec.linkedin.com. [199.101.162.41])
+        by mx.google.com with ESMTP id nf5si21542255qeb.124.2013.11.13.19.01.25
+        for <dinsmorealex@gmail.com>;
+        Wed, 13 Nov 2013 19:01:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of m-XhmaM5Fohr3IYOsiNOmSnlrI_hicRwg2PUI5n0wDjC3dftRKUCdSHjFXePBkH7@bounce.linkedin.com designates 199.101.162.41 as permitted sender) client-ip=199.101.162.41;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of m-XhmaM5Fohr3IYOsiNOmSnlrI_hicRwg2PUI5n0wDjC3dftRKUCdSHjFXePBkH7@bounce.linkedin.com designates 199.101.162.41 as permitted sender) smtp.mail=m-XhmaM5Fohr3IYOsiNOmSnlrI_hicRwg2PUI5n0wDjC3dftRKUCdSHjFXePBkH7@bounce.linkedin.com;
+       dkim=pass header.i=@linkedin.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=linkedin.com
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-Class:X-LinkedIn-fbl;
+	b=mAKkPI+6rQuSWEWd+OqeUt9sj3mp2m0tI7Yd7spxSpCyflRkN0IIQiPm7sTvnYaN
+	SeqR+Rtgmef3/6pHeJaiMtVYUChllyeNMP10xbKJn22GLY2KERTCngLjDEU+lIFM
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1384398083;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl:
+	X-LinkedIn-Template;
+	bh=OWe+ew141td5XA9hiBfz0KjZV5Q=;
+	b=5u7nGNZMhF4z65SWr2wpw1DCmegoqzccIzL4rYJUHBwG5i0mQtpHsIxPcNR7yBSD
+	75lA5I2QEBIpCN0vxJI9OzPnZa9YTrCntl6lDrKq6pWVd+PUQwCR2akR0N/1ukEC
+	JNHP6lbNkWvERH8zAmxqzmq+dVyEmzJwDVozOj2GAPs=;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Thu, 14 Nov 2013 03:01:23 +0000 (UTC)
+From: LinkedIn <jobs-listings@linkedin.com>
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+Message-ID: <1210342313.6029244.1384398083167.JavaMail.app@ela4-app0086.prod>
+Subject: Alex: Harney and Sons Fine Teas, TapCommerce and NewsCred are
+ looking for candidates like you.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_6029238_333309966.1384398083160"
+X-LinkedIn-Template: job_alert
+X-LinkedIn-Class: JOBS-TO-MBR
+X-LinkedIn-fbl: m-XhmaM5Fohr3IYOsiNOmSnlrI_hicRwg2PUI5n0wDjC3dftRKUCdSHjFXePBkH7
+
+------=_Part_6029238_333309966.1384398083160
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Alex,
+
+    Check out these jobs that may interest you:
+
+
+    ---------------------------
+    Art & Web Coordinator
+    Harney and Sons Fine Teas
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9464965/rj_em/?hs=false&tok=3uC8fnu_8l4C01
+    ---------------------------
+    Marketing Coordinator
+    TapCommerce
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9641095/rj_em/?hs=false&tok=2dj5qzGxwl4C01
+    ---------------------------
+    Office Manager
+    NewsCred
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9347302/rj_em/?hs=false&tok=2JQxnA3kcl4C01
+    ---------------------------
+    Office Manager
+    Grok
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9617037/rj_em/?hs=false&tok=20rNKQu7Il4C01
+    ---------------------------
+    Creative Artist - Creative Artist, InDesign/MAC, Photoshop
+    CyberCoders
+    Greater Grand Rapids, Michigan Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9214972/rj_em/?hs=false&tok=18HtbpPp4l4C01
+    ---------------------------
+    Sr Art Director
+    A+E Networks
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9378454/rj_em/?hs=false&tok=2-jGQYvssl4C01
+    ---------------------------
+    Office Manager 
+    IMC financial markets & asset management
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9419532/rj_em/?hs=false&tok=3LBsBzJuEl4C01
+    ---------------------------
+    Executive Assistant
+    BBC Worldwide
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9522931/rj_em/?hs=false&tok=2aubjWvIwl4C01
+    ---------------------------
+    Office Manager
+    The Talent Solution
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9421257/rj_em/?hs=false&tok=2fEicb_jsl4C01
+    ---------------------------
+    Executive Assistant
+    Green Key Resources
+    Greater New York City Area
+
+    View Job >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9606513/rj_em/?hs=false&tok=04ypRYx30l4C01
+    ---------------------------
+
+    See more jobs you may be interested in >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/jym/rj_em_sm/?hs=false&tok=06RzIQyNkl4C01
+
+    Get hired faster with a Job Seeker Premium Account! Learn More >>
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/sjc/jss_rj_em/?hs=false&tok=0Vrcfv40cl4C01
+
+    ------------------------------------------------------
+    If you prefer not to receive these messages, you can change your settings.
+    http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/cja/rj_optout/?hs=false&tok=2K_7gPIBwl4C01
+
+This email was intended for Alex Dinsmore (Assistant at Yorgo Alexopoulos Multimedia). Follow this link to learn why we include this information.
+http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/plh/http%3A%2F%2Fhelp%2Elinkedin%2Ecom%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F4788/-GXI/?hs=false&tok=2bZqRsbzYl4C01
+
+(c) 2013, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, USA
+  
+------=_Part_6029238_333309966.1384398083160
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+      <html>
+        <head>
+          <style type="text/css">
+            html {-webkit-text-size-adjust:none;}
+            body {background-color: #F4F4F4; padding:0; margin:0; width:100%; margin:0 auto;}
+            *[class].tdwrap{display: inline-block !important;}
+            *[class].vspacer{ margin-left: 50px; }
+            *[class].responsive-50per{ width: 50% !important; }
+            *[class].responsive-75per{ width: 75% !important; }
+            @media all and (max-width: 590px){
+              *[class].responsive{width:320px !important;}
+              *[class].responsive-spacer table{width: 20px !important; }
+              *[class].vspacer{ margin-top: 10px !important; margin-bottom: 15px !important; margin-left: 0 !important; }
+              *[class].res-font16{font-size:16px !important;}
+              *[class].res-font15{font-size:15px !important;}
+              *[class].res-font12{font-size:12px !important;}
+              *[class].res-font18{font-size:18px !important;}
+              *[class].res-font18 span{font-size: 18px !important;}
+              *[class].res-font28{font-size:28px !important;}
+              *[class].responsive-50per{ width: 100% !important;}
+              *[class].responsive-spacer70{ width: 70px !important; }
+              *[class].hideIMG{ height: 0px !important; width: 0px !important; }
+              *[class].res-height20{ height: 20px !important; }
+              *[class].res-height20 div{ height: 20px !important; }
+              *[class].res-height10{ height: 10px !important; }
+              *[class].res-height10 div{ height: 10px !important; }
+              *[class].res-height0 { height: 0px !important; }
+              *[class].res-height0 div{ height: 0px !important; }
+              *[class].res-width280{ width: 280px !important; }
+              *[class].res-width25{ width: 25px !important; }
+              *[class].res-width10{ width: 10px !important; }
+              *[class].res-width10 table{ width: 10px !important; }
+              *[class].res-width60{width: 60px !important;}
+              *[class].res-padding{ width: 0 !important; }
+              *[class].res-padding table{ width: 0 !important; }
+              *[class].cellpadding-none{ width: 0px !important; }
+              *[class].cellpadding-none table{ border: collapse !important; }
+              *[class].cellpadding-none table td{ padding: 0 !important; }
+              *[class].display-none{ display: none !important; }
+              *[class].display-block{ display: block !important; }
+              *[class].remove-margin{ margin: 0 !important; }
+              *[class].remove-border{ border: none !important; }
+              *[class].res-img60{width: 60px !important; height: 60px !important;}
+              *[class].res-img100{ width: 100px !important; height: 100px !important; }
+              *[class].res-img320{width: 320px !important; height: auto !important; position: relative;}
+              *[class].res-border{border-top: 1px solid #E1E1E1 !important;}
+              *[class].mobile-hidden{ display: none !important; height: 0px !important; width:0px !important; }
+              *[class].full-width{ width:100% !important; }
+              *[class].mobile-capitalize{ text-transform: capitalize !important; }
+            }
+            @media only screen and (max-device-width: 480px) {
+              p[class=anet-digest-activity],
+              span[class=anet-digest-count],
+              td[class=anet-digest-right-rail] {
+                display:none;
+              }
+            }
+          </style>
+        </head>
+        <body >
+    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #DFDFDF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;" bgcolor="#DFDFDF" width="100%" class=""><tr><td width="98%" valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px none;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none" bgcolor="#DFDFDF" width="550" class="responsive"><tr><td width="98%" valign="top" align="left">
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+  <tr>
+    <td align="left" valign="middle">
+      <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/hom/TEMP_LOGO_TRK/?hs=false&amp;tok=1HWoQ4o0wl4C01">
+        <img src="http://s.c.lnkd.licdn.com/scds/common/u/images/email/logos/logo_linkedin_tm_email_95x21_v1.png" height="21" width="95" alt="LinkedIn" border="0" style="vertical-align:bottom;display:block">
+      </a>
+    </td>
+    <td align="right" style="font-size:11px; font-family:Arial,sans-serif; color:#999999;" valign="top" width="70%">
+    </td>
+  </tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+</table>
+      <!-- DARK GREY BAR -->
+      <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none;background:#333333" bgcolor="#333" width="100%" class=""><tr><td width="98%" valign="top" align="left">
+        <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+          <tr>
+            <td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td>
+          </tr>
+          <tr>
+            <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+            <td align="left" style="font:Helvetica,arial,sans-serif;" valign="middle">
+              <span style="color:#FFFFFF;font-size:20px">
+                Jobs you may be interested in
+              </span>
+            </td>
+            <td align="right">
+              <table border="0" cellpadding="0" cellspacing="0" align=""><tr><td align="center" height="30" valign="middle" bgcolor="#287BBC" background="http://s.c.lnkd.licdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png" style="background:url(http://s.c.lnkd.licdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x scroll 100% 0 #287BBC;background-color:#287BBC;border:1px solid #1B5480;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;"><div style="padding-right:13px;padding-left:13px;"><a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjh/rj_em_sm/?hs=false&amp;tok=2iwHj-P5sl4C01" style="text-decoration:none;"><span style="font-size:13px;font-family:Arial;font-weight:bold;color:#ffffff;white-space:nowrap;display:block;">
+                See all jobs
+              </span></a></div></td></tr></table>
+            </td>
+            <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+          </tr>
+          <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td></tr>
+        </table>
+      </td></tr></table>
+      <tr>
+        <td style="background:#FFFFFF;"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:30px;font-size:30px;line-height:30px;">&nbsp;</div></td></tr></table></td>
+      </tr>
+      <tr>
+        <td>
+          <table border="0" cellpadding="0" cellspacing="0" style="width:100%;background:#FFFFFF">
+
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9464965/rj_em/?hs=false&amp;tok=3uC8fnu_8l4C01">
+              <img src="http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/ghosts/company/ghost_company_100x60_v1.png" border="0" width="100" height="60" alt="Harney and Sons Fine Teas">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9464965/rj_em/?hs=false&amp;tok=3uC8fnu_8l4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Art &amp; Web Coordinator</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                Harney and Sons Fine Teas<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9464965/rj_em/?hs=false&amp;tok=3uC8fnu_8l4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9641095/rj_em/?hs=false&amp;tok=2dj5qzGxwl4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/7/000/1eb/39a/213ea31.png" border="0" width="100" height="60" alt="TapCommerce">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9641095/rj_em/?hs=false&amp;tok=2dj5qzGxwl4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Marketing Coordinator</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                TapCommerce<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9641095/rj_em/?hs=false&amp;tok=2dj5qzGxwl4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9347302/rj_em/?hs=false&amp;tok=2JQxnA3kcl4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/3/000/299/343/188b20d.png" border="0" width="100" height="60" alt="NewsCred">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9347302/rj_em/?hs=false&amp;tok=2JQxnA3kcl4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Office Manager</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                NewsCred<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9347302/rj_em/?hs=false&amp;tok=2JQxnA3kcl4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9617037/rj_em/?hs=false&amp;tok=20rNKQu7Il4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/3/000/03b/373/271b65d.png" border="0" width="100" height="60" alt="Grok">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9617037/rj_em/?hs=false&amp;tok=20rNKQu7Il4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Office Manager</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                Grok<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9617037/rj_em/?hs=false&amp;tok=20rNKQu7Il4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9214972/rj_em/?hs=false&amp;tok=18HtbpPp4l4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/3/000/252/084/18c3911.png" border="0" width="100" height="60" alt="CyberCoders">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9214972/rj_em/?hs=false&amp;tok=18HtbpPp4l4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Creative Artist - Creative Artist, InDesign/MAC, Photoshop</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                CyberCoders<br>
+                Greater Grand Rapids, Michigan Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9214972/rj_em/?hs=false&amp;tok=18HtbpPp4l4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9378454/rj_em/?hs=false&amp;tok=2-jGQYvssl4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/6/000/1c9/004/26a39f9.png" border="0" width="100" height="60" alt="A+E Networks">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9378454/rj_em/?hs=false&amp;tok=2-jGQYvssl4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Sr Art Director</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                A+E Networks<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9378454/rj_em/?hs=false&amp;tok=2-jGQYvssl4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9419532/rj_em/?hs=false&amp;tok=3LBsBzJuEl4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/2/000/03a/240/3ecb156.png" border="0" width="100" height="60" alt="IMC financial markets &amp; asset management">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9419532/rj_em/?hs=false&amp;tok=3LBsBzJuEl4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Office Manager </a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                IMC financial markets &amp; asset management<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9419532/rj_em/?hs=false&amp;tok=3LBsBzJuEl4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9522931/rj_em/?hs=false&amp;tok=2aubjWvIwl4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/1/000/031/16e/0b5dd16.png" border="0" width="100" height="60" alt="BBC Worldwide">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9522931/rj_em/?hs=false&amp;tok=2aubjWvIwl4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Executive Assistant</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                BBC Worldwide<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9522931/rj_em/?hs=false&amp;tok=2aubjWvIwl4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9421257/rj_em/?hs=false&amp;tok=2fEicb_jsl4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/1/000/01f/2c7/0988cc3.png" border="0" width="100" height="60" alt="The Talent Solution">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9421257/rj_em/?hs=false&amp;tok=2fEicb_jsl4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Office Manager</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                The Talent Solution<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9421257/rj_em/?hs=false&amp;tok=2fEicb_jsl4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="border-bottom:1px solid #ccc;">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+
+
+
+
+
+
+<tr style="background-color:#fff">
+  <td colspan="7">
+    <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+  </td>
+</tr>
+<tr style="background-color:#FFF">
+  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="width:60px;text-align:center;" width="60">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="text-align:center;">
+          <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9606513/rj_em/?hs=false&amp;tok=04ypRYx30l4C01">
+              <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_100_60/p/2/000/0d2/140/0ddb2ff.png" border="0" width="100" height="60" alt="Green Key Resources">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td style="text-align:left">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="17">
+              <span style="display: block;line-height:17px">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9606513/rj_em/?hs=false&amp;tok=04ypRYx30l4C01" style="font:13px arial,sans-serif;color:#0077B5;text-decoration:none;">Executive Assistant</a>
+              </span>
+        </td>
+      </tr>
+      <tr>
+        <td style="font:13px Helvetica,arial,sans-serif;color:#333333">
+              <span style="line-height:17px;">
+                Green Key Resources<br>
+                Greater New York City Area
+              </span>
+        </td>
+      </tr>
+    </table>
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+  <td class="res-hide" style="text-align:right" width="100">
+        <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjb/9606513/rj_em/?hs=false&amp;tok=04ypRYx30l4C01" style="padding-right:5px;font: 13px Helvetica,Arial,sans-serif;line-height:17px;color:#0077B5;text-decoration:none;">View Job</a><img src="http://s.c.lnkd.licdn.com/scds/common/u/images/apps/microsites/200million/aero_bot.png" border="0" width="5" height="10">
+  </td>
+  <td class="res-hide" width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+</tr>
+    <tr>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      <td colspan="5" style="">
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+      <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+    </tr>
+
+
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td style="background:#FFFFFF"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td>
+      </tr>
+        <tr>
+          <td>
+            <table border="0" cellpadding="0" cellspacing="0" style="width:100%;font:13px Helvetica,Arial,sans-serif;background:#FFFFFF;">
+              <tr style="background:#FFFFFF">
+                <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                <td>
+                    <p style="font:13px arial,sans-serif;line-height:17px;color:#333333">
+                      <span style="float:left;height:17px;width:16px;background: transparent url('http://linkedin.com/scds/common/u/img/sprite/sprite_global_v8.png') no-repeat -500px 1px;padding-right:5px;"></span>Get hired faster with a <strong>Job Seeker Premium Account!</strong>
+                      <a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/sjc/jss_rj_em/?hs=false&amp;tok=0Vrcfv40cl4C01" style="color:#069;text-decoration:none;padding-right:5px;">Learn More</a><span class="arrow" style="display:inline-block;width: 0;height: 0;border-top: 5px solid transparent;border-bottom: 5px solid transparent;border-left: 5px solid #0077B5;"></span>
+                    </p>
+                </td>
+                <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+              </tr>
+              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:40px;font-size:40px;line-height:40px;">&nbsp;</div></td></tr></table></td></tr>
+            </table>
+          </td>
+        </tr>
+      <tr>
+        <td>
+          <table border="0" cellpadding="0" cellspacing="0" style="width:100%;font:13px Helvetica,Arial,sans-serif;background-color:#333;">
+            <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+            <tr>
+              <td align="center">
+                <table border="0" cellpadding="0" cellspacing="0" align=""><tr><td align="center" height="30" valign="middle" bgcolor="#287BBC" background="http://s.c.lnkd.licdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png" style="background:url(http://s.c.lnkd.licdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x scroll 100% 0 #287BBC;background-color:#287BBC;border:1px solid #1B5480;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;"><div style="padding-right:13px;padding-left:13px;"><a href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/vjh/rj_em_sm/?hs=false&amp;tok=2iwHj-P5sl4C01" style="text-decoration:none;"><span style="font-size:13px;font-family:Arial;font-weight:bold;color:#ffffff;white-space:nowrap;display:block;">
+                  See all jobs
+                </span></a></div></td></tr></table>
+              </td>
+            </tr>
+            <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:30px;font-size:30px;line-height:30px;">&nbsp;</div></td></tr></table></td>
+      </tr>
+      <tr>
+        <td style="border-top:1px solid #CCCCCC;padding-top:10px">
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" class="responsive">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+  <tr>
+    <td align="left" style="font-size:11px; font-family:Arial,sans-serif; color:#999999;">
+            You are receiving Jobs Alert emails. <a style="color:#006699;text-decoration:underline;" href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/cja/rj_optout/?hs=false&tok=2K_7gPIBwl4C01">Unsubscribe</a>.
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+
+                This email was intended for Alex Dinsmore (Assistant at Yorgo Alexopoulos Multimedia). <a style="color: #006699" href="http://www.linkedin.com/e/-2qaq1e-hnzevhhy-3z/plh/http%3A%2F%2Flinkedin%2Ecusthelp%2Ecom%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F4788/2t30/?hs=false&tok=0GVstWR8cl4C01">Learn why we included this</a>. &copy; 2013, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, USA
+    </td>
+  </tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+</table>
+
+        </td>
+      </tr>
+    </td></tr></table></td></tr></table>
+
+    <style>
+      @media all and (max-width: 590px){
+        *[class].responsive {
+          width:100% !important;
+        }
+        *[class].res-hide {
+          display: none !important;
+        }
+
+        *[class].res-show-inline {
+          display:inline !important;
+        }
+
+        *[class].res-show-block {
+          display: block !important;
+        }
+      }
+    </style>
+  <img src="https://www.linkedin.com/emimp/-2qaq1e-hnzevhhy-3z.gif" style="width:1px; height:1px;"/></body>
+      </html>
+------=_Part_6029238_333309966.1384398083160--

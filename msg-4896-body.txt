@@ -1,0 +1,68 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.174.52 with SMTP id bp20csp399691ldc;
+        Thu, 24 Oct 2013 14:11:33 -0700 (PDT)
+X-Received: by 10.224.94.8 with SMTP id x8mr6138900qam.1.1382649092813;
+        Thu, 24 Oct 2013 14:11:32 -0700 (PDT)
+Return-Path: <20131024211131138fd63970db47bdadea682157445897@bounces.amazon.com>
+Received: from smtp-out-212-31.amazon.com (smtp-out-212-31.amazon.com. [72.21.212.31])
+        by mx.google.com with ESMTP id u3si1465771qej.51.2013.10.24.14.11.32
+        for <dinsmorealex@gmail.com>;
+        Thu, 24 Oct 2013 14:11:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 20131024211131138fd63970db47bdadea682157445897@bounces.amazon.com designates 72.21.212.31 as permitted sender) client-ip=72.21.212.31;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 20131024211131138fd63970db47bdadea682157445897@bounces.amazon.com designates 72.21.212.31 as permitted sender) smtp.mail=20131024211131138fd63970db47bdadea682157445897@bounces.amazon.com;
+       dkim=pass header.i=@amazon.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=amazon.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1382649092;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=9r+iWbS+McFBx0Ra8VSG475Y3uv6ekYFpov9Lg1wcPA=;
+	b=aT+8wze9TBAurocrz5NkJ6w8lQy4YsUAMRgnGPRCkRp7gpZKGdE2mVONuxZJX6A/
+	cIEM9dwXp73vbgduQMwwNSsu17sY9pyTR1h8cKL+Av1/cAeAKuTWXllBmlO4Q0E8OVx
+	TN/5L+CKuXozJJjk4lmyN/Jn3KozzdBRVh0Jgw+s=
+Return-Path: 20131024211131138fd63970db47bdadea682157445897@bounces.amazon.com
+Date: Thu, 24 Oct 2013 21:11:32 +0000
+From: "order-update@amazon.com" <order-update@amazon.com>
+Reply-To: "order-update@amazon.com" <order-update@amazon.com>
+To: "dinsmorealex@gmail.com" <dinsmorealex@gmail.com>
+Message-ID: <00000141ec4ed83e-2341ad33-291e-4bc6-a6e1-85b1c212ee62-000000@email.amazonses.com>
+Subject: Amazon.com - Your Cancellation (111-7284691-4689059)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_117105_81683024.1382649092094"
+Bounces-to: 20131024211131138fd63970db47bdadea682157445897@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20131024211131138fd63970db47bdadea682157445897@1382649092097.rte-svc-1d2-i-b79b31d5.us-east-1.amazon.com>
+X-SES-Outgoing: 72.21.212.31
+
+------=_Part_117105_81683024.1382649092094
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Alex Dinsmore,
+
+Your order has been successfully canceled. For your reference, here's a summary of your order:
+
+You just cancelled order #111-7284691-4689059 placed with Clicket Party Supplies and Costumes on October 24, 2013.
+
+Status: CANCELLED
+
+_____________________________________________________________________
+
+1 of Silly Boy Wig (black) Deluxe Adult Halloween Costume Accessory
+Sold by: Clicket Party Supplies and Costumes
+
+_____________________________________________________________________
+
+We did not charge you for this order.
+
+Thank you for visiting Amazon.com!
+
+---------------------------------------------------------------------
+Amazon.com
+Earth's Biggest Selection
+http://www.amazon.com
+--------------------------------------------------------------------- 
+
+------=_Part_117105_81683024.1382649092094--

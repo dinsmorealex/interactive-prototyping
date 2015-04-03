@@ -1,0 +1,577 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.175.144 with SMTP id ca16csp44457ldc;
+        Fri, 21 Nov 2014 09:07:15 -0800 (PST)
+X-Received: by 10.229.40.71 with SMTP id j7mr7854991qce.21.1416589635235;
+        Fri, 21 Nov 2014 09:07:15 -0800 (PST)
+Return-Path: <bounce-mc.us5_12166667.177781-dinsmorealex=gmail.com@mail84.atl111.rsgsv.net>
+Received: from mail84.atl111.rsgsv.net (mail84.atl111.rsgsv.net. [198.2.131.84])
+        by mx.google.com with ESMTP id n94si7504793qgn.55.2014.11.21.09.07.12
+        for <dinsmorealex@gmail.com>;
+        Fri, 21 Nov 2014 09:07:15 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-mc.us5_12166667.177781-dinsmorealex=gmail.com@mail84.atl111.rsgsv.net designates 198.2.131.84 as permitted sender) client-ip=198.2.131.84;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us5_12166667.177781-dinsmorealex=gmail.com@mail84.atl111.rsgsv.net designates 198.2.131.84 as permitted sender) smtp.mail=bounce-mc.us5_12166667.177781-dinsmorealex=gmail.com@mail84.atl111.rsgsv.net;
+       dkim=pass header.i=@mail84.atl111.rsgsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail84.atl111.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=info=3Dflatrate.com@mail84.atl111.rsgsv.net;
+ bh=jHX8NzoRHdIlWY5PGoX/16mykpE=;
+ b=JEudQEujhItfwq8RALeLXJTszhQy/hW4GATgxbiRLWX0POZPhniQK2Ow12qzPbBaS6cazDC4sMrr
+   CRobRb2jPsdY+9Inw/BHqKDhgrfw9NIfppsiVDVq/5BOqV41sZ8GPBPLyQw/XFKEeZdiVUoyTyRy
+   i6Z60zZbqcdYDiUUC9o=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=jHX8NzoRHdIlWY5PGoX/16mykpE=;
+ b=bIQZ4WuXZqOhSNKr5XzbZ6Tb3uSDW8Z2Vf5f1k9Res1FX1wQb8VEKOZ8r8ApQJHhzIMKsP1HenM5
+   FWpNtpWTvnYgEY7CE32Mw1EcgnYjjWemM2JzvQtByIfkz5hMQx8f6zPyr73IpIJWklxCs3m3zM/y
+   ElRK058CpuTRRoSW/wA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail84.atl111.rsgsv.net;
+ b=Nya6B8iFnJ+J74ZRYe0cHwGfBA+/SdREVoI/L9FS8Ybxak47M+NisjTQ3ea/Kao8Y+X4eScB/fxB
+   5EURBhQgnR24aGRzDeziuxOtMxhXxLgqOTVOz1l5CpyIgnx7xG7YlHmnTu6OASgCmtIPHJBEMmzy
+   Hn/TSh5HfomUon9YTV0=;
+Received: from (127.0.0.1) by mail84.atl111.rsgsv.net id hdtok21ohlg2 for <dinsmorealex@gmail.com>; Fri, 21 Nov 2014 16:39:54 +0000 (envelope-from <bounce-mc.us5_12166667.177781-dinsmorealex=gmail.com@mail84.atl111.rsgsv.net>)
+Subject: =?utf-8?Q?Enter=20our=20holiday=20giveaway.?=
+From: =?utf-8?Q?FlatRate=20Moving?= <info@flatrate.com>
+Reply-To: =?utf-8?Q?FlatRate=20Moving?= <info@flatrate.com>
+To: =?utf-8?Q?Alex?= <dinsmorealex@gmail.com>
+Date: Fri, 21 Nov 2014 16:39:54 +0000
+Message-ID: <3b4f0e5f214c412c9748186dc0df6e6d69d.20141121163519@mail84.atl111.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID48916451e50df6e6d69d**
+X-Campaign: mailchimp3b4f0e5f214c412c9748186dc.48916451e5
+X-campaignid: mailchimp3b4f0e5f214c412c9748186dc.48916451e5
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=3b4f0e5f214c412c9748186dc&id=48916451e5&e=0df6e6d69d
+X-MC-User: 3b4f0e5f214c412c9748186dc
+X-Feedback-ID: 12166667:12166667.177781:us5:mc
+List-ID: 3b4f0e5f214c412c9748186dcmc list <3b4f0e5f214c412c9748186dc.80193.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-3b4f0e5f214c412c9748186dc-48916451e5-0df6e6d69d@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://flatrate.us5.list-manage1.com/unsubscribe?u=3b4f0e5f214c412c9748186dc&id=beb96ef2a4&e=0df6e6d69d&c=48916451e5>
+Sender: "FlatRate Moving" <info=flatrate.com@mail84.atl111.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_107676041"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_107676041
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+https://www.facebook.com/FlatRateMoving?v=3Dapp_161033847281768&rest=3D1&u=
+tm_source=3DEmail&utm_medium=3DNewsletter&utm_campaign=3DNov14
+
+
+** Give the gift of a few extra hands!
+------------------------------------------------------------
+No matter how busy life may get around the holidays=2C we all know someone=
+ who is willing to go out of their way to lend an extra hand. Someone who=
+ will go above & beyond and put the needs of others before their own and m=
+ake sure the holidays are a joyful time for everyone. Wouldn't it be great=
+ to be able to give them a little extra help?
+
+Give the gift of a personal virtual assistant to someone you care about by=
+ nominating them in our Holiday Giveaway (https://www.facebook.com/FlatRat=
+eMoving?v=3Dapp_161033847281768&rest=3D1&utm_source=3DEmail&utm_medium=3DN=
+ewsletter&utm_campaign=3DNov14) . One lucky winner will win 3 months of Fa=
+ncy Hands (https://www.fancyhands.com/?utm_source=3DFlatRate&utm_medium=3D=
+Email&utm_campaign=3DNov14)  to help with all the shopping=2C planning=2C=
+ and prepping for the holidays. The nomination period ends on November 27t=
+h=2C so be sure to nominate someone you love today!
+ON THE BLOG
+1. Make winterizing your home (http://blog.flatrate.com/winterizing-home-y=
+ard/?utm_source=3DEmail&utm_medium=3DNewsletter&utm_campaign=3DNov14) a br=
+eeze with these useful tips.
+2. Check out our collection of helpful parenting hacks (http://blog.flatra=
+te.com/parenting-tips-make-life-easier/?utm_source=3DEmail&utm_medium=3DNe=
+wsletter&utm_campaign=3DNov14) .
+3. Stay green this holiday season with our eco-friendly holiday guide (htt=
+p://blog.flatrate.com/easy-eco-friendly-holiday-season/?utm_source=3DEmail=
+&utm_medium=3DNewsletter&utm_campaign=3DNov14) .
+
+HAPPY THANKSGIVING
+FlatRate Moving would like to wish each and every one of you a very Happy=
+ Thanksgiving!
+
+We hope this is a time filled with friends=2C family=2C and plenty of food=
+=2E
+
+Pressed for time as you prepare for Thanksgiving? Check out these quick &=
+ easy Thanksgiving recipes (http://allrecipes.com/recipes/holidays-and-eve=
+nts/thanksgiving/quick-and-easy/?utm_source=3DEmail&utm_medium=3DNewslette=
+r&utm_campaign=3DNov14) to save you some time in the kitchen.
+WARM MOVING DAY CAMPAIGN
+http://www.flatrate.com/winter?utm_source=3DEmail&utm_medium=3DNewsletter&=
+utm_campaign=3DNov14
+
+
+** Stay warm=2C keep moving!
+------------------------------------------------------------
+Winter might be in full swing=2C but it doesn't mean you shouldn't keep mo=
+ving. Book a move with us between November 3 - January 31 and be automatic=
+ally entered to win a 4-day Caribbean getaway for two! Doesn't that idea m=
+ake you already feel all warm and toasty inside?
+
+13 lucky winners will also win a warm moving day package to help make movi=
+ng day a little less frigid.
+
+For more information=2C please visit www.flatrate.com/winter (http://www.f=
+latrate.com/winter?utm_source=3DEmail&utm_medium=3DNewsletter&utm_campaign=
+=3DNov14) .
+
+NO PURCHASE NECESSARY TO ENTER OR WIN. VOID WHERE PROHIBITED OR RESTRICTED=
+ BY LAW.
+flatrate.com (http://www.flatrate.com/?utm_source=3Dmonthlynews&utm_medium=
+=3Demail&utm_campaign=3Dnewsletter)      212.988.9292
+Moving (http://www.flatrate.com/New-York-home-Moving-Local?utm_source=3Dmo=
+nthlynews&utm_medium=3Demail&utm_campaign=3Dnewsletter)  |  Storage (http:=
+//www.flatrate.com/New-York-home-Storage-Process?utm_source=3Dmonthlynews&=
+utm_medium=3Demail&utm_campaign=3Dnewsletter)  |  Box Store (https://www.f=
+latrate.com:9443/Box?b=3D1?utm_source=3Dmonthlynews&utm_medium=3Demail&utm=
+_campaign=3Dnewsletter)  |  Moving Services (http://www.flatrate.com/New-Y=
+ork-home-Moving-Services-Overview?utm_source=3Dmonthlynews&utm_medium=3Dem=
+ail&utm_campaign=3Dnewsletter)  |  Why FlatRate (http://www.flatrate.com/N=
+ew-York-home-Why-FlatRate-Why-FlatRate?utm_source=3Dmonthlynews&utm_medium=
+=3Demail&utm_campaign=3Dnewsletter)  |  Community (http://www.flatrate.com=
+/New-York-home-Community-UPCYCLE?utm_source=3Dmonthlynews&utm_medium=3Dema=
+il&utm_campaign=3Dnewsletter)  |  Customer Service (http://www.flatrate.co=
+m/Home/Customer_Service?utm_source=3Dmonthlynews&utm_medium=3Demail&utm_ca=
+mpaign=3Dnewsletter)
+
+Forward to a friend (http://us5.forward-to-friend1.com/forward?u=3D3b4f0e5=
+f214c412c9748186dc&id=3D48916451e5&e=3D0df6e6d69d)  |  View email in your br=
+owser (http://us5.campaign-archive2.com/?u=3D3b4f0e5f214c412c9748186dc&id=
+=3D48916451e5&e=3D0df6e6d69d)
+ Copyright =C2=A9 2014 FlatRate Moving=C2=AE=2C All rights reserved.
+You're receiving this email because you booked a move with FlatRate Moving=
+ New York.=0D
+US DOT 488466 NY DOT T-32557
+Our mailing address is:
+FlatRate Moving=C2=AE
+555 W. 25th Street
+3rd Floor
+New York=2C NY 10001
+USA
+Unsubscribe from this list (http://flatrate.us5.list-manage1.com/unsubscri=
+be?u=3D3b4f0e5f214c412c9748186dc&id=3Dbeb96ef2a4&e=3D0df6e6d69d&c=3D48916451=
+e5)  |  Update subscription preferences (http://flatrate.us5.list-manage.c=
+om/profile?u=3D3b4f0e5f214c412c9748186dc&id=3Dbeb96ef2a4&e=3D0df6e6d69d)
+
+http://www.flatrate.com/?utm_source=3Dmonthlynews&utm_medium=3Demail&utm_c=
+ampaign=3Dnewsletter
+https://www.facebook.com/FlatRateMoving
+http://pinterest.com/flatratemoving/
+https://plus.google.com/+FlatrateNY/
+http://www.yelp.com/biz/flatrate-moving-new-york
+https://twitter.com/flatrate_moving
+http://www.flatrate.com/?utm_source=3Dmonthlynews&utm_medium=3Demail&utm_c=
+ampaign=3Dnewsletter
+--_----------=_MCPart_107676041
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+        <!-- This is a simple example template that you can edit to create=
+ your own custom templates -->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <!-- Facebook sharing information tags -->
+        <meta property=3D"og:title" content=3D"Happy Thanksgiving from Fla=
+tRate Moving.">
+
+        <title>Happy Thanksgiving from FlatRate Moving.</title>
+=09=09
+=09<style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:none;
+=09=09=09font-size:14px;
+=09=09=09font-weight:bold;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09=09text-transform:capitalize;
+=09=09}
+=09=09#backgroundTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09body=2C.backgroundTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:1px solid #DDDDDD;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:160px;
+=09=09}
+</style></head>
+<body style=3D"padding: 0px;margin: 0px;text-align: center;-webkit-text-si=
+ze-adjust: none;background-color: #FFFFFF;width: 100% !important;">
+
+
+    <!-- EMAIL NEWSLETTER -->
+
+
+<table width=3D"650" border=3D"0" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0">
+
+    <tr><td>
+
+
+    <!-- HEADER IMAGE -->
+    <table width=3D"650" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tbody>
+    <tr>
+      <td width=3D"192" align=3D"left" valign=3D"bottom"><img src=3D"https=
+://gallery.mailchimp.com/3b4f0e5f214c412c9748186dc/images/5c1b82ea-f91d-48=
+1c-aff9-529c43270413.jpg" alt=3D"" width=3D"192" height=3D"78" usemap=3D"#=
+Map2" border=3D"0" style=3D"display: block;border: none;font-size: 14px;fo=
+nt-weight: bold;height: auto;line-height: 100%;outline: none;text-decorati=
+on: none;text-transform: capitalize;"></td>
+      <td align=3D"left" valign=3D"middle" style=3D"color: #000; font: 44p=
+x Tahoma=2C Arial=2C Helvetica=2C sans-serif;"><img src=3D"https://gallery=
+=2Emailchimp.com/3b4f0e5f214c412c9748186dc/images/7d4d1e90-22fa-4eee-9a3b-73=
+cde87b8784.jpg" alt=3D"" border=3D"0" style=3D"margin: 0;padding: 0;displa=
+y: block;border: none;font-size: 14px;font-weight: bold;height: auto;line-=
+height: 100%;outline: none;text-decoration: none;text-transform: capitaliz=
+e;"></td>
+    </tr>
+  </tbody>
+    </table>
+
+    <table width=3D"650" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+      <tbody>
+        <tr> </tr>
+        <tr>
+          <td colspan=3D"2"><img src=3D"https://gallery.mailchimp.com/3b4f=
+0e5f214c412c9748186dc/images/114c48cf-fe45-4815-895e-0e4011e05382.jpg" wid=
+th=3D"650" height=3D"258" alt=3D"" style=3D"display: block;border: none;fo=
+nt-size: 14px;font-weight: bold;height: auto;line-height: 100%;outline: no=
+ne;text-decoration: none;text-transform: capitalize;" border=3D"0" usemap=
+=3D"#Map"></td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+    <!-- INTRO TEXT -->
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"background-color: #f1f1f2;">
+  <tr>
+    <td align=3D"left" valign=3D"middle" style=3D"padding: 30px 40px 30px=
+ 55px; color: #000; font: 16px/1.4em Tahoma=2C Arial=2C Helvetica=2C sans-=
+serif;"><a href=3D"http://flatrate.us5.list-manage.com/track/click?u=3D3b4=
+f0e5f214c412c9748186dc&id=3D880850d9e0&e=3D0df6e6d69d" target=3D"_blank">=
+<img align=3D"right" height=3D"91" hspace=3D"10" src=3D"https://gallery.ma=
+ilchimp.com/3b4f0e5f214c412c9748186dc/images/c50c2883-08d1-4ef6-9016-b527a=
+d9b019b.jpg" style=3D"width: 150px;height: 91px;margin: 0px;border: none;f=
+ont-size: 14px;font-weight: bold;line-height: 100%;outline: none;text-deco=
+ration: none;text-transform: capitalize;" width=3D"150"></a>
+
+<h1 style=3D"color: #5b5b5b; font-size: 30px; margin-bottom: 15px; margin-=
+top: 0px; font-weight: normal; line-height: 1.1em;"><span style=3D"font-si=
+ze:23px">Give the gift of a few extra hands!</span></h1>
+<span style=3D"font-size:14px; line-height:19.5px">No matter how busy life=
+ may get around the holidays=2C we all know someone who is willing to go o=
+ut of their way to lend an extra hand. Someone who will go above &amp; bey=
+ond and put the needs of others before their own and make sure the holiday=
+s are a joyful time for everyone. Wouldn&#39;t it be great to be able to g=
+ive them a little extra help?<br>
+<br>
+Give the gift of a personal virtual assistant to someone you care about by=
+ nominating them in our <a href=3D"http://flatrate.us5.list-manage.com/tra=
+ck/click?u=3D3b4f0e5f214c412c9748186dc&id=3D89daec6e4b&e=3D0df6e6d69d" ta=
+rget=3D"_blank">Holiday Giveaway</a>. One lucky winner will win 3 months o=
+f <a href=3D"http://flatrate.us5.list-manage.com/track/click?u=3D3b4f0e5f2=
+14c412c9748186dc&id=3Df65c406238&e=3D0df6e6d69d" target=3D"_blank">Fancy=
+ Hands</a>&nbsp;to help with all the shopping=2C planning=2C and prepping=
+ for the holidays. The nomination period ends on November 27th=2C so be su=
+re to nominate someone you love today!</span></td>
+  </tr>
+</table>
+
+
+
+    <!-- BODY TEXT REPEATABLE SECTIONS -->
+
+    <div class=3D"sections" mc:repeatable=3D"repeat_1" mc:repeatindex=3D"0=
+" mc:hideable=3D"hideable_repeat_1_1" mchideable=3D"hideable_repeat_1_1">
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"margin-top: 4px;">
+  <tr>
+    <td align=3D"left" style=3D"color: #FFFFFF; font: 24px Tahoma=2C Arial=
+=2C Helvetica=2C sans-serif; padding: 10px 40px 10px 55px; background-colo=
+r: #838383;">ON THE BLOG</td>
+  </tr>
+  <tr>
+    <td align=3D"left" style=3D"color: #000; font: 15px/1.3EM Tahoma=2C Ar=
+ial=2C Helvetica=2C sans-serif; padding: 25px 40px 15px 55px;"><ol>
+=09<li style=3D"font-size:14px; line-height:19.5px; margin-bottom: 15px;">=
+Make <a href=3D"http://flatrate.us5.list-manage1.com/track/click?u=3D3b4f0=
+e5f214c412c9748186dc&id=3D481adb34f5&e=3D0df6e6d69d" target=3D"_blank">wi=
+nterizing your home</a> a breeze with these useful tips.</li>
+=09<li style=3D"font-size:14px; line-height:19.5px; margin-bottom: 15px;">=
+Check out our collection of helpful <a href=3D"http://flatrate.us5.list-ma=
+nage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3D4a62f9c4e6&e=3D=
+0df6e6d69d" target=3D"_blank">parenting hacks</a>.</li>
+=09<li style=3D"font-size:14px; line-height:19.5px;">Stay green this holid=
+ay season with our <a href=3D"http://flatrate.us5.list-manage.com/track/cl=
+ick?u=3D3b4f0e5f214c412c9748186dc&id=3D69f41337b4&e=3D0df6e6d69d" target=
+=3D"_blank">eco-friendly holiday guide</a>.</li>
+</ol>
+</td>
+  </tr>
+    </table>
+
+    </div>
+
+      <!-- BODY TEXT REPEATABLE SECTIONS -->
+
+    <div class=3D"sections" mc:repeatable=3D"repeat_2" mc:repeatindex=3D"0=
+">
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"margin-top: 4px;">
+  <tr>
+    <td align=3D"left" style=3D"color: #FFFFFF; font: 24px Tahoma=2C Arial=
+=2C Helvetica=2C sans-serif; padding: 10px 40px 10px 55px; background-colo=
+r: #838383;">HAPPY THANKSGIVING</td>
+  </tr>
+  <tr>
+    <td align=3D"left" style=3D"color: #000; font: 15px/1.3EM Tahoma=2C Ar=
+ial=2C Helvetica=2C sans-serif; padding: 25px 40px 15px 55px;"><img align=
+=3D"right" height=3D"200" hspace=3D"10" src=3D"https://gallery.mailchimp.c=
+om/3b4f0e5f214c412c9748186dc/images/735273e9-562c-4932-83a7-345deea2d59d.j=
+pg" style=3D"width: 200px;height: 200px;margin: 0px;border: none;font-size=
+: 14px;font-weight: bold;line-height: 100%;outline: none;text-decoration:=
+ none;text-transform: capitalize;" width=3D"200">FlatRate Moving would lik=
+e to wish each and every one of you a very Happy Thanksgiving!&nbsp;<br>
+<br>
+We hope this is a time filled with friends=2C family=2C and plenty of food=
+=2E&nbsp;<br>
+<br>
+Pressed for time as you prepare for Thanksgiving? Check out these<font col=
+or=3D"#333333"> <a href=3D"http://flatrate.us5.list-manage.com/track/click=
+?u=3D3b4f0e5f214c412c9748186dc&id=3Dd95dc195ae&e=3D0df6e6d69d" target=3D"=
+_blank">quick &amp; easy Thanksgiving recipes</a> </font>to save you some=
+ time in the kitchen.</td>
+  </tr>
+    </table>
+
+    </div><div class=3D"sections" mc:repeatable=3D"repeat_2" mc:repeatinde=
+x=3D"1">
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"margin-top: 4px;">
+  <tr>
+    <td align=3D"left" style=3D"color: #FFFFFF; font: 24px Tahoma=2C Arial=
+=2C Helvetica=2C sans-serif; padding: 10px 40px 10px 55px; background-colo=
+r: #838383;">WARM MOVING DAY CAMPAIGN</td>
+  </tr>
+  <tr>
+    <td align=3D"left" style=3D"color: #000; font: 15px/1.3EM Tahoma=2C Ar=
+ial=2C Helvetica=2C sans-serif; padding: 25px 40px 15px 55px;"><a href=3D"=
+http://flatrate.us5.list-manage1.com/track/click?u=3D3b4f0e5f214c412c97481=
+86dc&id=3Deb7fd98618&e=3D0df6e6d69d" target=3D"_blank"><img align=3D"righ=
+t" height=3D"200" hspace=3D"10" src=3D"https://gallery.mailchimp.com/3b4f0=
+e5f214c412c9748186dc/images/0dde5648-f00a-4a6d-8b12-a9732fee830e.jpg" styl=
+e=3D"width: 200px;height: 200px;margin: 0px;border: none;font-size: 14px;f=
+ont-weight: bold;line-height: 100%;outline: none;text-decoration: none;tex=
+t-transform: capitalize;" width=3D"200"></a>
+
+<h1 style=3D"color: #5b5b5b; font-size: 20px; margin-bottom: 15px; margin-=
+top: 0px; font-weight: normal; line-height: 1.3em;">Stay warm=2C keep movi=
+ng!</h1>
+Winter might be in full swing=2C but it&nbsp;doesn&#39;t&nbsp;mean you sho=
+uldn&#39;t&nbsp;keep&nbsp;moving. Book a&nbsp;move with us between Novembe=
+r 3 -&nbsp;January 31 and be automatically entered to win a 4-day Caribbea=
+n&nbsp;getaway for two! Doesn&#39;t that idea make you already feel all wa=
+rm and toasty inside?<br>
+<br>
+13 lucky winners will also win a warm moving day package to help make movi=
+ng day a little less frigid.<br>
+<br>
+For more information=2C please visit <a href=3D"http://flatrate.us5.list-m=
+anage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3Da588ea6748&e=3D=
+0df6e6d69d" target=3D"_blank">www.flatrate.com/winter</a>.<br>
+<br>
+<span style=3D"color:#D3D3D3"><span style=3D"font-size:10px"><strong>NO PU=
+RCHASE NECESSARY TO ENTER OR WIN. VOID WHERE PROHIBITED OR RESTRICTED BY L=
+AW.</strong></span></span></td>
+  </tr>
+    </table>
+
+    </div>
+
+
+    <!-- OPTIONAL DID YOU KNOW -->
+    <div mc:hideable=3D"hideable_1" mchideable=3D"hideable_1"></div>
+
+    <!-- OPTIONAL IMAGE -->
+    <div mc:hideable=3D"hideable_2" mchideable=3D"hideable_2"></div>
+
+
+
+
+
+
+    <!-- FOOTER -->
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"background-color: #f1f1f2;">
+  <tr>
+    <td align=3D"center" style=3D"color: #e51939; font: 32px Arial=2C Helv=
+etica=2C sans-serif; font-weight: bold; padding: 25px 20px 20px;"><a href=
+=3D"http://flatrate.us5.list-manage.com/track/click?u=3D3b4f0e5f214c412c97=
+48186dc&id=3D35ad371d23&e=3D0df6e6d69d" target=3D"_blank" style=3D"color:=
+ #e51939; text-decoration: none;">flatrate.com</a> &nbsp;&nbsp;&nbsp;&nbsp=
+; 212.988.9292</td>
+  </tr>
+  <tr>
+    <td align=3D"center" style=3D"color: #5e5d5d; font: 12px Arial=2C Helv=
+etica=2C sans-serif; padding: 0px 20px 35px;"><a href=3D"http://flatrate.u=
+s5.list-manage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3Db93fc98f=
+33&e=3D0df6e6d69d" target=3D"_blank" style=3D"color: #5e5d5d; text-decora=
+tion: none;">Moving</a> &nbsp;|&nbsp; <a href=3D"http://flatrate.us5.list-=
+manage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3Da91d577f71&e=3D=
+0df6e6d69d" target=3D"_blank" style=3D"color: #5e5d5d; text-decoration: no=
+ne;">Storage</a> &nbsp;|&nbsp; <a href=3D"http://flatrate.us5.list-manage.=
+com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3D33ad212e02&e=3D=
+0df6e6d69d" target=3D"_blank" style=3D"color: #5e5d5d; text-decoration: none;">Bo=
+x Store</a> &nbsp;|&nbsp; <a href=3D"http://flatrate.us5.list-manage2.com/=
+track/click?u=3D3b4f0e5f214c412c9748186dc&id=3Db869040d6e&e=3D0df6e6d69d"=
+ target=3D"_blank" style=3D"color: #5e5d5d; text-decoration: none;">Moving=
+ Services</a> &nbsp;|&nbsp; <a href=3D"http://flatrate.us5.list-manage.com=
+/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3D4daac7608f&e=3D0df6e6d69d=
+" target=3D"_blank" style=3D"color: #5e5d5d; text-decoration: none;">Why F=
+latRate</a> &nbsp;|&nbsp; <a href=3D"http://flatrate.us5.list-manage1.com/=
+track/click?u=3D3b4f0e5f214c412c9748186dc&id=3Dcaf4e2da92&e=3D0df6e6d69d"=
+ target=3D"_blank" style=3D"color: #5e5d5d; text-decoration: none;">Commun=
+ity</a> &nbsp;|&nbsp;  <a href=3D"http://flatrate.us5.list-manage.com/trac=
+k/click?u=3D3b4f0e5f214c412c9748186dc&id=3D7943dc1c57&e=3D0df6e6d69d" tar=
+get=3D"_blank" style=3D"color: #5e5d5d; text-decoration: none;">Customer S=
+ervice</a></td>
+  </tr>
+</table>
+
+
+
+
+    </td></tr></table>
+
+
+<!-- END NEWSLETTER -->
+
+
+
+    <!-- MC ITEMS -->
+<table width=3D"644" border=3D"0" align=3D"center" cellpadding=3D"20" cell=
+spacing=3D"0">
+<tr>
+    <td align=3D"center" style=3D"font-family: Arial=2C Helvetica=2C sans-=
+serif; font-size: 11px; color: #5e5d5d;"><a href=3D"http://us5.forward-to-=
+friend1.com/forward?u=3D3b4f0e5f214c412c9748186dc&id=3D48916451e5&e=3D=
+0df6e6d69d" style=3D"color: #e51937;">Forward to a friend</a> &nbsp;|&nbsp; <a h=
+ref=3D"http://us5.campaign-archive2.com/?u=3D3b4f0e5f214c412c9748186dc&id=
+=3D48916451e5&e=3D0df6e6d69d" target=3D"_blank" style=3D"color: #e51937;">Vi=
+ew email in your browser</a></td>
+  </tr>
+                                   <tr>
+                                                        <td align=3D"cente=
+r" style=3D"font-family: Arial=2C Helvetica=2C sans-serif; font-size: 11px=
+; color: #5e5d5d;">
+                                                            <em>Copyright=
+ &copy; 2014 FlatRate Moving=C2=AE=2C All rights reserved.</em>
+                                                            <br>
+                                                            <!--
+ -->
+                                                            You're receivi=
+ng this email because you booked a move with FlatRate Moving New York.=0D
+US DOT 488466 NY DOT T-32557
+                                                            <br><strong>Ou=
+r mailing address is:</strong>
+                                                            <br><div class=
+=3D"vcard"><span class=3D"org fn">FlatRate Moving=C2=AE</span><div class=
+=3D"adr"><div class=3D"street-address">555 W. 25th Street</div><div class=
+=3D"extended-address">3rd Floor</div><span class=3D"locality">New York</sp=
+an>=2C <span class=3D"region">NY</span>  <span class=3D"postal-code">10001=
+</span></div><br><a href=3D"http://flatrate.us5.list-manage.com/vcard?u=3D=
+3b4f0e5f214c412c9748186dc&id=3Dbeb96ef2a4" class=3D"hcard-download">Add us=
+ to your address book</a></div>
+                                                            <br>
+                                                            <!--
+ -->
+                                                            <br>
+                                                        </td>
+  </tr>
+                                                    <tr>
+                                                      <td align=3D"center"=
+ style=3D"font-family: Arial=2C Helvetica=2C sans-serif; font-size: 11px;=
+ color: #5e5d5d;">&nbsp;<a href=3D"http://flatrate.us5.list-manage1.com/un=
+subscribe?u=3D3b4f0e5f214c412c9748186dc&id=3Dbeb96ef2a4&e=3D0df6e6d69d&c=3D4=
+8916451e5" style=3D"color: #e51937;">Unsubscribe from this list</a> &nbsp;=
+|&nbsp; <a href=3D"http://flatrate.us5.list-manage.com/profile?u=3D3b4f0e5=
+f214c412c9748186dc&id=3Dbeb96ef2a4&e=3D0df6e6d69d" style=3D"color: #e51937;"=
+>Update subscription preferences</a><!--
+ --><!--
+ -->
+
+
+</td>
+  </tr>
+</table>
+
+             <map name=3D"Map2">
+  <area shape=3D"rect" coords=3D"52=2C2=2C190=2C95" href=3D"http://flatrat=
+e.us5.list-manage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3Dcd6ad=
+75dbb&e=3D0df6e6d69d" target=3D"_blank">
+</area></map>
+
+          <map name=3D"Map">
+<area shape=3D"rect" coords=3D"505=2C4=2C541=2C41" href=3D"http://flatrate=
+=2Eus5.list-manage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3Dc657ab=
+a562&e=3D0df6e6d69d" target=3D"_blank">
+</area><area shape=3D"rect" coords=3D"463=2C5=2C502=2C42" href=3D"http://f=
+latrate.us5.list-manage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=
+=3Da68561dc1a&e=3D0df6e6d69d" target=3D"_blank">
+</area><area shape=3D"rect" coords=3D"424=2C3=2C462=2C42" href=3D"http://f=
+latrate.us5.list-manage2.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=
+=3Dce156c7ccf&e=3D0df6e6d69d" target=3D"_blank">
+</area><area shape=3D"rect" coords=3D"584=2C4=2C621=2C41" href=3D"http://f=
+latrate.us5.list-manage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=
+=3D4aff879b89&e=3D0df6e6d69d" target=3D"_blank">
+</area><area shape=3D"rect" coords=3D"545=2C3=2C581=2C42" href=3D"http://f=
+latrate.us5.list-manage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=
+=3Db06b27e027&e=3D0df6e6d69d" target=3D"_blank">
+</area><area shape=3D"rect" coords=3D"52=2C0=2C191=2C61" href=3D"http://fl=
+atrate.us5.list-manage.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3D=
+d1d2a76d9e&e=3D0df6e6d69d" target=3D"_blank">
+          </area></map>
+
+
+
+
+<img src=3D"http://flatrate.us5.list-manage.com/track/open.php?u=3D3b4f0e5=
+f214c412c9748186dc&id=3D48916451e5&e=3D0df6e6d69d" height=3D"1" width=3D"=
+1"></body>
+</html>
+--_----------=_MCPart_107676041--

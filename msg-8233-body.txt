@@ -1,0 +1,161 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.182.152.40 with SMTP id uv8csp273108obb;
+        Sun, 16 Nov 2014 15:32:56 -0800 (PST)
+X-Received: by 10.140.21.106 with SMTP id 97mr29377476qgk.61.1416180776238;
+        Sun, 16 Nov 2014 15:32:56 -0800 (PST)
+Return-Path: <00000149baf3b9bb-3120dc1c-7419-4fcd-88f4-59957c300971-000000@amazonses.com>
+Received: from a10-162.smtp-out.amazonses.com (a10-162.smtp-out.amazonses.com. [54.240.10.162])
+        by mx.google.com with ESMTPS id w6si61232216qax.23.2014.11.16.15.32.55
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 16 Nov 2014 15:32:56 -0800 (PST)
+Received-SPF: pass (google.com: domain of 00000149baf3b9bb-3120dc1c-7419-4fcd-88f4-59957c300971-000000@amazonses.com designates 54.240.10.162 as permitted sender) client-ip=54.240.10.162;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 00000149baf3b9bb-3120dc1c-7419-4fcd-88f4-59957c300971-000000@amazonses.com designates 54.240.10.162 as permitted sender) smtp.mail=00000149baf3b9bb-3120dc1c-7419-4fcd-88f4-59957c300971-000000@amazonses.com;
+       dkim=pass header.i=@academia.edu
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1416180775;
+	h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=3PTPMFl5nN/UQdB7PiE8EkXZUdiMjTsQEKc+rs9CWeI=;
+	b=chqTX6lZlAFZ4gs/JBbyMlb3L24f+BtE8rm9BRoQ0Qte7iJGiPxYBvnCkiOu85+2
+	A0r5os+bh/4gahfrv0t52sCc42vDF6Vjq/gEOCGf9i+RE9h1zEYBIuYmNa067vdPziD
+	axLPn2hstGwI0GgCrkbEISF5YANqR6FLzfIhYgu8=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7jzy5c4bunm27sdv7btjwusno34jc4bl; d=academia.edu; t=1416180775;
+	h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding;
+	bh=3PTPMFl5nN/UQdB7PiE8EkXZUdiMjTsQEKc+rs9CWeI=;
+	b=I+gZ2M6eaEojOwQRPAmDUuHhJub79oBi3tcTf9t5cCa4sVtyHftT2vtxn1TpOWd2
+	xp3Cimyx6Xz20UBy7I3rpE2qMxgYqwNyq9pLRuVtC7RyFSQSVKHv2ztKp0e2LYj2tkM
+	ICJbzEKa2FkvqfkQ4JmjX3/rmc7XfmBbHLffx6wc=
+Date: Sun, 16 Nov 2014 23:32:55 +0000
+From: "Academia.edu" <noreply@academia.edu>
+To: dinsmorealex@gmail.com
+Message-ID: <00000149baf3b9bb-3120dc1c-7419-4fcd-88f4-59957c300971-000000@email.amazonses.com>
+Subject: Welcome to Academia.edu!
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_54693427418e4_18963feefca375983141ea";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SES-Outgoing: 2014.11.16-54.240.10.162
+Feedback-ID: us-east-1.IkFjYWRlbWlhLmVkdSIgPG5vcmVwbHlAYWNhZGVtaWEuZWR1Pg==:AmazonSES
+
+
+----==_mimepart_54693427418e4_18963feefca375983141ea
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Alex,
+
+Welcome to Academia.edu! 15,720,924 academics have joined the Academia.edu platform,
+and they have uploaded 4,288,685 papers in total.
+
+The three main things you can do on Academia are:
+
+- Upload your papers so others in your field can find them
+- Track the impact of your research with our powerful analytics dashboard
+- Follow the latest research in your field via your News Feed
+
+You can view and edit your Academia.edu profile here: https://independent.academia.edu/AlexDinsmore
+
+Thanks,
+The Academia.edu Team
+
+Tip:
+Since you registered with Google or Facebook Connect, your account doesn't have a
+password yet. To set a password, visit your account settings page at
+https://www.academia.edu/settings#account.
+
+
+
+-----
+
+Academia.edu, 251 Kearny St., Suite 520, San Francisco, CA, 94108
+
+----==_mimepart_54693427418e4_18963feefca375983141ea
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    
+  
+<style type="text/css">
+body {
+background: #f0f0f0; padding: 20px;
+}
+a.export_link:hover {
+border-color: #ccc;
+}
+</style>
+</head>
+  <body style="background: #f0f0f0; padding: 20px;">
+    <table class="main" style="width: 560px; background: white; border: 1px solid #e1e1e1;">
+      <tr>
+        <td>
+          <h1 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #e9e9e9; padding-bottom: 15px; margin: 15px;">
+            <a href="https://www.academia.edu/t/WbrWN/" title="Academia.edu">              <img src="http://cfassets0.academia.edu/images/black-academia-logo.png" alt="Academia.edu" class="academia-logo" style="display: block; margin: 0 auto;" />
+</a>          </h1>
+          <p style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 15px;">
+  Hi Alex,
+</p>
+
+<p style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 15px;">
+  Welcome to Academia.edu! 15,720,924 academics have joined the
+  Academia.edu platform, and they have uploaded 4,288,685 papers in
+  total.
+</p>
+
+<p style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 15px;">
+  The three main things you can do on Academia are:
+</p>
+
+<ul>
+  <li style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 15px;">
+    <a href="https://independent.academia.edu/keypass/3bc00afe9fddc087a13ca569b035f9733f3a5bee/t/WbrWN/AlexDinsmore?s=welcome">Upload your papers</a> so others in your field
+    can find them
+  </li>
+  <li style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 15px;">
+    Track the impact of your research with our powerful
+    <a href="https://www.academia.edu/t/WbrWN/analytics">analytics dashboard</a>
+  </li>
+  <li style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 15px;">
+    Follow the latest research in your field via your
+    <a href="https://www.academia.edu/t/WbrWN/">News Feed</a>
+  </li>
+</ul>
+
+<p style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 30px 15px 15px;">
+  You can view and edit your Academia.edu profile here:
+</p>
+<p class="main_link" style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 30px 15px;">
+  <a class="link_button" href="https://independent.academia.edu/keypass/3bc00afe9fddc087a13ca569b035f9733f3a5bee/t/WbrWN/AlexDinsmore?s=welcome" style="color: white; text-decoration: none; text-align: center; font-family: 'Open Sans','Helvetica Neue',sans-serif; font-size: 13px; font-weight: 600; border-radius: 2px; background: #669a4e; padding: 8px 10px;">Edit Your Profile</a>
+</p>
+
+
+            <p style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #494848; width: 522px; margin: 15px;">
+              Thanks,<br>
+              The Academia.edu Team
+            </p>
+            <p class="tip" style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 11px; color: #777; width: 522px; margin: 15px;">
+    Tip:
+Since you registered with Google or Facebook Connect, your account doesn't have a
+password yet. To set a password, visit
+<a href="https://www.academia.edu/settings#account">your account settings page</a>.
+
+  </p>
+
+                  </td>
+      </tr>
+    </table>
+    </p>
+      <p class="footer" style="font-family: 'Open Sans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 11px; color: #777; width: 560px; margin: 15px 0;">
+        Academia.edu, 251 Kearny St., Suite 520, San Francisco, CA, 94108
+      </p>
+    <img src="https://www.academia.edu/t/WbrWN/images/clear.gif" border="0" width="1" height="1" />
+  </body>
+</html>
+
+----==_mimepart_54693427418e4_18963feefca375983141ea--

@@ -1,0 +1,573 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.194.139.2 with SMTP id qu2csp191483wjb;
+        Fri, 26 Oct 2012 11:36:12 -0700 (PDT)
+Received: by 10.66.87.132 with SMTP id ay4mr34193892pab.67.1351276571771;
+        Fri, 26 Oct 2012 11:36:11 -0700 (PDT)
+Return-Path: <m-ql9nDvWUbDQ1VTMUbxNVmo3an3bKb2PPy5bhmUSKFPcnsOYAhKBV2CJUz_Itqz@bounce.linkedin.com>
+Received: from maile-ab.linkedin.com (maile-ab.linkedin.com. [69.28.147.165])
+        by mx.google.com with ESMTP id qd9si3449509pbb.181.2012.10.26.11.36.10;
+        Fri, 26 Oct 2012 11:36:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of m-ql9nDvWUbDQ1VTMUbxNVmo3an3bKb2PPy5bhmUSKFPcnsOYAhKBV2CJUz_Itqz@bounce.linkedin.com designates 69.28.147.165 as permitted sender) client-ip=69.28.147.165;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of m-ql9nDvWUbDQ1VTMUbxNVmo3an3bKb2PPy5bhmUSKFPcnsOYAhKBV2CJUz_Itqz@bounce.linkedin.com designates 69.28.147.165 as permitted sender) smtp.mail=m-ql9nDvWUbDQ1VTMUbxNVmo3an3bKb2PPy5bhmUSKFPcnsOYAhKBV2CJUz_Itqz@bounce.linkedin.com; dkim=pass header.i=@linkedin.com
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-Class:X-LinkedIn-fbl;
+	b=GtIqc9+FlJzxeSj7PxgRb8FT8pncOA+p/dTF3LbaS1sIZX6YXUXdNY4OLdfNXqOZ
+	t/nt5INRNY5DUBupH6WT2Ec5KTMR+4m/sFsH1Czmb7zg7mU9V7kQFQ6nwtPy9Of3
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1351276568;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl:
+	X-LinkedIn-Template;
+	bh=9c2XdCGrvLwEMa2DFi1nkfOx9rQ=;
+	b=atEnQyQTXezsWtv6uvzwyIwYbfqHq+edlXqIAv1vyl0anDXBdfg8XN8vzGndBC76
+	EHfx+8d1QH1ZrV0txTWTY0PmZzXAT23zNnswCFSG4fl8EymxZ13gaRNqsvqYJIn2
+	FzCr8BSiFhMJFZvQVYsIR/TjJ5GpF+c0gwJvTMglPEU=;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Fri, 26 Oct 2012 18:36:08 +0000 (UTC)
+From: LinkedIn <messages-noreply@linkedin.com>
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+Message-ID: <1941344509.69546874.1351276568395.JavaMail.app@ela4-app2056.prod>
+Subject: =?UTF-8?Q?Richard_Branson:_Why_aren=E2=80=99t_?=
+ =?UTF-8?Q?more_business_leaders_online=3F?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_69546872_1696277185.1351276568392"
+X-LinkedIn-Template: tickle_follow_followup
+X-LinkedIn-Class: TIK
+X-LinkedIn-fbl: m-ql9nDvWUbDQ1VTMUbxNVmo3an3bKb2PPy5bhmUSKFPcnsOYAhKBV2CJUz_Itqz
+
+------=_Part_69546872_1696277185.1351276568392
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+The text version doesn't do this email justice, so please visit our site to see who you can follow: http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/204068115/eml-fllw_nudge-text-singcol-control/?hs=false&tok=0ZAgD-xByYFls1
+
+------=_Part_69546872_1696277185.1351276568392
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+      <html>
+        <head>
+          <style type="text/css">
+            html {-webkit-text-size-adjust:none;}
+            body {background-color: #F4F4F4; padding:0; margin:0; width:100%; margin:0 auto;}
+            *[class].tdwrap{display: inline-block !important;}
+            *[class].vspacer{ margin-left: 50px; }
+            *[class].responsive-50per{ width: 50% !important; }
+            *[class].responsive-75per{ width: 75% !important; }
+            @media all and (max-width: 590px){
+              *[class].responsive{width:320px !important;}
+              *[class].responsive-spacer table{width: 20px !important; }
+              *[class].vspacer{ margin-top: 10px !important; margin-bottom: 15px !important; margin-left: 0 !important; }
+              *[class].res-font16{font-size:16px !important;}
+              *[class].res-font12{font-size:12px !important;}
+              *[class].res-font18{font-size:18px !important;}
+              *[class].res-font18 span{font-size: 18px !important;}
+              *[class].responsive-50per{ width: 100% !important;}
+              *[class].responsive-spacer70{ width: 70px !important; }
+              *[class].hideIMG{ height: 0px !important; width: 0px !important; }
+              *[class].res-height20{ height: 20px !important; }
+              *[class].res-height20 div{ height: 20px !important; }
+              *[class].res-height10{ height: 10px !important; }
+              *[class].res-height10 div{ height: 10px !important; }
+              *[class].res-height0 { height: 0px !important; }
+              *[class].res-height0 div{ height: 0px !important; }
+              *[class].res-width280{ width: 280px !important; }
+              *[class].res-width25{ width: 25px !important; }
+              *[class].res-width10{ width: 10px !important; }
+              *[class].res-width10 table{ width: 10px !important; }
+              *[class].res-padding{ width: 0 !important; }
+              *[class].res-padding table{ width: 0 !important; }
+              *[class].cellpadding-none{ width: 0px !important; }
+              *[class].cellpadding-none table{ border: collapse !important; }
+              *[class].cellpadding-none table td{ padding: 0 !important; }
+              *[class].display-none{ display: none !important; }
+              *[class].remove-margin{ margin: 0 !important; }
+              *[class].remove-border{ border: none !important; }
+              *[class].res-img100{ width: 100px !important; height: 100px !important; }
+              *[class].res-img320{width: 320px !important; height: auto !important; position: relative;}
+              *[class].res-border{border-top: 1px solid #E1E1E1 !important;}
+              *[class].mobile-hidden{ display: none !important; height: 0px !important; width:0px !important; }
+              *[class].full-width{ width:100% !important; }
+            }
+            @media only screen and (max-device-width: 480px) {
+              p[class=anet-digest-activity],
+              span[class=anet-digest-count],
+              td[class=anet-digest-right-rail] {
+                display:none;
+              }
+            }
+            
+          </style>
+        </head>
+        <body >
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #DFDFDF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;" bgcolor="#DFDFDF" width="100%" class=""><tr><td width="98%" valign="top" align="center">
+    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px none;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none;" bgcolor="#DFDFDF" width="547" class=""><tr><td width="98%" valign="top" align="center">
+      
+      <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="547">
+        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+        <tr>
+          <td align="left" valign="middle">
+            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/hom/eml-fllw_nudge-h-logo-singcol-control/?hs=false&amp;tok=0-TVHcWa2YFls1">
+              <img src="http://www.linkedin.com/scds/common/u/img/logos/logo_emails_trans_98x24.png" height="24" width="98" alt="LinkedIn" border="0" style="vertical-align:bottom;display:block">
+            </a>
+          </td>
+        </tr>
+        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+      </table>
+
+      
+      <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none;background:#333" bgcolor="#333" width="100%" class=""><tr><td width="98%" valign="top" align="left">
+        <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+          <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+          <tr>
+            <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+            <td align="left" style="font-family:Helvetica,sans-serif;color:#fff;font-size:20px" valign="middle">
+              
+                  Don't miss out on updates from thought leaders
+                
+            </td>
+          </tr>
+          <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+        </table>
+      </td></tr></table>
+
+      
+      <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none;background:#fff" bgcolor="#ffffff" width="100%" class=""><tr><td width="98%" valign="top" align="left">
+        <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:none;background:#fff" >
+          <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td></tr>
+          <tr>
+            <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+            <td align="left" valign="top">
+
+              
+              <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                <tr>
+                  <td align="left" valign="top">
+                    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" height="150" width="150">
+                      <tr>
+                        <td height="60" width="60">
+                          <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/204068115/eml-fllw_nudge-b-hero_img-singcol-control/?hs=false&amp;tok=3EQIYLYMGYFls1">
+                            
+                                <img src="http://m3.licdn.com/mpr/mpr/shrink_150_150/p/2/000/19e/155/2f92282.jpg" border="0" height="150" width="150" style="border:1px solid #ccc">
+                              
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" valign="top">
+                    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                      <tr><td align="left" valign="top" style="font-size:18px;color:#333;font-weight:bold;">Richard Branson</td></tr>
+                      <tr><td align="left" valign="top" style="font-size:13px;color:#333;">Founder at Virgin Group</td></tr>
+                      <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table></td></tr>
+                      <tr><td align="left" valign="top" style="font-size:13px;color:#333;font-weight:bold;">Why aren&#x2019;t more business leaders online?</td></tr>
+                      <tr><td align="left" valign="top" style="font-size:13px;color:#333;">Anyone who thinks new technology isnt going to keep changing the world has got their head in the sand. We are seeing progress every..</td></tr>
+                      <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table></td></tr>
+                    </table>
+                    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                      <tr>
+                        <td align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0" align=""><tr><td align="center" height="30" valign="middle" bgcolor="#F6E312" background="http://www.linkedin.com/scds/common/u/img/email/bg_btn_katy_yellow_medium.png" style="background:url(http://www.linkedin.com/scds/common/u/img/email/bg_btn_katy_yellow_medium.png) repeat-x scroll 100% 0 #F6E312;background-color:#F6E312;border:1px solid #E9AC1A;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;"><div style="padding-right:13px;padding-left:13px;"><a href="http://www.linkedin.com/e/csrfpyQ3/-2qaq1e-h8rn6h53-44/fmb/204068115/whotofollow/eml-fllw_nudge-b-hero_fllw-singcol-control/?hs=false&amp;tok=1HVcsOWmmYFls1" style="text-decoration:none;"><span style="font-size:13px;font-family:Arial;font-weight:bold;color:#333333;white-space:nowrap;display:block;"> Follow Richard</span></a></div></td></tr></table></td>
+                        
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+
+              
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table>
+
+              
+              <div style="height:1px;font-size:1px;line-height:1px;border-top:1px solid #DDDDDD;">&nbsp;</div>
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table>
+              <span style="font-size:13px;color:#333">MORE PEOPLE YOU MAY WANT TO FOLLOW</span>
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+              
+              
+                  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                    
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/75054000/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=2nyiFYimWYFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/4/000/145/3c3/2f02dc8.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">Deepak Chopra MD (official)</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  Founder at Deepak Chopra LLC
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfxhT4/-2qaq1e-h8rn6h53-44/fmb/75054000/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=3TBDCDlIWYFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow Deepak
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/143695135/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=37Pg8RDoqYFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/4/000/187/1da/33ee450.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">Arianna Huffington</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  President and Editor-in-Chief at The Huffington Post Media Group
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfOKVW/-2qaq1e-h8rn6h53-44/fmb/143695135/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=1LiRCXAimYFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow Arianna
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/101706366/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=3yiAJ0ciqYFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/1/000/090/305/3935bdc.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">Anthony (Tony) Robbins</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  Chairman at Anthony Robbins Holdings, Inc.
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfFAmp/-2qaq1e-h8rn6h53-44/fmb/101706366/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=1Pxhed5yiYFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow Anthony (Tony)
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/22330283/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=1k__EH4jiYFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/1/000/1a3/0f8/35c3477.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">Jeff Weiner</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  CEO at Linkedin
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfHFVP/-2qaq1e-h8rn6h53-44/fmb/22330283/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=33SMIISsOYFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow Jeff
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/204263538/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=0dt4Tp562YFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/1/000/19f/029/15c65ae.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">Ari Emanuel</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  Co-CEO at William Morris Endeavor
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfpZ3k/-2qaq1e-h8rn6h53-44/fmb/204263538/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=36J191Pv-YFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow Ari
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/1213/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=1taf-z2BCYFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/3/000/00c/054/157b2fe.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">Reid Hoffman</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  Entrepreneur.  Product Strategist.  Investor.
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfhhko/-2qaq1e-h8rn6h53-44/fmb/1213/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=3KlGXcTBuYFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow Reid
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/416648/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=3E-OoEMC-YFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/3/000/049/157/1963ca6.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">Kai Fu Lee</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  CEO at Innovation Works
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfajp3/-2qaq1e-h8rn6h53-44/fmb/416648/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=0LrM4Kk0uYFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow Kai Fu
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/27307105/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=38V6Mt_wOYFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/3/000/00d/19f/234f969.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">T. Boone Pickens</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  Founder, Chairman and CEO at BP Capital and TBP Investments Management
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfhWJo/-2qaq1e-h8rn6h53-44/fmb/27307105/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=0Sqj2ambyYFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow T. Boone
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                      
+                        <tr>
+                          <td align="left" valign="top" style="border:1px solid #ccc" height="50" width="50">
+                            <a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/32702694/eml-fllw_nudge-b-infl_img-singcol-control/?hs=false&amp;tok=2b8oIvLsWYFls1">
+                              
+                                  <img src="http://m3.licdn.com/mpr/mpr/shrink_50_50/p/2/000/1a7/272/36b07c5.jpg" border="0" height="50" width="50" style="border:1px solid #ccc">
+                                
+                            </a>
+                          </td>
+                          <td width="10"><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                          <td align="left" valign="top">
+                            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                              <tr>
+                                <td align="left" valign="top">
+                                  <span style="font-size:14px;color:#333;font-weight:bold">Jim Kim</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" style="font-size:13px;color:#333;">
+                                  President at The World Bank
+                                </td>
+                              </tr>
+                              <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                              <tr>
+                                <td align="left" valign="top">
+                                  <a style="font-size:12px;color:#0073b2;text-decoration:none;" href="http://www.linkedin.com/e/csrfRV17/-2qaq1e-h8rn6h53-44/fmb/32702694/whotofollow/eml-fllw_nudge-b-infl_fllw-singcol-control/?hs=false&amp;tok=1SgAPkvH2YFls1">
+                                  <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_follow_plus.png" border="0">
+                                  Follow Jim
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+                      
+                    
+                  </table>
+                
+              <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                <tr><td align="right" valign="top" width="524"><a href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/wtf/204068115/eml-fllw_nudge-b-seemore-singcol-control/?hs=false&amp;tok=0u6DBYiz2YFls1" style="font-size:12px;color:#0073b2;text-decoration:none;">See more thought leaders <img src="http://www.linkedin.com/scds/common/u/img/icon/icon_see_more.png" border="0"></a></td></tr>
+              </table>
+            
+            </td>
+            <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+          </tr>
+          <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td></tr>
+        </table>
+      </td></tr></table>
+
+      
+      <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none;background:#333" bgcolor="#333" width="100%" class=""><tr><td width="98%" valign="top" align="left">
+        <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" height="30" width="100%">
+          <tr>
+            <td bgcolor="#333" style="background:#333">
+              <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:30px;font-size:30px;line-height:30px;">&nbsp;</div></td></tr></table>
+            </td>
+          </tr>
+        </table>
+      </td></tr></table>
+
+      
+      
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" class="responsive">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+  <tr>
+    <td align="left" style="font-size:11px; font-family:Arial,sans-serif; color:#999999;">
+            This is an occasional email to help you get the most out of LinkedIn. <a style="color:#006699;text-decoration:underline;" href="https://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/VeOB1VMOP_NWzMXi2S2bhEYwYi_icJiPe5b/ndp/email/nsettings-li-announcements/eml-fllw_nudge-f-unsub-singcol-control/?hs=false&tok=2AyE6v-aWYFls1">Unsubscribe</a>.
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+
+            This email was intended for Alex Dinsmore (Assistant at Yorgo Alexopoulos Multimedia). <a style="color: #006699" href="http://www.linkedin.com/e/-2qaq1e-h8rn6h53-44/plh/http%3A%2F%2Fhelp%2Elinkedin%2Ecom%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F4788/-GXI/eml-fllw_nudge-f-why-singcol-control/?hs=false&tok=2qgtzGWHKYFls1">Learn why we included this</a>. &copy; 2012, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, USA
+    </td>
+  </tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+</table>
+
+
+    <table width="270" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td></tr></table>
+  <table width="270" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td></tr></table>
+</body>
+      </html>
+------=_Part_69546872_1696277185.1351276568392--

@@ -1,0 +1,500 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.98 with SMTP id j2csp242411ldh;
+        Tue, 18 Mar 2014 12:24:07 -0700 (PDT)
+X-Received: by 10.140.101.74 with SMTP id t68mr4341788qge.106.1395170646801;
+        Tue, 18 Mar 2014 12:24:06 -0700 (PDT)
+Return-Path: <hello@mail.etsy.com>
+Received: from mailout03.etsy.com (mailout03.etsy.com. [38.106.64.78])
+        by mx.google.com with ESMTP id f8si6870629qas.58.2014.03.18.12.24.06
+        for <dinsmorealex@gmail.com>;
+        Tue, 18 Mar 2014 12:24:06 -0700 (PDT)
+Received-SPF: pass (google.com: domain of hello@mail.etsy.com designates 38.106.64.78 as permitted sender) client-ip=38.106.64.78;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of hello@mail.etsy.com designates 38.106.64.78 as permitted sender) smtp.mail=hello@mail.etsy.com;
+       dkim=pass header.i=@mail.etsy.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=mail.etsy.com
+Return-Path: <hello@mail.etsy.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=default; d=mail.etsy.com;
+	h=DKIM-Signature:X-MSFBL:Received:Date:Message-Id:X-YarnBlaster:X-EmailType:EtsyMail:MIME-Version:Content-type:From:X-EUID:X-EAID:X-UTM-CAMPAIGN:X-CAMPAIGN-LABEL:X-UTM-SOURCE:X-rpcampaign:reply-to:To:Subject;
+	b=Vp7Uzekuw3coO5LhTQTJqkwAYuwkmvpEJMfZ7WEPT6D2zhGGs1bxpHcx3KQ2N+8H
+	fuXWSIqSZn7hEM1zAJhdasJ7dgDbXgDuJ7HZW91UnR1wJXoTiB8skGhyj4qvCv64
+	+wpnviB8ksgwFs+zHz3RkTfwmdA0LJhWsuWaDWXNMuA=
+DKIM-Signature: v=1; a=rsa-sha1; d=mail.etsy.com; s=default; c=relaxed/simple;
+	q=dns/txt; i=@mail.etsy.com; t=1395170641;
+	h=From:Subject:Date:To:MIME-Version:Content-type;
+	bh=4ykUDGmB95a/P9TZotlT6OAvf5U=;
+	b=ibFkiZAsi8pLq0PDsmX12FvbFB0k/ryacgC4An8uOYFzbZic4+L4hzZQSF+Z7Bm1
+	13Rz6av52iE7F+2yZ2Zh4Q+y8gtl/O8fpzbEjtqCrTd+5N68y4CD/nrImhWprMG1
+	w3lite4RuxQfmAwr19Pm/ToFEB206z7vSAJIW/wbgXQ=;
+X-MSFBL: ZGluc21vcmVhbGV4QGdtYWlsLmNvbUAjbW1vdmVAZGVmYXVsdEA=
+Received: from [10.100.19.47] ([10.100.19.47:32008] helo=worker37.ny5.etsy.com)
+	by msysmta02 (envelope-from <hello@mail.etsy.com>)
+	(ecelerity 3.2.2.42971 r(42971)) with ESMTP
+	id 22/8E-02191-15D98235; Tue, 18 Mar 2014 19:24:01 +0000
+Received: from www.etsy.com (localhost [127.0.0.1])
+	by worker37.ny5.etsy.com (8.14.4/8.14.4) with ESMTP id s2IJO1YU016515
+	for <dinsmorealex@gmail.com>; Tue, 18 Mar 2014 19:24:01 GMT
+Date: Tue, 18 Mar 2014 19:24:01 GMT
+Message-Id: <201403181924.s2IJO1YU016515@worker37.ny5.etsy.com>
+X-YarnBlaster: bulk
+X-EmailType: awaiting_feedback_reminder_123169_8233971881_0_0
+EtsyMail: works every time
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary="1e288b043765d9dab607b72576f0ff0d9dfa13bc"
+From: Etsy <emails@mail.etsy.com>
+X-EUID: EHj-ioQwqrKfT5zEFk1Fhf8pHvQK
+X-EAID: 2836091578
+X-UTM-CAMPAIGN: awaiting_feedback_reminder_123169_8233971881_0_0
+X-CAMPAIGN-LABEL: awaiting_feedback_reminder
+X-UTM-SOURCE: lifecycle
+X-rpcampaign: ETSY8233971881
+reply-to: 
+To: dinsmorealex@gmail.com
+Subject: Alex, you have new items to review.
+
+--1e288b043765d9dab607b72576f0ff0d9dfa13bc
+Content-type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey! Our emails look much better in HTML.=0A=0AClick here to see this email=
+:=0Ahttps://www.etsy.com/mailinglist/email/SG5hN21Rd0NEY0JzandGaVdoYTd0ei9J=
+WDVtNWxnQnFTaGY1bVBIUEFHRT0uLjEzOTUxNzA2NDE=3D=0A=0AManage Your Preferences=
+ Here=0Ahttps://www.etsy.com/your/account/email=0A=0AUnsubscribe Here=0Ahtt=
+ps://www.etsy.com/mailinglist/unsubscribe_token/SG5hN21Rd0NEY0JzandGaVdoYTd=
+0ei9JWDVtNWxnQnFTaGY1bVBIUEFHRT0uLjEzOTUxNzA2NDE=3D
+
+--1e288b043765d9dab607b72576f0ff0d9dfa13bc
+Content-type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<img style=3D'position: absolute; left: -9000px;' width=3D'1' height=3D'1' =
+src=3D'https://www.etsy.com/mailinglist/beacon/?campaign_label=3Dawaiting_f=
+eedback_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_feedback_re=
+minder_123169_8233971881_0_0&utm_medium=3Demail&utm_content=3D&email_sent=
+=3D1395169785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=
+=3Deca338c35d'/><img style=3D'position: absolute; left: -9000px;' width=3D'=
+1' height=3D'1' src=3D'http://bcn.etsy.com/beacon?.user_id=3D&request_uuid=
+=3DB6b-q4kOsWZXcBG48PyVPyS0p74w&php_event_name=3Demail_open&php_unique_id=
+=3D53289d51bdb887.58044833&php_event_date=3D18%2FMar%2F2014%3A19%3A24%3A01&=
+locale_currency_code=3DUSD&pref_language=3Den-US&region=3DXX&detected_curre=
+ncy_code=3DUSD&detected_language=3Den-US&detected_region=3DXX&isMobileDevic=
+e=3D0&isMobileSupported=3D0&isMobileRequestIgnoreCookie=3D0&isTabletSupport=
+ed=3D0&isTouch=3D0&isEtsyApp=3D0&isPreviewRequest=3D0&isChromeInstantReques=
+t=3D0&isMozPrefetchRequest=3D0&campaign_label=3Dawaiting_feedback_reminder&=
+utm_source=3Dlifecycle&utm_campaign=3Dawaiting_feedback_reminder_123169_823=
+3971881_0_0&utm_medium=3Demail&email_sent=3D1395169785&euid=3DHNIefC1yFt0lF=
+IXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=3Deca338c35d&email=3D1&.event_sour=
+ce=3Demail&.event_logger=3Dbackend&.version=3D0&.p=3D1&.np=3D1&.page_guid=
+=3Dcb062811944.377cee8da29abcb4143f.00&.guid=3Dcb062814a6c.ce6d123880369dbb=
+2888.00&php_ab_test_names=3Dsimplified_locale_experience%3Benabled_locale_s=
+ubdirectories%3Bxssauditor%3Bfull_site_ssl&php_ab_var_names=3Doff%3Boff%3Bo=
+ff%3Boff&php_ab_selector_names=3Dw%3Bw%3Bw%3Bw'/><head>=0A    <style type=
+=3D"text/css">=0A=0A    @media only screen and (max-width: 480px) {=0A     =
+   body {=0A            margin-left: 0 !important; =0A            margin-ri=
+ght: 0 !important;=0A            margin-top: 0 !important;=0A            ma=
+rgin-bottom: 0 !important;=0A        }=0A=0A        [class~=3Douter-contain=
+er],=0A        [class~=3Dintro-text-container],=0A        [class~=3Demail-b=
+ody],=0A        [class~=3Dfooter-container] {=0A            width: 100% !im=
+portant;=0A        }=0A=0A        [class~=3Dplus-n-items] {=0A            p=
+adding-left: 4% !important;=0A            font-size: 20px !important;=0A   =
+     }=0A=0A        [class~=3Douter-container] {=0A            border-radiu=
+s: 0px !important;=0A        }=0A=0A        [class~=3Dreview-item-button] {=
+=0A            padding: 8px !important;=0A        }=0A    }=0A    </style>=
+=0A</head>=0A<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" margi=
+nheight=3D"0" offset=3D"0" style=3D"-webkit-text-size-adjust: none;margin: =
+0;padding: 0;background-color: #F5F5F1; width: 100%; color: #555555;font-fa=
+mily: Georgia, serif;font-size: 15px;text-align: left;">=0A    <div class=
+=3D"preview-text" style=3D"font-size: 0px; color: #F5F5F1;">Tell us about y=
+our recent shopping experience on Etsy.=0A</div>=0A    <div style=3D"-moz-t=
+ext-size-adjust: none; -ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: none; color: #555555; line-height: 23px; background-color: #F5F5F1; font-=
+family: Arial, Helvetica, sans-serif; font-size: 15px; margin: 0; padding: =
+0; text-align: left; width: 100%;">=0A        <table style=3D"border-spacin=
+g: 0; padding: 0px; background-color: #F5F5F1; margin: 0; width: 100%;">=0A=
+            <tbody>=0A                <tr>=0A                    <td style=
+=3D"padding: 0; border: 0; border-collapse: collapse; -webkit-text-size-adj=
+ust: none;">=0A                        <table class=3D"container" align=3D"=
+center" style=3D"border-spacing: 0; padding: 0; height: 100%; margin: 0 aut=
+o;">=0A                            <tbody>=0A                              =
+  <tr>=0A                                    <td style=3D"padding: 0; borde=
+r: 0; border-collapse: collapse; -webkit-text-size-adjust: none;">=0A      =
+                                  <table class=3D"email-body" style=3D"widt=
+h: 600px; border-spacing: 0; padding: 0; border: 0; margin: 0 auto; border-=
+collapse: collapse;">=0A                                            <tbody>=
+=0A                                                <tr>=0A                 =
+                                   <td style=3D"padding: 0; border: 0; bord=
+er-collapse: collapse; -webkit-text-size-adjust: none;">=0A                =
+                                        <table class=3D"header" style=3D"bo=
+rder-spacing: 0; padding: 0; border-collapse: collapse; width: 100%; margin=
+-bottom: 17px; margin-top: 8px; padding-bottom: 9px; padding-top: 9px;">=0A=
+                                                            <tbody>=0A     =
+                                                           <tr>=0A         =
+                                                           <td style=3D"pad=
+ding: 0 0 0 10px; border: 0; border-collapse: collapse; line-height: 0; pad=
+ding-top: 4px; width: 52px; -webkit-text-size-adjust: none;">=0A           =
+                                                             <a href=3D"htt=
+p://www.etsy.com?campaign_label=3Dawaiting_feedback_reminder&utm_source=3Dl=
+ifecycle&utm_campaign=3Dawaiting_feedback_reminder_123169_8233971881_0_0&ut=
+m_medium=3Demail&utm_content=3D&email_sent=3D1395169785&euid=3DHNIefC1yFt0l=
+FIXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D0" ti=
+tle=3D"Etsy.com" style=3D"color: #D5641C; font-size: 28px; text-decoration:=
+ none; -webkit-text-size-adjust: none;">=0A                                =
+                                            <img src=3D"http://www.etsy.com=
+/images/email/etsy_logo@2x_email.png" border=3D"0" width=3D"47" height=3D"2=
+4" alt=3D"Etsy" style=3D"border: 0; -ms-interpolation-mode: bicubic;">=0A  =
+                                                                      </a>=
+=0A                                                                    </td=
+>=0A                                                                </tr>=
+=0A                                                            </tbody>=0A =
+                                                       </table>=0A         =
+                                               <table class=3D"outer-contai=
+ner" style=3D"border-spacing: 0; padding: 0; background-color: #FFFFFF; pad=
+ding: 20px 0 0 0; width: 600px; border-top-left-radius: 6px; border-top-rig=
+ht-radius: 6px;  border-bottom-left-radius: 6px; border-bottom-right-radius=
+: 6px;">=0A                                                            <tbo=
+dy>=0A                                                                <tr>=
+=0A                                                                    <td =
+style=3D"padding: 0; border: 0; border-collapse: collapse; -webkit-text-siz=
+e-adjust: none;">=0A                                                       =
+                 <table class=3D"intro-text-container" style=3D"border-spac=
+ing: 0; padding: 0 15px 10px 15px; width: 600px;">=0A                      =
+                                                      <tbody>=0A           =
+                                                                     <tr>=
+=0A                                                                        =
+            <td class=3D"body-content" style=3D"padding: 0; border: 0; bord=
+er-collapse: collapse; -webkit-text-size-adjust: none; line-height: 12px;">=
+=0A                                                                        =
+                <div style=3D"-webkit-text-size-adjust: none;">=0A         =
+                                                                           =
+        <p class=3D"strong-intro" style=3D"width: 100%; border: 0; margin: =
+15px 0; padding: 0; -webkit-text-size-adjust: none; color: #333333; font-si=
+ze: 26px; line-height: 30px; text-align: center; font-family: Georgia, seri=
+f;">=0A                                                                    =
+                                                                           =
+                                                 You have new items to revi=
+ew on Etsy.=0A                                                             =
+                                                                           =
+                                                    </p>=0A                =
+                                                                        </d=
+iv>=0A                                                                     =
+               </td>=0A                                                    =
+                            </tr>=0A                                       =
+                                     </tbody>=0A                           =
+                                             </table>=0A                   =
+                                                                           =
+                                                  <table class=3D"listing-c=
+ontainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-=
+spacing: 0; padding: 20px 20px 24px; width: 100%; border-top: 1px solid #EC=
+ECEC;">=0A                                                                 =
+           <tr>=0A                                                         =
+                       <td height=3D"100%" style=3D"vertical-align: top; te=
+xt-align: center; padding: 0; width: 20%; padding: 3px 5px; border: 0; bord=
+er-collapse: collapse; display: table-cell;">=0A                           =
+                                                         <a href=3D"http://=
+www.etsy.com/your/orders/126982139/review/183661461?campaign_label=3Dawaiti=
+ng_feedback_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_feedbac=
+k_reminder_123169_8233971881_0_0&utm_medium=3Demail&utm_content=3D&email_se=
+nt=3D1395169785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578&x_eai=
+d=3Deca338c35d&link_clicked=3D1" style=3D"text-decoration: none; color: inh=
+erit;">=0A                                                                 =
+                       <img src=3D"http://img1.etsystatic.com/041/0/6649316=
+/il_170x135.566414849_axhm.jpg" style=3D"border: 0; margin: 0 auto; max-hei=
+ght: 90px;">=0A                                                            =
+                        </a>=0A                                            =
+                                    </td>=0A                               =
+                                                 <td height=3D"100%" style=
+=3D"width: 80%; padding: 0px 10px; border: 0; border-collapse: collapse; di=
+splay: table-cell;">=0A                                                    =
+                                <table>=0A                                 =
+                                                       <tr><td style=3D"col=
+or: #666666; font-family: Georgia, serif; font-size: 14px;">Faith Across Sh=
+oulder Hardcore Thrash Punk Back Patch on Brown Canvas</td></tr>=0A        =
+                                                                           =
+     <tr><td style=3D"color: #9a9a9a; font-size: 13px; padding: 8px 0; line=
+-height: 17px;">Purchased from <a href=3D"http://www.etsy.com/shop/BADTASTE=
+CLUB?campaign_label=3Dawaiting_feedback_reminder&utm_source=3Dlifecycle&utm=
+_campaign=3Dawaiting_feedback_reminder_123169_8233971881_0_0&utm_medium=3De=
+mail&utm_content=3D&email_sent=3D1395169785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF=
+-nad&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D2" style=3D"text-=
+decoration: none; color: #0292b5;">BADTASTECLUB</a> on February 20, 2014</t=
+d></tr>=0A                                                                 =
+                                                                           =
+                                    <tr>=0A                                =
+                                                            <td height=3D"1=
+00%">=0A                                                                   =
+                             <a class=3D"review-item-button" href=3D"http:/=
+/www.etsy.com/your/orders/126982139/review/183661461?campaign_label=3Dawait=
+ing_feedback_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_feedba=
+ck_reminder_123169_8233971881_0_0&utm_medium=3Demail&utm_content=3D&email_s=
+ent=3D1395169785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578&x_ea=
+id=3Deca338c35d&link_clicked=3D3" style=3D"float:left; border-collapse: col=
+lapse; font-family: Arial, Helvetica, sans-serif; background: #34a8c4; bord=
+er-bottom: 2px solid #0192b5; border-top: 2px solid #67bed3; -webkit-text-s=
+ize-adjust: none; color: #FFFFFF; text-align: center; text-decoration: none=
+; border-radius: 5px; display: block; font-size: 14px; font-weight: bold; l=
+ine-height: 17px; padding: 8px 15px;">=0A                                  =
+                                                                  <span>=0A=
+                                                                           =
+                             =0A                                           =
+                                                                Review This=
+ Item=0A                                                                   =
+                                     =0A                                   =
+                                                                 </span>=0A=
+                                                                           =
+                     </a>=0A                                               =
+                                             </td>=0A                      =
+                                                                  </tr>=0A =
+                                                                           =
+                                                                           =
+                     </table>=0A                                           =
+                                     </td>=0A                              =
+                                              </tr>=0A                     =
+                                                   </table>=0A             =
+                                                                           =
+                                                        <table class=3D"lis=
+ting-container" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"b=
+order-spacing: 0; padding: 20px 20px 24px; width: 100%; border-top: 1px sol=
+id #ECECEC;">=0A                                                           =
+                 <tr>=0A                                                   =
+                             <td height=3D"100%" style=3D"vertical-align: t=
+op; text-align: center; padding: 0; width: 20%; padding: 3px 5px; border: 0=
+; border-collapse: collapse; display: table-cell;">=0A                     =
+                                                               <a href=3D"h=
+ttp://www.etsy.com/your/orders/126982139/review/183661460?campaign_label=3D=
+awaiting_feedback_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_f=
+eedback_reminder_123169_8233971881_0_0&utm_medium=3Demail&utm_content=3D&em=
+ail_sent=3D1395169785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578=
+&x_eaid=3Deca338c35d&link_clicked=3D4" style=3D"text-decoration: none; colo=
+r: inherit;">=0A                                                           =
+                             <img src=3D"http://img0.etsystatic.com/012/0/6=
+649316/il_170x135.444304486_o7ks.jpg" style=3D"border: 0; margin: 0 auto; m=
+ax-height: 90px;">=0A                                                      =
+                              </a>=0A                                      =
+                                          </td>=0A                         =
+                                                       <td height=3D"100%" =
+style=3D"width: 80%; padding: 0px 10px; border: 0; border-collapse: collaps=
+e; display: table-cell;">=0A                                               =
+                                     <table>=0A                            =
+                                                            <tr><td style=
+=3D"color: #666666; font-family: Georgia, serif; font-size: 14px;">MANOWAR =
+Metal Punk BACK PATCH on Black Canvas</td></tr>=0A                         =
+                                                               <tr><td styl=
+e=3D"color: #9a9a9a; font-size: 13px; padding: 8px 0; line-height: 17px;">P=
+urchased from <a href=3D"http://www.etsy.com/shop/BADTASTECLUB?campaign_lab=
+el=3Dawaiting_feedback_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawait=
+ing_feedback_reminder_123169_8233971881_0_0&utm_medium=3Demail&utm_content=
+=3D&email_sent=3D1395169785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836=
+091578&x_eaid=3Deca338c35d&link_clicked=3D5" style=3D"text-decoration: none=
+; color: #0292b5;">BADTASTECLUB</a> on February 20, 2014</td></tr>=0A      =
+                                                                           =
+                                                                           =
+                    <tr>=0A                                                =
+                                            <td height=3D"100%">=0A        =
+                                                                           =
+             <a class=3D"review-item-button" href=3D"http://www.etsy.com/yo=
+ur/orders/126982139/review/183661460?campaign_label=3Dawaiting_feedback_rem=
+inder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_feedback_reminder_1231=
+69_8233971881_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1395169785=
+&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=3Deca338c35d&=
+link_clicked=3D6" style=3D"float:left; border-collapse: collapse; font-fami=
+ly: Arial, Helvetica, sans-serif; background: #34a8c4; border-bottom: 2px s=
+olid #0192b5; border-top: 2px solid #67bed3; -webkit-text-size-adjust: none=
+; color: #FFFFFF; text-align: center; text-decoration: none; border-radius:=
+ 5px; display: block; font-size: 14px; font-weight: bold; line-height: 17px=
+; padding: 8px 15px;">=0A                                                  =
+                                                  <span>=0A                =
+                                                                           =
+             =0A                                                           =
+                                                Review This Item=0A        =
+                                                                           =
+                     =0A                                                   =
+                                                 </span>=0A                =
+                                                                           =
+     </a>=0A                                                               =
+                             </td>=0A                                      =
+                                                  </tr>=0A                 =
+                                                                           =
+                                                                           =
+     </table>=0A                                                           =
+                     </td>=0A                                              =
+                              </tr>=0A                                     =
+                                   </table>=0A                             =
+                                                                           =
+                                        <table class=3D"listing-container" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-spacing: 0=
+; padding: 20px 20px 24px; width: 100%; border-top: 1px solid #ECECEC;">=0A=
+                                                                           =
+ <tr>=0A                                                                   =
+             <td height=3D"100%" style=3D"vertical-align: top; text-align: =
+center; padding: 0; width: 20%; padding: 3px 5px; border: 0; border-collaps=
+e: collapse; display: table-cell;">=0A                                     =
+                                               <a href=3D"http://www.etsy.c=
+om/your/orders/126982139/review/183661459?campaign_label=3Dawaiting_feedbac=
+k_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_feedback_reminder=
+_123169_8233971881_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D13951=
+69785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=3Deca338=
+c35d&link_clicked=3D7" style=3D"text-decoration: none; color: inherit;">=0A=
+                                                                           =
+             <img src=3D"http://img0.etsystatic.com/023/1/6649316/il_170x13=
+5.483651052_m1c5.jpg" style=3D"border: 0; margin: 0 auto; max-height: 90px;=
+">=0A                                                                      =
+              </a>=0A                                                      =
+                          </td>=0A                                         =
+                                       <td height=3D"100%" style=3D"width: =
+80%; padding: 0px 10px; border: 0; border-collapse: collapse; display: tabl=
+e-cell;">=0A                                                               =
+                     <table>=0A                                            =
+                                            <tr><td style=3D"color: #666666=
+; font-family: Georgia, serif; font-size: 14px;">MOTORHEAD Metal Punk Patch=
+ on Black Canvas</td></tr>=0A                                              =
+                                          <tr><td style=3D"color: #9a9a9a; =
+font-size: 13px; padding: 8px 0; line-height: 17px;">Purchased from <a href=
+=3D"http://www.etsy.com/shop/BADTASTECLUB?campaign_label=3Dawaiting_feedbac=
+k_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_feedback_reminder=
+_123169_8233971881_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D13951=
+69785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=3Deca338=
+c35d&link_clicked=3D8" style=3D"text-decoration: none; color: #0292b5;">BAD=
+TASTECLUB</a> on February 20, 2014</td></tr>=0A                            =
+                                                                           =
+                                                                         <t=
+r>=0A                                                                      =
+                      <td height=3D"100%">=0A                              =
+                                                                  <a class=
+=3D"review-item-button" href=3D"http://www.etsy.com/your/orders/126982139/r=
+eview/183661459?campaign_label=3Dawaiting_feedback_reminder&utm_source=3Dli=
+fecycle&utm_campaign=3Dawaiting_feedback_reminder_123169_8233971881_0_0&utm=
+_medium=3Demail&utm_content=3D&email_sent=3D1395169785&euid=3DHNIefC1yFt0lF=
+IXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D9" sty=
+le=3D"float:left; border-collapse: collapse; font-family: Arial, Helvetica,=
+ sans-serif; background: #34a8c4; border-bottom: 2px solid #0192b5; border-=
+top: 2px solid #67bed3; -webkit-text-size-adjust: none; color: #FFFFFF; tex=
+t-align: center; text-decoration: none; border-radius: 5px; display: block;=
+ font-size: 14px; font-weight: bold; line-height: 17px; padding: 8px 15px;"=
+>=0A                                                                       =
+                             <span>=0A                                     =
+                                                                   =0A     =
+                                                                           =
+                           Review This Item=0A                             =
+                                                                           =
+=0A                                                                        =
+                            </span>=0A                                     =
+                                                           </a>=0A         =
+                                                                           =
+        </td>=0A                                                           =
+                             </tr>=0A                                      =
+                                                                           =
+                                                           </table>=0A     =
+                                                                           =
+</td>=0A                                                                   =
+         </tr>=0A                                                          =
+              </table>=0A                                                  =
+                                                                           =
+               </td>=0A                                                    =
+            </tr>=0A                                                       =
+                                                                </tbody>=0A=
+                                                        </table>=0A        =
+                                           </td>=0A                        =
+                        </tr>=0A                                           =
+ </tbody>=0A                                        </table>=0A            =
+                            <table class=3D"outer-container" style=3D"borde=
+r-spacing: 0; background-color: #FFFFFF; padding: 30px 0; width: 600px; bor=
+der-top-left-radius: 6px; border-top-right-radius: 6px;  border-bottom-left=
+-radius: 6px; border-bottom-right-radius: 6px; margin-top: 15px; padding: 0=
+px;">=0A                                            <tbody><tr><td>=0A     =
+                                       <table>=0A                          =
+                                                                      <tabl=
+e style=3D"padding: 15px 10px 20px; margin-top: 10px; width: 100%; border-b=
+ottom: 2px solid #F5F5F1;">=0A                                             =
+       <tbody>=0A                                                        <t=
+r style=3D"padding: 15px 0; border-top: 2px solid #F5F5F1;">=0A            =
+                                                <td class=3D"plus-n-items" =
+style=3D"width: 25%; padding-left: 6%; font-size: 24px;">=0A               =
+                                                 <a href=3D"http://www.etsy=
+.com/your/purchases?campaign_label=3Dawaiting_feedback_reminder&utm_source=
+=3Dlifecycle&utm_campaign=3Dawaiting_feedback_reminder_123169_8233971881_0_=
+0&utm_medium=3Demail&utm_content=3D&email_sent=3D1395169785&euid=3DHNIefC1y=
+Ft0lFIXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D1=
+0" style=3D"text-decoration: none; color: inherit;">=0A                    =
+                                                +=0A                       =
+                                                                           =
+                                          1 <span style=3D"font-size: 18px;=
+">item</span>=0A                                                           =
+                                                                         </=
+a>=0A                                                            </td>=0A  =
+                                                          <td style=3D"font=
+-size: 13px; line-height: 16px; color: #999999;">You have more items awaiti=
+ng reviews, <a href=3D"http://www.etsy.com/your/purchases?campaign_label=3D=
+awaiting_feedback_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_f=
+eedback_reminder_123169_8233971881_0_0&utm_medium=3Demail&utm_content=3D&em=
+ail_sent=3D1395169785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578=
+&x_eaid=3Deca338c35d&link_clicked=3D11" style=3D"text-decoration: none; col=
+or: #0292b5;">view them here</a>.</td>=0A                                  =
+                      </tr>=0A                                             =
+       </tbody>=0A                                                </table>=
+=0A                                                                        =
+                        <table style=3D"margin: 10px 0; padding: 15px; ">=
+=0A                                                    <tbody>=0A          =
+                                              <tr>=0A                      =
+                                      <td style=3D"width: 25%;">=0A        =
+                                                        <img style=3D"width=
+: 75%; padding-left: 7%;" src=3D"http://www.etsy.com/images/email/awaiting-=
+feedback-reminder/large_footer_stars.png">=0A                              =
+                              </td>=0A                                     =
+                       <td style=3D"font-size: 13px; line-height: 20px; col=
+or: #999999;"><strong style=3D"color: #333333;">Why review?</strong> Leavin=
+g a review helps support the independent sellers you buy from and shares yo=
+ur unique experience with future buyers.</td>=0A                           =
+                             </tr>=0A                                      =
+              </tbody>=0A                                                </=
+table>=0A                                            </td></tr></tbody>=0A =
+                                       </table>=0A                         =
+               <table style=3D"border-spacing: 0; padding: 0; padding-botto=
+m: 30px; padding-top: 30px;">=0A                                           =
+ <tbody>=0A                                                <tr>=0A         =
+                                           <td style=3D"padding: 0; border:=
+ 0; border-collapse: collapse; color: #97928f; -webkit-text-size-adjust: no=
+ne;">=0A                                                        <table clas=
+s=3D"footer-container" border=3D"0" cellpadding=3D"20" cellspacing=3D"0" st=
+yle=3D"border-spacing: 0; padding: 0; width: 600px;">=0A                   =
+                                         <tbody>=0A                        =
+                                        <tr>=0A                            =
+                                        <td class=3D"footer-container" vali=
+gn=3D"top" style=3D"padding: 0; border: 0; border-collapse: collapse; color=
+: #97928f; text-align: center; -webkit-text-size-adjust: none; background-c=
+olor: #F5F5F1; font-family: Arial, Helvetica, Sans-serif; font-size: 12px; =
+line-height: 16px;">=0A                                                    =
+                    <div style=3D"padding: 0 15px; color: #97928f;font-fami=
+ly: Arial, Helvetica, Sans-serif;font-size: 12px;line-height: 16px;text-ali=
+gn: center;">=0A                                                           =
+                 You are receiving this email because you registered on <a =
+style=3D"color: #97928f;font-weight: normal;text-decoration: underline;" ti=
+tle=3D"Etsy" href=3D"http://www.etsy.com?campaign_label=3Dawaiting_feedback=
+_reminder&utm_source=3Dlifecycle&utm_campaign=3Dawaiting_feedback_reminder_=
+123169_8233971881_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D139516=
+9785&euid=3DHNIefC1yFt0lFIXx3uKZdrzF-nad&eaid=3D2836091578&x_eaid=3Deca338c=
+35d&link_clicked=3D12">Etsy.com</a> with this email address. To stop receiv=
+ing emails with opportunities to provide feedback to Etsy, <a href=3D"https=
+://www.etsy.com/mailinglist/unsubscribe_token/SG5hN21Rd0NEY0JzandGaVdoYTd0e=
+i9JWDVtNWxnQnFTaGY1bVBIUEFHRT0uLjEzOTUxNzA2NDE=3D" title=3D"Unsubscribe" st=
+yle=3D"color: #97928f;font-weight: normal;text-decoration: underline;">unsu=
+bscribe here</a>.=0A                                                       =
+                     <br>=0A                                               =
+                             <br>=0A                                       =
+                                     Copyright &copy; 2013 Etsy, Inc. 55 Wa=
+shington St. Brooklyn, NY 11201 USA. All rights reserved.=0A               =
+                                                         </div>=0A         =
+                                                           </td>=0A        =
+                                                        </tr>=0A           =
+                                                 </tbody>=0A               =
+                                         </table>=0A                       =
+                             </td>=0A                                      =
+          </tr>=0A                                            </tbody>=0A  =
+                                      </table>=0A                          =
+          </td>=0A                                </tr>=0A                 =
+           </tbody>=0A                        </table>=0A                  =
+  </td>=0A                </tr>=0A            </tbody>=0A        </table>=
+=0A    </div>=0A</body>
+
+--1e288b043765d9dab607b72576f0ff0d9dfa13bc--
+

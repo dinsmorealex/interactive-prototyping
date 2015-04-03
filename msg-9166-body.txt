@@ -1,0 +1,220 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp1188157ldh;
+        Wed, 11 Feb 2015 08:45:22 -0800 (PST)
+X-Received: by 10.50.82.68 with SMTP id g4mr30878307igy.26.1423673121859;
+        Wed, 11 Feb 2015 08:45:21 -0800 (PST)
+Return-Path: <bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org>
+Received: from o1.list.fightforthefuture.org (o1.list.fightforthefuture.org. [50.31.33.35])
+        by mx.google.com with ESMTPS id v14si2117204icn.79.2015.02.11.08.45.21
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 11 Feb 2015 08:45:21 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org designates 50.31.33.35 as permitted sender) client-ip=50.31.33.35;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org designates 50.31.33.35 as permitted sender) smtp.mail=bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org;
+       dkim=pass header.i=@list.fightforthefuture.org
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=list.fightforthefuture.org; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	s=smtpapi; bh=yCf3xhc6vjwp62G851mVSF0mEzg=; b=Yk3ZXFxfwC4Pakye1B
+	bJRlLWEZANH8Y/Rh7vVOqkp9BHmOwMjdN7ju6FlniF8vG55VHETvwu3yIVWQ2T0K
+	ezgd1EDRbRX0484Bb4r/XQQlEdrUvQdGKFmFzeqTHZPKUta+r45xGYaTpzJgKkXP
+	Rd9gLKjExFJCOUC8f/lZPKstc=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=yCf3xhc6vjwp62G851mVSF0mEzg=; b=lId3p63pYg4TThBAKV
+	2OhCXr1tKET7AkOC7YwfqIfOf08q8wGTq8c7kxLPrZ8puaKcctkrSSglSx+j4Ipe
+	ehr5GJ8nvLTdMHGAEU2KyoMoD8U45asECom8xJDYKdIrzPU/qdshNRvTtAQ03qsQ
+	hFNlooB/ru+dTu/oJqNrIL3UA=
+Received: by filter0009p1mdw1.sendgrid.net with SMTP id filter0009p1mdw1.21857.54DB87094E
+        2015-02-11 16:44:57.819125211 +0000 UTC
+Received: from list.fightforthefuture.org (ec2-50-17-112-95.compute-1.amazonaws.com [50.17.112.95])
+	by ismtpd-037 (SG) with ESMTP id 14b79877e0d.5a69.46ac27
+	for <noreply@list.fightforthefuture.org>; Wed, 11 Feb 2015 16:44:57 +0000 (UTC)
+Date: Wed, 11 Feb 2015 16:44:57 +0000
+From: Evan Greer from FFTF <info@list.fightforthefuture.org>
+Reply-to: info@fightforthefuture.org
+To: dinsmorealex@gmail.com
+Message-ID: <54db8709a84f2_33f97f0f69eac189825@becd69c5-cde2-49da-8288-f557c89aaaea.mail>
+Subject: Activists were bodyslammed at the FCC for trying to hold up this
+ banner
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_54db8709a5e1b_33f97f0f69eac1897f6";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://list.fightforthefuture.org/mpss/u/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/um9>, <mailto:unsubscribe@list.fightforthefuture.org?subject=http://list.fightforthefuture.org/mpss/u/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/um9>
+X-SG-EID: fTk2GWsSovuA2NZwoXLUxwmBKlaM2Ltb9Sa8mKPC5/v9ai5O8iPGV5y1X1lS8Gzpa1xOz3Vy2T1wep
+ R4Z1aOruE1f/AS46s2mIqYakRChfgJbByWdJY456PAr+hsjfouFWt1EobnS1DYT+E9E1YhsaBra2Fg
+ iOG6oXy6vmtpjeMGHVl3xhlZEBiJWoCQ95CG
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZkYvEDXjqbj6ZymOkpy6EezIgauNjp+1AplN87X7km7Y6rNJAhlhtDIkzy
+ 1WEEsduWRr3Tok6Y3xU7eotEI3BRvGhckcOJqZEtTupKa9DrpL8XUoFuC2E0xHdGBtUDxtK76y0e1d
+ 5eBRt4nHGa/0bG4=
+X-Feedback-ID: 855142:FS3YJhBa/x3YcS8zSTuc4u5bd0kydSlb0DeBxJfUxMI=:z8MuD0gddY9OfzSms/I0xw==:SG
+
+----==_mimepart_54db8709a5e1b_33f97f0f69eac1897f6
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+https://battleforthenet.com/countdown/?org=3Dfftf&t=3DdXNlcmlkPTQ3Nzk2NDc3L=
+GVtYWlsaWQ9OTUwNw=3D=3D
+Dear Fight for the Future member:
+Yesterday morning, net neutrality activists were bodyslammed to the ground =
+by FCC security for attempting to peacefully hold up a banner at FCC Commis=
+sioner's Pais press conference on net neutrality. [1] Just as the Commissio=
+ner finished his speech attacking net neutrality and shilling for his forme=
+r employer Verizon [2], activists attempted to hold up a banner reading, =
+=E2=80=9C85% of Republican Voters Support Net Neutrality.=E2=80=9D
+The banner paraphrased a University of Delaware poll, reported in the Washi=
+ngton Post, that shows that both Democrats and Republicans overwhelmingly o=
+ppose the idea of fast lanes and slow lanes on the Internet, and support th=
+e principles of net neutrality. [3]
+https://battleforthenet.com/countdown/?org=3Dfftf&t=3DdXNlcmlkPTQ3Nzk2NDc3L=
+GVtYWlsaWQ9OTUwNw=3D=3D
+So why was Commissioner Pai so afraid of that one little banner that he had=
+ his security tackle and threaten peaceful activists? Because the message o=
+n it exposes him for what he truly is: a shining example of everything that=
+ is wrong with Washington, DC. Ajit Pai doesn=E2=80=99t represent republica=
+ns, democrats, or any other member of the public, he represents the interes=
+t of Cable and Telecom companies, the very industries that he is supposed t=
+o hold accountable as an FCC commissioner.=20
+We don=E2=80=99t have millions of dollars to counter their deceit, but we h=
+ave the Internet, and we intend to use it.
+https://battleforthenet.com/countdown/?org=3Dfftf&t=3DdXNlcmlkPTQ3Nzk2NDc3L=
+GVtYWlsaWQ9OTUwNw=3D=3D
+Thanks so much for all you do,
+-Evan, Tiffiniy, Holmes, Jeff, Vasjen, and Jessica
+Fight for the Future
+=C2=A0
+P.S. the fight is heating up and we need all the help we can get right now!=
+ CREDO has selected us to receive donations from their customers this month=
+! The more votes we get, the more funds we'll get to fight for the Internet=
+! https://www.credodonations.com?t=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTUwNw=
+=3D=3D/
+=C2=A0
+SOURCES:
+[1] Press Release: http://tumblr.fightforthefuture.org/post/110639852518/ne=
+t-neutrality-activists-bodyslammed-dragged-from?t=3DdXNlcmlkPTQ3Nzk2NDc3LGV=
+tYWlsaWQ9OTUwNw=3D=3D
+[2] FCC.gov, http://www.washingtonpost.com/blogs/wonkblog/wp/2014/11/12/won=
+kbook-polling-shows-even-republicans-overwhelmingly-support-net-neutrality/=
+?t=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTUwNw=3D=3D
+[3] Washington Post, http://www.washingtonpost.com/blogs/wonkblog/wp/2014/1=
+1/12/wonkbook-polling-shows-even-republicans-overwhelmingly-support-net-neu=
+trality/?t=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTUwNw=3D=3D
+Want more awesome more often?=0D
+=0D
+* Like us on Facebook: https://www.facebook.com/fightfortheftr=0D
+* Follow us on Twitter: https://twitter.com/fightfortheftr=0D
+* Keep us fighting. Chip in what you can: https://donate.fightforthefuture.=
+org
+If you would like to unsubscribe and stop receiving these emails click here=
+: http://list.fightforthefuture.org/mpss/u/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcU=
+tCpDQ1A/ut7.
+
+----==_mimepart_54db8709a5e1b_33f97f0f69eac1897f6
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<style type="text/css">
+					
+			p {
+				margin: 1em 0;
+			}
+
+			@media only screen and (max-device-width: 480px) {
+				
+				[class="body"] {
+					font-size: 16px !important;
+					line-height: 19px !important;
+				}	 
+					
+				img[class="header"] {
+					width: 320px !important;
+					height: 48px !important;
+				}		
+							
+				table[class="sidebox"] {
+					width: 150px !important;
+				} 
+
+				img[class="sidebox"] {
+					width: 120px !important;
+					height: 79px !important;
+				}
+
+				img[class="sidebox-button"] {
+					width: 120px !important;
+					height: 22px !important;
+				} 
+
+				table[class="table-footer"] {
+					width: 320px !important;
+					padding: 5px !important;
+				}		
+			}
+		</style>
+  </head>
+<body>
+  <p id="docs-internal-guid-9f75116d-753e-907e-9957-1706581454c3" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/h0/KJoct3r7SbnW5W1JszV6J0x4VqwdLCo0a3VQNB26LHQTiFQT9IdbA87kVsu3ZBesk5G-2FDBi-2FHZE1vxNcRDZfqD6BACPycbltnRnJo-2B2m7rJrBCfmYuNCADIuk-2F-2F3F-2FPo"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">15 days left until the FCC votes on net neutrality. Click here to take action!</span></a></p>
+<br/>
+
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Dear Fight for the Future member:</span></p>
+<br/>
+
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Yesterday morning, net neutrality activists were bodyslammed to the ground by FCC security for attempting to peacefully hold up a banner at FCC Commissioner's Pais press conference on net neutrality. [1] Just as the Commissioner finished his speech attacking net neutrality and shilling for his former employer Verizon [2], activists attempted to hold up a banner reading, &ldquo;85% of Republican Voters Support Net Neutrality.&rdquo;</span></p>
+<br/>
+
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">The banner paraphrased a University of Delaware poll, reported in the Washington Post, that shows that both Democrats and Republicans overwhelmingly oppose the idea of fast lanes and slow lanes on the Internet, and support the principles of net neutrality. [3]</span></p>
+<br/>
+
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/h1/KJoct3r7SbnW5W1JszV6J0x4VqwdLCo0a3VQNB26LHQTiFQT9IdbA87kVsu3ZBesk5G-2FDBi-2FHZE1vxNcRDZfqD6BACPycbltnRnJo-2B2m7rJrBCfmYuNCADIuk-2F-2F3F-2FPo"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">No one should get bodyslammed for their free speech because of partisan politics and corporate interests. Join us in telling Comcast&rsquo;s pals in Congress to back off!</span></a></p>
+<br/>
+
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">So why was Commissioner Pai so afraid of that one little banner that he had his security tackle and threaten peaceful activists? Because the message on it exposes him for what he truly is: a shining example of everything that is wrong with Washington, DC. Ajit Pai doesn&rsquo;t represent republicans, democrats, or any other member of the public, he represents the interest of Cable and Telecom companies, the very industries that he is supposed to hold accountable as an FCC commissioner. </span></p>
+<br/>
+
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">We don&rsquo;t have millions of dollars to counter their deceit, but we have the Internet, and we intend to use it.</span></p>
+<br/>
+
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/h2/KJoct3r7SbnW5W1JszV6J0x4VqwdLCo0a3VQNB26LHQTiFQT9IdbA87kVsu3ZBesk5G-2FDBi-2FHZE1vxNcRDZfqD6BACPycbltnRnJo-2B2m7rJrBCfmYuNCADIuk-2F-2F3F-2FPo"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">Click here to join the final wave of protest leading up to the FCC&rsquo;s net neutrality vote.</span></a></p>
+<br/>
+
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Thanks so much for all you do,</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">-Evan, Tiffiniy, Holmes, Jeff, Vasjen, and Jessica</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Fight for the Future</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">P.S. the fight is heating up and we need all the help we can get right now! CREDO has selected us to receive donations from their customers this month! The more votes we get, the more funds we'll get to fight for the Internet! <a href="http://list.fightforthefuture.org/mpss/c/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/h3/F1-2FGbKTLgmw1a2iiczfdyV4zzAfxDb5pKRg5pooDRqcHl4Kr0OV6RKsaVMu8xSb3VoV2SyFpgl9REW9gfRnencvDI-2FxseXv3l2bVEDFQDJM-3D"><strong>Please click here and vote for Fight for the Future!</strong></a><br/>
+</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">SOURCES:</span></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">[1] Press Release: </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/h4/VO3BBpQIJMFj4-2Box6-2BAcW94vhz-2Bq9t35jIoAQROGZ-2BxpYBoLRBCtFJf-2FKrGS6he1eLgfDikNnS6YPmjJCK4LdzS63oafK-2BZi1ZeMYhGFwRZDOnR1Wy1XzmRXyLjyNwhv1zYOYcCNeQ4WxAiR-2BKFpedEEVK0OqY8FxmaodlloJFp3soskZSeMolfT8ImD8pgU-2FymBgynTRnWxR1wuS453Ww-3D-3D"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">Net neutrality activists bodyslammed, dragged from Republican FCC Commissioner Ajit Pai&rsquo;s press conference for holding up this banner.</span></a></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">[2] FCC.gov, </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/h5/-2BgG2Axp9Q5O6CwaCfGvIKgiVn7c8mMxTpTfang6sBKejYcD45q7P2Ivo1KetpVqn3Su99Zf6AYx3ZwMIVA6zkAXw2ZsNLIZAgkqiH5yT1oU3-2Fv9bKnYUZXhDuYp71nHVXW2Y9OYCnXGska6076bOqjg61VQPdOOWiurgzWytgORGcB-2B1vRoGMu9ufxApMn65QPoqvyT2yrTndlKg8dc-2FR0k559UOIqV08r3cmxcRZobWpUiB4yiI1nHyJos6-2FzIn"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">Commissioner Ajit Pai</span></a></p>
+<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">[3] </span><span style="font-size: 13px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Washington Post, </span><a style="text-decoration: none;" href="http://list.fightforthefuture.org/mpss/c/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/h6/-2BgG2Axp9Q5O6CwaCfGvIKgiVn7c8mMxTpTfang6sBKejYcD45q7P2Ivo1KetpVqn3Su99Zf6AYx3ZwMIVA6zkAXw2ZsNLIZAgkqiH5yT1oU3-2Fv9bKnYUZXhDuYp71nHVXW2Y9OYCnXGska6076bOqjg61VQPdOOWiurgzWytgORGcB-2B1vRoGMu9ufxApMn65QPoqvyT2yrTndlKg8dc-2FR0k559UOIqV08r3cmxcRZobWpUiB4yiI1nHyJos6-2FzIn"><span style="font-size: 13px; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">&ldquo;New Poll: Democrats and R
+ epublicans Both Overwhelmingly Support Net Neutrality.&rdquo; </span></a></p>
+  <br>
+  <img src="http://action.fightforthefuture.org/beacon.gif?t=dXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTUwNw==">
+
+<p>
+	Want more awesome more often?<br />
+	<br />
+	* <a href="https://www.facebook.com/fightfortheftr" target="_blank">Like us on Facebook</a><br />
+	* <a href="https://twitter.com/fightfortheftr" target="_blank">Follow us on Twitter</a><br />
+	<br />
+	<a href="https://donate.fightforthefuture.org" style="font-size: 110%" target="_blank"><strong>* Keep us fighting, chip in what you can.</strong></a></p>
+
+<img src="http://list.fightforthefuture.org/mpss/o/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/o.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+<p>
+	If you would like to unsubscribe and stop receiving these emails <a href="http://list.fightforthefuture.org/mpss/u/5QA/ZgwNAA/t.1kg/acQPEf8IRJ69YcUtCpDQ1A/uh8">click here</a>.</p>
+
+</body>
+</html>
+
+
+----==_mimepart_54db8709a5e1b_33f97f0f69eac1897f6--

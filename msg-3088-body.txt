@@ -1,0 +1,52 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.60.42 with SMTP id e10csp26854ldr;
+        Thu, 28 Mar 2013 10:47:53 -0700 (PDT)
+Return-Path: <ben.dorenfeld@gmail.com>
+Received-SPF: pass (google.com: domain of ben.dorenfeld@gmail.com designates 10.182.102.201 as permitted sender) client-ip=10.182.102.201
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of ben.dorenfeld@gmail.com designates 10.182.102.201 as permitted sender) smtp.mail=ben.dorenfeld@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.182.102.201])
+        by 10.182.102.201 with SMTP id fq9mr5742023obb.4.1364492872436 (num_hops = 1);
+        Thu, 28 Mar 2013 10:47:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:x-received:date:message-id:subject:from:to
+         :content-type;
+        bh=QmBzMvIukpc//pVQvYe7+6H2D70fCw0tbqC/MqWHiLA=;
+        b=iqG4V5Fp4PzyEr0udusX+kxqk6O99UbCE2ltz9scvi9jfQsNYBZ+zhigxJSPBxARCd
+         HePUThU3RCoWr12ZuCPyTrbzxiU4uMIuphS1sW81+LAroXL/rsZnWEziGnEyRZbxyKU+
+         qZh1bjt/3w588efuw8QYpYDbv4PX+lQ1KVc+Lo/Q2z6bBaaVRCimPXULMyvP6T6jlWbx
+         7scHH6oFMOAsZihEFLYqrwb5Wi6o5xQJKHFgw6rHlVwMHobZKJzrQwWdIlpdhyW6AkXG
+         eiRH4hmKClHwQHbJlwvT0NCXm3r25fq2zyjiVAi37ZxQADzGBR9fPp8KNgXWteLGekse
+         toWw==
+MIME-Version: 1.0
+X-Received: by 10.182.102.201 with SMTP id fq9mr5742023obb.4.1364492872386;
+ Thu, 28 Mar 2013 10:47:52 -0700 (PDT)
+Received: by 10.182.148.73 with HTTP; Thu, 28 Mar 2013 10:47:52 -0700 (PDT)
+Date: Thu, 28 Mar 2013 13:47:52 -0400
+Message-ID: <CAE8_jWTYC3ij8mw6Bs43M4_ikam6y1ijFRbO5ALNH18aMo0mkQ@mail.gmail.com>
+Subject: 2NITE
+From: Ben Dorenfeld <ben.dorenfeld@gmail.com>
+To: Alex Dinsmore <dinsmorealex@gmail.com>, Cole Giordano <colegiordano.1@gmail.com>, 
+	Max Suechting <msuechting@gmail.com>
+Content-Type: multipart/alternative; boundary=089e0141a7c8f5bdec04d8ffc0d6
+
+--089e0141a7c8f5bdec04d8ffc0d6
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hey guys,
+
+Does 9:30 work for y'all? As always, will do my best to get out earlier but
+this usually proves to be unsuccessful.
+
+Love,
+Ben
+
+--089e0141a7c8f5bdec04d8ffc0d6
+Content-Type: text/html; charset=ISO-8859-1
+
+<div dir="ltr">Hey guys,<div><br></div><div>Does 9:30 work for y&#39;all? As always, will do my best to get out earlier but this usually proves to be unsuccessful.</div><div><br></div><div style>Love,</div><div style>Ben</div>
+</div>
+
+--089e0141a7c8f5bdec04d8ffc0d6--

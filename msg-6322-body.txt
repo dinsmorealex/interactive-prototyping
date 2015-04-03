@@ -1,0 +1,1045 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.183.137 with SMTP id em9csp61186ldc;
+        Sun, 30 Mar 2014 05:22:59 -0700 (PDT)
+X-Received: by 10.229.54.201 with SMTP id r9mr11911219qcg.6.1396182178302;
+        Sun, 30 Mar 2014 05:22:58 -0700 (PDT)
+Return-Path: <CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2-LSJJ1M-H-M2-20140330-93b7485bfbea1@na.e.paypal.com>
+Received: from outbound.na.e.paypal.com (outbound.na.e.paypal.com. [96.47.30.199])
+        by mx.google.com with ESMTP id x8si4900741qar.19.2014.03.30.05.22.57
+        for <dinsmorealex@gmail.com>;
+        Sun, 30 Mar 2014 05:22:58 -0700 (PDT)
+Received-SPF: pass (google.com: domain of CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2-LSJJ1M-H-M2-20140330-93b7485bfbea1@na.e.paypal.com designates 96.47.30.199 as permitted sender) client-ip=96.47.30.199;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2-LSJJ1M-H-M2-20140330-93b7485bfbea1@na.e.paypal.com designates 96.47.30.199 as permitted sender) smtp.mail=CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2-LSJJ1M-H-M2-20140330-93b7485bfbea1@na.e.paypal.com;
+       dkim=pass header.i=@e.paypal.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=paypal.com
+Return-Path: <CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2-LSJJ1M-H-M2-20140330-93b7485bfbea1@na.e.paypal.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=e.paypal.com; s=ED-DKIM-V3; c=relaxed/relaxed;
+	q=dns/txt; i=@e.paypal.com; t=1396182177;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=/knsitWiuyLrkpLVC1/wsGoV8z8=;
+	b=nY2+MZsnUMqdEFCyrnW8Hn8EYb92FJs/YD1Zh8wX5JyOE9mugL8TsqaPwDdCvV21
+	HWnJM0PJd9DNR5iK4UXooqfCtDBkaXQbCNAYhVuKjb7fsMWAyvLIwf+tDmNVtmVN
+	OmHSqki2iO0aXYtYZOFSHqDZYmEjz525Milm9QOoSmA=;
+Received: from [127.0.0.1] ([127.0.0.1:33254])
+	by bm1-08.bo3.e-dialog.com (envelope-from <CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2-LSJJ1M-H-M2-20140330-93b7485bfbea1@na.e.paypal.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 1F/32-19349-1AC08335; Sun, 30 Mar 2014 08:22:57 -0400
+Date: Sun, 30 Mar 2014 08:22:57 -0400
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: "PayPal" <paypal@e.paypal.com>
+Reply-To: "PayPal" <noreply@e.paypal.com>
+To: dinsmorealex@gmail.com
+Subject: Alex - There's a better way to pay your bills.
+Message-Id: <11470-669-CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2-LSJJ1M-H-M2-20140330-93b7485bfbea1@e-dialog.com>
+X-Mail-From: CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2-LSJJ1M-H-M2-20140330-93b7485bfbea1@na.e.paypal.com
+X-Match: na.e.paypal.com
+X-RCPT-To: dinsmorealex@gmail.com
+X-Mailer: EDMAIL R6.00.02
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>PayPal</title>
+<style type=3D"text/css">
+span [class=3Drborder] {border:1px solid #00457b; font-size:12px; font-weig=
+ht:bold;
+font-family:Arial, Helvetica, sans-serif; padding:10px 10px; background:#00=
+8cde;
+color:#ffffff; width:90px;  border-radius:10px; }
+
+		 .ReadMsgBody {width: 100%;}
+         .ExternalClass {width: 100%;}
+=09=09=20
+		 @media only screen and (max-device-width: 480px) {
+=09=09=09
+			table[class=3Demailnomob],td[class=3Demailnomob],img[class=3Demailnomob]=
+, span[class=3Demailnomob] {display:none !important;}
+=09
+table[class=3Demailwrapto360] {width:360px !important; height:auto !importa=
+nt;}=09
+=09=09=09
+table[class=3Demailwrapto320]=20
+{width:320px !important;=20
+height:auto !important;
+display:block !important;
+padding: 0;
+max-height: inherit !important;
+overflow: visible !important;
+}
+
+/* font size */
+*[class=3Dfontsize26] {
+	font-size: 26px !important;
+}
+*[class=3Dfontsize16] {
+	font-size: 16px !important;
+}
+*[class=3Dfontsize14] {
+	font-size: 14px !important;
+}
+*[class=3Dfontsize12] {
+	font-size: 12px !important;
+}
+*[class=3Dfontsize8] {
+	font-size: 8px !important;
+}
+=09=09
+		/* font size */
+=09=09
+=09=09=09
+table[class=3Demailwrapto318] {width:318px !important; height:auto !importa=
+nt; display:block !important; padding: 0;}
+
+table[class=3Demailwrapto248] {width:248px !important; height:auto !importa=
+nt;}
+
+table[class=3Demailwrapto288] {width:288px !important; height:auto !importa=
+nt;}
+=09=09=09
+td[class=3Demailwrapto320] {width:320px !important; height:auto !important;=
+ padding: 0;}
+
+td[class=3Demailwrapto320s] {width:60% !important; height:auto !important;}
+
+td[class=3Demailwrapto318] {width:318px !important; height:auto !important;=
+ padding: 0;}
+
+td[class=3Demailwrapto180] {width:180px !important; height:auto !important;}
+
+td[class=3Demailwrapto180f] {width:180px !important; height:auto !important=
+; font-size:6px !important;}
+
+td[class=3Demailwrapto120f] {width:120px !important; height:auto !important=
+; font-size:6px !important;}
+
+td[class=3Demailwrapto120] {width:120px !important; height:auto !important;}
+
+td[class=3Demailwrapto16] {width:10px !important; height:auto !important;}
+
+td[class=3Demailfontsmall] {font-size:80% !important;}
+
+td[class=3DpreheaderLeft] {
+	width:200px !important;=09=09
+}
+td[class=3DpreheaderRight] {
+	width:120px !important;=09=09
+}
+
+img[class=3Demailwrapto320] {width:320px !important; height:auto !important=
+;}
+
+img[class=3Demailwrapto318] {width:318px !important; height:auto !important=
+; display:block !important;}
+
+img[class=3Demailwrapto280] {width:280px !important; height:auto !important=
+;}
+
+img[class=3Demailwrapto254] {width:254px !important; height:auto !important=
+;}
+
+img[class=3Demailwrapto140] {width:140px !important; height:auto !important=
+;}
+
+img[class=3Demailwrapto55] {width:auto !important; height:55px !important;}
+
+img[class=3Demailwrapto64] {width:56px !important; height:auto !important;}
+
+img[class=3Demailpplogo] {width:165px !important; height:auto !important;}
+
+img[class=3Demailebaylogo] {width:135px !important; height:auto !important;}
+
+img[class=3Demailcolsplit320]{width:305px; text-align:left; !important; flo=
+at:left !important;}
+
+td[class=3Demailcolsplit318]{width:318px; align:left; !important; float:lef=
+t !important; height:auto !important;}
+
+td[class=3Demailcolsplit280]{width:280px;}
+
+td[class=3Demailcolsplit305]{width:305px; align:center; !important; float:l=
+eft !important;}
+
+a[class=3Demailfontsmall] {font-size:80% !important;}
+span[class=3Demailfontsmall] {font-size:80% !important;}
+
+a[class=3Dfooter]{
+	display:block !important;
+	font-size:14px !important;
+	 font-weight:bold !important;=20
+	 padding:6px 4px 8px 4px !important;=20
+	 line-height:18px !important;=20
+	 background:#dddddd !important;=20
+	 border-radius:5px !important;=20
+	 margin:10px auto;width:240px;=20
+	 text-align:center;=20
+	 text-decoration:none;=20
+	 color:#717074 !important;}
+
+td[class=3Dgraybox] { width:318px; text-align:center !important; padding: 1=
+0px 20px 10px 20px !important; background: #dddddd !important; font-size:16=
+px !important; }=09
+
+=09=09
+		}
+=09=09
+=09
+		</style>
+=09=09
+<style type=3D"text/css">.ReadMsgBody { width: 100%;}.ExternalClass {width:=
+ 100%;}div, p, a, li, td, span, font {-webkit-text-size-adjust:none;-ms-tex=
+t-size-adjust:none;} .hotmailimg img{height:10px; width:10px;}</style>
+
+
+</head>
+
+<body style=3D"background-color:#FFFFFF;-webkit-text-size-adjust:none;" bgc=
+olor=3D"#f2f2f2"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%"><tr><td align=3D"center" valign=3D"top">
+
+<!-- 100% table -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"background:#f2f2f2;">
+  <tr>
+    <td align=3D"center" valign=3D"top">
+=20=20=20=20
+<!-- 700px container table -->=20=20=20=20
+    <table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+<tr>
+<td>
+<!--table stacked inside container starts here-->
+
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#f2f2f2">
+<tr>
+<td height=3D"16"><!--spacer--></td>
+</tr>
+</table>
+
+
+
+<!--table with apply/view online -->
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" style=3D"font-family:Arial, Helvetica,=
+ sans-serif; font-size:11px; color:#666666; ">
+  <tr>
+    <td width=3D"10"><!--spacer--></td>
+    <td align=3D"left" class=3D"preheaderLeft"><b>Alex Dinsmore</b> =E2=80=
+=93 Let us take care of your recurring payments.</td>
+    <td align=3D"right" class=3D"preheaderRight"><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/C5IIX=
+V/NN/h?a=3DCW49Y6Z&b=3D3O7ZG3&c=3DS6TUY2X&d=3DUU6I3UM&e=3D1&f=3D82f61210b76=
+198023098" target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:11px; color:#666666; font-weight:bold;"
+>View online</a></td>
+    <td width=3D"10"><!--spacer--></td>
+   </tr>
+</table>
+
+<!-- spacer table-->
+    <table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+    <tr>
+    <td width=3D"1" bgcolor=3D"#f2f2f2"><!--spacer--></td>
+     <td class=3D"emailwrapto318" width=3D"698"  align=3D"center"  height=
+=3D"10px" style=3D"background-color:#f2f2f2;" ><!--spacer--></td>
+    <td width=3D"1" bgcolor=3D"#f2f2f2"><!--spacer--></td>
+    </tr>
+    </table>
+
+<!--rounded top table -->
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center">
+    <tr>
+    <td><img src=3D"https://image.paypal-communication.com/paypal_na/2014/2=
+0140330_RecurringPayments_28599/top_left.jpg" width=3D"160" height=3D"14" s=
+tyle=3D"display:block" border=3D"0" /></td>
+    <td class=3D"emailnomob"><img class=3D"emailnomob" src=3D"https://image=
+.paypal-communication.com/paypal_na/2014/20140330_RecurringPayments_28599/t=
+op_middle.jpg" width=3D"380" height=3D"14" style=3D"display:block" border=
+=3D"0" /></td>
+    <td><img src=3D"https://image.paypal-communication.com/paypal_na/2014/2=
+0140330_RecurringPayments_28599/top_right.jpg" width=3D"160" height=3D"14" =
+style=3D"display:block" border=3D"0" /></td>
+    </tr>
+    </table>
+
+
+<!--Paypal/bml logo -->
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center">
+    <tr>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+    <td class=3D"emailwrapto318" width=3D"698" bgcolor=3D"#FFFFFF">
+    <table class=3D"emailwrapto318" width=3D"698" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/6V44Z=
+8/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/paypal.jpg" width=3D"318" height=3D"60" style=3D"d=
+isplay:block" border=3D"0" alt=3D"PayPal" /></a></td>
+       <td class=3D"emailnomob" width=3D"380px"><img  class=3D"emailnomob" =
+src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330_Recur=
+ringPayments_28599/380spacer.gif" width=3D"380"  style=3D"display:block" bo=
+rder=3D"0"  /></td>
+    </tr>
+</table>
+</td>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+    </tr>
+    </table>
+=20=20=20=20
+
+ <!-- content 2 -->=20
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF" style=3D"border-co=
+llapse:collapse;">
+    <tr>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><!--spacer--></td>
+    <td class=3D"fontsize26" align=3D"left" style=3D"padding:0 20px 0 30px;=
+ font-family: Helvetica, Arial, sans-serif; color:#0079c1; font-size:38px; =
+">Bill pay the easy way. Let us do it.
+
+    </td>
+
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+    </tr>
+</table>
+
+<!-- content 3 -->=20
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF" style=3D"border-co=
+llapse:collapse;">
+    <tr>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><!--spacer--></td>
+    <td class=3D"fontsize16" align=3D"left" style=3D"padding:0 10px 0 30px;=
+ font-family: Helvetica, Arial, sans-serif; color:#717074; font-size:18px; =
+line-height:130%;">Choose PayPal for your bills, subscriptions and frequent=
+ purchases and make your payments automatically.
+    </td>
+     <td class=3D"emailnomob" width=3D"200px"><img  class=3D"emailnomob" sr=
+c=3D"https://image.paypal-communication.com/paypal_na/2014/20140330_Recurri=
+ngPayments_28599/spacer200.gif" width=3D"200"  style=3D"display:block" bord=
+er=3D"0"  /></td>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+    </tr>
+</table>
+
+
+
+=20=20=20=20
+<!-- spacer table-->
+    <table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+    <tr height=3D"20px">
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+     <td class=3D"emailwrapto318" width=3D"698" height=3D"20px"  align=3D"c=
+enter" style=3D"background-color:#ffffff; height:20px;" ><!--spacer--></td>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+    </tr>
+    </table>
+=20=20=20=20
+=20
+=20
+<!-- cta button-->
+ <table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" align=3D"center">
+    <tr height=3D"30px">
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+    <td class=3D"emailwrapto318" width=3D"698"  align=3D"left" style=3D"bac=
+kground-color:#ffffff; height:30px;" >
+     <table class=3D"emailwrapto318" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" align=3D"left"><tr>
+     <td width=3D"30" bgcolor=3D"#ffffff"><!--spacer--></td>
+   <td>
+    <!-- cta code starts-->
+    <table height=3D"30" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" b=
+ackground=3D"https://image.paypal-communication.com/paypal_na/2013/20130623=
+_GE_June_Responsive_16522/images/img_buttonbg.gif" bgcolor=3D"#009af5">
+                                            <tr>
+                                              <td valign=3D"top" align=3D"l=
+eft" width=3D"5" height=3D"30"><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/TPGGL=
+R/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/img_left.gif" alt=3D"" width=3D"5" height=3D"30" b=
+order=3D"0" style=3D"display:block;" /></a></td>
+                                              <td valign=3D"middle" align=
+=3D"left" height=3D"30"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"font-size:0; line-height:0;">
+                                                  <tr>
+                                                    <td align=3D"left" vali=
+gn=3D"top" width=3D"1" height=3D"1" bgcolor=3D"#004a75"><img src=3D"https:/=
+/image.paypal-communication.com/paypal_na/2014/20140330_RecurringPayments_2=
+8599/img_spacer.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"display:block;" /></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td  align=3D"left" val=
+ign=3D"top" width=3D"1" height=3D"1" bgcolor=3D"#4dbeff"><img src=3D"https:=
+//image.paypal-communication.com/paypal_na/2014/20140330_RecurringPayments_=
+28599/img_spacer.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"display:block;" /></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td valign=3D"middle" a=
+lign=3D"left" style=3D"font-size:0; line-height:0;"><table width=3D"258" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                        <tr>
+                                                          <td valign=3D"mid=
+dle" align=3D"center" height=3D"27" width=3D"258" style=3D"font-family: Ari=
+al, Helvetica, sans-serif; font-size:14px; color:#ffffff; text-decoration:n=
+one;"><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/C5IIX=
+Z/NN/h" target=3D"_blank" style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-size:14px; color:#ffffff; text-decoration:none;"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+14px; color:#ffffff; text-decoration:none;"><strong>Get Started</strong></f=
+ont></span></a></td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td align=3D"left" vali=
+gn=3D"top" width=3D"1" height=3D"1" bgcolor=3D"#004a75"><img src=3D"https:/=
+/image.paypal-communication.com/paypal_na/2014/20140330_RecurringPayments_2=
+8599/img_spacer.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"display:block;" /></td>
+                                                  </tr>
+                                                </table></td>
+                                              <td valign=3D"top" align=3D"l=
+eft" width=3D"5" height=3D"30"><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/D4EEK=
+M/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/img_right.gif" alt=3D"" width=3D"5" height=3D"30" =
+border=3D"0" style=3D"display:block;" /></a></td>
+                                            </tr>
+                              </table>
+
+
+</td></tr></table>
+=20=20=20=20
+=20=20=20=20
+    </td>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+</tr></table>
+=20=20=20
+
+
+
+
+
+
+ <!-- content table -->=20
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF" style=3D"border-co=
+llapse:collapse;">
+    <tr>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><!--spacer--></td>
+    <td align=3D"left" style=3D"padding:20px 40px 0 30px; font-family: Helv=
+etica,  Arial, sans-serif; color:#333333; font-size:18px">Here's why paying=
+ with us is the right move:=20=20=20=20=20=20
+<br/><br/>
+
+<table  border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:14px; color:#666666;">
+   <tr>
+    <td width=3D"30" valign=3D"top" align=3D"center" style=3D"padding-botto=
+m:7px;">=E2=80=A2</td>
+    <td>Your payments come with industry-leading security.
+    <br/></td>
+  </tr>
+ <tr>
+    <td width=3D"30" valign=3D"top" align=3D"center" style=3D"padding-botto=
+m:7px;">=E2=80=A2</td>
+    <td>We remember due dates so you don't have to.
+    <br/></td>
+  </tr>
+  <tr>
+    <td width=3D"30" valign=3D"top" align=3D"center" style=3D"padding-botto=
+m:7px;">=E2=80=A2</td>
+    <td>If your billing info changes, you only need to update it once.
+    <br/></td>
+  </tr>
+  <tr>
+    <td width=3D"30" valign=3D"top" align=3D"center" style=3D"padding-botto=
+m:7px;">=E2=80=A2</td>
+    <td>Pay any way you want. Use your balance, bank, debit or credit card.
+    <br/><br/><br/></td>
+  </tr>
+=20=20=20
+  </table>
+=20=20=20
+    </td>
+
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><!--spacer--></td>
+    </tr>
+</table>
+
+
+=20=20=20=20
+
+=20=20=20=20
+
+<!-- spacer table-->
+    <table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+    <tr >
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+     <td class=3D"emailnomob" width=3D"698" height=3D"25px"  align=3D"cente=
+r" style=3D"background-color:#ffffff; height:25px;" ><img class=3D"emailnom=
+ob" src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330_R=
+ecurringPayments_28599/line2.gif" style=3D"display:block" height=3D"25"></t=
+d>
+   <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D"=
+https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPay=
+ments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" /><=
+/td>
+    </tr>
+    </table>
+=20=20=20=20
+ <!-- content  -->=20
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF" style=3D"border-co=
+llapse:collapse;">
+    <tr>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><!--spacer--></td>
+    <td  class=3D"graybox" align=3D"center" style=3D"padding:0 30px 10px 30=
+px; font-family: Helvetica, Arial, sans-serif; color:#333333; font-size:20p=
+x; line-height:120%;">Get time back on your side. Use us to pay at your fav=
+orite stores: </td>
+
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+    </tr>
+</table>=20=20=20
+
+
+
+<!-- brands table-->
+<table class=3D"emailwrapto320" width=3D"700" height=3D"131" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#e5e5e5" sty=
+le=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;=
+">
+<tr>
+<td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D"htt=
+ps://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPaymen=
+ts_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" /></td>
+
+   <td  align=3D"center" class=3D"emailcolsplit318" width=3D"340" height=3D=
+"131" bgcolor=3D"#ffffff" style=3D"border-collapse:collapse; height:131px;">
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"340" style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table=
+-rspace:0pt;"><tr><td width=3D"340" class=3D"emailwrapto318"><img src=3D"ht=
+tps://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPayme=
+nts_28599/prod_line_1px.gif" width=3D"340" height=3D"1" border=3D"0" alt=3D=
+"" class=3D"emailwrapto318" style=3D"display:block"/></td></tr></table>
+=20=20=20=20=20
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+          <tr><td>=20=20=20=20
+           <a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/LQ33R=
+E/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/netflix.gif" align=3D"absbottom" width=3D"160" hei=
+ght=3D"130" border=3D"0" alt=3D"netflix" style=3D"display:block"/></a></td>
+           <td><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2014/20140330_RecurringPayments_28599/prod_hor_line.gif" width=3D"15" heig=
+ht=3D"130" border=3D"0" alt=3D"" style=3D"display:block" /></td>
+          <td><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/OJ113=
+J/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/itunes.gif" width=3D"140" height=3D"130" border=3D=
+"0" alt=3D"itunes" style=3D"display:block"/></a></td></tr></table>=20=20
+=20=20=20=20=20=20=20=20=20=20
+   </td>=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+       <!-- divider for split -->
+       <td  border=3D"0" cellspacing=3D"0" cellpadding=3D"0"  align=3D"cent=
+er" class=3D"emailnomob" width=3D"18" height=3D"131" bgcolor=3D"#ffffff" st=
+yle=3D"border-collapse:collapse;">
+=20=20=20=20=20=20=20
+       <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"18"=
+ height=3D"131" style=3D"border-collapse:collapse; mso-table-lspace:0pt; ms=
+o-table-rspace:0pt;">
+       <tr><td width=3D"18" class=3D"emailnomob"><img src=3D"https://image.=
+paypal-communication.com/paypal_na/2014/20140330_RecurringPayments_28599/pr=
+od_line2_1px.gif" width=3D"18" height=3D"1" border=3D"0" alt=3D"" class=3D"=
+emailnomob" style=3D"display:block"/></td></tr>
+=20=20=20=20=20=20=20=20=20=20=20=20
+          <tr><td width=3D"18" height=3D"130" style=3D"border-collapse:coll=
+apse;"> <img src=3D"https://image.paypal-communication.com/paypal_na/2014/2=
+0140330_RecurringPayments_28599/prod_divider2.gif" width=3D"18" height=3D"1=
+30" border=3D"0" alt=3D""   class=3D"emailnomob" style=3D"display:block"/><=
+/td></tr>
+          </table>=20=20
+   </td>
+=20=20=20
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20
+    <td  align=3D"center" class=3D"emailcolsplit318" width=3D"340" height=
+=3D"131" bgcolor=3D"#ffffff" style=3D"border-collapse:collapse; height:131p=
+x;">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border=
+-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td wi=
+dth=3D"340" class=3D"emailwrapto318"><img src=3D"https://image.paypal-commu=
+nication.com/paypal_na/2014/20140330_RecurringPayments_28599/prod_line_1px.=
+gif" width=3D"340" height=3D"1" border=3D"0" alt=3D"" class=3D"emailwrapto3=
+18"  style=3D"display:block" /></td></tr></table>
+         <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"b=
+order-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+          <tr><td>=20=20=20=20
+           <a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/18AAC=
+6/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/starbucks.gif" width=3D"160" height=3D"130" border=
+=3D"0" alt=3D"starbucks" style=3D"display:block"/></a></td>
+           <td><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2014/20140330_RecurringPayments_28599/prod_hor_line.gif" width=3D"15" heig=
+ht=3D"130" border=3D"0" alt=3D"" style=3D"display:block" /></td>
+          <td><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/3O772=
+C/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/microsoft.gif" width=3D"140" height=3D"130" border=
+=3D"0" alt=3D"microsoft" style=3D"display:block"/></a></td></tr></table>=20=
+=20
+   </td>=20=20=20
+=20=20=20=20=20=20=20=20=20
+         <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" s=
+rc=3D"https://image.paypal-communication.com/paypal_na/2014/20140330_Recurr=
+ingPayments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"=
+1" /></td>
+
+
+</tr></table>
+
+
+
+<!-- brands table-->
+<table class=3D"emailwrapto320" width=3D"700" height=3D"131" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#e5e5e5" sty=
+le=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;=
+">
+<tr>
+<td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D"htt=
+ps://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPaymen=
+ts_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" /></td>
+
+   <td  align=3D"center" class=3D"emailcolsplit318" width=3D"340" height=3D=
+"131" bgcolor=3D"#ffffff" style=3D"border-collapse:collapse; height:131px;">
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"340" style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table=
+-rspace:0pt;"><tr><td width=3D"340" class=3D"emailwrapto318"><img src=3D"ht=
+tps://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPayme=
+nts_28599/prod_line_1px.gif" width=3D"340" height=3D"1" border=3D"0" alt=3D=
+"" class=3D"emailwrapto318" style=3D"display:block"/></td></tr></table>
+=20=20=20=20=20
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+          <tr><td>=20=20=20=20
+           <a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/KENNJ=
+S/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/zulily.gif" align=3D"absbottom" width=3D"160" heig=
+ht=3D"130" border=3D"0" alt=3D"zulily" style=3D"display:block"/></a></td>
+           <td><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2014/20140330_RecurringPayments_28599/prod_hor_line.gif" width=3D"15" heig=
+ht=3D"130" border=3D"0" alt=3D"" style=3D"display:block" /></td>
+          <td><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/XT008=
+8/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/hsn.gif" width=3D"140" height=3D"130" border=3D"0"=
+ alt=3D"hsn" style=3D"display:block"/></a></td></tr></table>=20=20
+=20=20=20=20=20=20=20=20=20=20
+   </td>=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+       <!-- divider for split -->
+       <td  border=3D"0" cellspacing=3D"0" cellpadding=3D"0"  align=3D"cent=
+er" class=3D"emailnomob" width=3D"18" height=3D"131" bgcolor=3D"#ffffff" st=
+yle=3D"border-collapse:collapse;">
+=20=20=20=20=20=20=20
+       <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"18"=
+ height=3D"131" style=3D"border-collapse:collapse; mso-table-lspace:0pt; ms=
+o-table-rspace:0pt;">
+       <tr><td width=3D"18" class=3D"emailnomob"><img src=3D"https://image.=
+paypal-communication.com/paypal_na/2014/20140330_RecurringPayments_28599/pr=
+od_line2_1px.gif" width=3D"18" height=3D"1" border=3D"0" alt=3D"" class=3D"=
+emailnomob" style=3D"display:block"/></td></tr>
+=20=20=20=20=20=20=20=20=20=20=20=20
+          <tr><td width=3D"18" height=3D"130" style=3D"border-collapse:coll=
+apse;"> <img src=3D"https://image.paypal-communication.com/paypal_na/2014/2=
+0140330_RecurringPayments_28599/prod_divider2.gif" width=3D"18" height=3D"1=
+30" border=3D"0" alt=3D""   class=3D"emailnomob" style=3D"display:block"/><=
+/td></tr>
+          </table>=20=20
+   </td>
+=20=20=20
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20
+    <td  align=3D"center" class=3D"emailcolsplit318" width=3D"340" height=
+=3D"131" bgcolor=3D"#ffffff" style=3D"border-collapse:collapse; height:131p=
+x;">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border=
+-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td wi=
+dth=3D"340" class=3D"emailwrapto318"><img src=3D"https://image.paypal-commu=
+nication.com/paypal_na/2014/20140330_RecurringPayments_28599/prod_line_1px.=
+gif" width=3D"340" height=3D"1" border=3D"0" alt=3D"" class=3D"emailwrapto3=
+18"  style=3D"display:block" /></td></tr></table>
+         <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"b=
+order-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+          <tr><td>=20=20=20=20
+           <a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/9ZKK4=
+W/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/weight_watchers.gif" width=3D"160" height=3D"130" =
+border=3D"0" alt=3D"weight_watchers" style=3D"display:block"/></a></td>
+           <td><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2014/20140330_RecurringPayments_28599/prod_hor_line.gif" width=3D"15" heig=
+ht=3D"130" border=3D"0" alt=3D"" style=3D"display:block" /></td>
+          <td><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/TPGGT=
+B/NN/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2014/20140330=
+_RecurringPayments_28599/pro_flowers.gif" width=3D"140" height=3D"130" bord=
+er=3D"0" alt=3D"Pro Flowers" style=3D"display:block"/></a></td></tr></table=
+>=20=20
+   </td>=20=20=20
+=20=20=20=20=20=20=20=20=20
+         <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" s=
+rc=3D"https://image.paypal-communication.com/paypal_na/2014/20140330_Recurr=
+ingPayments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"=
+1" /></td>
+
+
+</tr></table>
+
+
+
+
+
+
+
+ <!-- content  -->=20
+<table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#e5e5e5" style=3D"border-co=
+llapse:collapse;">
+    <tr>
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><!--spacer--></td>
+    <td align=3D"center" style=3D"padding:10px 20px 0 20px;  font-size:16px=
+; "><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/UU88H=
+8/NN/h" style=3D"font-family: Helvetica, Arial, sans-serif; color:#0079c1; =
+text-decoration:none;" target=3D"_blank"
+>Click here to manage your existing bills on PayPal</a>
+
+    </td>
+
+    <td width=3D"1" bgcolor=3D"#e3e3e3"><img style=3D"display:block" src=3D=
+"https://image.paypal-communication.com/paypal_na/2014/20140330_RecurringPa=
+yments_28599/spacer1.gif" border=3D"0" alt=3D""	width=3D"1" height=3D"1" />=
+</td>
+    </tr>
+</table>
+
+
+=20=20=20=20
+<!-- bottom corner table -->
+    <table class=3D"emailwrapto320" width=3D"700" height=3D"15" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#e5e5e5" =
+style=3D"border-collapse:collapse;">
+<tr>
+    <td height=3D"15" style=3D"height:15px;"><img src=3D"https://image.payp=
+al-communication.com/paypal_na/2014/20140330_RecurringPayments_28599/bottom=
+_left.gif" width=3D"160" height=3D"15" style=3D"display:block" border=3D"0"=
+ /></td>
+    <td class=3D"emailnomob" height=3D"15" style=3D"height:15px;"><img clas=
+s=3D"emailnomob" src=3D"https://image.paypal-communication.com/paypal_na/20=
+14/20140330_RecurringPayments_28599/bottom_middle.gif" width=3D"380" height=
+=3D"15" style=3D"display:block" border=3D"0" /></td>
+    <td style=3D"height:15px;"><img src=3D"https://image.paypal-communicati=
+on.com/paypal_na/2014/20140330_RecurringPayments_28599/bottom_right.gif" wi=
+dth=3D"160" height=3D"15" style=3D"display:block" border=3D"0" /></td>
+    </tr>
+    </table>
+=20=20=20=20
+=20=20=20=20
+<!-- spacer table-->
+
+<!-- banner starts here -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">
+=20=20=20=20
+    <tr>
+           <td align=3D"left" valign=3D"top" height=3D"20" ><img src=3D"htt=
+ps://image.paypal-communication.com/paypal_na/2014/20140224_Wildfire_26848/=
+img_spacer.gif" width=3D"1" height=3D"20" alt=3D""  border=3D"0" style=3D"d=
+isplay:block;"/></td>
+           </tr>
+
+<tr>
+        <td align=3D"left" valign=3D"top"><!-- banner starts here -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">
+<tr>
+        <td align=3D"left" valign=3D"top" style=3D"background-color:#0079c1=
+; padding-top:12px; padding-right:20px; padding-bottom:12px; padding-left:2=
+0px; font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:=
+24px; color:#FFFFFF;"">Secure shopping made faster.<br />
+    <font style=3D"font-size:15px; line-height:19px;">Look for PayPal at ch=
+eckout and shop with confidence. <a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/5C5W5=
+Z/NN/h" target=3D"_blank" style=3D"color:#ffffff; text-decoration:underline=
+;"
+><strong>Learn more</strong></a></font></td>
+    </tr>
+</table>
+<!-- end of banner starts here --></td>
+    </tr>
+
+</table>
+<!-- end of banner starts here -->
+    <table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+    <tr height=3D"20px">
+    <td width=3D"1" bgcolor=3D"#f2f2f2"><!--spacer--></td>
+     <td class=3D"emailwrapto318" width=3D"698"  align=3D"center" style=3D"=
+background-color:#f2f2f2; height:20px;" ><!--spacer--></td>
+    <td width=3D"1" bgcolor=3D"#f2f2f2"><!--spacer--></td>
+    </tr>
+    </table>
+=20=20=20=20
+=20=20=20=20
+
+  <!-- Ads table-->
+    <table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+    <tr>
+    <td  width=3D"20px"></td>
+    <td class=3D"emailwrapto318" width=3D"670" bgcolor=3D"#f2f2f2" align=3D=
+"left">
+=20=20=20=20
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+  <td align=3D"left" valign=3D"top">
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+  <td align=3D"left" valign=3D"top">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+      <tr>
+        <td class=3D"font12" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:12px; line-height:16px; text-decoration:none; color:#666666"=
+ align=3D"left" valign=3D"top"><b><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/9ZKYX=
+2/NN/h" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:13px; =
+line-height:16px; text-decoration:none; color:#666666" target=3D"_blank" cl=
+ass=3D"font12"
+>Account</a></b></td>
+        <td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"displa=
+y:block;" src=3D"https://image.paypal-communication.com/paypal_na/2014/2013=
+1210_Templates_22725/img_spacer.gif" border=3D"0" alt=3D"" width=3D"10" hei=
+ght=3D"1" /></td>
+        <td class=3D"font12" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:12px; line-height:16px; text-decoration:none; color:#666666"=
+ align=3D"left" valign=3D"top"><b><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/M9P1P=
+Q/NN/h" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:13px; =
+line-height:16px; text-decoration:none; color:#666666" target=3D"_blank" cl=
+ass=3D"font12"
+>Help</a></b></td>
+        <td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"displa=
+y:block;" src=3D"https://image.paypal-communication.com/paypal_na/2014/2013=
+1210_Templates_22725/img_spacer.gif" border=3D"0" alt=3D"" width=3D"10" hei=
+ght=3D"1" /></td>
+        <td class=3D"font12" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:12px; line-height:16px; text-decoration:none; color:#666666"=
+ align=3D"left" valign=3D"top"><b><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/V1606=
+1/NN/h" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:13px; =
+line-height:16px; text-decoration:none; color:#666666" target=3D"_blank" cl=
+ass=3D"font12"
+>Fees</a></b></td>
+        <td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"displa=
+y:block;" src=3D"https://image.paypal-communication.com/paypal_na/2014/2013=
+1210_Templates_22725/img_spacer.gif" border=3D"0" alt=3D"" width=3D"10" hei=
+ght=3D"1" /></td>
+        <td class=3D"font12" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:12px; line-height:16px; text-decoration:none; color:#666666"=
+ align=3D"left" valign=3D"top"><b><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/V1606=
+L/NN/h" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:13px; =
+line-height:16px; text-decoration:none; color:#666666" target=3D"_blank" cl=
+ass=3D"font12"
+>Security</a></b></td>
+        <td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"displa=
+y:block;" src=3D"https://image.paypal-communication.com/paypal_na/2014/2013=
+1210_Templates_22725/img_spacer.gif" border=3D"0" alt=3D"" width=3D"10" hei=
+ght=3D"1" /></td>
+        <td class=3D"font12" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:12px; line-height:16px; text-decoration:none; color:#666666"=
+ align=3D"left" valign=3D"top"><b><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/JIF3F=
+Q/NN/h" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:13px; =
+line-height:16px; text-decoration:none; color:#666666" target=3D"_blank" cl=
+ass=3D"font12"
+>Apps</a></b></td>
+        <td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"displa=
+y:block;" src=3D"https://image.paypal-communication.com/paypal_na/2014/2013=
+1210_Templates_22725/img_spacer.gif" border=3D"0" alt=3D"" width=3D"10" hei=
+ght=3D"1" /></td>
+        <td class=3D"font12" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:13px; line-height:16px; text-decoration:none; color:#666666"=
+ align=3D"left" valign=3D"top"><b><a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/S3B8B=
+1/NN/h" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:13px; =
+line-height:16px; text-decoration:none; color:#666666" target=3D"_blank" cl=
+ass=3D"font12"
+>Shop</a></b></td>
+        </tr>
+      </table>
+  </td>
+  </tr>
+  </table>
+  </td>
+</tr>
+
+
+
+</table>
+=20=20=20=20
+    </td>
+    </tr>
+    </table>
+=20=20=20=20
+<!-- spacer table-->
+    <table class=3D"emailwrapto320" width=3D"700" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+    <tr >
+=20=20=20=20
+     <td class=3D"emailwrapto318" width=3D"700" height=3D"25px"   style=3D"=
+background-color:#f2f2f2; height:25px;" ><img src=3D"https://image.paypal-c=
+ommunication.com/paypal_na/2014/20140330_RecurringPayments_28599/gray_line.=
+gif" height=3D"25" width=3D"318"></td>
+   <td class=3D"emailnomob" width=3D"380" height=3D"25px"  style=3D"backgro=
+und-color:#f2f2f2; height:25px;" ><img src=3D"https://image.paypal-communic=
+ation.com/paypal_na/2014/20140330_RecurringPayments_28599/gray_line2.gif" h=
+eight=3D"25" width=3D"380"></td>
+    </tr>
+    </table>
+=20=20=20=20
+=20=20=20=20
+=20=20=20=20=20
+ <!-- footer table -->=20
+<table class=3D"emailwrapto320" width=3D"690" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"left" bgcolor=3D"#f2f2f2" style=3D"border-coll=
+apse:collapse;">
+     <tr>
+    <td align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-size:10px; color:#8c8c8c; padding:2px 20px 30px 20px"><table border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+  <td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.payp=
+al-communication.com/paypal_na/common/spacer.gif" alt=3D"" width=3D"1" heig=
+ht=3D"10" border=3D"0"></td>
+</tr>
+<tr>
+<td style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; fo=
+nt-size: 10px; color: #666666;">This email was sent to <a
+ href=3D"#" style=3D"color: #666666; text-decoration: none;"
+>dinsmorealex@gmail.com</a>, because your email preferences are set to rece=
+ive "News and Promotions". Click here to <a
+ href=3D"https://email-edg.paypal.com/r/CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/BMYED=
+6/NN/h?a=3D747212062G622820S&b=3DvdebUno7CZNMlo78c9-QCx0pUeR1TIqq&c=3DPNP&d=
+=3D26622393&e=3D26631940&f=3DPNP" target=3D"_blank" style=3D"font-family:'H=
+elvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; color: #0A3D=
+7B; text-decoration: underline"
+>Unsubscribe</a>.<br>
+<br>
+
+Please do not reply to this email. We are unable to respond to inquiries se=
+nt to this address. For immediate answers to your questions, visit our Help=
+ Center by clicking "Help" located on any PayPal page or email.
+<br>
+
+<br>
+
+Copyright <span class=3D"hotmailimgfooter">&copy;</span> 2014 PayPal, Inc. =
+All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 9=
+5131.</td>
+</tr>
+<tr>
+  <td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.payp=
+al-communication.com/paypal_na/common/spacer.gif" alt=3D"" width=3D"1" heig=
+ht=3D"10" border=3D"0"></td>
+</tr>
+</table>
+<br/><br/> <br/>
+<span style=3D"font-size:10px;">Version 1</span>  <br/><br/>=20=20
+    </td>
+    </tr>
+</table>=20=20=20=20
+=20=20=20=20
+
+<!--table stacked inside container ends here. all table should end at this =
+pt-->
+</td>
+</tr>
+</table>
+<!-- 700px container table end -->=20=20
+=20=20=20=20
+=20=20=20=20
+<!-- 100% table ends below-->=20=20=20=20
+    </td></tr></table>
+
+</td></tr></table></body>
+</html><img height=3D"1" width=3D"1" src=3D"https://email-edg.paypal.com/o/=
+CW49Y6Z/M9RJ4A/QFHXJF2/LSJJ1M/WH9H/52"><!-- [[CW49Y6Z-3O7ZG3-M9RJ4A-QFHXJF2=
+-LSJJ1M-H-M2-20140330-93b7485bfbea1]] -->
+
+

@@ -1,0 +1,90 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.12.71 with SMTP id w7csp196587ldb;
+        Tue, 12 Nov 2013 11:21:24 -0800 (PST)
+X-Received: by 10.66.249.134 with SMTP id yu6mr38261693pac.37.1384284083776;
+        Tue, 12 Nov 2013 11:21:23 -0800 (PST)
+Return-Path: <nobody@collegenet.com>
+Received: from mailproxy-1.collegenet.com (mailproxy.collegenet.com. [74.122.104.64])
+        by mx.google.com with ESMTP id o3si318572pbs.143.2013.11.12.11.21.22
+        for <dinsmorealex@gmail.com>;
+        Tue, 12 Nov 2013 11:21:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of nobody@collegenet.com designates 74.122.104.64 as permitted sender) client-ip=74.122.104.64;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of nobody@collegenet.com designates 74.122.104.64 as permitted sender) smtp.mail=nobody@collegenet.com;
+       dkim=pass header.i=@collegenet.com
+DomainKey-Signature: s=pdx; d=collegenet.com; c=nofws; q=dns;
+  h=X-IronPort-AV:Received:Received:To:From:Subject:Reply-to:
+   Message-Id:Date;
+  b=A9kynCKQBC+XYP784LjeWqMlSChzrQgZMGjQzt/SSqRtRiC2wgEASywM
+   X8ppVi9llxsAVEdix4djVgu6uByPm9zYkK3+Crk/32hRzPAaEjlpgN1Ik
+   HXH/Nr4tO7gHqVIUBqIzrlDR18HNn7eBRGhJJS3KZ8vjvDNHFvbm/1JyE
+   k=;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=collegenet.com; i=@collegenet.com; q=dns/txt; s=pdx;
+  t=1384284083; x=1415820083;
+  h=to:from:subject:reply-to:message-id:date;
+  bh=GpwdPxR52K6EitgHUzGuThiRgnNDMWJf8BCuNzY1KbQ=;
+  b=o9lwERadKL7GJPZ2MZYOMMO6nHQia6QWzJiqY7yoAwBw5mZSmQbYErcp
+   lUspLKqI9UGUHDWg1Zco6XLWEflx/gMH2vUoBX8dPWlziA/qNlQddTuoj
+   tQdibvhA+BlqZUv8LDjVApEgHLCeURiYEC0G6sWCsk+f+fwfWJN4qOUP8
+   U=;
+X-IronPort-AV: E=Sophos;i="4.93,687,1378882800"; 
+   d="scan'208";a="24551921"
+Received: from connecticut.collegenet.com ([10.7.1.32])
+  by mailout-1.collegenet.com with ESMTP; 12 Nov 2013 11:21:12 -0800
+Received: by connecticut.collegenet.com (Postfix, from userid 33)
+	id 6120FA4C4B; Tue, 12 Nov 2013 11:21:12 -0800 (PST)
+To: dinsmorealex@gmail.com
+From: applyweb@collegenet.com (ApplyWeb On-Line Applications)
+Subject: ApplyWeb On-Line Applications
+Reply-to: help@applyweb.com
+Message-Id: <20131112192112.6120FA4C4B@connecticut.collegenet.com>
+Date: Tue, 12 Nov 2013 11:21:12 -0800 (PST)
+
+Dear Alexander,
+ 
+Welcome!  Thanks for opening your account on the ApplyWeb
+system.  You'll find many helpful features as you complete
+forms based on this system. This email refers to your new
+username of 'dinsmorealex@gmail.com'.
+
+If you should lose your password you can get a new password at:
+
+   https://www.applyweb.com/public/lostpass.cgi?svag
+ 
+Security
+ 
+      All information you enter is entered securely under
+      your private username and password (the one you
+      just established).
+ 
+      Also, all the data you enter is encrypted before it
+      is transmitted over the web. Notice the closed lock
+      (or unbroken key) at the lower left corner of your
+      browser window. This icon confirms that the information
+      you enter is encrypted before it is transmitted over
+      the web.
+ 
+Multi-session Form Completion
+ 
+      Since ApplyWeb lets you save your data, you don't have
+      to complete a form in one sitting or from the same
+      computer.  You can start the form from this computer,
+      work on the next section a week later from the library,
+      counselor's office or elsewhere.
+
+Secure Payments
+ 
+      If an application you complete with this account has an 
+      application fee, that application fee is paid on-line with
+      a credit card or an electronic check. There is no charge 
+      for creating your account, completing an application that
+      does not have a fee associated with it, or working on a fee-
+      based application prior to submitting it.
+
+      Your credit card or check information is encrypted before
+      it is transmitted over the web, and it is not stored
+      anywhere on the ApplyWeb server.
+
+We hope you enjoy your experience!
+

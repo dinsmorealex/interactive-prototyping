@@ -1,0 +1,274 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.182.152.40 with SMTP id uv8csp373445obb;
+        Mon, 3 Nov 2014 16:12:49 -0800 (PST)
+X-Received: by 10.140.98.54 with SMTP id n51mr65786174qge.79.1415059969556;
+        Mon, 03 Nov 2014 16:12:49 -0800 (PST)
+Return-Path: <00000149782593c4-c1e08a43-b728-4243-bf1d-6f7b90bd07f5-000000@amazonses.com>
+Received: from a14-182.smtp-out.amazonses.com (a14-182.smtp-out.amazonses.com. [54.240.14.182])
+        by mx.google.com with ESMTPS id p7si32103655qcn.5.2014.11.03.16.12.49
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 03 Nov 2014 16:12:49 -0800 (PST)
+Received-SPF: pass (google.com: domain of 00000149782593c4-c1e08a43-b728-4243-bf1d-6f7b90bd07f5-000000@amazonses.com designates 54.240.14.182 as permitted sender) client-ip=54.240.14.182;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 00000149782593c4-c1e08a43-b728-4243-bf1d-6f7b90bd07f5-000000@amazonses.com designates 54.240.14.182 as permitted sender) smtp.mail=00000149782593c4-c1e08a43-b728-4243-bf1d-6f7b90bd07f5-000000@amazonses.com;
+       dkim=pass header.i=@issuumail.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1415059969;
+	h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID:Reply-To:Feedback-ID;
+	bh=7rMrPIockXrUlWE4SuWvsqsx/jcBbwrrRuQEQ52D1Ok=;
+	b=tj4+fS0E/SPi6hYfo58iXyOI1L0A8oKRn0BGzIlxCbuA2+PLzB/RxiJFcxSXxi+S
+	c4ilIBcFrZpFrWtWcdHwOHXoUtrBUTJLuSNMiuOxRC+nGtVn3PGocs30pPIBwycVg6I
+	x99SXGNaTuSrdNaYlUzh2TnTGJfywCABj/MqZPbI=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=oamzqthjmzny34hgtx7zz6l6wkoyzbhy; d=issuumail.com; t=1415059969;
+	h=Content-Type:MIME-Version:Subject:From:To:Date:Message-ID:Reply-To;
+	bh=7rMrPIockXrUlWE4SuWvsqsx/jcBbwrrRuQEQ52D1Ok=;
+	b=GRmiRBbGYnJAPN1Vi1P8MIuAfBPex6fbrO3yctCAm/hw0jURHZbfJDPkcXvS9wTH
+	EnQI6LRqHhdUlqzqADnyK6LsQSNLt7hz0JfVFJ/f0Bfw9G4ftFTx9Or8cxIJyg8O1XA
+	+QENkyaQNbPC1WOaY3hURz1EFRxyX+XWrkyqwUkU=
+Content-Type: multipart/alternative;
+ boundary="===============4349918347648321558=="
+MIME-Version: 1.0
+Subject: October Newsletter: issuu + Tumblr, iOS AppLinks, Tutorial Videos,
+ and More
+From: Issuu <no-reply@issuumail.com>
+To: dinsmorealex@gmail.com
+Date: Tue, 4 Nov 2014 00:12:49 +0000
+Message-ID: <00000149782593c4-c1e08a43-b728-4243-bf1d-6f7b90bd07f5-000000@email.amazonses.com>
+Reply-To: supportmail@issuu.com
+X-SES-Outgoing: 2014.11.04-54.240.14.182
+Feedback-ID: us-east-1.bm8tcmVwbHlAaXNzdXVtYWlsLmNvbQ==:AmazonSES
+
+--===============4349918347648321558==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//issuu.com/ Hi, Thomas Haymore (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//issuu.com/tchaymore)
+
+
+** issuu + Tumblr (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//blog.issuu.com/post/101200587828/issuu-tumblr-integration-social-sharing)
+------------------------------------------------------------
+http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//blog.issuu.com/post/101200587828/issuu-tumblr-integration-social-sharing
+You can now easily expand the reach of your publications by seamlessly sharing interactive publications with your Tumblr audience. Share your publication directly from issuu or just copy the link into any Tumblr video post. Read More (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//blog.issuu.com/post/101200587828/issuu-tumblr-integration-social-sharing)
+------------------------------------------------------------
+
+
+** Link to Your Publication on iOS (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//ad.apps.fm/X8ggk9o9fpOZENlWUE2bEPE7og6fuV2oOMeOQdRqrE0huBUFNCaraleoFIgxUbEyhpg5ndRMIs5W7OSolgdISa5ZZLHW-G7YWVwfS7L151Q)
+------------------------------------------------------------
+http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//ad.apps.fm/X8ggk9o9fpOZENlWUE2bEPE7og6fuV2oOMeOQdRqrE0huBUFNCaraleoFIgxUbEyhpg5ndRMIs5W7OSolgdISa5ZZLHW-G7YWVwfS7L151Q
+Now you can send your readers directly to your publication on issuu's new iOS app. All you have to do is include the URL to the publication in any email, social post, or other communication. Once they open the URL in Safari, they'll be directed to open the publication in the app or download the app if they don't already have it. Get the app here (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//ad.apps.fm/X8ggk9o9fpOZENlWUE2bEPE7og6fuV2oOMeOQdRqrE0huBUFNCaraleoFIgxUbEyhpg5ndRMIs5W7OSolgdISa5ZZLHW-G7YWVwfS7L151Q)
+------------------------------------------------------------
+
+
+** Featured Publisher: Polyvore (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//issuu.com/polyvore)
+------------------------------------------------------------
+http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//issuu.com/polyvore
+Polyvore, a social-driven e-commerce site for discovering and shopping for things you love, uses issuu to share its interactive shoppable lookbooks with their Tumblr audience. See Polyvore's publications (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//issuu.com/polyvore)
+------------------------------------------------------------
+
+
+** Video Tutorials (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.youtube.com/playlist%3Flist%3DPLQl_1PsP9WcCZbw8TTzUbzSW0bh53NzmY)
+------------------------------------------------------------
+http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.youtube.com/playlist%3Flist%3DPLQl_1PsP9WcCZbw8TTzUbzSW0bh53NzmY
+Check out our new tutorial videos (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.youtube.com/playlist%3Flist%3DPLQl_1PsP9WcCZbw8TTzUbzSW0bh53NzmY) that cover core issuu publishing features such as uploading, sharing, embedding and more.
+Follow us for more helpful hints: http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.facebook.com/issuu http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.twitter.com/issuu http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.pinterest.com/issuu http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//plus.google.com/%2Bissuu%20 Questions? Check out our help center (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//help.issuu.com) . Download our apps: http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//ad.apps.fm/X8ggk9o9fpOZENlWUE2bEPE7og6fuV2oOMeOQdRqrE0huBUFNCaraleoFIgxUbEyhpg5ndRMIs5W7OSolgdISa5ZZLHW-G7YWVwfS7L151Q http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=https%3A//play.google.com/store/apps/details%3Fid%3Dcom.issuu.android.app
+http://bit.ly/IssuuOnWindows
+
+You're receiving this email because you have an Issuu.com (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//issuu.com/) profile.
+If you don't want to receive these emails, unsubscribe (http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//issuu.com/home/settings/notifications) at any time.
+
+© Issuu Inc. 131 Lytton Ave, Palo Alto, CA 94301
+http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.facebook.com/issuu                                                         http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.twitter.com/issuu http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//www.pinterest.com/issuu http://t.issuu.com/v1/?u=8857859&i=0&c=templateDesigner&m=email&s=testing&r=http%3A//plus.google.com/%2Bissuu
+--===============4349918347648321558==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+  <title>
+October Newsletter: issuu + Tumblr, iOS AppLinks, Tutorial Videos, and More
+
+
+</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <style type="text/css">h1.newsletterHeader a:hover {color:#494949;text-decoration:none}</style>
+</head>
+<body style="padding:0; margin:0">
+  
+
+<img src="http://t.issuu.com/v1/1x1.gif?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers" alt="" style="display:block; border:0px" height="1" width="1">
+  
+    <table border="0" cellspacing="0" cellpadding="30" style="background:#f7f7f7; width:100%; font-family:Helvetica Neue, Helvetica, Arial, sans-serif; text-align:center" width="100%" align="center"><tr><td align="center" style="background:#f7f7f7; width:100%; font-family:Helvetica Neue, Helvetica, Arial, sans-serif; text-align:center" width="100%">
+  <table border="0" cellspacing="0" cellpadding="0" align="center" style="width:590px; margin:0 auto; text-align:center" width="590">
+<tr>
+<td>
+    
+    <table border="0" cellspacing="0" cellpadding="0" style="width:100%" width="100%">
+      <tr>
+        <td style="width:160px" width="160"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//issuu.com/" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/logo.gif" alt="Issuu.com" width="155" height="38" style="display:block; border:0px"></a></td>
+            <td valign="bottom" style="text-align:right" align="right"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//issuu.com/alexdinsmore" style="text-decoration:none; color:#0c86be"><h3 style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif; margin:0; padding:0; font-size:15px; font-weight:400; color:#999999">Hi, Alex Dinsmore</h3></a></td>
+      </tr>
+      <tr>
+        <td style="height:40px; font-size:0px; line-height:0px" height="40">&#160;</td>
+        <td style="height:40px; font-size:0px; line-height:0px" height="40">&#160;</td>
+      </tr>
+    </table>
+  
+    
+  <table border="0" cellspacing="0" cellpadding="0" style="background:#fff; width:100%" width="100%">
+    <tr>
+      <td style="padding:25px 35px 25px 35px;">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td style="padding-top:10px;">
+              <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                <tbody>
+                <tr>
+                  <td>
+                    <h1 style="font-family:Helvetica Neue, Helvetica, Arial,sans-serif; font-weight:300; color:#494949; margin:0 0 10px 0; padding:0; line-height:42px; text-align:center; margin-top:15px; font-size:30px" align="center"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//blog.issuu.com/post/101200587828/issuu-tumblr-integration-social-sharing" style="color:#494949; text-decoration:none">issuu + Tumblr</a></h1>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="vertical-align:top;padding-top:20px;">
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//blog.issuu.com/post/101200587828/issuu-tumblr-integration-social-sharing" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/newsletter/20141030-dyad.png" style="border:0px; marigin-bottom:10px; width:400px; display:block; margin-left:auto; margin-right:auto" width="400"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="vertical-align:top;padding-top:20px;">
+                    <span style="color:#494949; display:block; margin-bottom:15px; font-family:Helvetica,Arial,sans-serif; font-size:18px; font-weight:300; line-height:28px; text-align:left" align="left">You can now easily expand the reach of your publications by seamlessly sharing interactive publications with your Tumblr audience. Share your publication directly from issuu or just copy the link into any Tumblr video post.
+                    <span style="color:#494949; display:block; margin-bottom:15px; font-family:Helvetica,Arial,sans-serif; font-size:18px; font-weight:300; line-height:28px; text-align:left" align="left"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//blog.issuu.com/post/101200587828/issuu-tumblr-integration-social-sharing" style="text-decoration:none; color:#0c86be">Read More</a></span>
+                  </span>
+</td>
+                </tr>
+                <tr>
+                <td style="padding:5px 0 5px 0;">
+                  <hr style="width:95%;color:rgba(79,79,79,0.4);opacity:0.8;border-style:solid;border-width:1px;">
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <h1 style="font-family:Helvetica Neue, Helvetica, Arial,sans-serif; font-weight:300; color:#494949; margin:0 0 10px 0; padding:0; font-size:30px; line-height:42px; text-align:center; margin-top:15px" align="center"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//ad.apps.fm/X8ggk9o9fpOZENlWUE2bEPE7og6fuV2oOMeOQdRqrE0huBUFNCaraleoFIgxUbEyhpg5ndRMIs5W7OSolgdISa5ZZLHW-G7YWVwfS7L151Q" style="color:#494949; text-decoration:none">Link to Your Publication on iOS</a></h1>
+                                      </td>
+                </tr>
+<tr>
+                  <td style="padding-top:25px;">
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//ad.apps.fm/X8ggk9o9fpOZENlWUE2bEPE7og6fuV2oOMeOQdRqrE0huBUFNCaraleoFIgxUbEyhpg5ndRMIs5W7OSolgdISa5ZZLHW-G7YWVwfS7L151Q" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/newsletter/20141030-applinks-noshadow.png" style="border:0px; margin-bottom:10px; width:350px; display:block; margin-left:auto; margin-right:auto" width="350"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:left;padding-top:20px;" align="left">
+                        <span style="color:#494949; display:block; margin-bottom:15px; font-family:Helvetica,Arial,sans-serif; font-size:18px; font-weight:300; line-height:28px; text-align:left" align="left">Now you can send your readers directly to your publication on issuu's new iOS app. All you have to do is include the URL to the publication in any email, social post, or other communication. Once they open the URL in Safari, they'll be directed to open the publication in the app or download the app if they don't already have it.</span>
+                        <span style="color:#494949; display:block; margin-bottom:15px; font-family:Helvetica,Arial,sans-serif; font-size:18px; font-weight:300; line-height:28px; text-align:left" align="left"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//ad.apps.fm/X8ggk9o9fpOZENlWUE2bEPE7og6fuV2oOMeOQdRqrE0huBUFNCaraleoFIgxUbEyhpg5ndRMIs5W7OSolgdISa5ZZLHW-G7YWVwfS7L151Q" style="text-decoration:none; color:#0c86be">Get the app here</a>
+                      </span>
+</td>
+                </tr>
+                  <tr>
+                <td style="padding:5px 0 5px 0;">
+                  <hr style="width:95%;color:rgba(79,79,79,0.4);opacity:0.8;margin: 10px 0 10px 0;border-style:solid;border-width:1px;">
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding-top:10px;">
+                    <h1 style="font-family:Helvetica Neue, Helvetica, Arial,sans-serif; font-weight:300; color:#494949; margin:0 0 10px 0; padding:0; font-size:30px; line-height:42px; text-align:center; margin-top:15px" align="center"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//issuu.com/polyvore" style="color:#494949; text-decoration:none">Featured Publisher: Polyvore</a></h1>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:25px 10px 0 0;">
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//issuu.com/polyvore" style="text-decoration:none; color:#0c86be; border:none"><img src="http://static.issuu.com/mail/newsletter/20141030-polyvore.png" style="border:0px; margin-bottom:10px; width:475px; display:block; margin-left:auto; margin-right:auto" width="475"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:left;padding-top:20px;" align="left">
+                    <span style="color:#494949; display:block; margin-bottom:15px; font-family:Helvetica,Arial,sans-serif; font-size:18px; font-weight:300; line-height:28px; text-align:left" align="left">Polyvore, a social-driven e-commerce site for discovering and shopping for things you love, uses issuu to share its interactive shoppable lookbooks with their Tumblr audience.</span>
+                   <span style="color:#494949; display:block; margin-bottom:15px; font-family:Helvetica,Arial,sans-serif; font-size:18px; font-weight:300; line-height:28px; text-align:left" align="left"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//issuu.com/polyvore" style="text-decoration:none; color:#0c86be">See Polyvore's publications</a></span>
+                  </td>
+
+                </tr>
+                  <tr>
+                <td style="padding:5px 0 5px 0;">
+                  <hr style="width:95%;color:rgba(79,79,79,0.4);opacity:0.8;margin: 10px 0 10px 0;border-style:solid;border-width:1px;">
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <h1 style="font-family:Helvetica Neue, Helvetica, Arial,sans-serif; font-weight:300; color:#494949; margin:0 0 10px 0; padding:0; font-size:30px; line-height:42px; text-align:center; margin-top:15px" align="center"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.youtube.com/playlist%3Flist%3DPLQl_1PsP9WcCZbw8TTzUbzSW0bh53NzmY" style="color:#494949; text-decoration:none; border:none">Video Tutorials</a></h1>
+                  </td>
+                </tr>
+<tr>
+                  <td style="padding-top:25px;">
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.youtube.com/playlist%3Flist%3DPLQl_1PsP9WcCZbw8TTzUbzSW0bh53NzmY" style="text-decoration:none; color:#0c86be; border:none"><img src="http://static.issuu.com/mail/newsletter/20141030-videotutorials.jpg" style="border:0px; margin-bottom:10px; width:550px; display:block; margin-left:auto; margin-right:auto" width="550"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="text-align:left;padding-top:20px;" align="left">
+                        <span style="color:#494949; display:block; margin-bottom:15px; font-family:Helvetica,Arial,sans-serif; font-size:18px; font-weight:300; line-height:28px; text-align:left" align="left">Check out our <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.youtube.com/playlist%3Flist%3DPLQl_1PsP9WcCZbw8TTzUbzSW0bh53NzmY" style="text-decoration:none; color:#0c86be">new tutorial videos</a> that cover core issuu publishing features such as uploading, sharing, embedding and more.</span>
+                      </td>
+
+
+                </tr>
+                
+               
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+        </table>
+        </td>
+        </tr>
+        </table>
+        <table border="0" cellspacing="0" cellpadding="0" align="center" style="width:660px; padding:10px; margin:0 auto; margin-top:15px; text-align:center;">
+              <tbody>
+              <tr>
+                <td style="text-align:left;">
+                  <span style="font-size:14px; font-family:Helvetica Neue, Helvetica, Arial,sans-serif; line-height:24px; color:#747474; padding:2px 0 5px; display:block; line-height:24px;">Follow us for more helpful hints:</span>
+                  <span style="display:inline-block; margin-top:15px; margin-bottom:15px;">
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.facebook.com/issuu" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/gui/facebook-button.jpg" style="border:0px; margin-right:10px; display:inline-block" alt="Share the news on Facebook" width="45" height="45"></a>
+
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.twitter.com/issuu" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/gui/twitter-button.jpg" style="border:0px; margin-right:10px; display:inline-block" alt="Share the news on Twitter" width="45" height="45"></a>
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.pinterest.com/issuu" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/gui/pinterest-button-grey.jpg" style="border:0px; margin-right:10px; display:inline-block" alt="Share the news on Pinterest" width="45" height="45"></a>
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//plus.google.com/%2Bissuu%20" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/gui/googleplus-button.jpg" style="border:0px; margin-right:10px; display:inline-block" alt="Share the news on Google+" width="45" height="45"></a>
+                  </span>
+                  <span style="font-size:14px; font-family:Helvetica Neue, Helvetica, Arial,sans-serif; line-height:24px; color:#747474; padding:2px 0 5px; display:block;"><strong>Questions?</strong> Check out our <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//help.issuu.com" style="text-decoration:none; color:#0c86be">help center</a>.</span>
+                  <span style="font-size:14px; font-family:Helvetica Neue, Helvetica, Arial,sans-serif; line-height:24px; color:#747474; padding:2px 0 5px; display:block;">Download our apps:</span>
+                  <span>
+                  
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//ad.apps.fm/X8ggk9o9fpOZENlWUE2bEPE7og6fuV2oOMeOQdRqrE0huBUFNCaraleoFIgxUbEyhpg5ndRMIs5W7OSolgdISa5ZZLHW-G7YWVwfS7L151Q" style="text-decoration:none; color:#0c86be; float:left">
+                      <img alt="Get it on Google Play" src="http://static.issuu.com/mail/newsletter/20141030-ios-app-store.jpg" height="45" style="display:block; border:0px">
+                    </a>
+                    <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=https%3A//play.google.com/store/apps/details%3Fid%3Dcom.issuu.android.app" style="text-decoration:none; color:#0c86be; float:left; margin-left:10px; display:inline-block">
+                      <img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" style="display:block; border:0px">
+                    </a>
+                    <a style="text-decoration:none; color:#0c86be; float:left; border-radius:2px; margin-left:10px" href="http://bit.ly/IssuuOnWindows"><img src="http://i.msdn.microsoft.com/dynimg/IC671224.png" style="display:block; border:0px; border-radius:2px" height="44" alt="Get it on the Windows Store"></a>
+                    <span style="clear:both;"></span>
+                  </span>
+                </td>
+              </tr>
+</tbody>
+            </table>
+      </td>
+    </tr>
+  </table>  </td></tr></table>    <table border="0" cellspacing="0" cellpadding="50" align="center" style="width:100%; margin:0 auto; font-family:Helvetica Neue, Helvetica, Arial, sans-serif; text-align:center" width="100%">
+  <tr>
+    <td>
+    	<table border="0" cellspacing="0" cellpadding="0" style="width:590px; margin:0 auto" width="590">
+    		<tr>
+    			<td>
+                    <p style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif; padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; font-size:12px; color:#cccccc; line-height:16px">You're receiving this email because you have an <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//issuu.com/" style="text-decoration:none; color:#aaaaaa">Issuu.com</a> profile.<br>If you don't want to receive these emails, <a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//issuu.com/optout%3Ftoken%3D10384248-1415661560-27b815f325954c90" style="text-decoration:none; color:#aaaaaa">unsubscribe</a> at any time.<br><br>&#169; Issuu Inc. 131 Lytton Ave, Palo Alto, CA 94301</p>
+          </td>
+          <td width="45" valign="top"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.facebook.com/issuu" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/gui/facebook-button-discreet.gif" alt="Facebook" style="display:block; border:0px"></a></td>
+          <td width="45" valign="top"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.twitter.com/issuu" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/gui/twitter-button-discreet.gif" alt="Twitter" style="display:block; border:0px"></a></td>
+          <td width="45" valign="top"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//www.pinterest.com/issuu" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/gui/pinterest-button-discreet.gif" alt="Pinterest" style="display:block; border:0px"></a></td>
+          <td width="45" valign="top"><a href="http://t.issuu.com/v1/?u=10384248&amp;i=271171907&amp;c=Newsletter&amp;m=email&amp;s=manual_newsletter-20141030-publishers&amp;r=http%3A//plus.google.com/%2Bissuu" style="text-decoration:none; color:#0c86be"><img src="http://static.issuu.com/mail/gui/googleplus-button-discreet.gif" alt="Google+" style="display:block; border:0px"></a></td>
+<td>
+        </td>
+</tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+--===============4349918347648321558==--

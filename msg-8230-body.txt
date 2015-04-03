@@ -1,0 +1,73 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.182.152.40 with SMTP id uv8csp141583obb;
+        Sat, 15 Nov 2014 11:11:17 -0800 (PST)
+X-Received: by 10.224.69.202 with SMTP id a10mr20620150qaj.62.1416078677462;
+        Sat, 15 Nov 2014 11:11:17 -0800 (PST)
+Return-Path: <00000149b4ddd2ea-9e859c72-eaa9-410b-acdd-212f76cbaa92-000000@amazonses.com>
+Received: from a10-136.smtp-out.amazonses.com (a10-136.smtp-out.amazonses.com. [54.240.10.136])
+        by mx.google.com with ESMTPS id s19si2627286qge.86.2014.11.15.11.11.17
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sat, 15 Nov 2014 11:11:17 -0800 (PST)
+Received-SPF: pass (google.com: domain of 00000149b4ddd2ea-9e859c72-eaa9-410b-acdd-212f76cbaa92-000000@amazonses.com designates 54.240.10.136 as permitted sender) client-ip=54.240.10.136;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 00000149b4ddd2ea-9e859c72-eaa9-410b-acdd-212f76cbaa92-000000@amazonses.com designates 54.240.10.136 as permitted sender) smtp.mail=00000149b4ddd2ea-9e859c72-eaa9-410b-acdd-212f76cbaa92-000000@amazonses.com;
+       dkim=pass header.i=@justcloud.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1416078676;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID:Feedback-ID;
+	bh=ZD2p1E1bU8wvT6gz8K5ruwDpjV1gK69YqAdYt8QxRTw=;
+	b=moi/KI7sVakByuooCo+nYGjlJyjdkpwWoQwCnTzaQCt1Cpx48MhYfXNaq+4ZlE94
+	ca86tX9a8qadXR0a1t9FyOTT15Xmze6XeOAr9SiGnVXVK0DH4EqYH77mazkN100v8OG
+	lbl39N4prOF/nfIiQ2cwsk4oMsnritfrzDkk9/nM=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=zzyl65zfschvczsnfkqzsmcxfojxaclr; d=justcloud.com; t=1416078676;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID;
+	bh=ZD2p1E1bU8wvT6gz8K5ruwDpjV1gK69YqAdYt8QxRTw=;
+	b=gpHYw0r1BUNqgAjO8ZAJYDD/2SHc7DGDmnSK9WpBC1kxyg2+5vJ0TqxXNQfoC5Xe
+	oHtwP8HH1r9kvMa6iR7MsMfpy4VbjD+NkKmQ6L6szpNU9RsnU0PzRkIg9k/gUM+N8qs
+	YvvP6Spnus7XObzxBdNNiw3b81RpITZoiVIjT9M0=
+From: JustCloud <support@justcloud.com>
+Reply-To: no-reply@justcloud.com
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+Subject: Cloud Storage Activation
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Sat, 15 Nov 2014 19:11:16 +0000
+Message-ID: <00000149b4ddd2ea-9e859c72-eaa9-410b-acdd-212f76cbaa92-000000@email.amazonses.com>
+X-SES-Outgoing: 2014.11.15-54.240.10.136
+Feedback-ID: us-east-1.Ikp1c3RDbG91ZCIgPHN1cHBvcnRAanVzdGNsb3VkLmNvbT4=:AmazonSES
+
+Hi Alex,
+
+Our records show that you still haven't activated your free 1GB JustCloud account, which you received with your HostMonster hosting plan.
+
+There's a host of cool features we're giving you with this account, such as an online control panel to access your files anywhere, multiple device sync, file versioning and much more.
+
+To activate your account and start securing your files, you just need to follow this link:
+
+http://www.justcloud.com/hostmonster?83431
+
+JustCloud will then ask you to decide which files to backup, and in no time you'll be up and running.
+
+I hope to have you on board soon!
+
+If you already use a cloud storage solution or wouldn't like to activate your free account, please unsubscribe using the link at the bottom of this email to opt out of these email reminders.
+
+Best Wishes,
+
+Jamie Heathorn
+Personal Account Manager
+JustCloud.com
+
+
+
+
+
+
+
+
+
+This email was sent from JustCloud, Unit 6, Fulcrum 2, Solent Way, Whiteley, PO15 7FN 
+Unsubscribe: http://www.justcloud.com/unsubscribe?email=dinsmorealex@gmail.com&unsub=auto

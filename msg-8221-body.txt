@@ -1,0 +1,394 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.182.152.40 with SMTP id uv8csp245829obb;
+        Fri, 14 Nov 2014 08:54:29 -0800 (PST)
+X-Received: from mr.google.com ([10.202.224.65])
+        by 10.202.224.65 with SMTP id x62mr861445oig.91.1415984069170 (num_hops = 1);
+        Fri, 14 Nov 2014 08:54:29 -0800 (PST)
+X-Received: by 10.202.224.65 with SMTP id x62mr1399437oig.91.1415984068996;
+        Fri, 14 Nov 2014 08:54:28 -0800 (PST)
+X-Forwarded-To: DINSMOREALEX@GMAIL.COM
+X-Forwarded-For: greynursepunk@gmail.com DINSMOREALEX@GMAIL.COM
+Delivered-To: greynursepunk@gmail.com
+Received: by 10.202.102.5 with SMTP id a5csp220562oic;
+        Fri, 14 Nov 2014 08:54:28 -0800 (PST)
+X-Received: by 10.66.119.175 with SMTP id kv15mr11596228pab.30.1415984067991;
+        Fri, 14 Nov 2014 08:54:27 -0800 (PST)
+Return-Path: <bounces+3843-cbab-greynursepunk=gmail.com@email2.songkick.com>
+Received: from o2.email2.songkick.com (o2.email2.songkick.com. [167.89.20.152])
+        by mx.google.com with ESMTPS id f4si5953871pdo.24.2014.11.14.08.54.27
+        for <greynursepunk@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 14 Nov 2014 08:54:27 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+3843-cbab-greynursepunk=gmail.com@email2.songkick.com designates 167.89.20.152 as permitted sender) client-ip=167.89.20.152;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+3843-cbab-greynursepunk=gmail.com@email2.songkick.com designates 167.89.20.152 as permitted sender) smtp.mail=bounces+3843-cbab-greynursepunk=gmail.com@email2.songkick.com;
+       dkim=pass header.i=@email2.songkick.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email2.songkick.com; 
+	h=content-type:mime-version:from:to:reply-to:subject; s=smtpapi; 
+	bh=z2+k/SRx1prG/pN3JnZmVK7ukfE=; b=UAkocB+kGs25/5FZp6bIld/ABhImd
+	Ap7t8SBYZXx/4XgPa2Cin/93ai4+tfdblx67zK7WA2So/K7qP3ySfUxnmC1l0RzO
+	yZa1afEMdkRU213zdXwhSsF5iYGUvda9s1RLheLB+nmS+Mga8n7GpWG2AuXzdwuU
+	Xv5R/JR+hYelt4=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=content-type:mime-version:from:to:reply-to:subject:x-feedback-id; 
+	s=smtpapi; bh=z2+k/SRx1prG/pN3JnZmVK7ukfE=; b=DnQ6uhDiBuJnU3Dp1q
+	bkOD93PJEc9o6zqoBC1oDR9gmhN+C2DOWznTe5h6spoRW6rU4q7CI1Grjng3+VDZ
+	QFbcbaztbwt+SZHZ/6u4CE5+FFW4FJ4FD/+lFE1I+wRmbR+SZEUVwu9W+eTeWdCa
+	Ykv5+CO1c2pqimZMs8n+7XD7E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=songkick.com; 
+	h=content-type:mime-version:from:to:reply-to:subject; q=dns; 
+	s=smtpapi; b=uJuuo5izYKdxwqU6acp37m9X1+Qtnix6UofplgCQos/b28AXQ8J
+	wx0aRQwRSTBzwDbtWAuE1b2eLTNocpITg6FHP64jvRRJ3vmTZSKssRLWMh2xrbgq
+	JzQaj8zwkbtkGOIoxdY0MWX4+zzOBgSdIih21Mj5C0mS+feUUm7iUAfQ=
+Received: by filter-324.sjc1.sendgrid.net with SMTP id filter-324.27447.5466338BC
+        2014-11-14 16:53:31.866533353 +0000 UTC
+Received: from Mzg0Mw (unknown [10.42.83.122])
+	by ismtpd-001.sjc1.sendgrid.net (SG) with HTTP id 149af395a59.206d.1a7bb4
+	for <emails@songkick.com>; Fri, 14 Nov 2014 16:53:31 +0000 (GMT)
+Content-Type: multipart/alternative;
+	boundary="===============6437988935408986018=="
+MIME-Version: 1.0
+From: Songkick Tourbox <emails@songkick.com>
+To: greynursepunk@gmail.com
+Reply-To: emails@songkick.com
+Subject: New! Get your dates on Pitchfork & the BBC
+Message-ID: <149af395a59.206d.1a7bb4@ismtpd-001.sjc1.sendgrid.net>
+Date: Fri, 14 Nov 2014 16:53:31 +0000 (UTC)
+X-SG-EID: 6kaYczkl+AtxVxjor/NwPEN0kzSI0jI6fFPC2XatR9LXYF0IA3NnpXLGQNOrssbK9mtoJuBdpzDyPM
+ qHmPv8x0fQUWs0w9uogKCFRcmjPOpux9EVOZuP6D4008/tnFhQ+QYJ+lG56ijl3sj3GjMdEM45dzmd
+ hxOjh0C6HEh/22Q=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LADnUZZOf6Kz158G0CP/IU49Y7oOmkfw2oeFf
+ NHU+lJnqad9NdTKkdvnLIiSSaO0qhajwZ3N1l7zkVX9baKZkJxvDHmxWN9lVbeiLlxh9+k6BiCTqEK
+ x92L7FQ1NzNvK2teMq91n+d2qDRcFXppPTLC5JZyLdhQ5TKIh6KOCsq8PA==
+X-Feedback-ID: 3843:wPfluTOK/ZJCOUlHNzl7Qg==:ZPEjb7O8dIwsWu9sO2Jc+Q==:SG
+
+--===============6437988935408986018==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hey there,
+
+   We're excited to announce that Songkick is now powering tour dates on bo=
+th Pitchfork and the BBC! It's the latest in our tireless effort to get con=
+certs in front of your fans online.=20
+
+To get your tour dates on Pitchfork and the BBC, all you have to do is make=
+ sure your concerts are up-to-date on Tourbox ( http://tourbox.songkick.com=
+/ ). We'll do the rest.=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+=20
+ Tour dates on Pitchfork
+
+ ( http://pitchfork.com/reviews/albums/19124-future-islands-singles/ )     =
+                 Tour dates on the BBC
+
+ ( http://www.bbc.co.uk/music/artists/534dda3c-b73f-408b-8889-bd68eae84df6 =
+)=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20
+
+To get the most out of Tourbox, make sure you set up our artist website and=
+ Facebook tools ( https://tourbox.songkick.com/tools/widget )! You'll only =
+ever need to enter tour dates once to get them on your artist sites, as wel=
+l as places like Spotify, YouTube, Pitchfork and the BBC.
+
+            Have questions about Tourbox or the new integrations? Drop us a=
+n email ( mailto:artistsupport@songkick.com ) anytime.
+
+                                                                           =
+                         Cheers,
+              Brooke, Head of Artist Services=20=20=20=20=20=20=20=20=20=20
+
+                                                                           =
+  ( http://itunes.apple.com/us/app/songkick-concerts/id438690886?mt=3D8&ls=
+=3D1 )                                                           ( https://=
+play.google.com/store/apps/details?id=3Dcom.songkick )                     =
+                                                     Questions? Email us at=
+ artistsupport@songkick.com ( mailto:artistsupport@songkick.com ), and we'l=
+l help you out.
+              Don't want updates about Tourbox? Opt out under the 'Newslett=
+ers and announcements" section here ( https://www.songkick.com/settings/acc=
+ount-settings ) or unsubscribe from all Songkick emails ( https://www.songk=
+ick.com/users/33269494/unsubscribe?expiry=3D2014-11-21&token=3Dc3d0e7d8592f=
+04e453610fc67b6fcc1a72aab06f&utm_content=3Dunsubscribe-link&utm_medium=3Dem=
+ail&utm_campaign=3Dtourbox-newsletter-2014-11-14 ) in one click.=
+
+--===============6437988935408986018==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+
+<style type=3D"text/css">
+=20=20
+  body {padding: 0;margin:0;font-family: Helvetica, arial, sans-serif;}
+
+  @media only screen=20
+  and (min-device-width : 320px)=20
+  and (max-device-width : 480px) {
+=20=20=20=20=20=20=20=20
+    td[id=3Dheader-logo] {=20
+      width: 300px;=20
+    }=20
+=20=20=20=20=20=20=20=20=20=20
+    table[id=3Dtable-content-header],
+    table[id=3Dtable-content-footer],
+    table[id=3Dtable-content-app-links],
+    table[id=3Dtable-content-unsubscribe] {=20
+      width: 300px;=20
+    }
+
+
+    table[id=3Dtable-content] {
+      width: 320px;
+    }
+
+    #venue-map {
+      max-width: 320px !important;
+      width: 100% !important;
+    }
+
+      }
+</style>
+
+</head>
+<body>
+
+<!-- Header -->
+<table id=3D"header" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0">
+  <tr>
+    <td bgcolor=3D"#f80046" height=3D"12">=C2=A0</td>
+  </tr>
+  <tr>
+    <td bgcolor=3D"#1e2126" height=3D"75">
+      <table id=3D"table-content-header" width=3D"600" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" align=3D"center">
+        <tr>
+          <td id=3D"header-logo" height=3D"75" valign=3D"middle" align=3D"l=
+eft">
+            <img src=3D"https://tourbox.songkick.com/images/email/songkick-=
+tourbox-logo.gif" style=3D"display:block;" height=3D"37" width=3D"229">
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<!-- Wraper -->
+<table width=3D"100%" bgcolor=3D"#eeeeee" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+  <tr>
+    <td>=20=20=20
+=20=20=20=20
+      <!--=20
+      *******************************************************
+      *******************************************************
+      *******************************************************
+
+      EDIT EMAIL CONTENT FROM HERE
+
+      *******************************************************
+      *******************************************************
+      *******************************************************
+      -->
+      <table id=3D"table-content" width=3D"600" bgcolor=3D"#ffffff" cellpad=
+ding=3D"30" cellspacing=3D"0" border=3D"0" align=3D"center">
+        <tr>=20
+          <td id=3D"event-row" valign=3D"top">
+
+            <p style=3D"font-size:27px; font-weight: 200;margin-bottom:10px=
+; margin-top:0; font-family:'helvetica neue',helvetica,arial,sans-serif;">H=
+ey there,</p>
+   <p style=3D"line-height:150%; font-size:15px; margin:0;">
+We're excited to announce that Songkick is now powering tour dates on both =
+Pitchfork and the BBC! It's the latest in our tireless effort to get concer=
+ts in front of your fans online.=20
+<br><br>
+<strong>To get your tour dates on Pitchfork and the BBC, all you have to do=
+ is make sure your concerts are up-to-date on <a href=3D"http://email2.song=
+kick.com/wf/click?upn=3D3MCZPl-2B9L9Tl62qqxKatavGrIuBMkSU0ElorZ-2BUqLyxbMLy=
+vjV-2BLIhHOI96YpAo8_Iap-2Bi15QU3CbYRD0wUwjXKtmepa0WXNkG3s1R-2FDQP7GMdTEyoy4=
+YIlPK5EKNu-2FHk4xcJMAYuhyvr-2Fze-2B1aHHfsPZbyzgqeSQNF-2BY-2FcrQ8N6SS3XIuwwr=
+ezwIqelhcIizt42M77UYF3kkWsijdvVDID5EMmtDzrQGAH-2F4cy8oqwTgyHV-2FgpUxDyB0xcb=
+0gqd-2B8Px09oDbYsyf5TLXRms-2Fd1Zrv6lypCqZgNJb8xmQ39ADhKJPjeEJCvIq-2F9M3KEmv=
+phiEo-2FtFpPZYeoQvnbtnYv-2FwkYETtsdwB24ms5wUTDPLXAqBaZjKgiWDID5z-2FDJmscuuH=
+B-2FZ0KsFiqx4zLia9-2FHpcyCt0HLG0fgtaWRxwcgCvNnbkGktN67HcUmTR8H183-2BGGqksF0=
+Du0erGnDoINw-3D-3D">Tourbox</a>. We'll do the rest.</strong>=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<br>=20
+<br>=20
+Tour dates on Pitchfork
+<br><br>
+<a href=3D"http://email2.songkick.com/wf/click?upn=3DqVB-2Ffp3tsi9BddEPgerd=
+x9ZV9NTZx1Jm8B8GQIub6FA7kwJpefv5n1CQDuPByk60BiCuxPDBhHM3Ohvg4fhtkc90tPhtlIr=
+80Za1kulGCOc-3D_Iap-2Bi15QU3CbYRD0wUwjXKtmepa0WXNkG3s1R-2FDQP7GMdTEyoy4YIlP=
+K5EKNu-2FHk4xcJMAYuhyvr-2Fze-2B1aHHfgaqzWYBJcAy32hBIN4BsAhxbPZf6-2FNAzxMFrK=
+dy8SONjHtif7wAd-2BHboxeP5fqYupuY4bmcM2KYUw6xRxrI-2Fo-2Fa2EA8a487OxRucNQBrcw=
+cEMEdnHovBUkgDfL-2BFYbLAWoLUCM0uTPjQTsfZRm4GmxvQ40xfTaFJ1NYTQnu5-2BqmpyYFKD=
+bXmNtJS2zO8U9k2ZqM8jXvLfVnwXKJM9q8eGJLgV6sTCZZ9s9dpHjFqpt7rYaPR-2BLw585-2F2=
+-2BgnEpv7ncRZZvw9uxCVRcTat5hKLbfDJFELqQtP9Kkc0RhXjhbk20RyuYPDRdDEwy2fY7l8SQ=
+-3D-3D"><img id=3D"screenshot" src=3D"http://blog.songkick.com/wp-content/u=
+ploads/2014/06/Screen-Shot-2014-11-14-at-14.47.36.png" style=3D"display:blo=
+ck;margin-bottom:20px;width:540px;"></a>=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+Tour dates on the BBC
+<br><br>
+<a href=3D"http://email2.songkick.com/wf/click?upn=3DtKj1W-2FNwK76q9Pr-2BAr=
+UIEXX-2BztClCIlVUfsWt4QScvgLgyof0Wwe2xiXDu56wzr1VfvUu1oFawYDvjrSMGVfRRfkLsb=
+meL0qQHjdijQXjYg-3D_Iap-2Bi15QU3CbYRD0wUwjXKtmepa0WXNkG3s1R-2FDQP7GMdTEyoy4=
+YIlPK5EKNu-2FHk4xcJMAYuhyvr-2Fze-2B1aHHfpp-2FZvyEiDd3A-2FQ5-2BgdrB1JXhcICrZ=
+KgT4AjqKKzLbWUqKOpb930k-2F6lP7dxqNsJ2e6u2g-2Ft-2BX6GQKf94ynuSsMDElDrPnk-2Fb=
+u2uhRfybQTH0c8qwvInczpQ6-2FpF6gt48cZk57eSegBCsVVkkVKZYUVvLIs1Sjv-2B8UoELQkv=
+99s0KLCcMdNc8pfHGqWZTG-2FXfqK1OpClNnJdK9eduwzP-2FtqhuC1WtxQp9aHeKvtp7V7Ha9f=
+x3CBMSMBzbw6Giyhuzm22jrT8-2BPMZb6f-2Bwk6QBJoh5WchKJ7v7v4BIxlqwrkyTMXjx0mpw1=
+GsVaaSaXQT-2Fw-3D-3D"><img id=3D"screenshot" src=3D"http://blog.songkick.co=
+m/wp-content/uploads/2014/06/Screen-Shot-2014-11-14-at-14.54.30.png" style=
+=3D"display:block;margin-bottom:20px;width:540px;"></a>=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<p style=3D"line-height:150%; font-size:15px;font-weight:normal;margin:0;">
+To get the most out of Tourbox, make sure you set up our <a href=3D"http://=
+email2.songkick.com/wf/click?upn=3DcQgb28WHleVZ216myBaFKy7lNGJ-2F9qJOoCeqgO=
+IwbThWvblny4I63pkZ5IoBZhPR_Iap-2Bi15QU3CbYRD0wUwjXKtmepa0WXNkG3s1R-2FDQP7GM=
+dTEyoy4YIlPK5EKNu-2FHk4xcJMAYuhyvr-2Fze-2B1aHHfgy22QoQf0yoP7hIqxrSfyx-2BXhL=
+zRjC6dCtvEA5-2BIuvZ7jxWl3Z-2FRp4fuWqN0Z-2BRCiZzaR9j2DVQYIHExeadmBitCc-2FFgG=
+ciRNtrfc2lt8bugxEd5T4RZRpcde4I-2Fpz70UU1p3xvU4k52V64o5OMYmdcmtcASWh6L0dK7FA=
+hATP0zOjV2AdRpY-2B6fXCvOm6j49TrehY-2Bd33fXOKT-2BUhPTDrh8GKP-2B5N-2BkfkWcq3i=
+qI10Yn-2FcoUX7V91KjxdRV0ZN7sIHJdAJYt-2BM808hlDcWiGxNe0ZpNC2KlwHaOkrfPEy0pIe=
+z6TYT4Hh7Uf4th0Ygqw-3D-3D">artist website and Facebook tools</a>! You'll on=
+ly ever need to enter tour dates once to get them on your artist sites, as =
+well as places like Spotify, YouTube, Pitchfork and the BBC.<br>
+<br>=20=20=20=20=20=20=20=20=20=20=20=20
+Have questions about Tourbox or the new integrations? <a href=3D"mailto:art=
+istsupport@songkick.com">Drop us an email</a> anytime.
+</p>
+
+          </td>
+        </tr>
+      </table>
+      <!--=20
+      *******************************************************
+      *******************************************************
+      *******************************************************
+
+      EVERYTHING BELOW HERE IS FOOTER CONTENT
+
+      *******************************************************
+      *******************************************************
+      *******************************************************
+      -->
+      <table id=3D"table-content-footer" width=3D"600" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" align=3D"center" style=3D"margin-top:30px; mar=
+gin-bottom:30px;">
+        <tr>
+          <td style=3D"padding-right:5px; font-family: Helvetica, Arial, sa=
+ns-serif; width:45px;">
+            <img src=3D"https://tickets.songkick.com/email/sk-icon.gif" hei=
+ght=3D"45" width=3D"45" />
+          </td>
+          <td style=3D"font-family: Helvetica, Arial, sans-serif;"><p>
+              Cheers,<br>
+              <strong>Brooke, Head of Artist Services</strong>
+          </p></td>
+        </tr>
+      </table>
+
+      <table id=3D"table-content-app-links" width=3D"600" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" align=3D"center" style=3D"margin-top:20px; =
+margin-bottom:20px;">
+        <tr>
+          <td style=3D"padding-right:20px; width:130px;">
+            <a href=3D"http://email2.songkick.com/wf/click?upn=3Dq0aErPT0Ln=
+xKVWtSun0U6Avuxki6CVj1-2F6-2FmtYvgSB-2F0nh7dmVLNCFVs-2BFWzFLvfRB6KjHb-2FTtW=
+uLpaM5z3jg-2Bd8S6Q7-2FLs8bmv9bQTiah8-3D_Iap-2Bi15QU3CbYRD0wUwjXKtmepa0WXNkG=
+3s1R-2FDQP7GMdTEyoy4YIlPK5EKNu-2FHk4xcJMAYuhyvr-2Fze-2B1aHHfhUwSN4ymX2UKbta=
+hGDRYDZaks52Zjg67zz27g9Ek-2BiZynOHxOrRDXCsQpecbUww2erqbu6qc2wnQBL8cKWT9Xn2D=
+3lTHpFhqcP-2BE18cEsl45r0lPP5uF-2FheGalzN3020eWFZddmXS4bUHfmVNB7vLBOVlOnXt-2=
+BtTda-2BnXqne7MUNl9bp5UH66a2ey8Qze0i1PWxPsrAvFVougViMFPea3Q5muboZG3kF7hQIUd=
+2Q4PZAl7ewVODLqHX61D4hYXpkN8jc5IV04z0NDZJ0qJM2hbYVtELXi52xWt8V2WTEkx0A7bJUX=
+hxf9ZdERLQe6vh-2BQ-3D-3D">
+              <img src=3D"https://ssl.sk-static.com/images/email/iphone-app=
+-store.gif?" />
+            </a>
+          </td>
+          <td style=3D"padding-right:20px; width:470px;">
+            <a href=3D"http://email2.songkick.com/wf/click?upn=3D9f42-2FUAu=
+R8IgspU9qz0nSqmzn0u-2B4qUYVeztktuNMDusn9iSzNcJ0eKABSDtlFkQkImacK0q-2B9NuUg3=
+YTg9Uig-3D-3D_Iap-2Bi15QU3CbYRD0wUwjXKtmepa0WXNkG3s1R-2FDQP7GMdTEyoy4YIlPK5=
+EKNu-2FHk4xcJMAYuhyvr-2Fze-2B1aHHfmECWGV6Qd7ArqZLAQhwtfZ8Msvdz4XTBTkX2QM3mw=
+sTFNZjHZTTC-2FbUo5Y4NhXgBhkDpSTcalp3bXdOLNyxqHfXQpFROXyA8T7ffFmwKdyIDs-2Bil=
+7Fhy13nMu6PLOxHiaDF2Y0PXNcjijORwB97rANnSHgYwPKLfVZkq6LiqMnd-2FR-2BTlR2FIyDJ=
+zxhqD74Xa2yLn3-2BfJwulamJxOl6Rw5rL8E3goXKBcDe3OJV6DQtHXIzJMPHggZjYuNyV-2F46=
+-2BaMB50KD1eNq0WINUcn2h4gui6sDnmR7aP3C0tkhtqhOFVP0Q7g4rHcCy8GLrTinHKg-3D-3D=
+">
+              <img src=3D"https://ssl.sk-static.com/images/email/android-ap=
+p-store.gif?" />
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <table id=3D"table-content-unsubscribe" width=3D"600" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" align=3D"center">
+        <tr>
+          <td valign=3D"top" width=3D"600" style=3D"border-top:1px solid #c=
+cc; padding-top: 20px; padding-bottom: 20px;">
+            <p style=3D"font-size:0.8em; margin:0; padding:0;">
+              Questions? Email us at <a href=3D"mailto:artistsupport@songki=
+ck.com">artistsupport@songkick.com</a>, and we'll help you out.<br>
+              Don't want updates about Tourbox? Opt out under the <a href=
+=3D"http://email2.songkick.com/wf/click?upn=3DdDLpwytFQRqH11Ckhji7NVALOpO9i=
+XDIKiYftvTjWPsaqYpWo1mkeLqz2dES0N9e9Tk-2BMFOdeUVjs21nNkj9qQ-3D-3D_Iap-2Bi15=
+QU3CbYRD0wUwjXKtmepa0WXNkG3s1R-2FDQP7GMdTEyoy4YIlPK5EKNu-2FHk4xcJMAYuhyvr-2=
+Fze-2B1aHHfu8xlnrWqS9F5wdmmPD38yX6WiodqETUrmsrMNXV5fw9y-2By8wg-2BLqyJ7Deg0F=
+KJEj1sFIQaAkora0799lLXXAZS21n6JCAhqGXkmJE5IakyXR1R1NUmy75y7GmPbJwAjYvG7j8yY=
+H3LIk6SRt21c88AE5omMfr1lQSrrHMty6arj4wSqcXOtO2GiCmGTxdv8SWF6HPeqJlp8R44qBZ8=
+VHv3uO2KJhmUJ-2BaUrax1vlWY3YjnPK4ymWvgb-2BPUq3Fh0ej9TAIxEhbT-2FE9a5wqEky3yC=
+x5HKWyRekOGf-2FN-2FqxjEH2MJXkKXIH-2BifzOQ47N64Pg-3D-3D">'Newsletters and an=
+nouncements" section here</a> or <a href=3D"http://email2.songkick.com/wf/c=
+lick?upn=3DdDLpwytFQRqH11Ckhji7NaK7xL0nbhv78gvLY67QyTxNZ2EC0HcwK67aIuo0q88u=
+5l-2FEsTUZJi3H2WAOlyxJAuodu3HlRAW2dLmx9va9IEw99HbM-2BwsPnJZMOImLfU7AwCx5g0W=
+yRV5Nu8OlJL3GmsR2l7sn-2FPYrw2VLUHop0FFx3IDQV6DChdz6KDc-2B5FYbTt488VGQo-2BLr=
+lBUs0rhsiVadSiWqiXqKKB1jRGVFFELD5btvuVe0Ca-2FJ2ru3IGNk-2FaM7LiK0NrEhYyIlz9W=
+2-2BOANnk51sA2O4Z-2BrQ2h8y6U-3D_Iap-2Bi15QU3CbYRD0wUwjXKtmepa0WXNkG3s1R-2FD=
+QP7GMdTEyoy4YIlPK5EKNu-2FHk4xcJMAYuhyvr-2Fze-2B1aHHfgJcFPzQBRTMIYnqKTxYUWvs=
+hDUioNbUF0PZrV7jVKBqbeuy2KM2xohHmH3LhNNoEklZWVlwD3-2BSNbNB4OCJqzGxpiTBHF2ER=
+4jQm2RgZrE-2B7DdTsN5liSoWaCPb8w7TXvDHcdFemajUMBTARxUhrdAUHLqpMJ5jkGW7rJg8pr=
+D0b-2BD1VyezEELAVpIisJWJZVvGpLdG4LUSNJlNXAXTz5E-2BmPzEWnEZQWouopjyD0Qgdp9Zv=
+KZplSUu-2BSHLriykM2rQIxyTXKZeFphLR5miChgA-2BTn3uER9uAs3-2BIIKIPF-2FbaQ66fWv=
+eV4lc8m1ZehsSg-3D-3D">unsubscribe from all Songkick emails</a> in one click.
+            </p>
+          </td>
+        </tr>
+      </table>
+=20
+=20=20=20=20
+    </td>
+  </tr>
+</table>
+
+
+<img src=3D"http://email2.songkick.com/wf/open?upn=3DIap-2Bi15QU3CbYRD0wUwj=
+XKtmepa0WXNkG3s1R-2FDQP7GMdTEyoy4YIlPK5EKNu-2FHkRRq5ESHT3EKS24zgkb1J1lfl4i2=
+-2BJpI0AbrIfz4W87TMYpUODbPxjpyV6h-2B0t9BLe-2BRzQAy8tAjY6pzyGVH-2BGooc0QKfIT=
+mg8kxXOfL3INR-2F9ou-2FsEmjhuWW0z5qcwkNPqB1scEuEBTbrYtEdmSWEm44UiCieRArPWouN=
+XAUronc8KJIxymgvGLYas-2BGAsjkkF0HXA8KXfvhazudEb9Ek3Ru2jaV0UrTpE9QKyKyM7fTB5=
+wn2jsMV-2BUjtjz6hfpzBNn2hushguZtn4rpWjlMm7pW5EyoRffaU3Qmkt7EccCQs-2F7P3VTXr=
+Zg2kGRU9INwcefgSJPJl0ltu0bbLef-2FZ9pGdixUCFB5TutCDNUrcgI-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>
+</body>
+</html>
+=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+
+--===============6437988935408986018==--

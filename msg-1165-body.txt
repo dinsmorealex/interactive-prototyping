@@ -1,0 +1,51 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.180.99.9 with SMTP id em9cs63488wib;
+        Thu, 29 Dec 2011 11:38:27 -0800 (PST)
+Received: by 10.68.201.138 with SMTP id ka10mr57322295pbc.46.1325187505808;
+        Thu, 29 Dec 2011 11:38:25 -0800 (PST)
+Return-Path: <notification+f_tfayoc@facebookmail.com>
+Received: from mx-out.facebook.com (outmail003.snc7.facebook.com. [69.171.232.137])
+        by mx.google.com with ESMTP id p7si43004617pbq.77.2011.12.29.11.38.25;
+        Thu, 29 Dec 2011 11:38:25 -0800 (PST)
+Received-SPF: pass (google.com: domain of notification+f_tfayoc@facebookmail.com designates 69.171.232.137 as permitted sender) client-ip=69.171.232.137;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of notification+f_tfayoc@facebookmail.com designates 69.171.232.137 as permitted sender) smtp.mail=notification+f_tfayoc@facebookmail.com; dkim=pass header.i=@facebookmail.com
+Return-Path: <notification+f_tfayoc@facebookmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; d=facebookmail.com; s=s1024-2011-q2; c=relaxed/simple;
+	q=dns/txt; i=@facebookmail.com; t=1325187505;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=458bPyIP4LZ4Qfifnq7zmtGKTnCYiVny/qnCp7/fuqE=;
+	b=FGwIh/OPrNVsiv353mpY6zcYOBAPaGo4iWIalb2Km0bCJ6QCER6z5MNy7LIVUIL4
+	UO4dkVUNkmantJB9Iuda5S4drxv+q5+SSCON+vGHMl/KDIZaG7ByzpO2T4Dq8uQq
+	XkQicIot1kKX6aZsah5EaDkPwrveCXKFSBZXTsGHFnM=;
+Received: from [10.62.254.43] ([10.62.254.43:45562])
+	by smout013.snc7.facebook.com (envelope-from <notification+f_tfayoc@facebookmail.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id D4/B5-15565-1B1CCFE4; Thu, 29 Dec 2011 11:38:25 -0800
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTP (ZuckMail);
+Date: Thu, 29 Dec 2011 11:38:25 -0800
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+From: "Facebook" <notification+f_tfayoc@facebookmail.com>
+Reply-to: Facebook <notification+f_tfayoc@facebookmail.com>
+Subject: Welcome back to Facebook
+Message-ID: <ec4e2e4e5e657bafe5bcac747c38e31a@www.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+f_tfayoc@facebookmail.com
+X-Facebook-Notify: ; mailid=
+X-FACEBOOK-PRIORITY: 0
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Hey Alex,
+
+The Facebook account associated with dinsmorealex@gmail.com was recently =
+reactivated.
+
+If you were not the one who reactivated this account, please visit our =
+Help Center (http://www.facebook.com/help/?topic=3Dsecurity).
+
+Thanks,
+The Facebook Team
+

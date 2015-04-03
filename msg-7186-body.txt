@@ -1,0 +1,1269 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.173.115 with SMTP id bj19csp248386ldc;
+        Tue, 15 Jul 2014 13:24:58 -0700 (PDT)
+X-Received: by 10.140.109.118 with SMTP id k109mr37728880qgf.98.1405455897814;
+        Tue, 15 Jul 2014 13:24:57 -0700 (PDT)
+Return-Path: <blurb.52610@envfrm.rsys5.com>
+Received: from omp.makebooks.blurb.com (omp.makebooks.blurb.com. [199.7.204.114])
+        by mx.google.com with ESMTP id u5si22386224qar.96.2014.07.15.13.24.56
+        for <dinsmorealex@gmail.com>;
+        Tue, 15 Jul 2014 13:24:57 -0700 (PDT)
+Received-SPF: pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) client-ip=199.7.204.114;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) smtp.mail=blurb.52610@envfrm.rsys5.com;
+       dkim=pass (test mode) header.i=@makebooks.blurb.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=makebooks.blurb.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=blurb; d=makebooks.blurb.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=support@makebooks.blurb.com;
+ bh=VRvi3VehhzJwcb1mPhwVuszMqIA=;
+ b=D5orB0H19uVursM/QIL28zBwRYFW9T3E103bA7AcJ6iipPAL8DBWcw3Ice1Dx1TaVz8cgxrPw6tB
+   TifI+78KZritA4S1jOB1R/AynymT9UQRg69gzKRy+02Ub3vbelvXb+YUtE8LkIGPfud2YqV8jKai
+   iPkMDHJ7UkZFDL8gPOA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=blurb; d=makebooks.blurb.com;
+ b=nbYQ90jo+6ANJbBFQMDhXbmnrnasdg2gHW8LuswzBWsrJemhT+0oZjwReF/KeICMf2cJfuZy6Jhl
+   XY2ZqGFVZSE+b2TfS5BlzotNcpRnZAxLdas+Y9wuERJfqnkvjCMk6T9RtXJ3FfOZo16VahNs/tBJ
+   Yfnlww7EHIxf4LbtG68=;
+Received: by omp.makebooks.blurb.com id hom71i1607gr for <dinsmorealex@gmail.com>; Tue, 15 Jul 2014 13:16:46 -0700 (envelope-from <blurb.52610@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 15 Jul 2014 13:16:46 -0700
+To: dinsmorealex@gmail.com
+From: "Blurb" <support@makebooks.blurb.com>
+Reply-To: "Blurb" <noreply@makebooks.blurb.com>
+Subject: Blurb Summer Reads: An adventurous bunch
+List-Unsubscribe: <http://makebooks.blurb.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsn&_ei_=EolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2>, <mailto:unsubscribe-WQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsn@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: KpgkuhjLHtLzfxnuHptQJhu
+X-rext: 4.interact5.Elrx7ZLtlhZ4Ug473ZbPnbobewtSoVqIkg
+X-cid: blurb.235115
+Message-ID: <0.1.15.34E.1CFA069B3E8A9DE.0@omp.makebooks.blurb.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html>
+ <head>
+  <title>Blurb Summer Reads: An adventurous bunch</title>
+  <style type=3D=22text/css=22>
+=40charset =22UTF-8=22;
+html =7B
+	-webkit-text-size-adjust: none;
+=7D
+=2EReadMsgBody =7B
+	width: 100%;
+=7D
+=2EExternalClass =7B
+	width: 100%;
+=7D
+=2EExternalClass * =7B
+	line-height: 100%
+=7D
+=2EappleLinksWhite a =7B
+	color: =23ffffff;
+	text-decoration: none;
+=7D
+body =7B
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	margin: 0 auto;
+	background-repeat: repeat-x;
+=7D
+=40media screen and (max-width: 620px) =7B
+=2Eblock=5Byahoofix=5D =7B
+	display: block =21important;
+=7D
+=2Ehide =7B
+	display: none =21important;
+=7D
+=2Erel =7B
+	position: relative =21important;
+=7D
+=2Eabs =7B
+	position: absolute =21important;
+=7D
+=2Eshow =7B
+	display: block =21important;
+	width: auto =21important;
+	overflow: visible =21important;
+	float: none =21important;
+	max-height: inherit =21important;
+	line-height: inherit =21important;
+=7D
+/* ALIGNMENT */
+=2Ealigncenter =7B
+	text-align: center =21important;
+=7D
+=2Ealignleft =7B
+	text-align: left =21important;
+=7D
+/*** heights & widths ****/
+=2Ewidth1 =7B
+	width: 1px =21important;
+=7D
+=2Ewidth2 =7B
+	width: 2px =21important;
+=7D
+=2Ewidth3 =7B
+	width: 3px =21important;
+=7D
+=2Ewidth4 =7B
+	width: 4px =21important;
+=7D
+=2Ewidth5 =7B
+	width: 5px =21important;
+=7D
+=2Ewidth6 =7B
+	width: 6px =21important;
+=7D
+=2Ewidth7 =7B
+	width: 7px =21important;
+=7D
+=2Ewidth8 =7B
+	width: 8px =21important;
+=7D
+=2Ewidth9 =7B
+	width: 9px =21important;
+=7D
+=2Ewidth10 =7B
+	width: 10px =21important;
+=7D
+=2Ewidth11 =7B
+	width: 11px =21important;
+=7D
+=2Ewidth12 =7B
+	width: 12px =21important;
+=7D
+=2Ewidth13 =7B
+	width: 13px =21important;
+=7D
+=2Ewidth14 =7B
+	width: 14px =21important;
+=7D
+=2Ewidth15=5Byahoofix=5D =7B
+	width: 15px =21important;
+=7D
+=2Ewidth20 =7B
+	width: 20px =21important;
+=7D
+=2Ewidth22 =7B
+	width: 22px =21important;
+=7D
+=2Ewidth25 =7B
+	width: 25px =21important;
+=7D
+=2Ewidth30 =7B
+	width: 30px =21important;
+=7D
+=2Ewidth35 =7B
+	width: 35px =21important;
+=7D
+=2Ewidth40 =7B
+	width: 40px =21important;
+=7D
+=2Ewidth45 =7B
+	width: 45px =21important;
+=7D
+=2Ewidth50 =7B
+	width: 50px =21important;
+=7D
+=2Ewidth138 =7B
+	width: 138px =21important;
+=7D
+=2Ewidth139 =7B
+	width: 139px =21important;
+=7D
+=2Ewidth150 =7B
+	width: 150px =21important;
+=7D
+=2Ewidth194 =7B
+	width: 194px =21important;
+=7D
+=2Ewidth210 =7B
+	width: 210px =21important;
+=7D
+=2Ewidth242 =7B
+	width: 242px =21important;
+=7D
+=2Ewidth245 =7B
+	width: 245px =21important;
+=7D
+=2Ewidth250 =7B
+	width: 250px =21important;
+=7D
+=2Ewidth290=5Byahoofix=5D =7B
+	width: 290px =21important;
+=7D
+=2Ewidth300 =7B
+	width: 300px =21important;
+=7D
+=2Ewidth312 =7B
+	width: 312px =21important;
+=7D
+=2Ewidth320=5Byahoofix=5D =7B
+	width: 320px =21important;
+=7D
+=2Ewidth340 =7B
+	width: 340px =21important;
+=7D
+=2Ehauto =7B
+	height: auto =21important;
+=7D
+=2Eheight1 =7B
+	height: 1px =21important;
+=7D
+=2Eheight2 =7B
+	height: 2px =21important;
+=7D
+=2Eheight3 =7B
+	height: 3px =21important;
+=7D
+=2Eheight4 =7B
+	height: 4px =21important;
+=7D
+=2Eheight5 =7B
+	height: 5px =21important;
+=7D
+=2Eheight6 =7B
+	height: 6px =21important;
+=7D
+=2Eheight7 =7B
+	height: 7px =21important;
+=7D
+=2Eheight8 =7B
+	height: 8px =21important;
+=7D
+=2Eheight9 =7B
+	height: 9px =21important;
+=7D
+=2Eheight10 =7B
+	height: 10px =21important;
+=7D
+=2Eheight11 =7B
+	height: 11px =21important;
+=7D
+=2Eheight12 =7B
+	height: 12px =21important;
+=7D
+=2Eheight13 =7B
+	height: 13px =21important;
+=7D
+=2Eheight14 =7B
+	height: 14px =21important;
+=7D
+=2Eheight15 =7B
+	height: 15px =21important;
+=7D
+=2Eheight20 =7B
+	height: 20px =21important;
+=7D
+=2Eheight25 =7B
+	height: 25px =21important;
+=7D
+=2Eheight30 =7B
+	height: 30px =21important;
+=7D
+=2Eheight35 =7B
+	height: 35px =21important;
+=7D
+=2Eheight40 =7B
+	height: 40px =21important;
+=7D
+=2Eheight42 =7B
+	height: 42px =21important;
+=7D
+=2Eheight45 =7B
+	height: 45px =21important;
+=7D
+=2Eheight50 =7B
+	height: 50px =21important;
+=7D
+=2Eheight250 =7B
+	height: 250px =21important;
+=7D
+/*** padding/margin ****/
+=2Epaddingr0 =7B
+	padding-right: 0px =21important;
+=7D
+=2Epaddingr15 =7B
+	padding-right: 15px =21important;
+=7D
+=2Epaddingr55 =7B
+	padding-right: 55px =21important;
+=7D
+=2Epaddingl0 =7B
+	padding-left: 0px =21important;
+=7D
+=2Epaddingl15 =7B
+	padding-left: 15px =21important;
+=7D
+=2Epaddingl55 =7B
+	padding-left: 55px =21important;
+=7D
+=2Epaddinglr55 =7B
+	padding-left: 60px =21important;
+	padding-right: 60px =21important;
+=7D
+=2Epaddingb10 =7B
+	padding-bottom: 10px =21important
+=7D
+/*** fonts ****/
+=2Efont14 =7B
+	font-size: 14px =21important;
+=7D
+=2Efont15 =7B
+	font-size: 15px;
+=21important;
+=7D
+=2Efont24 =7B
+	font-size: 24px =21important;
+=7D
+=2Efont28 =7B
+	font-size: 28px =21important;
+=7D
+=2Efont32 =7B
+	font-size: 32px =21important;
+=7D
+=2Eline16 =7B
+	line-height: 16px =21important;
+=7D
+=2Eline20 =7B
+	line-height: 20px =21important;
+=7D
+=2Eline22 =7B
+	line-height: 22px =21important;
+=7D
+=2Eline26 =7B
+	line-height: 26px =21important;
+=7D
+=2Eline30 =7B
+	line-height: 34px =21important;
+=7D
+=2Eline34 =7B
+	line-height: 34px =21important;
+=7D
+/*** positioning ***/
+=2Etop21 =7B
+	top: 21px =21important;
+=7D
+=2Ebggrey =7B
+	background-color: =23f5f5f5 =21important;
+=7D
+=2Ebggrey_drk =7B
+	background-color: =23e3e3e3 =21important;
+=7D
+=2Ebgwhite =7B
+	background-color: =23ffffff =21important;
+=7D
+=7D</style>
+ </head>
+ <body width=3D=22100%=22 style=3D=22padding:0; margin:0;=22 bgcolor=3D=22=
+=23FFFFFF=22>
+  <=21--=5Bif gte mso 9=5D>
+<style>
+=2Emr15=7B margin-right:15px =21important;=7D
+=2Eml15=7B margin-left:15px =21important;=7D
+=2Emr5lr5 =7B margin-left:5px =21important; margin-right:5px =21important;=
+=7D
+=2Emr20lr20 =7B margin-left:20px =21important; margin-right:20px =21importa=
+nt;=7D
+=2Emm1=7B margin-left:30px =21important; margin-right:30px =21important;=7D
+=2Emm2=7B margin-left:15px =21important; margin-right:15px =21important;=7D
+=2Emm3=7B margin-left:50px =21important; margin-right:50px =21important;=7D
+=2Emm4=7B margin-left:15px =21important; margin-right:5px =21important;=7D
+=2Emm5=7B margin-left:10px =21important; margin-right:10px =21important;=7D
+</style>
+<=21=5Bendif=5D--> <center>
+  <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=22>
+   <tbody>
+    <tr>
+     <td align=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+     <table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22 cellpa=
+dding=3D=220=22 class=3D=22width320=22 yahoofix>
+      <tbody>
+       <tr>
+        <td bgcolor=3D=22=23FFFFFF=22><=21-- hero image-->
+        <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=
+ width=3D=22600=22 class=3D=22width320=22 yahoofix>
+         <tbody>
+          <tr>
+           <td width=3D=22600=22 yahoofix class=3D=22width320=22 align=3D=
+=22center=22 valign=3D=22top=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=
+=2Enet/i5/responsysimages/content/blurb/MAR-1415-hero-US=2Ejpg=22 style=3D=
+=22display:block; border:0;=22 alt=3D=22Blurb Summer Reads=22 width=3D=2260=
+0=22 class=3D=22width320 hauto=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+        <=21-- space -->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2210px=22 style=3D=22line-height:10px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+        <=21--Text block-->
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=
+=22 class=3D=22width320=22 yahoofix>
+         <tbody>
+          <tr>
+           <td width=3D=2225px=22 class=3D=22width15=22 yahoofix></td>
+           <td width=3D=22550=22 align=3D=22center=22 valign=3D=22middle=22=
+ class=3D=22width290=22 yahoofix>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:15px; line-height:22px; color:=23000000; height: 35px;=22 class=3D=22fo=
+nt14 line20=22>ALL BOOKS AVAILABLE FOR PURCHASE AT THE <a href=3D=22http://=
+makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW=
+3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUCCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRa=
+zn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27um=
+Sa=2E=22 style=3D=22color:=2300adef=22>BLURB BOOKSTORE</a></div>
+           </td>
+           <td width=3D=2225px=22 class=3D=22width15=22 yahoofix></td>
+          </tr>
+          <tr>
+           <td colspan=3D=223=22>
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2210px=22 style=3D=22line-height:10px;=22><img src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/=
+spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; =
+border:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+           </td>
+          </tr>
+          <tr>
+           <td width=3D=2225px=22 class=3D=22width15=22 yahoofix></td>
+           <td width=3D=22550=22 align=3D=22left=22 valign=3D=22top=22 clas=
+s=3D=22width290=22 yahoofix>
+           <div style=3D=22font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=22=
+>This week, we're shining the spotlight on some of our favorite tales of ad=
+venture from Blurb authors=2E Whether a vacation or staycation is on your s=
+ummer agenda, get a little adventurous and try a book from an independent a=
+uthor=2E You may even get inspired to write a book of your own=2E</div>
+           </td>
+           <td width=3D=2225px=22 class=3D=22width15=22 yahoofix></td>
+          </tr>
+         </tbody>
+        </table>
+        <=21-- space -->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2215=22 style=3D=22line-height:15x;=22><img src=3D=
+=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spa=
+cer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; bor=
+der:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+        <=21-- divider header image-->
+        <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=
+ width=3D=22600=22 class=3D=22width320=22 yahoofix>
+         <tbody>
+          <tr>
+           <td width=3D=22600=22 class=3D=22width320=22 align=3D=22center=
+=22 valign=3D=22top=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5=
+/responsysimages/content/blurb/MAR-1435-adventure=2Ejpg=22 style=3D=22displ=
+ay:block; border:0;=22 alt=3D=22For the adventure enthusiasts=22 width=3D=
+=22600=22 class=3D=22width320 hauto=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+        <=21-- space -->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+         <tbody>
+          <tr>
+           <td height=3D=2215=22 style=3D=22line-height:15x;=22><img src=3D=
+=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spa=
+cer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:block; bor=
+der:0;=22 alt=3D=22=22 /></td>
+          </tr>
+         </tbody>
+        </table>
+        <=21--Content, 2 bucket-->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAUDRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_agingerstale=2Epng=22 width=3D=
+=22205=22 alt=3D=22A Ginger's Tale =7C Stephen Christopher=22 style=3D=22di=
+splay:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>A Ginger's Tale</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Stephen Christopher</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>Ginger is trapped in his mind, his memories con=
+tinuously haunting him=2E With no relief in sight, he attempts to figure ou=
+t whether he is insane, dead, or worse&mdash;part of something unknown=2E</=
+div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUDRY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAUDTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_cotswoldsrip=2Epng=22 width=3D=
+=22205=22 alt=3D=22COTSWOLD'S RIP =7C Dylan Swift=22 style=3D=22display:blo=
+ck;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>COTSWOLD'S RIP</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Dylan Swift</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>Released from a California prison after serving=
+ five years, Rollo Cotswold can barely believe the changes that have occurr=
+ed in society during his absence=2E He takes a cross-country trip to proces=
+s what he's missed and is confronted with a scarier reality: Is he stuck in=
+ a bad dream or is his health seriously at risk?</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUDTY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <=21--row 2-->                              <=21--Content, 2 bucket=
+-->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAUDWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_goldstaraces=2Epng=22 width=3D=
+=22205=22 alt=3D=22GOLD STAR ACES Volume 1 =7C Troy L=2E White=22 style=3D=
+=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>GOLD STAR ACES Volume 1</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Troy L=2E White</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>From the Japanese attack on Pearl Harbor all th=
+e way to the end of June, 1944, this historical read includes 320 contempor=
+ary photos, maps, and charts attempting to chronicle the final moments of 1=
+14 USAAF aces=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUDWY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAUDAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_afghancoat=2Epng=22 width=3D=222=
+05=22 alt=3D=22The Afghan Coat =7C H=2E Cl&oslash;ver=22 style=3D=22display=
+:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>The Afghan Coat</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>H=2E Cl&oslash;ver</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>This novella is based on a true story and focus=
+es on a young man on a dangerous delivery mission=2E Climbing a smuggling p=
+ath, he meets brave travelers and tries to stay far from the Punjab CID who=
+ is following closely behind=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUDAY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <=21--row 3-->                              <=21--Content, 2 bucket=
+-->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAUDCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_subliminal=2Epng=22 width=3D=222=
+05=22 alt=3D=22SUBLIMINAL =7C Melissa Perez=22 style=3D=22display:block;bor=
+der: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>SUBLIMINAL</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Melissa Perez</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>It's 4012, and Calissa Heart is fighting to sta=
+y alive and find her missing family=2E She lands in a safe house run by Ian=
+=2E With his help, she attempts to expose the company who may be responsibl=
+e for her family's disappearance=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUDCY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAWRRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_justawalkinthesun=2Epng=22 width=
+=3D=22205=22 alt=3D=22Just a Walk in the Sun =7C Robert Stanley Price=22 st=
+yle=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>Just a Walk in the Sun</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Robert Stanley Price</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>This is the story of Bob Price, an infantry sol=
+dier, detailing the ten months between D-day and VE day=2E Many men served =
+their country&mdash;and this is the story of one ordinary man who served in=
+ extraordinary circumstances=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAWRRY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <=21--row 4-->               <=21--Content, 2 bucket-->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAWRTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_thewalkingcity=2Epng=22 width=3D=
+=22205=22 alt=3D=22The Walking City =7C Philip McCulloch-Downs=22 style=3D=
+=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>The Walking City</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Philip McCulloch-Downs</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22><em>The Walking City</em> is three books in one=
+ volume=2E Enjoy the strange tale of the dragonfly man, a time travel journ=
+ey, and the legend of the stone giant=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAWRTY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAWRWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_janettravellmd=2Epng=22 width=3D=
+=22205=22 alt=3D=22Janet Travell, M=2ED=2E =7C Virginia Powell Street=22 st=
+yle=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>Janet Travell, M=2ED=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Virginia Powell Street</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>This is the biography of Dr=2E Janet Travell, t=
+he first female physician in the United States=2E Her daughters and grandda=
+ughter set off to tell her story, complete with family photos, letters, and=
+ piece of history=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAWRWY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <=21--row 5-->               <=21--Content, 2 bucket-->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAWRAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_templecloud=2Epng=22 width=3D=22=
+205=22 alt=3D=22Temple Cloud =7C Matthew Roberts=22 style=3D=22display:bloc=
+k;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>Temple Cloud</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Matthew Roberts</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>Rhian believes her parents are still alive and =
+is on a mission to find them&mdash;with the help from a fellow orphan=2E Un=
+fortunately, it's 2074, they're in post-apocalyptic London, and the new gov=
+ernment's motives are not what they seem=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAWRAY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAWRCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_dragoninthesnow=2Epng=22 width=
+=3D=22205=22 alt=3D=22Dragon in the Snow =7C Forrest Dylan Bryant=22 style=
+=3D=22display:block;border: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>Dragon in the Snow</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Forrest Dylan Bryant</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>Sid Friedman and his troop of heroes start a jo=
+urney from the canyons of New York to the peaks of a fabled land=2E The pro=
+blem? With every step they are journeying deeper and deeper into their enem=
+y's territory=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAWRCY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <=21--row 6-->               <=21--Content, 2 bucket-->
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAWSRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_horizon=2Epng=22 width=3D=22205=
+=22 alt=3D=22Horizon =7C B=2E Marsh-Allen=22 style=3D=22display:block;borde=
+r: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>Horizon</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>B=2E Marsh-Allen</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>When tragedy strikes, a young woman goes in sea=
+rch of her father=2E Follow along on her journey as she tries to make her w=
+orld right=2E</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAWSRY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td align=3D=22center=22 width=3D=22300=22 class=3D=22width320 b=
+lock=22 valign=3D=22top=22 yahoofix>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=
+=22>
+            <tbody>
+             <tr>
+              <td align=3D=22center=22><a href=3D=22http://makebooks=2Eblur=
+b=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl=
+1hzezbbsnVXtpKX%3DUAWSTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=
+=3D=22border:0px;=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/r=
+esponsysimages/content/blurb/summerreads_2_zedsheroes=2Epng=22 width=3D=222=
+05=22 alt=3D=22Zed's Heroes =7C Barry Klemm=22 style=3D=22display:block;bor=
+der: 0px;=22 /></a></td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22bottom=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22>Zed's Heroes</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 35px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000; font-weight: bold;=22 class=
+=3D=22font14 line20=22>Barry Klemm</div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22left=22 valign=3D=22middle=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; line-height:19px; color:=23000000; padding: 0 10px 0 10px;=22 =
+class=3D=22font14 line20=22>Zed's upbringing takes place in a boring suburb=
+, where he remains in a strict and colorless educational system=2E Can his =
+world go on like this, or is there something more eventful in his future?</=
+div>
+              </td>
+             </tr>
+             <tr>
+              <td align=3D=22center=22 valign=3D=22middle=22 style=3D=22hei=
+ght: 45px;=22>
+              <div style=3D=22font-family:Arial, Helvetica, sans-serif; fon=
+t-size:15px; line-height:22px; color:=23000000;=22 class=3D=22font14 line20=
+=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQp=
+glLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAWSTY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSN=
+dozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color:=2300adef=22>Buy Now</a><=
+/div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <=21-- FOOTER -->
+        <p style=3D=22margin:0px; padding: 40px 0 0 0;=22>&nbsp;</p>
+<center><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3=
+DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUBAY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KS=
+CzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=22 src=3D=
+=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/ico=
+n-blurb-47=2Epng=22 border=3D=220=22 alt=3D=22Blurb=22 title=3D=22=22 /></a=
+>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc=
+?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpK=
+X%3DUAUBCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8=
+UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmi=
+ddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/con=
+tent/blurb/icon-facebook-41=2Epng=22 border=3D=220=22 alt=3D=22Facebook=22 =
+title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=
+=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIy=
+gIhILOl1hzezbbsnVXtpKX%3DUAUCRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_=
+5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22>=
+<img align=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i=
+5/responsysimages/content/blurb/icon-gplus-41=2Epng=22 border=3D=220=22 alt=
+=3D=22Google Plus=22 title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=
+=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGt=
+jzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUCTY&_ei_=3DEi2L-z0LtlVkTF=
+J2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5=
+w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=22 src=3D=22http://responsy=
+s=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/icon-twitter-41=2Epng=
+=22 border=3D=220=22 alt=3D=22Twitter=22 title=3D=22=22 /></a></center>
+<p style=3D=22text-align:center; font-size: 10px; font-family: Arial, Helve=
+tica, sans-serif; line-height: 18px; padding: 20px 0 20px 0; color: =236666=
+66; margin: 0px;=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DU=
+AUCWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8=
+N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color: =2300ade=
+f; text-decoration: none=22 target=3D=22_top=22>Privacy</a> =7C <a href=3D=
+=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzf=
+BzdeltozdW3nWBUzdIygIhILOl1hzezbbsnVXtpKX%3DUAUCAY&_ei_=3DEi2L-z0LtlVkTFJ2D=
+Q5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i=
+4vbQKh27umSa=2E=22 style=3D=22color: =2300adef; text-decoration: none=22 ta=
+rget=3D=22_top=22>Pricing</a> =7C <a href=3D=22http://makebooks=2Eblurb=2Ec=
+om/pub/optout?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW3nWBUzdIygIhILOl1=
+hzezbbsn&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVh=
+r9d1Ps1gx2mlXfSPwa6K2=22 style=3D=22color: =2300adef; text-decoration: none=
+=22 target=3D=22_top=22>Unsubscribe</a><br /><br />Blurb, Inc=2E PO Box 728=
+, San Francisco, CA 94104-0728<br />&copy;2014 Blurb, All Rights Reserved</=
+p>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  </center><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+makebooks=2Eblurb=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGtjzfBzdeltozdW=
+3nWBUzdIygIhILOl1hzezbbsnVXHkMX%3Dw&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tY=
+uie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSBv2UdWief=2E=22>
+
+
+ </body>
+</html>
+
+

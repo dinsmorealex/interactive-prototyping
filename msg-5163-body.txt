@@ -1,0 +1,577 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.12.71 with SMTP id w7csp261023ldb;
+        Mon, 18 Nov 2013 16:41:30 -0800 (PST)
+X-Received: by 10.224.151.130 with SMTP id c2mr38590516qaw.39.1384821689587;
+        Mon, 18 Nov 2013 16:41:29 -0800 (PST)
+Return-Path: <alerts@alerts.hp.com>
+Received: from client-1-162.delivery.net (client-1-162.delivery.net. [209.11.164.162])
+        by mx.google.com with ESMTP id s8si9907858qat.16.2013.11.18.16.41.28
+        for <dinsmorealex@gmail.com>;
+        Mon, 18 Nov 2013 16:41:29 -0800 (PST)
+Received-SPF: pass (google.com: domain of alerts@alerts.hp.com designates 209.11.164.162 as permitted sender) client-ip=209.11.164.162;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of alerts@alerts.hp.com designates 209.11.164.162 as permitted sender) smtp.mail=alerts@alerts.hp.com;
+       dkim=pass header.i=@alerts.hp.com
+Return-Path: <alerts@alerts.hp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=v1; d=alerts.hp.com;
+	h=DKIM-Signature:Received:Date:From:Reply-to:To:Message-ID:Subject:Errors-to:MIME-Version:Content-Type:Content-Transfer-Encoding:X-eid:X-pid:X-AcxSID:List-Unsubscribe;
+	b=CyDWqBFk9/BFPo8IV9skD5EDt7Ee+57Aw45ayb3h+SN8uS73SVggFtu9/3WPRRxS
+	ftd2/iLVxzP3X0wEStgfx8cpua4tGtfB8FrPN0sFg88CAjk/42a1yjj0d2+8Uips
+	DmXfRRcLjB2dF2mbl7KPJJjr1hKeaBfiw6JxpW8DIds=
+DKIM-Signature: v=1; a=rsa-sha1; d=alerts.hp.com; s=v1; c=simple/simple;
+	q=dns/txt; i=@alerts.hp.com; t=1384821688;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=EW2C5hWohOX96qil6/H+DmOHdbg=;
+	b=XhsOvorFGAGx5nwmGSWKwivyB8bDSoVCfEAEzM91jYuTuCKSNG/qR+4hIs2olYzs
+	C4IOj21B7pGzmiiZdVwtdNd2isBoXVWkLhg+IsNgwYy6vwA0X0Au52S8Q0xu9+Hh
+	A/cdE1kBWTreq/2CwC29VHqzGKeF+6BO5k8n9/L/Dmw=;
+Received: from [192.168.138.179] ([192.168.138.179:48196] helo=fcvm26a1.dc1.prod)
+	by oms11.dc1.prod (envelope-from <alerts@alerts.hp.com>)
+	(ecelerity 3.3.2.44647 r(44647)) with ESMTP
+	id A4/94-14000-8B3BA825; Mon, 18 Nov 2013 16:41:28 -0800
+Date: Mon, 18 Nov 2013 16:40:19 -0800 (PST)
+From: Hewlett-Packard <alerts@alerts.hp.com>
+Reply-to: alerts@alerts.hp.com
+To: dinsmorealex@gmail.com
+Message-ID: <21366049842.1384821688539@dc1.prod>
+Subject: Routine Alert for your HP LaserJet MFP and All-in-One Products, HP Color LaserJet Printers and HP LaserJet Printers
+Errors-to: alerts@alerts.hp.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+X-eid: 2.5.3KT.2ZR.1ALQi0.JvX0mo..H..8CL6.CQDKEPZ0
+X-pid: 2147654
+X-AcxSID: 13597.2147654
+List-Unsubscribe: <mailto:alerts@alerts.hp.com?subject=unsubscribe%20xeid:2.5.3KT.2ZR.1ALQi0.JvX0mo..H..8CL6.CQDKEPZ0>
+
+<HTML>
+ =20
+<head>=20
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type"></=
+meta>=20
+
+</head>
+<BODY alink=3D"#003366" bgcolor=3D"#FFFFFF" leftmargin=3D"0" link=3D"#00336=
+6" marginheight=3D"0" marginwidth=3D"0" text=3D"#000000" topmargin=3D"0" vl=
+ink=3D"#003366">
+ =20
+
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600">=20
+<tr>=20
+<td>=20
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600"><tr>
+<td height=3D"9">&#160;</td></tr><tr><td style=3D"font-family:Arial, Helvet=
+ica, sans-serif; font-size:12px; text-align:right; color:#5a5a5a;"> Here ar=
+e the most recent alerts for the  2 products you own | <A HREF=3D"http://al=
+erts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buRu.8CL6.bW89MSZyc19lZT1aR2x1Yz=
+IxdmNtVmhiR1Y0UUdkdFlXbHNMbU52YlFfXyZyc19vYz1IJnJzX2J2PUgmcnNfbXY9SCZyc19re=
+T0xQUxRaTA%5fCVHUOBG0"><font color=3D"#007DBA" face=3D'Arial, Helvetica, sa=
+ns-serif' style=3D'text-decoration: none;'>web view</font></A></td></tr><tr=
+><td height=3D"9">&#160;</td></tr><tr><td bgcolor=3D"#e0e0e0" height=3D"1">=
+<img height=3D"1" src=3D"http://img.delivery.net/cm50content/18874/AW_Helpe=
+r_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=
+=3D"600"></td></tr><tr><td width=3D"30">&#160;</td></tr><tr><td><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tr><td><table a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"6=
+00"><tr><td width=3D"30">&#160;</td><td width=3D"81"><img border=3D"0" heig=
+ht=3D"81" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_=
+Alert_20130226p_CATCHALL8.txt/hptw_0015-sliced_03.jpg" width=3D"81"> </td><=
+td width=3D"58">&#160;</td><td width=3D"401"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" height=3D"81" width=3D"401"><tr><td style=3D"font=
+-family:Arial, Helvetica, sans-serif; font-size:36px;"><strong>Support aler=
+ts</strong> </td></tr><tr><td height=3D"23">&#160;</td></tr><tr><td><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"401"><tr><td styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;"><strong><A =
+HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buRm.8CL6.bW89M=
+SZtcDMwMjgyPTAmbXAzMDI3Nj0wMDYmaT1kaW5zbW9yZWFsZXhAZ21haWwuY29tBMXSKUY0" ST=
+YLE=3D"text-decoration:none; color:#767676;">My profile</A></strong></td><t=
+d width=3D"16"><td style=3D"font-family:Arial, Helvetica, sans-serif; font-=
+size:14px;"><strong><A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.Jv=
+X0mo..H.buRo.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDYmaT1kaW5zbW9yZWFsZXhAZ=
+21haWwuY29tBNFWKUa0" STYLE=3D"text-decoration:none; color:#767676;">Recent =
+alerts</A></strong></td><td width=3D"16"><td style=3D"font-family:Arial, He=
+lvetica, sans-serif; font-size:14px;"><strong><A HREF=3D"http://alerts.hp.c=
+om/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buRq.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0=
+wMDY%5fYCWHdF00" STYLE=3D"text-decoration:none; color:#767676;">Support cen=
+ter</A></strong></td><td width=3D"16"><td style=3D"font-family:Arial, Helve=
+tica, sans-serif; font-size:14px;"><strong><A HREF=3D"http://alerts.hp.com/=
+r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buRs.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMD=
+Y%5fYMaHdH00" STYLE=3D"text-decoration:none; color:#767676;">HP forums</A><=
+/strong></td></tr></table></td></tr></table></td><td width=3D"30">&#160;</t=
+d></tr></table></td></tr></table></td></tr><tr><td width=3D"30">&#160;</td>=
+</tr><tr><td bgcolor=3D"#000000" height=3D"1"><img height=3D"1" src=3D"http=
+://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCH=
+ALL8.txt/x.gif" style=3D"display:block" width=3D"600"></td></tr><tr><td wid=
+th=3D"30">&#160;</td></tr></table>
+=20
+</td>
+</tr>
+<tr>=20
+<td>=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">=20
+ <tr>=20
+<td valign=3D"top">=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"401">=20
+<tr>=20
+<td valign=3D"top">=20
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"word-wrap:=
+break-word;" width=3D"401"><tr><td><img akamaize=3D"false" alt=3D"" height=
+=3D"30" src=3D"http://a676.g.akamaitech.net/f/676/773/90m/images.delivery.n=
+et/cm50content/1/hp/Alerts/x.gif" style=3D"display:block"></td><td><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"371"><tr><td><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td width=3D"15"><im=
+g akamaize=3D"false" height=3D"15" src=3D"http://a676.g.akamaitech.net/f/67=
+6/773/90m/images.delivery.net/cm50content/1/hp/Alerts/icon_routine.gif" wid=
+th=3D"15"></td><td width=3D"7"><img akamaize=3D"false" alt=3D"" src=3D"http=
+://a676.g.akamaitech.net/f/676/773/90m/images.delivery.net/cm50content/1/hp=
+/Alerts/x.gif" style=3D"display:block" width=3D"7"></td><td colspan=3D"5" s=
+tyle=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;"><strong>=
+Routine Support Alert</strong></td></tr><tr><td width=3D"7"><img akamaize=
+=3D"false" alt=3D"" src=3D"http://a676.g.akamaitech.net/f/676/773/90m/image=
+s.delivery.net/cm50content/1/hp/Alerts/x.gif" style=3D"display:block" width=
+=3D"7"></td><td><td colspan=3D"4" style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:12px;">Nov 08 2013</td></tr><tr><td colspan=3D"8"></tr>=
+</table></td></tr><tr><td height=3D"12"><img akamaize=3D"false" alt=3D"" he=
+ight=3D"12" src=3D"http://a676.g.akamaitech.net/f/676/773/90m/images.delive=
+ry.net/cm50content/1/hp/Alerts/x.gif" style=3D"display:block"></td></tr><tr=
+><td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;"><s=
+trong><A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.deUW.8=
+CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fSFeHcA00" STYLE=3D"text-decoratio=
+n:none;color:#007dba;">HP LaserJet Pro - Installer crashes or cannot find t=
+he printer when installing OS=A0X=A010.9 Mavericks on a network</A></strong=
+></td></tr><tr><td height=3D"12"><img akamaize=3D"false" alt=3D"" height=3D=
+"12" src=3D"http://a676.g.akamaitech.net/f/676/773/90m/images.delivery.net/=
+cm50content/1/hp/Alerts/x.gif" style=3D"display:block"></td></tr><tr><td st=
+yle=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;"><strong>P=
+roducts:</strong> HP LaserJet MFP and All-in-One Products, HP Color LaserJe=
+t Printers, HP LaserJet Printers</td></tr><tr><td height=3D"5"><img akamaiz=
+e=3D"false" alt=3D"" height=3D"5" src=3D"http://a676.g.akamaitech.net/f/676=
+/773/90m/images.delivery.net/cm50content/1/hp/Alerts/x.gif" style=3D"displa=
+y:block"></td></tr><tr><td style=3D"font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px;"><strong>Description:</strong> How to troubleshoot an er=
+ror received when the HP installer tries to automatically install the drive=
+r from the CD for a new OS X 10.9.</td></tr><tr><td height=3D"5"><img akama=
+ize=3D"false" alt=3D"" height=3D"5" src=3D"http://a676.g.akamaitech.net/f/6=
+76/773/90m/images.delivery.net/cm50content/1/hp/Alerts/x.gif" style=3D"disp=
+lay:block"></td></tr><tr><td height=3D"22"><img akamaize=3D"false" alt=3D""=
+ height=3D"22" src=3D"http://a676.g.akamaitech.net/f/676/773/90m/images.del=
+ivery.net/cm50content/1/hp/Alerts/x.gif" style=3D"display:block"></td></tr>=
+<tr><td bgcolor=3D"#d6d6d6" height=3D"1"><img akamaize=3D"false" alt=3D"" h=
+eight=3D"1" src=3D"http://a676.g.akamaitech.net/f/676/773/90m/images.delive=
+ry.net/cm50content/1/hp/Alerts/x.gif" style=3D"display:block"></td></tr></t=
+able></td></tr></table><BR>
+
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+=20
+</td>
+</tr>
+</table></td>
+<td width=3D"29"><img src=3D"http://img.delivery.net/cm50content/18874/5203=
+77/x.gif" style=3D"display:block"alt=3D"" width=3D"29" /></td>
+<td bgcolor=3D"#e0e0e0" width=3D"2"><img src=3D"http://img.delivery.net/cm5=
+0content/18874/520377/x.gif" style=3D"display:block" width=3D"2" /></td>
+<td valign=3D"top">=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"168">=20
+<tr>=20
+<td width=3D"18"><img src=3D"http://img.delivery.net/cm50content/18874/5203=
+77/x.gif" style=3D"display:block" width=3D"18" /></td>
+<td>=20
+=20
+=20
+=20
+=20
+=20
+=20
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"120"><tr><=
+td bgcolor=3D"#d6d6d6" height=3D"1"><img height=3D"1" src=3D"http://img.del=
+ivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x=
+.gif" style=3D"display:block" width=3D"1"></td></tr><tr><td height=3D"25"><=
+img height=3D"25" src=3D"http://img.delivery.net/cm50content/18874/AW_Helpe=
+r_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=
+=3D"120"></td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0"><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr=
+><td><img alt=3D"Critical - Refers to a critical issue you need to be aware=
+ of. Often includes an immediate application that is necessary to protect y=
+ou from an unrecoverable failure such as data corruption or loss, hardware =
+damage, or unrecoverable lockup or hang. You could be at risk of a serious =
+unrecoverable error if action is not taken." height=3D"15" src=3D"http://im=
+g.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.=
+txt/critical.jpg" width=3D"15"></td><td width=3D"8"><img height=3D"15" src=
+=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_2013022=
+6p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"8"></td><td style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;">Critical</td=
+></tr></table></td></tr><tr><td height=3D"5"><img height=3D"5" src=3D"http:=
+//img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHA=
+LL8.txt/x.gif" style=3D"display:block" width=3D"120"></td></tr><tr><td><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td><img alt=3D"Rec=
+ommended - Refers to important product or system information. Suggested imp=
+rovements should be applied at your earliest convenience. There is potentia=
+l for sub-optimal performance, lock-ups or unwanted shutdowns. This will pr=
+otect your system from a serious, but not unrecoverable failure." height=3D=
+"15" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert=
+_20130226p_CATCHALL8.txt/recommended.jpg" width=3D"15"></td><td width=3D"8"=
+><img height=3D"15" src=3D"http://img.delivery.net/cm50content/18874/AW_Hel=
+per_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" widt=
+h=3D"8"></td><td style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:12px;">Recommended</td></tr></table></td></tr><tr><td height=3D"5"><img =
+height=3D"5" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPB=
+CO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"12=
+0"></td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+"><tr><td><img alt=3D"Routine - Refers to information and applications that=
+ can help you manage your system, such as performance upgrades and best pra=
+ctices. These enhancements can be added at your discretion to help optimize=
+ your HP product." height=3D"15" src=3D"http://img.delivery.net/cm50content=
+/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/routine.jpg" width=3D"=
+15"></td><td width=3D"8"><img height=3D"15" src=3D"http://img.delivery.net/=
+cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" styl=
+e=3D"display:block" width=3D"8"></td><td style=3D"font-family:Arial, Helvet=
+ica, sans-serif; font-size:12px;">Routine</td></tr></table></td></tr><tr><t=
+d height=3D"5"><img height=3D"5" src=3D"http://img.delivery.net/cm50content=
+/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"displa=
+y:block" width=3D"120"></td></tr><tr><td><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0"><tr><td><img alt=3D"Forums" height=3D"15" src=3D"http=
+://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCH=
+ALL8.txt/forums.jpg" width=3D"15"></td><td width=3D"8"><img height=3D"15" s=
+rc=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130=
+226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"8"></td><td styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;">Forums</td>=
+</tr></table></td></tr></table></td></tr></table>
+=20
+</td>
+<td width=3D"30"><img src=3D"http://img.delivery.net/cm50content/18874/5203=
+77/x.gif" style=3D"display:block" width=3D"30" /></td>
+</tr>
+</table></td>
+ </tr>
+</table></td>
+</tr>
+<tr>=20
+<td>=20
+  =20
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600"><tr><td width=3D"30"><img height=3D"30" src=3D"http://img.deliv=
+ery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.g=
+if" style=3D"display:block" width=3D"600"></td></tr><tr><td bgcolor=3D"#000=
+000" height=3D"1"><img height=3D"1" src=3D"http://img.delivery.net/cm50cont=
+ent/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"dis=
+play:block" width=3D"600"></td></tr><tr><td width=3D"30"><img height=3D"30"=
+ src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_201=
+30226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"600"></td></tr=
+><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"6=
+00"><tr><td width=3D"30"><img alt=3D"" height=3D"112" src=3D"http://img.del=
+ivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x=
+.gif" style=3D"display:block" width=3D"30"></td><td style=3D"font-family:Ar=
+ial, Helvetica, sans-serif; font-size:12px; color:#767676;" valign=3D"top" =
+width=3D"112"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"112"><tr><td style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:14px; color:#767676;"><strong>Computers</strong></td></tr><tr><td height=
+=3D"10"><img alt=3D"" height=3D"10" src=3D"http://img.delivery.net/cm50cont=
+ent/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"dis=
+play:block" width=3D"15"></td></tr><tr><td style=3D"font-family:Arial, Helv=
+etica, sans-serif; font-size:14px;"><A HREF=3D"http://alerts.hp.com/r?2.1.3=
+KT.2ZR.1ALQi0.JvX0mo..H.buRw.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fZBC=
+HdL00" STYLE=3D"color:#767676; text-decoration:none;">Laptops</A></td></tr>=
+<tr><td height=3D"10"><img alt=3D"" height=3D"10" src=3D"http://img.deliver=
+y.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif=
+" style=3D"display:block" width=3D"15"></td></tr><tr><td style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:14px;"><A HREF=3D"http://alerts.=
+hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buRw.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI=
+3Nj0wMDY%5fZBCHdL00" STYLE=3D"color:#767676; text-decoration:none;">Desktop=
+</A></td></tr><tr><td height=3D"10"><img alt=3D"" height=3D"10" src=3D"http=
+://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCH=
+ALL8.txt/x.gif" style=3D"display:block" width=3D"15"></td></tr><tr><td styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;"><A HREF=3D"=
+http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buSq.8CL6.bW89MSZtcDMwM=
+jgyPTAmbXAzMDI3Nj0wMDY%5fYHaHdG00" STYLE=3D"color:#767676; text-decoration:=
+none;">Servers &amp; Storage</A></td></tr><tr><td height=3D"10"><img alt=3D=
+"" height=3D"10" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper=
+_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=
+=3D"15"></td></tr><tr><td style=3D"font-family:Arial, Helvetica, sans-serif=
+; font-size:14px;"><A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX=
+0mo..H.buSs.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fYReHdI00" STYLE=3D"c=
+olor:#767676; text-decoration:none;">Monitors</A></td></tr></table></td><td=
+ valign=3D"top" width=3D"15"><img alt=3D"" height=3D"112" src=3D"http://img=
+.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.t=
+xt/x.gif" style=3D"display:block" width=3D"15"></td><td style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; font-size:12px; color:#767676;" valign=3D"t=
+op" width=3D"131"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"131"><tr><td style=3D"font-family:Arial, Helvetica, sans-serif; fon=
+t-size:14px; color:#767676;"><strong>Printers</strong></td></tr><tr><td hei=
+ght=3D"10"><img alt=3D"" height=3D"10" src=3D"http://img.delivery.net/cm50c=
+ontent/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"=
+display:block" width=3D"15"></td></tr><tr><td style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:14px;"><A HREF=3D"http://alerts.hp.com/r?2.=
+1.3KT.2ZR.1ALQi0.JvX0mo..H.buSu.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5f=
+YcCHdK00" STYLE=3D"color:#767676; text-decoration:none;">Printers &amp; All=
+-in-ones</A></td></tr><tr><td height=3D"10"><img alt=3D"" height=3D"10" src=
+=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_2013022=
+6p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"15"></td></tr><tr>=
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;"><A =
+HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buSw.8CL6.bW89M=
+SZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fZGGHdM00" STYLE=3D"color:#767676; text-dec=
+oration:none;">Ink Toner &amp; Paper</A></td></tr><tr><td height=3D"10"><im=
+g alt=3D"" height=3D"10" src=3D"http://img.delivery.net/cm50content/18874/A=
+W_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block"=
+ width=3D"15"></td></tr><tr><td style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:14px;"><A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQ=
+i0.JvX0mo..H.buSy.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fZQKHdO00" STYL=
+E=3D"color:#767676; text-decoration:none;">Scanners &amp; Fax</A></td></tr>=
+<tr><td></tr></table></td><td valign=3D"top" width=3D"15"><img alt=3D"" hei=
+ght=3D"112" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBC=
+O_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"15"=
+></td><td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px=
+; color:#767676;" valign=3D"top" width=3D"130"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"130"><tr><td style=3D"font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px; color:#767676;"><strong>Support</=
+strong></td></tr><tr><td height=3D"10"><img alt=3D"" height=3D"10" src=3D"h=
+ttp://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CA=
+TCHALL8.txt/x.gif" style=3D"display:block" width=3D"15"></td></tr><tr><td s=
+tyle=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;"><A HREF=
+=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buS%5f.8CL6.bW89MSZ=
+tcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fVMWHcU00" STYLE=3D"color:#767676; text-decor=
+ation:none;">Business support center</A></td></tr><tr><td height=3D"10"><im=
+g alt=3D"" height=3D"10" src=3D"http://img.delivery.net/cm50content/18874/A=
+W_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block"=
+ width=3D"15"></td></tr><tr><td style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:14px;"><A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQ=
+i0.JvX0mo..H.buS8.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fPHIHbN00" STYL=
+E=3D"color:#767676; text-decoration:none;">HP software</A></td></tr><tr><td=
+ height=3D"10"><img alt=3D"" height=3D"10" src=3D"http://img.delivery.net/c=
+m50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=
+=3D"display:block" width=3D"15"></td></tr><tr><td style=3D"font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px;"><A HREF=3D"http://alerts.hp.com/=
+r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buSA.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMD=
+Y%5fQUaHbW00" STYLE=3D"color:#767676; text-decoration:none;">Support forums=
+</A></td></tr><tr><td height=3D"10"><img alt=3D"" height=3D"10" src=3D"http=
+://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCH=
+ALL8.txt/x.gif" style=3D"display:block" width=3D"15"></td></tr><tr><td styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;"><A HREF=3D"=
+http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buSC.8CL6.bW89MSZtcDMwM=
+jgyPTAmbXAzMDI3Nj0wMDY%5fQeeHbY00" STYLE=3D"color:#767676; text-decoration:=
+none;">Solutions</A></td></tr><tr><td height=3D"10"><img alt=3D"" height=3D=
+"10" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert=
+_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"15"></td><=
+/tr><tr><td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14=
+px;"><A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buSE.8C=
+L6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fRJCHba00" STYLE=3D"color:#767676; =
+text-decoration:none;">Products &amp; Services</A></td></tr><tr><td></tr></=
+table></td><td valign=3D"top" width=3D"15"><img alt=3D"" height=3D"112" src=
+=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_2013022=
+6p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"15"></td><td style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#767676=
+;" valign=3D"top" width=3D"121"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"121"><tr><td style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:14px; color:#767676;"><strong>Connect with HP</strong>=
+</td></tr><tr><td height=3D"10"><img alt=3D"" height=3D"10" src=3D"http://i=
+mg.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8=
+.txt/x.gif" style=3D"display:block" width=3D"15"></td></tr><tr><td><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td><A HREF=3D"http://a=
+lerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buSk.8CL6.bW89MQ%5f%5fDDFEFQQ0"=
+><img alt=3D"" border=3D"0" src=3D"http://img.delivery.net/cm50content/1887=
+4/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/facebook.jpg"></A></td><td =
+width=3D"10"><img alt=3D"" height=3D"15" src=3D"http://img.delivery.net/cm5=
+0content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=
+=3D"display:block" width=3D"10"></td><td style=3D"font-family:Arial, Helvet=
+ica, sans-serif; font-size:12px; color:#767676; vertical-align:middle;"><A =
+HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buSG.8CL6.bW89M=
+SZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fRTGHbc00" STYLE=3D"color:#767676; text-dec=
+oration:none;">Facebook</A></td></tr><tr><td height=3D"15"><img alt=3D"" he=
+ight=3D"15" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBC=
+O_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"15"=
+></td><td height=3D"15" width=3D"10"><img alt=3D"" height=3D"15" src=3D"htt=
+p://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATC=
+HALL8.txt/x.gif" style=3D"display:block" width=3D"10"></td><td height=3D"15=
+"><img alt=3D"" height=3D"15" src=3D"http://img.delivery.net/cm50content/18=
+874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:b=
+lock" width=3D"15"></td></tr><tr><td><A HREF=3D"http://alerts.hp.com/r?2.1.=
+3KT.2ZR.1ALQi0.JvX0mo..H.buSI.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fRd=
+KHbe00"><img alt=3D"" border=3D"0" src=3D"http://img.delivery.net/cm50conte=
+nt/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/twitter.jpg"></A></t=
+d><td width=3D"10"><img alt=3D"" height=3D"15" src=3D"http://img.delivery.n=
+et/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" s=
+tyle=3D"display:block" width=3D"10"></td><td style=3D"font-family:Arial, He=
+lvetica, sans-serif; font-size:12px; color:#000000; vertical-align:middle;"=
+><A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buSI.8CL6.b=
+W89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fRdKHbe00" STYLE=3D"color:#767676; text=
+-decoration:none;">Twitter</A></td></tr><tr><td height=3D"15"><img alt=3D""=
+ height=3D"15" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_H=
+PBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"=
+15"></td><td height=3D"15" width=3D"10"><img alt=3D"" height=3D"15" src=3D"=
+http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_C=
+ATCHALL8.txt/x.gif" style=3D"display:block" width=3D"10"></td><td height=3D=
+"15" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; col=
+or:#000000; vertical-align:middle;"><img alt=3D"" height=3D"15" src=3D"http=
+://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCH=
+ALL8.txt/x.gif" style=3D"display:block" width=3D"15"></td></tr><tr><td><A H=
+REF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buT0.8CL6.bW89MS=
+ZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fODcHbG00"><img alt=3D"" border=3D"0" src=3D=
+"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_=
+CATCHALL8.txt/linkedIN.jpg"></A></td><td width=3D"10"><img alt=3D"" height=
+=3D"15" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Al=
+ert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"10"></t=
+d><td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; co=
+lor:#000000; vertical-align:middle;"><A HREF=3D"http://alerts.hp.com/r?2.1.=
+3KT.2ZR.1ALQi0.JvX0mo..H.buT0.8CL6.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDY%5fOD=
+cHbG00" STYLE=3D"color:#767676; text-decoration:none;"> LinkedIn</A></td></=
+tr></table></td></tr></table></td><td width=3D"31"><img alt=3D"" height=3D"=
+112" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert=
+_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"31"></td><=
+/tr></table></td></tr><tr><td width=3D"30"><img height=3D"30" src=3D"http:/=
+/img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHAL=
+L8.txt/x.gif" style=3D"display:block" width=3D"600"></td></tr><tr><td bgcol=
+or=3D"#000000" height=3D"1"><img height=3D"1" src=3D"http://img.delivery.ne=
+t/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" st=
+yle=3D"display:block" width=3D"600"></td></tr></table>
+=20
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600"><tr><td width=3D"30"><img height=3D"30" src=3D"http://img.deliv=
+ery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.g=
+if" style=3D"display:block" width=3D"600"></td></tr><tr><td><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tr><td width=3D"3=
+0"><img alt=3D"" height=3D"14" src=3D"http://img.delivery.net/cm50content/1=
+8874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:=
+block" width=3D"30"></td><td style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:14px; color:#767676;" width=3D"112"><A HREF=3D"http://alerts=
+.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buT2.8CL6.bW89MQ%5f%5fCdLWFOY0" STYL=
+E=3D"color:#767676; text-decoration:none;"><strong>HP.com</strong></A></td>=
+<td width=3D"15"><img alt=3D"" height=3D"14" src=3D"http://img.delivery.net=
+/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" sty=
+le=3D"display:block" width=3D"15"></td><td style=3D"font-family:Arial, Helv=
+etica, sans-serif; font-size:14px; color:#767676;" width=3D"131"><A HREF=3D=
+"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buT4.8CL6.bW89MQ%5f%5f=
+CdSKFOa0" STYLE=3D"color:#767676; text-decoration:none;"><strong>Privacy</s=
+trong></A></td><td width=3D"15"><img alt=3D"" height=3D"14" src=3D"http://i=
+mg.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8=
+.txt/x.gif" style=3D"display:block" width=3D"15"></td><td style=3D"font-fam=
+ily:Arial, Helvetica, sans-serif; font-size:14px; color:#767676;" width=3D"=
+130"><A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buT6.8C=
+L6.bW89MSZpPWRpbnNtb3JlYWxleEBnbWFpbC5jb20%5fCdDCIHU0" STYLE=3D"color:#7676=
+76; text-decoration:none;"><strong>Unsubscribe</strong></A></td><td width=
+=3D"15"><img alt=3D"" height=3D"14" src=3D"http://img.delivery.net/cm50cont=
+ent/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"dis=
+play:block" width=3D"15"></td><td style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:14px; color:#767676;" width=3D"121"><A HREF=3D"http://a=
+lerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buT8.8CL6.bW89MSZpPWRpbnNtb3JlY=
+WxleEBnbWFpbC5jb20%5fCdNWIHW0" STYLE=3D"color:#767676; text-decoration:none=
+;"><strong>Update Profile</strong></A></td><td width=3D"31"><img alt=3D"" h=
+eight=3D"14" src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPB=
+CO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"31=
+"></td></tr></table></td></tr><tr><td width=3D"30"><img height=3D"30" src=
+=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_2013022=
+6p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"600"></td></tr></t=
+able><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"600"><tr><td bgcolor=3D"#000000" height=3D"1"><img height=3D"1"=
+ src=3D"http://img.delivery.net/cm50content/18874/AW_Helper_HPBCO_Alert_201=
+30226p_CATCHALL8.txt/x.gif" style=3D"display:block" width=3D"600"></td></tr=
+><tr><td width=3D"30"><img height=3D"30" src=3D"http://img.delivery.net/cm5=
+0content/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=
+=3D"display:block" width=3D"600"></td></tr><tr><td><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"600"><tr><td width=3D"30"><img alt=
+=3D"" height=3D"145" src=3D"http://img.delivery.net/cm50content/18874/AW_He=
+lper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"display:block" wid=
+th=3D"30"></td><td style=3D"font-family:Arial, Helvetica, sans-serif; font-=
+size:11px; color:#767676;">HP is committed to protecting your privacy. Your=
+ information will not be shared outside HP unless you give your consent. Yo=
+u can choose whether HP may communicate directly with you. For more informa=
+tion please see the <A HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.Jv=
+X0mo..H.buT4.8CL6.bW89MQ%5f%5fCdSKFOa0" STYLE=3D"color:#767676;">HP Privacy=
+ Statement</A>. As a valued contact or customer of HP, you are receiving th=
+is eNewsletter with information that we believe will be relevant to you. Bu=
+t if you do not wish to receive this communication in the future, please <A=
+ HREF=3D"http://alerts.hp.com/r?2.1.3KT.2ZR.1ALQi0.JvX0mo..H.buT6.8CL6.bW89=
+MSZpPWRpbnNtb3JlYWxleEBnbWFpbC5jb20%5fCdDCIHU0" STYLE=3D"color:#767676">cli=
+ck here</A> to unsubscribe<BR>
+<BR>
+=A9 1994-2012 Hewlett-Packard Company. All rights reserved. All product and=
+ company names referenced herein are trademarks of their respective owners.=
+ THIS DOCUMENT IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY. INFORMATION PRO=
+VIDED IN THIS DOCUMENT IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITH=
+ER EXPRESSED OR IMPLIED. This document may be copied provided all text is i=
+ncluded and copies contain HP's copyright notice and any other notices prov=
+ided herein. Any pricing information provided in this newsletter represents=
+ estimated resale pricing. Actual reseller prices may vary.</td><td width=
+=3D"31"><img alt=3D"" height=3D"145" src=3D"http://img.delivery.net/cm50con=
+tent/18874/AW_Helper_HPBCO_Alert_20130226p_CATCHALL8.txt/x.gif" style=3D"di=
+splay:block" width=3D"30"></td></tr></table></td></tr></table>
+=20
+</td>
+</tr>
+<tr>=20
+<td> =20
+</td>
+</tr>
+</table>
+ <BR>
+ <BR>
+ <BR>
+<font color=3D"#666666" face=3D"Verdana,Helvetica" originaltag=3D"yes" size=
+=3D"1">  </font><BR>
+<img width=3D"1" height=3D"1" src=3D"http://open.delivery.net/o?2.2.3KT.2ZR=
+.1ALQi0.JvX0mo..H..8CL6.ZD0wJm1vPTE%5fCcMAFPB0" alt=3D" ">
+</BODY>
+</HTML>

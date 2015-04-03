@@ -1,0 +1,228 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.186.98 with SMTP id fj2csp162281ldc;
+        Tue, 11 Jun 2013 20:09:32 -0700 (PDT)
+X-Received: by 10.68.216.161 with SMTP id or1mr17444230pbc.147.1371006571484;
+        Tue, 11 Jun 2013 20:09:31 -0700 (PDT)
+Return-Path: <alerts@alerts.hp.com>
+Received: from client-1-162.delivery.net (client-1-162.delivery.net. [209.11.164.162])
+        by mx.google.com with ESMTP id ym5si10513886pac.50.2013.06.11.20.09.30
+        for <dinsmorealex@gmail.com>;
+        Tue, 11 Jun 2013 20:09:31 -0700 (PDT)
+Received-SPF: pass (google.com: domain of alerts@alerts.hp.com designates 209.11.164.162 as permitted sender) client-ip=209.11.164.162;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of alerts@alerts.hp.com designates 209.11.164.162 as permitted sender) smtp.mail=alerts@alerts.hp.com;
+       dkim=pass header.i=@alerts.hp.com
+Return-Path: <alerts@alerts.hp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=v1; d=alerts.hp.com;
+	h=DKIM-Signature:Received:Date:From:Reply-to:To:Message-ID:Subject:Errors-to:MIME-Version:Content-Type:Content-Transfer-Encoding:X-eid:X-pid:X-AcxSID:List-Unsubscribe;
+	b=sHhgTduO+xtxtuKzX3ibhkgmawYZMgW8uXLWzQI8jXhzgqi8Xa2kIq2GL7LN9jAM
+	74lO84L7ZF47EoZU7ciSNjARUeaxiGmgAfwMFH9u2X9C1IFymvjAZmZVxpUrMW0i
+	iWGPJ8E0treIaR08WdtmoMhE5xcGICd8mKG2WHd1A98=
+DKIM-Signature: v=1; a=rsa-sha1; d=alerts.hp.com; s=v1; c=simple/simple;
+	q=dns/txt; i=@alerts.hp.com; t=1371006570;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=sHa7+Ad2sGagPKYbKVAmqqqDJRU=;
+	b=m1sYGBX7fYCeA2U3I4P7Gynu7whfTmKXNs2WcLKOVAJ85R/nVY0VsarKfs3SLM1X
+	sziqQgid+73wCHdOzIp2Yxa1xzkJqBqoCQlCjNkVEYnq/M9VsExa0rhflfriDjKW
+	bB/6YfnNsUxDr8ZxofbX/YmDzq8nBUSXD2YA62d8BNE=;
+Received: from [192.168.138.233] ([192.168.138.233:34924] helo=fcvm1a4.dc1.prod)
+	by oms14.dc1.prod (envelope-from <alerts@alerts.hp.com>)
+	(ecelerity 3.3.2.44647 r(44647)) with ESMTP
+	id 98/49-32622-A66E7B15; Tue, 11 Jun 2013 20:09:30 -0700
+Date: Tue, 11 Jun 2013 20:09:30 -0700 (PDT)
+From: Hewlett-Packard <alerts@alerts.hp.com>
+Reply-to: us-bulletins@customer.hp.com
+To: dinsmorealex@gmail.com
+Message-ID: <20671067770.1371006570548@dc1.prod>
+Subject: HP Support Center Portal - Phased Release
+Errors-to: us-bulletins@customer.hp.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-eid: 2.5.3KT.2ZV.1ALQi0.JG5tPw..H..7wI8.CQfMEQM0
+X-pid: 2073736
+X-AcxSID: 13597.2073736
+List-Unsubscribe: <mailto:alerts@alerts.hp.com?subject=unsubscribe%20xeid:2.5.3KT.2ZV.1ALQi0.JG5tPw..H..7wI8.CQfMEQM0>
+
+<HTML>
+
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type"></=
+meta>
+</head>
+<BODY alink=3D"#003366" link=3D"#003366" vlink=3D"#003366">
+
+=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+<tr>
+<td>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600">
+<tr>
+<td height=3D"9" width=3D"600">
+</tr>
+<tr>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px; text=
+-align:right; color:#5a5a5a;"><A HREF=3D"http://customer.hp.com/r?2.1.3KT.2=
+ZV.1ALQi0.JG5tPw..H.cLuW.7wI8.bW89MSZyc19lZT1aR2x1YzIxdmNtVmhiR1Y0UUdkdFlXb=
+HNMbU52YlFfXyZyc19vYz1IJnJzX2J2PUgmcnNfbXY9SCZyc19reT0xQUxRaTA%5fCPKYOAW0">=
+<font color=3D'#007DBA' face=3D'Arial, Helvetica, sans-serif' style=3D'text=
+-decoration: none;'>web view</font></A></td>
+</tr>
+<tr>
+<td height=3D"3" width=3D"600">
+</tr>
+<tr>
+<td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+<tr><td bgcolor=3D"#e0e0e0" height=3D"1"><img height=3D"1" src=3D"http://im=
+g.delivery.net/cm50content/18878/529020/x.gif" style=3D"display:block" widt=
+h=3D"600"></td></tr>
+<tr>
+<td><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"600">
+<tr>
+<td width=3D"10">&#160;</td>
+<td width=3D"40"><img border=3D"0" height=3D"40" src=3D"http://img.delivery=
+.net/cm50content/18878/529020/hplogo.jpg" width=3D"40"> </td>
+<td width=3D"10">&#160; </td>
+<td valign=3D"middle" width=3D"510"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"510">
+<tr>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:24px; colo=
+r:#000000"><strong>Support Alerts</strong> </td>
+</tr>
+<tr>
+<td>
+</tr>
+</table></td>
+<td width=3D"30">&#160;</td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor=3D"#000000" height=3D"1"><img height=3D"1" src=3D"http://img.de=
+livery.net/cm50content/18878/529020/x.gif" style=3D"display:block" width=3D=
+"600"></td>
+</tr>
+<tr>
+<td height=3D"30" width=3D"600">&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td><font color=3D"#000000" face=3D"Arial, Helvetica, sans-serif" originalt=
+ag=3D"yes" size=3D"2" style=3D"font-size:12px">
+=20
+<font face=3D"HP Simplified, Arial" originaltag=3D"yes" size=3D"2">
+Dear Valued HP Customer,<BR>
+<BR>
+
+You are receiving this communication because you have been identified as a =
+customer who may be using the Business Support Center (BSC) portal. In the =
+near future we will be transitioning our BSC users to HP Support Center in =
+phases based on products. Some of the benefits from HP Support Center inclu=
+de product-contextual search, expanded product memory, and greater personal=
+ization.<BR>
+<BR>
+
+See the following for more details:<BR>
+
+</font><ul>
+<li><font face=3D"HP Simplified, Arial" originaltag=3D"yes" size=3D"2"><A H=
+REF=3D"http://customer.hp.com/r?2.1.3KT.2ZV.1ALQi0.JG5tPw..H.cX1a.7wI8.bW89=
+MQ%5f%5fCcOcFOb0">New Features available in HP Support Center</A></font></l=
+i>
+<li><font face=3D"HP Simplified, Arial" originaltag=3D"yes" size=3D"2"><A H=
+REF=3D"http://customer.hp.com/r?2.1.3KT.2ZV.1ALQi0.JG5tPw..H.cX1c.7wI8.bW89=
+MQ%5f%5fCcVQFOd0">Getting Started Information about HP Support Center</A></=
+font></li>
+<li><font face=3D"HP Simplified, Arial" originaltag=3D"yes" size=3D"2"><A H=
+REF=3D"http://customer.hp.com/r?2.1.3KT.2ZV.1ALQi0.JG5tPw..H.cX1e.7wI8.bW89=
+MQ%5f%5fCccEFOf0">HP Support Center Video</A></font></li>
+<li><font face=3D"HP Simplified, Arial" originaltag=3D"yes" size=3D"2"><A H=
+REF=3D"http://customer.hp.com/r?2.1.3KT.2ZV.1ALQi0.JG5tPw..H.cX1g.7wI8.bW89=
+MQ%5f%5fCdCYFPB0">Information about HP Support Center</A></font></li>
+</ul>
+
+=20
+</font> </td>
+</tr>
+<tr>
+<td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+<tr>
+<td>&#160;</td>
+</tr>
+<tr>
+<td bgcolor=3D"#000000" height=3D"1"><img alt=3D"" height=3D"1" src=3D"http=
+://img.delivery.net/cm50content/18878/528985/x.gif" style=3D"display:block"=
+ width=3D"1"></td>
+</tr>
+<tr>
+<td>&#160;</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td>
+<font color=3D"#767676" face=3D"Arial, Helvetica, Geneva, Swiss, SunSans-Re=
+gular" originaltag=3D"yes" size=3D"1">Note: Some updates get sent out based=
+ upon what product family they are a part of, not by exact model. If you do=
+n't find the update on the web under your specific model number, then it do=
+es not apply to that model.<BR>
+<BR>
+The articles in this newsletter are the opinions of the Hewlett Packard Com=
+pany.<BR>
+<BR>
+The products referenced in this newsletter may not be available for purchas=
+e if they are not in your company's standards list. Promotions void where p=
+rohibited or restricted by law. HP reserves the right to modify or withdraw=
+ these promotions at any time. See individual promotions for specific terms=
+ and conditions.<BR>
+<BR>
+To change your email address <A HREF=3D"http://customer.hp.com/r?2.1.3KT.2Z=
+V.1ALQi0.JG5tPw..H.asfU.7wI8.bW89MSZtcDMwMjgyPTAmbXAzMDI3Nj0wMDYmaT1kaW5zbW=
+9yZWFsZXhAZ21haWwuY29tBOMAKVE0" STYLE=3D"color:#767676;">click here</A>. To=
+ unsubscribe from this newsletter and all other HP communications, <A HREF=
+=3D"http://customer.hp.com/r?2.1.3KT.2ZV.1ALQi0.JG5tPw..H.asfW.7wI8.bXAzMDI=
+3Mj1HQiZtcDMwMjgyPTAmbW89MSZrPW51bGwmaT1kaW5zbW9yZWFsZXhAZ21haWwuY29tJm1wMz=
+AyNzY9MDA2FYAMTe00" STYLE=3D"color:#767676;">click here</A>.<BR>
+<BR>
+HP is committed to respecting your privacy. For specific guidelines, read H=
+P's <A HREF=3D"http://customer.hp.com/r?2.1.3KT.2ZV.1ALQi0.JG5tPw..H.asfe.7=
+wI8.bW89MQ%5f%5fDFEaFRN0" STYLE=3D"color:#767676;">privacy policy</A>.<BR>
+<BR>
+HP Privacy Mailbox<BR>
+11445 Compaq Center Drive W.<BR>
+Mailstop 040307<BR>
+Houston, TX 77070<BR>
+<BR>
+2013 Hewlett-Packard Company. All rights reserved. All product and company =
+names referenced herein are trademarks of their respective owners. THIS DOC=
+UMENT IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY. INFORMATION PROVIDED IN =
+THIS DOCUMENT IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRES=
+SED OR IMPLIED. This document may be copied provided all text is included a=
+nd copies contain HP's copyright notice and any other notices provided here=
+in. </font>=20
+=20
+ <BR>
+
+ <BR>
+
+ </td>
+</tr>
+</table>
+
+
+<BR>
+<BR>
+<BR>
+<font color=3D"#666666" face=3D"Verdana,Helvetica" originaltag=3D"yes" size=
+=3D"1"></font><BR>
+<img width=3D"1" height=3D"1" src=3D"http://open.delivery.net/o?2.2.3KT.2ZV=
+.1ALQi0.JG5tPw..H..7wI8.ZD0wJm1vPTE%5fCdWKFPU0" alt=3D" ">
+</BODY>
+</HTML>

@@ -1,0 +1,973 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.0.199 with SMTP id 7csp41717ldg;
+        Wed, 22 May 2013 17:02:47 -0700 (PDT)
+X-Received: by 10.236.21.235 with SMTP id r71mr7137823yhr.193.1369267366870;
+        Wed, 22 May 2013 17:02:46 -0700 (PDT)
+Return-Path: <hello@mail.etsy.com>
+Received: from mailout02.etsy.com (mailout02.etsy.com. [38.106.64.77])
+        by mx.google.com with ESMTP id d28si3565880yhn.126.2013.05.22.17.02.46
+        for <dinsmorealex@gmail.com>;
+        Wed, 22 May 2013 17:02:46 -0700 (PDT)
+Received-SPF: pass (google.com: domain of hello@mail.etsy.com designates 38.106.64.77 as permitted sender) client-ip=38.106.64.77;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of hello@mail.etsy.com designates 38.106.64.77 as permitted sender) smtp.mail=hello@mail.etsy.com;
+       dkim=pass header.i=@mail.etsy.com
+Return-Path: <hello@mail.etsy.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=mail.etsy.com; s=default; c=relaxed/simple;
+	q=dns/txt; i=@mail.etsy.com; t=1369267366;
+	h=From:Subject:Date:To:MIME-Version:Content-type;
+	bh=XMXZKjGkH2354Jn9uBSlv5fitX8=;
+	b=NpQF86ktjYqJmItg2j+I51EkDOOBKEA3VWkzPNs1X5pCFl6gZMX0FJliXZ37dNqm
+	diZbinaMNlEKqXuDuAc4/JekkFNVJIrnBr6hJJcsTwaJc9+nMKeKi+PfSHPn2O0C
+	yKwRd3wQu3+fM447sKTZ+CofBSWNvyO6mP/OQG2Q/Ck=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=default; d=mail.etsy.com;
+	h=X-MSFBL:Received:Date:Message-Id:To:Subject:X-YarnBlaster:X-EmailType:EtsyMail:MIME-Version:Content-type:From:X-EUID:X-rpcampaign:reply-to;
+	b=jl9A+1deSGikV5XDlzi+AKIPPf3eXNmlI1Q1uU4JDaSTVBF/xOJUY9BjBzGxhyAP
+	Y/UDcVAP0cE16OZG8Rf+5O1cdMFku+kXLv8jlU4G8hRJ01jjJ/fzgpHXBDM0Iwe2
+	2Bho0DKN8iSygaLQl8lcr3Z6gMFPxQ6kkGZboSwyqbk=
+X-MSFBL: ZGluc21vcmVhbGV4QGdtYWlsLmNvbUBidWxrLWJAYnVsa0A=
+Received: from [10.101.144.14] ([10.101.144.14:59526] helo=meteor04.ny4.etsy.com)
+	by msysmta02 (envelope-from <hello@mail.etsy.com>)
+	(ecelerity 3.2.2.42971 r(42971)) with ESMTP
+	id BB/AA-24222-6AC5D915; Thu, 23 May 2013 00:02:46 +0000
+Received: from meteor04.ny4.etsy.com (localhost [127.0.0.1])
+	by meteor04.ny4.etsy.com (8.14.4/8.14.4) with ESMTP id r4N02jZC002514
+	for <dinsmorealex@gmail.com>; Thu, 23 May 2013 00:02:45 GMT
+Received: (from apache@localhost)
+	by meteor04.ny4.etsy.com (8.14.4/8.14.4/Submit) id r4N02jOw002498;
+	Thu, 23 May 2013 00:02:45 GMT
+Date: Thu, 23 May 2013 00:02:45 GMT
+Message-Id: <201305230002.r4N02jOw002498@meteor04.ny4.etsy.com>
+To: dinsmorealex@gmail.com
+Subject: A Taste of Etsy
+X-YarnBlaster: bulk
+X-EmailType: new_at_etsy_052213_5794546988_0
+EtsyMail: works every time
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary="e0275757b71463dc4af35bc1f67b95a1f4ba2099"
+From: Etsy <emails@mail.etsy.com>
+X-EUID: mMW-FEuz0Zs0et9kTqKjW0DNEV0m
+X-rpcampaign: ETSY5831210988
+reply-to: <donotreply@etsy.com>
+
+--e0275757b71463dc4af35bc1f67b95a1f4ba2099
+Content-type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<img style=3D'position: absolute; left: -9000px;' width=3D'1' height=3D'1' =
+src=3D'https://www.etsy.com/mailinglist/beacon/?campaign_label=3Dnew_at_ets=
+y&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_med=
+ium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ'/><=
+img style=3D'position: absolute; left: -9000px;' width=3D'1' height=3D'1' s=
+rc=3D'http://bcn.etsy.com/beacon?.user_id=3D&request_uuid=3DX-d-eQmTQXjk7SR=
+dTM6uLfwPGidX&php_event_name=3Demail_open&php_unique_id=3D519d5ca5ce1427.77=
+988479&php_event_date=3D23%2FMay%2F2013%3A00%3A02%3A45&locale_currency_code=
+=3DUSD&pref_language=3Den-US&region=3DXX&detected_currency_code=3DUSD&detec=
+ted_language=3Den-US&detected_region=3DXX&isMobileDevice=3D0&isMobileSuppor=
+ted=3D0&isTabletSupported=3D0&isTouch=3D0&isEtsyApp=3D0&campaign_label=3Dne=
+w_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0=
+&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8J=
+DyOQ&email=3D1&.event_source=3Demail&.event_logger=3Dbackend&.version=3D0&.=
+p=3D1&.np=3D1&.page_guid=3Dc7412479ab8.abb9eef9d2dac0f626a7.00&.guid=3Dc741=
+2f30e4d.35dcfdea22677465cba6.00&php_ab_test_names=3Dtranslations_static_arr=
+ay%3Borm_record_instance_caching&php_ab_var_names=3Doff%3B1&php_ab_selector=
+_names=3Dw%3B'/><div style=3D"color: rgb(85, 85, 85); line-height: 23px; -w=
+ebkit-text-size-adjust: none; background-color: rgb(245, 245, 241); font-fa=
+mily: Arial, Helvetica, sans-serif; font-size: 15px; margin: 0px; padding: =
+0px; text-align: left; width: 100%;"><div style=3D"color: rgb(245, 245, 241=
+); font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height:=
+ 100%; text-align: left; border-top-width: 5px; border-top-style: solid; bo=
+rder-top-color: rgb(213, 100, 28);">Flavorful picks in your inbox</div>=0A =
+   <table style=3D"border: 0px; padding: 0px; background-color: rgb(245, 24=
+5, 241); width: 100%; margin: 0px;">=0A        <tbody><tr>=0A            <t=
+d align=3D"center" style=3D"padding: 0px; border: 0px; border-collapse: col=
+lapse;">=0A                <table style=3D"border: 0px; padding: 0px; heigh=
+t: 100%; margin: 0px auto; width: 666px;">=0A                    <tbody><tr=
+>=0A                        <td style=3D"padding: 0px; border: 0px; border-=
+collapse: collapse; vertical-align: top;">=0A                            <t=
+able style=3D"border: 0px; padding: 10px 0px 0px; background-color: rgb(245=
+, 245, 241); width: 660px;">=0A                                <tbody><tr>=
+=0A                                    <td valign=3D"top" style=3D"padding:=
+ 0px; border: 0px; border-collapse: collapse; vertical-align: top;">=0A    =
+                                    <div style=3D"color: rgb(169, 169, 166)=
+; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: =
+100%; text-align: right;">=0A                                            <a=
+ href=3D"http://www.etsy.com/mailinglist/email/OGE1a3F1WFU5M2RZOTBIZTJOVmE3=
+UTRIQjhhWFFnOXpjTi83c3hYWHAxQT0uLjEzNjkyNjczNjU=3D?campaign_label=3Dnew_at_=
+etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_=
+medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&=
+link_clicked=3D0" target=3D"_blank" style=3D"color: rgb(151, 146, 143); fon=
+t-weight: normal; text-decoration: underline;">View this email online</a>=
+=0A                                        </div>=0A                       =
+             </td>=0A                                </tr>=0A              =
+              </tbody></table>=0A                            <table style=
+=3D"border: 1px solid rgb(245, 245, 241); padding: 0px; border-collapse: co=
+llapse; background-color: rgb(255, 255, 255); border-spacing: 0px; width: 6=
+61px;">=0A                                <tbody><tr>=0A                   =
+                 <td style=3D"padding: 0px; border: 0px; border-collapse: c=
+ollapse; vertical-align: top;">=0A                                        <=
+table style=3D"border: 0px; padding: 0px; background-color: rgb(245, 245, 2=
+41); width: 660px;">=0A                                            <tbody><=
+tr>=0A                                                <td style=3D"padding:=
+ 0px 0px 15px 35px; border: 0px; border-collapse: collapse; vertical-align:=
+ top; text-align: left;">=0A                                               =
+     <a href=3D"http://www.etsy.com?campaign_label=3Dnew_at_etsy&utm_source=
+=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&=
+email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D=
+1" title=3D"Etsy.com" style=3D"color: rgb(209, 86, 0); font-family: Georgia=
+, Times, serif; font-size: 20px; font-weight: normal; text-decoration: none=
+;">=0A                                                        <img src=3D"h=
+ttps://www.etsy.com/images/email/etsy_logo@2x_email.png" border=3D"0" width=
+=3D"47" height=3D"24" alt=3D"Etsy" style=3D"border: 0px none rgb(209, 86, 0=
+); background-color: rgb(245, 245, 241); color: rgb(209, 86, 0); font-famil=
+y: Georgia, Times, serif; font-size: 20px; height: auto; line-height: 100%;=
+ outline: 0px; text-align: left; text-decoration: none;">=0A               =
+                                     </a>=0A                               =
+                 </td>=0A                                            </tr>=
+=0A                                        </tbody></table>=0A             =
+                       </td>=0A                                </tr>=0A    =
+                            <tr>=0A                                    <td =
+style=3D"padding: 0px; border: 0px; border-collapse: collapse; vertical-ali=
+gn: top;">                                =0A                              =
+          <table style=3D"border-width: 0px 0px 1px; border-bottom-style: s=
+olid; border-bottom-color: rgb(235, 235, 235); padding: 20px 0px 0px 20px; =
+background-color: rgb(245, 245, 241); border-collapse: collapse; width: 640=
+px;">=0A                                           <tbody><tr>=0A    <td al=
+ign=3D"left" valign=3D"top" style=3D"padding: 20px 45px 0px; border: 0px; b=
+order-collapse: collapse; vertical-align: top; border-top-right-radius: 6px=
+; border-top-left-radius: 6px; background-color: rgb(214, 237, 244);">=0A  =
+      <div style=3D"font-family: georgia, serif; text-align: center; font-s=
+ize: 16px; line-height: 24px; color: rgb(85, 85, 85); position: relative; t=
+ransition: background-color 0.25s ease-out; -webkit-transition: background-=
+color 0.25s ease-out;"><p style=3D"margin-bottom: 0px; text-align: center;"=
+>It=E2=80=99s an Etsy pick-nic! Get Etsy Finds, and enjoy<br>curated picks =
+from our vibrant marketplace.</p></div>=0A    </td>=0A</tr>     =0A<tr>=0A =
+   <td style=3D"padding: 25px 0px; border-width: 0px 0px 3px; border-bottom=
+-style: solid; border-bottom-color: rgb(204, 233, 240); border-collapse: co=
+llapse; vertical-align: top; background-color: rgb(214, 237, 244);">=0A    =
+    <div style=3D"margin: 0px; width: 235px; text-align: center; border-top=
+-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius=
+: 3px; border-bottom-left-radius: 3px; background-color: rgb(214, 237, 244)=
+; padding-left: 197px; position: relative;">=0A        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"235" style=3D"border-width: =
+1px 0px 0px; border-top-style: solid; border-top-color: rgb(52, 168, 196); =
+padding: 0px; border-top-left-radius: 5px; border-top-right-radius: 5px; bo=
+rder-bottom-right-radius: 5px; border-bottom-left-radius: 5px; width: 265px=
+;">=0A            <tbody>=0A                <tr>=0A                    <td =
+height=3D"100%" style=3D"padding: 3px 5px; border-width: 2px 0px; border-to=
+p-style: solid; border-bottom-style: solid; border-top-color: rgb(103, 190,=
+ 211); border-bottom-color: rgb(1, 146, 181); border-collapse: collapse; ve=
+rtical-align: top; border-top-left-radius: 5px; border-top-right-radius: 5p=
+x; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; backgro=
+und-color: rgb(52, 168, 196); color: rgb(255, 255, 255); display: block;">=
+=0A                        <a href=3D"http://www.etsy.com/emails/finds?emai=
+l=3Ddinsmorealex%40gmail.com&campaign_label=3Dnew_at_etsy&utm_source=3Dadho=
+c&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_s=
+ent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D2" styl=
+e=3D"text-decoration: none; padding: 5px; background-color: rgb(52, 168, 19=
+6); border-top-left-radius: 5px; border-top-right-radius: 5px; border-botto=
+m-right-radius: 5px; border-bottom-left-radius: 5px; color: rgb(255, 255, 2=
+55); font-weight: bold; font-family: Arial, sans-serif; display: block; fon=
+t-size: 15px; line-height: 17px; text-align: center;">=0A                  =
+          <span>Delight in Etsy Finds</span>=0A                            =
+=0A                        </a>=0A                    </td>=0A             =
+   </tr>=0A            </tbody>=0A        </table>=0A    </div>=0A    </td>=
+=0A</tr> =0A                                            <tr>=0A            =
+                                    <td valign=3D"top" style=3D"padding: 20=
+px 0px 0px 20px; border-width: 0px 0px 1px; border-bottom-style: solid; bor=
+der-bottom-color: rgb(235, 235, 235); border-collapse: collapse; vertical-a=
+lign: top; background-color: rgb(255, 255, 255);">=0A                      =
+                              <table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"640" style=3D"border: 0px; padding: 0px; width: 100%;">=
+=0A                                                        <tbody><tr>=0A  =
+                                                          <td valign=3D"top=
+" style=3D"padding: 0px; border: 0px; border-collapse: collapse; vertical-a=
+lign: top;">=0A                                                            =
+    <table width=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"border: 0px; padding: 0px;"> =0A                                   =
+                                 <tbody><tr>=0A                            =
+                                            <td style=3D"padding: 0px; bord=
+er: 0px; border-collapse: collapse; vertical-align: top;">=0A              =
+                                                              <table align=
+=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border:=
+ 0px none rgb(85, 85, 85); border-collapse: collapse; padding: 0px;">=0A   =
+ <tbody><tr>=0A        <td colspan=3D"2" bgcolor=3D"#ffffff" style=3D"borde=
+r: 0px none rgb(85, 85, 85); border-collapse: collapse; padding: 0px; verti=
+cal-align: top;">=0A            <div style=3D"font-family: Georgia, serif; =
+position: relative; transition: background-color 0.25s ease-out; -webkit-tr=
+ansition: background-color 0.25s ease-out;"><p style=3D"margin: 0px; font-f=
+amily: arial, sans-serif; font-size: 18px; color: rgb(1, 146, 181); text-al=
+ign: left; text-decoration: none;"><a href=3D"https://www.etsy.com/browse/a=
+rt/prints-posters?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campa=
+ign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D13692=
+66241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D3" style=3D"color:=
+ rgb(1, 146, 181); font-weight: normal; text-decoration: none;">Prints</a><=
+/p></div>=0A        </td>=0A    </tr> =0A    <tr>=0A        <td bgcolor=3D"=
+#ffffff" style=3D"padding: 5px 20px 5px 0px; border: 0px none rgb(85, 85, 8=
+5); border-collapse: collapse; vertical-align: top; height: 245px;">=0A    =
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"30=
+0" height=3D"238" style=3D"border: 0px none rgb(85, 85, 85); border-collaps=
+e: collapse; padding: 0px;">=0A                <tbody><tr>=0A              =
+      <td valign=3D"top" bgcolor=3D"#ffffff" style=3D"border: 0px none rgb(=
+85, 85, 85); border-collapse: collapse; padding: 0px 0px 2px; vertical-alig=
+n: top;">=0A                        <a href=3D"https://www.etsy.com/listing=
+/82144305/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campa=
+ign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D13692=
+66241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D4" style=3D"height=
+: 118px; position: relative; display: block;"><img src=3D"https://img2.etsy=
+static.com/016/0/6807624/icnv_fullxfull.461103790_t2k3k9wb.jpg" style=3D"he=
+ight: 118px; width: 149px; border: 0px none rgb(0, 0, 238); background-colo=
+r: rgb(245, 245, 241); display: block;" height=3D"118" width=3D"149" alt=3D=
+"My Home is the Sea"></a>=0A                    </td>=0A                   =
+ <td align=3D"right" valign=3D"top" bgcolor=3D"#ffffff" style=3D"padding: 0=
+px 0px 2px; border: 0px; border-collapse: collapse; vertical-align: top;">=
+=0A                        <a href=3D"https://www.etsy.com/listing/12495200=
+0/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dne=
+w_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D1369266241&eu=
+id=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D5" style=3D"height: 118px;=
+ position: relative; display: block;"><img src=3D"https://img3.etsystatic.c=
+om/010/0/6807624/icnv_fullxfull.459641859_19dtme7y.jpg" style=3D"height: 11=
+8px; width: 149px; border: 0px none rgb(0, 0, 238); background-color: rgb(2=
+45, 245, 241); display: block;" height=3D"118" width=3D"149" alt=3D"Gem and=
+ Crystal Illustrated Chart"></a>=0A                    </td>=0A            =
+    </tr>=0A                <tr>=0A                    <td valign=3D"bottom=
+" bgcolor=3D"#ffffff" style=3D"padding: 0px 0px 2px; border: 0px; border-co=
+llapse: collapse; vertical-align: top;">=0A                        <a href=
+=3D"https://www.etsy.com/listing/107982235/similar?campaign_label=3Dnew_at_=
+etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_=
+medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&=
+link_clicked=3D6" style=3D"height: 118px; position: relative; display: bloc=
+k;"><img src=3D"https://img3.etsystatic.com/012/0/6807624/icnv_fullxfull.45=
+9642023_dbo4edo8.jpg" style=3D"height: 118px; width: 149px; border: 0px non=
+e rgb(0, 0, 238); background-color: rgb(245, 245, 241); display: block;" he=
+ight=3D"118" width=3D"149" alt=3D"Don't Grow Up Print"></a>=0A             =
+       </td>=0A                    <td align=3D"right" valign=3D"bottom" bg=
+color=3D"#ffffff" style=3D"padding: 0px 0px 2px; border: 0px; border-collap=
+se: collapse; vertical-align: top;">=0A                        <a href=3D"h=
+ttps://www.etsy.com/listing/123829030/similar?campaign_label=3Dnew_at_etsy&=
+utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_mediu=
+m=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_=
+clicked=3D7" style=3D"height: 118px; position: relative; display: block;"><=
+img src=3D"https://img2.etsystatic.com/014/0/6807624/icnv_fullxfull.4610971=
+94_px4lv7jh.jpg" style=3D"height: 118px; width: 149px; border: 0px none rgb=
+(0, 0, 238); background-color: rgb(245, 245, 241); display: block;" height=
+=3D"118" width=3D"149" alt=3D"GUM TREES Oil PAINTING "></a>=0A             =
+       </td>=0A                </tr>  =0A            </tbody></table>=0A   =
+     </td>=0A    </tr>=0A    <tr>=0A        <td height=3D"11" valign=3D"mid=
+dle" bgcolor=3D"#ffffff" style=3D"border: 0px none rgb(85, 85, 85); border-=
+collapse: collapse; padding: 0px 0px 25px; vertical-align: top;">=0A       =
+     <div style=3D"margin: 0px; width: 235px; text-align: center; border-to=
+p-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radiu=
+s: 3px; border-bottom-left-radius: 3px; background-color: rgb(255, 255, 255=
+); position: relative;">=0A        <table cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" width=3D"235" style=3D"border-width: 0px; border-top-style:=
+ solid; border-top-color: rgb(52, 168, 196); padding: 0px; border-top-left-=
+radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px;=
+ border-bottom-left-radius: 0px; width: 300px;">=0A            <tbody>=0A  =
+              <tr>=0A                    <td height=3D"100%" style=3D"paddi=
+ng: 0px; border-width: 2px 0px 0px; border-top-style: solid; border-bottom-=
+style: solid; border-top-color: rgb(255, 255, 255); border-bottom-color: rg=
+b(255, 255, 255); border-collapse: collapse; vertical-align: middle; border=
+-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-ra=
+dius: 0px; border-bottom-left-radius: 0px; background-color: rgb(255, 255, =
+255); color: rgb(255, 255, 255); display: block; text-decoration: none; bac=
+kground-position: 0px 50%; background-repeat: repeat repeat;">=0A          =
+              <a href=3D"https://www.etsy.com/browse/art/prints-posters?cam=
+paign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052=
+213_5794546988_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41=
+rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D8 " style=3D"text-decoration: none; pad=
+ding: 0px; background-color: rgb(255, 255, 255); border-top-left-radius: 0p=
+x; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bo=
+ttom-left-radius: 0px; color: rgb(1, 146, 181); font-weight: normal; font-f=
+amily: Arial, sans-serif; display: block; font-size: 13px; line-height: 17p=
+x; text-align: left; height: 11px; background-position: 0% 0%; background-r=
+epeat: repeat repeat;">=0A                            <span>Shop more Print=
+s</span>=0A                            <span style=3D"display: inline; visi=
+bility: visible;">=0A                                <span><img src=3D"http=
+://www.etsy.com/images/email/holiday-retention-2012/more-arrow@2x.png" styl=
+e=3D"border: 0px none rgb(1, 146, 181); height: 11px; width: 11px; vertical=
+-align: middle; padding-bottom: 3px;"></span>=0A                           =
+ </span>=0A                        </a>=0A                    </td>=0A     =
+           </tr>=0A            </tbody>=0A        </table>=0A    </div>=0A =
+       </td>=0A    </tr>=0A</tbody></table>                                =
+                                        </td>=0A                           =
+                                             <td style=3D"padding: 0px; bor=
+der: 0px; border-collapse: collapse; vertical-align: top;">  =0A           =
+                                                                 <table wid=
+th=3D"300" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border=
+-collapse: collapse; border: 0px; padding: 0px;">=0A    <tbody><tr>=0A     =
+   <td valign=3D"top" bgcolor=3D"#ffffff" style=3D"padding: 0px; border: 0p=
+x; border-collapse: collapse; vertical-align: top;">=0A            <div sty=
+le=3D"font-family: Georgia, serif; position: relative; transition: backgrou=
+nd-color 0.25s ease-out; -webkit-transition: background-color 0.25s ease-ou=
+t;"><p style=3D"margin: 0px; font-family: arial, sans-serif; font-size: 18p=
+x; color: rgb(1, 146, 181); text-align: left; text-decoration: none;"><a hr=
+ef=3D"https://www.etsy.com/browse/mobile-accessories?ref=3Dfp_ln_new_mobile=
+-accessories&campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=
+=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D13692662=
+41&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D9" style=3D"color: rg=
+b(1, 146, 181); font-weight: normal; text-decoration: none;">Mobile Accesso=
+ries</a></p></div>=0A        </td>=0A    </tr> =0A    <tr>=0A        <td va=
+lign=3D"top" height=3D"211" bgcolor=3D"#ffffff" style=3D"padding: 5px 20px =
+5px 0px; border: 0px none rgb(85, 85, 85); border-collapse: collapse; verti=
+cal-align: top; height: 245px;">=0A            <a href=3D"https://www.etsy.=
+com/listing/91897304/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadho=
+c&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_s=
+ent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D10" sty=
+le=3D"position: relative; display: block;"><img src=3D"https://img2.etsysta=
+tic.com/016/0/6807624/icnv_fullxfull.459634958_m97o914m.jpg" style=3D"heigh=
+t: 238px; width: 300px; border: 0px none rgb(0, 0, 238); background-color: =
+rgb(245, 245, 241);" height=3D"238" width=3D"300" alt=3D"iPhone Cases"></a>=
+=0A        </td>=0A    </tr>=0A    <tr>=0A        <td height=3D"11" valign=
+=3D"middle" bgcolor=3D"#ffffff" style=3D"border: 0px none rgb(85, 85, 85); =
+border-collapse: collapse; padding: 0px 0px 25px; vertical-align: top;">=0A=
+            <div style=3D"margin: 0px; width: 235px; text-align: center; bo=
+rder-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-righ=
+t-radius: 3px; border-bottom-left-radius: 3px; background-color: rgb(255, 2=
+55, 255); position: relative;">=0A        <table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" width=3D"235" style=3D"border-width: 0px; border-top=
+-style: solid; border-top-color: rgb(52, 168, 196); padding: 0px; border-to=
+p-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radiu=
+s: 0px; border-bottom-left-radius: 0px; width: 300px;">=0A            <tbod=
+y>=0A                <tr>=0A                    <td height=3D"100%" style=
+=3D"padding: 0px; border-width: 2px 0px 0px; border-top-style: solid; borde=
+r-bottom-style: solid; border-top-color: rgb(255, 255, 255); border-bottom-=
+color: rgb(255, 255, 255); border-collapse: collapse; vertical-align: middl=
+e; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom=
+-right-radius: 0px; border-bottom-left-radius: 0px; background-color: rgb(2=
+55, 255, 255); color: rgb(255, 255, 255); display: block; text-decoration: =
+none; background-position: 0px 50%; background-repeat: repeat repeat;">=0A =
+                       <a href=3D"https://www.etsy.com/browse/mobile-access=
+ories?ref=3Dfp_ln_new_mobile-accessories&campaign_label=3Dnew_at_etsy&utm_s=
+ource=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3De=
+mail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_click=
+ed=3D11" style=3D"text-decoration: none; padding: 0px; background-color: rg=
+b(255, 255, 255); border-top-left-radius: 0px; border-top-right-radius: 0px=
+; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; color: r=
+gb(1, 146, 181); font-weight: normal; font-family: Arial, sans-serif; displ=
+ay: block; font-size: 13px; line-height: 17px; text-align: left; height: 11=
+px; background-position: 0% 0%; background-repeat: repeat repeat;">=0A     =
+                       <span>Shop more Mobile Accessories</span>=0A        =
+                    <span style=3D"display: inline; visibility: visible;">=
+=0A                                <span><img src=3D"http://www.etsy.com/im=
+ages/email/holiday-retention-2012/more-arrow@2x.png" style=3D"border: 0px n=
+one rgb(1, 146, 181); height: 11px; width: 11px; vertical-align: middle; pa=
+dding-bottom: 3px;"></span>=0A                            </span>=0A       =
+                 </a>=0A                    </td>=0A                </tr>=
+=0A            </tbody>=0A        </table>=0A    </div>=0A        </td>=0A =
+   </tr>=0A</tbody></table>                                                =
+                         </td>=0A                                          =
+                          </tr>=0A                                         =
+                           <tr>=0A                                         =
+                               <td style=3D"padding: 0px; border: 0px; bord=
+er-collapse: collapse; vertical-align: top;">    =0A                       =
+                                                     <table width=3D"300" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: c=
+ollapse; border: 0px; padding: 0px;">=0A    <tbody><tr>=0A        <td valig=
+n=3D"top" bgcolor=3D"#ffffff" style=3D"padding: 0px; border: 0px; border-co=
+llapse: collapse; vertical-align: top;">=0A            <div style=3D"font-f=
+amily: Georgia, serif; position: relative; transition: background-color 0.2=
+5s ease-out; -webkit-transition: background-color 0.25s ease-out;"><p style=
+=3D"margin: 0px; font-family: arial, sans-serif; font-size: 18px; color: rg=
+b(1, 146, 181); text-align: left; text-decoration: none;"><a href=3D"https:=
+//www.etsy.com/browse/jewelry/personalized?ref=3Dbr_nav_new_3&campaign_labe=
+l=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_579454=
+6988_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNT=
+cqpy8JDyOQ&link_clicked=3D12" style=3D"color: rgb(1, 146, 181); font-weight=
+: normal; text-decoration: none;">Personalized Jewelry</a></p></div>=0A    =
+    </td>=0A    </tr> =0A    <tr>=0A        <td valign=3D"top" height=3D"21=
+1" bgcolor=3D"#ffffff" style=3D"padding: 5px 20px 5px 0px; border: 0px none=
+ rgb(85, 85, 85); border-collapse: collapse; vertical-align: top; height: 2=
+45px;">=0A            <a href=3D"https://www.etsy.com/listing/102683105/sim=
+ilar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_=
+etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D=
+-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D13" style=3D"position: relative=
+; display: block;"><img src=3D"https://img3.etsystatic.com/014/0/6807624/ic=
+nv_fullxfull.459646139_iopcmmk8.jpg" style=3D"height: 238px; width: 300px; =
+border: 0px none rgb(0, 0, 238); background-color: rgb(245, 245, 241);" hei=
+ght=3D"238" width=3D"300" alt=3D"monogram necklace letter pendant personali=
+zed necklace tiny letter necklace"></a>=0A        </td>=0A    </tr>=0A    <=
+tr>=0A        <td height=3D"11" valign=3D"middle" bgcolor=3D"#ffffff" style=
+=3D"border: 0px none rgb(85, 85, 85); border-collapse: collapse; padding: 0=
+px 0px 25px; vertical-align: top;">=0A            <div style=3D"margin: 0px=
+; width: 235px; text-align: center; border-top-left-radius: 3px; border-top=
+-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-rad=
+ius: 3px; background-color: rgb(255, 255, 255); position: relative;">=0A   =
+     <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"235" =
+style=3D"border-width: 0px; border-top-style: solid; border-top-color: rgb(=
+52, 168, 196); padding: 0px; border-top-left-radius: 0px; border-top-right-=
+radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0p=
+x; width: 300px;">=0A            <tbody>=0A                <tr>=0A         =
+           <td height=3D"100%" style=3D"padding: 0px; border-width: 2px 0px=
+ 0px; border-top-style: solid; border-bottom-style: solid; border-top-color=
+: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); border-colla=
+pse: collapse; vertical-align: middle; border-top-left-radius: 0px; border-=
+top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-=
+radius: 0px; background-color: rgb(255, 255, 255); color: rgb(255, 255, 255=
+); display: block; text-decoration: none; background-position: 0px 50%; bac=
+kground-repeat: repeat repeat;">=0A                        <a href=3D"https=
+://www.etsy.com/browse/jewelry/personalized?ref=3Dbr_nav_new_3&campaign_lab=
+el=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_57945=
+46988_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwN=
+Tcqpy8JDyOQ&link_clicked=3D14" style=3D"text-decoration: none; padding: 0px=
+; background-color: rgb(255, 255, 255); border-top-left-radius: 0px; border=
+-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left=
+-radius: 0px; color: rgb(1, 146, 181); font-weight: normal; font-family: Ar=
+ial, sans-serif; display: block; font-size: 13px; line-height: 17px; text-a=
+lign: left; height: 11px; background-position: 0% 0%; background-repeat: re=
+peat repeat;">=0A                            <span>Shop more Personalized J=
+ewelry</span>=0A                            <span style=3D"display: inline;=
+ visibility: visible;">=0A                                <span><img src=3D=
+"http://www.etsy.com/images/email/holiday-retention-2012/more-arrow@2x.png"=
+ style=3D"border: 0px none rgb(1, 146, 181); height: 11px; width: 11px; ver=
+tical-align: middle; padding-bottom: 3px;"></span>=0A                      =
+      </span>=0A                        </a>=0A                    </td>=0A=
+                </tr>=0A            </tbody>=0A        </table>=0A    </div=
+>=0A        </td>=0A    </tr>=0A</tbody></table>                           =
+                                              </td>=0A                     =
+                                                   <td style=3D"padding: 0p=
+x; border: 0px; border-collapse: collapse; vertical-align: top;">  =0A     =
+                                                                       <tab=
+le align=3D"left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D=
+"border: 0px none rgb(85, 85, 85); border-collapse: collapse; padding: 0px;=
+">=0A    <tbody><tr>=0A        <td colspan=3D"2" bgcolor=3D"#ffffff" style=
+=3D"border: 0px none rgb(85, 85, 85); border-collapse: collapse; padding: 0=
+px; vertical-align: top;">=0A            <div style=3D"font-family: Georgia=
+, serif; position: relative; transition: background-color 0.25s ease-out; -=
+webkit-transition: background-color 0.25s ease-out;"><p style=3D"margin: 0p=
+x; font-family: arial, sans-serif; font-size: 18px; color: rgb(1, 146, 181)=
+; text-align: left; text-decoration: none;"><a href=3D"https://www.etsy.com=
+/browse/home-garden/kitchen?ref=3Dbr_nav_new_1&campaign_label=3Dnew_at_etsy=
+&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medi=
+um=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link=
+_clicked=3D15" style=3D"color: rgb(1, 146, 181); font-weight: normal; text-=
+decoration: none;">Kitchen</a></p></div>=0A        </td>=0A    </tr> =0A   =
+ <tr>=0A        <td bgcolor=3D"#ffffff" style=3D"padding: 5px 20px 5px 0px;=
+ border: 0px none rgb(85, 85, 85); border-collapse: collapse; vertical-alig=
+n: top; height: 245px;">=0A            <table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"300" height=3D"238" style=3D"border: 0px none =
+rgb(85, 85, 85); border-collapse: collapse; padding: 0px;">=0A             =
+   <tbody><tr>=0A                    <td valign=3D"top" bgcolor=3D"#ffffff"=
+ style=3D"border: 0px none rgb(85, 85, 85); border-collapse: collapse; padd=
+ing: 0px 0px 2px; vertical-align: top;">=0A                        <a href=
+=3D"https://www.etsy.com/listing/108647055/similar?campaign_label=3Dnew_at_=
+etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_=
+medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&=
+link_clicked=3D16" style=3D"height: 118px; position: relative; display: blo=
+ck;"><img src=3D"https://img3.etsystatic.com/010/0/6807624/icnv_fullxfull.4=
+61693427_3o6kd0nf.jpg" style=3D"height: 118px; width: 149px; border: 0px no=
+ne rgb(0, 0, 238); background-color: rgb(245, 245, 241); display: block;" h=
+eight=3D"118" width=3D"149" alt=3D"24 Organic Spices Hand Stamped Magnetic =
+Spice Rack Includes Rusted Wall Plate for Rustic Kitchen Decor"></a>=0A    =
+                </td>=0A                    <td align=3D"right" valign=3D"t=
+op" bgcolor=3D"#ffffff" style=3D"padding: 0px 0px 2px; border: 0px; border-=
+collapse: collapse; vertical-align: top;">=0A                        <a hre=
+f=3D"https://www.etsy.com/listing/127873799/similar?campaign_label=3Dnew_at=
+_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm=
+_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ=
+&link_clicked=3D17" style=3D"height: 118px; position: relative; display: bl=
+ock;"><img src=3D"https://img0.etsystatic.com/009/0/6807624/icnv_fullxfull.=
+459636288_kbe2f8hg.jpg" style=3D"height: 118px; width: 149px; border: 0px n=
+one rgb(0, 0, 238); background-color: rgb(245, 245, 241); display: block;" =
+height=3D"118" width=3D"149" alt=3D"Magnetic wooden knife rack"></a>=0A    =
+                </td>=0A                </tr>=0A                <tr>=0A    =
+                <td valign=3D"bottom" bgcolor=3D"#ffffff" style=3D"padding:=
+ 0px 0px 2px; border: 0px; border-collapse: collapse; vertical-align: top;"=
+>=0A                        <a href=3D"https://www.etsy.com/listing/7973907=
+7/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dne=
+w_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D1369266241&eu=
+id=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D18" style=3D"height: 118px=
+; position: relative; display: block;"><img src=3D"https://img1.etsystatic.=
+com/009/0/6807624/icnv_fullxfull.459645457_71vj19mw.jpg" style=3D"height: 1=
+18px; width: 149px; border: 0px none rgb(0, 0, 238); background-color: rgb(=
+245, 245, 241); display: block;" height=3D"118" width=3D"149" alt=3D"Happy =
+Helper Wine Bottle Stopper"></a>=0A                    </td>=0A            =
+        <td align=3D"right" valign=3D"bottom" bgcolor=3D"#ffffff" style=3D"=
+padding: 0px 0px 2px; border: 0px; border-collapse: collapse; vertical-alig=
+n: top;">=0A                        <a href=3D"https://www.etsy.com/listing=
+/126412243/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_camp=
+aign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D1369=
+266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D19" style=3D"heig=
+ht: 118px; position: relative; display: block;"><img src=3D"https://img0.et=
+systatic.com/011/0/6807624/icnv_fullxfull.459635812_5jb4ss57.jpg" style=3D"=
+height: 118px; width: 149px; border: 0px none rgb(0, 0, 238); background-co=
+lor: rgb(245, 245, 241); display: block;" height=3D"118" width=3D"149" alt=
+=3D"French Farmers Market Traditional Linen DISH TEA TOWEL Cloth"></a>=0A  =
+                  </td>=0A                </tr>  =0A            </tbody></t=
+able>=0A        </td>=0A    </tr>=0A    <tr>=0A        <td height=3D"11" va=
+lign=3D"middle" bgcolor=3D"#ffffff" style=3D"border: 0px none rgb(85, 85, 8=
+5); border-collapse: collapse; padding: 0px 0px 25px; vertical-align: top;"=
+>=0A            <div style=3D"margin: 0px; width: 235px; text-align: center=
+; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-=
+right-radius: 3px; border-bottom-left-radius: 3px; background-color: rgb(25=
+5, 255, 255); position: relative;">=0A        <table cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0" width=3D"235" style=3D"border-width: 0px; border=
+-top-style: solid; border-top-color: rgb(52, 168, 196); padding: 0px; borde=
+r-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-r=
+adius: 0px; border-bottom-left-radius: 0px; width: 300px;">=0A            <=
+tbody>=0A                <tr>=0A                    <td height=3D"100%" sty=
+le=3D"padding: 0px; border-width: 2px 0px 0px; border-top-style: solid; bor=
+der-bottom-style: solid; border-top-color: rgb(255, 255, 255); border-botto=
+m-color: rgb(255, 255, 255); border-collapse: collapse; vertical-align: mid=
+dle; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bott=
+om-right-radius: 0px; border-bottom-left-radius: 0px; background-color: rgb=
+(255, 255, 255); color: rgb(255, 255, 255); display: block; text-decoration=
+: none; background-position: 0px 50%; background-repeat: repeat repeat;">=
+=0A                        <a href=3D"https://www.etsy.com/browse/home-gard=
+en/kitchen?ref=3Dbr_nav_new_1&campaign_label=3Dnew_at_etsy&utm_source=3Dadh=
+oc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_=
+sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D20" st=
+yle=3D"text-decoration: none; padding: 0px; background-color: rgb(255, 255,=
+ 255); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bo=
+ttom-right-radius: 0px; border-bottom-left-radius: 0px; color: rgb(1, 146, =
+181); font-weight: normal; font-family: Arial, sans-serif; display: block; =
+font-size: 13px; line-height: 17px; text-align: left; height: 11px; backgro=
+und-position: 0% 0%; background-repeat: repeat repeat;">=0A                =
+            <span>Shop more Kitchen</span>=0A                            <s=
+pan style=3D"display: inline; visibility: visible;">=0A                    =
+            <span><img src=3D"http://www.etsy.com/images/email/holiday-rete=
+ntion-2012/more-arrow@2x.png" style=3D"border: 0px none rgb(1, 146, 181); h=
+eight: 11px; width: 11px; vertical-align: middle; padding-bottom: 3px;"></s=
+pan>=0A                            </span>=0A                        </a>=
+=0A                    </td>=0A                </tr>=0A            </tbody>=
+=0A        </table>=0A    </div>=0A        </td>=0A    </tr>=0A</tbody></ta=
+ble>    =0A                                                                =
+        </td>=0A                                                           =
+         </tr>=0A                                                          =
+          <tr>=0A                                                          =
+              <td style=3D"padding: 0px; border: 0px; border-collapse: coll=
+apse; vertical-align: top;">  =0A                                          =
+                                  <table align=3D"left" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"border: 0px none rgb(85, 85, 85); bo=
+rder-collapse: collapse; padding: 0px;">=0A    <tbody><tr>=0A        <td co=
+lspan=3D"2" bgcolor=3D"#ffffff" style=3D"border: 0px none rgb(85, 85, 85); =
+border-collapse: collapse; padding: 0px; vertical-align: top;">=0A         =
+   <div style=3D"font-family: Georgia, serif; position: relative; transitio=
+n: background-color 0.25s ease-out; -webkit-transition: background-color 0.=
+25s ease-out;"><p style=3D"margin: 0px; font-family: arial, sans-serif; fon=
+t-size: 18px; color: rgb(1, 146, 181); text-align: left; text-decoration: n=
+one;"><a href=3D"https://www.etsy.com/browse/gifts/gifts-for-women/bags-wal=
+lets/?ship_to=3DUS&campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_camp=
+aign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D1369=
+266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D21" style=3D"colo=
+r: rgb(1, 146, 181); font-weight: normal; text-decoration: none;">Bags</a><=
+/p></div>=0A        </td>=0A    </tr> =0A    <tr>=0A        <td bgcolor=3D"=
+#ffffff" style=3D"padding: 5px 20px 5px 0px; border: 0px none rgb(85, 85, 8=
+5); border-collapse: collapse; vertical-align: top; height: 245px;">=0A    =
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"30=
+0" height=3D"238" style=3D"border: 0px none rgb(85, 85, 85); border-collaps=
+e: collapse; padding: 0px;">=0A                <tbody><tr>=0A              =
+      <td valign=3D"top" bgcolor=3D"#ffffff" style=3D"border: 0px none rgb(=
+85, 85, 85); border-collapse: collapse; padding: 0px 0px 2px; vertical-alig=
+n: top;">=0A                        <a href=3D"https://www.etsy.com/listing=
+/119949036/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_camp=
+aign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D1369=
+266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D22" style=3D"heig=
+ht: 118px; position: relative; display: block;"><img src=3D"https://img2.et=
+systatic.com/012/0/6807624/icnv_fullxfull.459638422_gat3e5v8.jpg" style=3D"=
+height: 118px; width: 149px; border: 0px none rgb(0, 0, 238); background-co=
+lor: rgb(245, 245, 241); display: block;" height=3D"118" width=3D"149" alt=
+=3D"Handmade natural traditional veg tanned leather bicycle messenger bag">=
+</a>=0A                    </td>=0A                    <td align=3D"right" =
+valign=3D"top" bgcolor=3D"#ffffff" style=3D"padding: 0px 0px 2px; border: 0=
+px; border-collapse: collapse; vertical-align: top;">=0A                   =
+     <a href=3D"https://www.etsy.com/listing/98098484/similar?campaign_labe=
+l=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_579454=
+6988_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNT=
+cqpy8JDyOQ&link_clicked=3D23" style=3D"height: 118px; position: relative; d=
+isplay: block;"><img src=3D"https://img3.etsystatic.com/012/0/6807624/icnv_=
+fullxfull.459646951_50izfr2k.jpg" style=3D"height: 118px; width: 149px; bor=
+der: 0px none rgb(0, 0, 238); background-color: rgb(245, 245, 241); display=
+: block;" height=3D"118" width=3D"149" alt=3D"Garrison Bag Natural Grey"></=
+a>=0A                    </td>=0A                </tr>=0A                <t=
+r>=0A                    <td valign=3D"bottom" bgcolor=3D"#ffffff" style=3D=
+"padding: 0px 0px 2px; border: 0px; border-collapse: collapse; vertical-ali=
+gn: top;">=0A                        <a href=3D"https://www.etsy.com/listin=
+g/124726587/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_cam=
+paign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D136=
+9266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D24" style=3D"hei=
+ght: 118px; position: relative; display: block;"><img src=3D"https://img0.e=
+tsystatic.com/011/0/6807624/icnv_fullxfull.459637908_h4lurxwd.jpg" style=3D=
+"height: 118px; width: 149px; border: 0px none rgb(0, 0, 238); background-c=
+olor: rgb(245, 245, 241); display: block;" height=3D"118" width=3D"149" alt=
+=3D"Photo Tote Large"></a>=0A                    </td>=0A                  =
+  <td align=3D"right" valign=3D"bottom" bgcolor=3D"#ffffff" style=3D"paddin=
+g: 0px 0px 2px; border: 0px; border-collapse: collapse; vertical-align: top=
+;">=0A                        <a href=3D"https://www.etsy.com/listing/11974=
+0052/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=
+=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D13692662=
+41&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D25" style=3D"height: =
+118px; position: relative; display: block;"><img src=3D"https://img1.etsyst=
+atic.com/011/0/6807624/icnv_fullxfull.459647173_coz82sc8.jpg" style=3D"heig=
+ht: 118px; width: 149px; border: 0px none rgb(0, 0, 238); background-color:=
+ rgb(245, 245, 241); display: block;" height=3D"118" width=3D"149" alt=3D"C=
+olorful Neon Organic Flora Pattern Tote Bag"></a>=0A                    </t=
+d>=0A                </tr>  =0A            </tbody></table>=0A        </td>=
+=0A    </tr>=0A    <tr>=0A        <td height=3D"11" valign=3D"middle" bgcol=
+or=3D"#ffffff" style=3D"border: 0px none rgb(85, 85, 85); border-collapse: =
+collapse; padding: 0px 0px 25px; vertical-align: top;">=0A            <div =
+style=3D"margin: 0px; width: 235px; text-align: center; border-top-left-rad=
+ius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; bo=
+rder-bottom-left-radius: 3px; background-color: rgb(255, 255, 255); positio=
+n: relative;">=0A        <table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"235" style=3D"border-width: 0px; border-top-style: solid; b=
+order-top-color: rgb(52, 168, 196); padding: 0px; border-top-left-radius: 0=
+px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-b=
+ottom-left-radius: 0px; width: 300px;">=0A            <tbody>=0A           =
+     <tr>=0A                    <td height=3D"100%" style=3D"padding: 0px; =
+border-width: 2px 0px 0px; border-top-style: solid; border-bottom-style: so=
+lid; border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 25=
+5, 255); border-collapse: collapse; vertical-align: middle; border-top-left=
+-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px=
+; border-bottom-left-radius: 0px; background-color: rgb(255, 255, 255); col=
+or: rgb(255, 255, 255); display: block; text-decoration: none; background-p=
+osition: 0px 50%; background-repeat: repeat repeat;">=0A                   =
+     <a href=3D"https://www.etsy.com/browse/gifts/gifts-for-women/bags-wall=
+ets/?ship_to=3DUS&campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campa=
+ign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D13692=
+66241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D26" style=3D"text-=
+decoration: none; padding: 0px; background-color: rgb(255, 255, 255); borde=
+r-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-r=
+adius: 0px; border-bottom-left-radius: 0px; color: rgb(1, 146, 181); font-w=
+eight: normal; font-family: Arial, sans-serif; display: block; font-size: 1=
+3px; line-height: 17px; text-align: left; height: 11px; background-position=
+: 0% 0%; background-repeat: repeat repeat;">=0A                            =
+<span>Shop more Bags</span>=0A                            <span style=3D"di=
+splay: inline; visibility: visible;">=0A                                <sp=
+an><img src=3D"http://www.etsy.com/images/email/holiday-retention-2012/more=
+-arrow@2x.png" style=3D"border: 0px none rgb(1, 146, 181); height: 11px; wi=
+dth: 11px; vertical-align: middle; padding-bottom: 3px;"></span>=0A        =
+                    </span>=0A                        </a>=0A              =
+      </td>=0A                </tr>=0A            </tbody>=0A        </tabl=
+e>=0A    </div>=0A        </td>=0A    </tr>=0A</tbody></table>    =0A      =
+                                                                  </td>=0A =
+                                                                       <td =
+style=3D"padding: 0px; border: 0px; border-collapse: collapse; vertical-ali=
+gn: top;">=0A                                                              =
+              <table width=3D"300" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"border-collapse: collapse; border: 0px; padding: 0px;">=
+=0A    <tbody><tr>=0A        <td valign=3D"top" bgcolor=3D"#ffffff" style=
+=3D"padding: 0px; border: 0px; border-collapse: collapse; vertical-align: t=
+op;">=0A            <div style=3D"font-family: Georgia, serif; position: re=
+lative; transition: background-color 0.25s ease-out; -webkit-transition: ba=
+ckground-color 0.25s ease-out;"><p style=3D"margin: 0px; font-family: arial=
+, sans-serif; font-size: 18px; color: rgb(1, 146, 181); text-align: left; t=
+ext-decoration: none;"><a href=3D"https://www.etsy.com/browse/home-garden/l=
+ighting?ref=3Dbr_nav_new_2&campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&=
+utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sen=
+t=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D27" style=
+=3D"color: rgb(1, 146, 181); font-weight: normal; text-decoration: none;">L=
+ighting</a></p></div>=0A        </td>=0A    </tr> =0A    <tr>=0A        <td=
+ valign=3D"top" height=3D"211" bgcolor=3D"#ffffff" style=3D"padding: 5px 20=
+px 5px 0px; border: 0px none rgb(85, 85, 85); border-collapse: collapse; ve=
+rtical-align: top; height: 245px;">=0A            <a href=3D"https://www.et=
+sy.com/listing/121887787/similar?campaign_label=3Dnew_at_etsy&utm_source=3D=
+adhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&ema=
+il_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D28"=
+ style=3D"position: relative; display: block;"><img src=3D"https://img0.ets=
+ystatic.com/009/0/6807624/icnv_fullxfull.459639056_2we1g2j0.jpg" style=3D"h=
+eight: 238px; width: 300px; border: 0px none rgb(0, 0, 238); background-col=
+or: rgb(245, 245, 241);" height=3D"238" width=3D"300" alt=3D"INDUSTRIAL LIG=
+HT SHELF"></a>=0A        </td>=0A    </tr>=0A    <tr>=0A        <td height=
+=3D"11" valign=3D"middle" bgcolor=3D"#ffffff" style=3D"border: 0px none rgb=
+(85, 85, 85); border-collapse: collapse; padding: 0px 0px 25px; vertical-al=
+ign: top;">=0A            <div style=3D"margin: 0px; width: 235px; text-ali=
+gn: center; border-top-left-radius: 3px; border-top-right-radius: 3px; bord=
+er-bottom-right-radius: 3px; border-bottom-left-radius: 3px; background-col=
+or: rgb(255, 255, 255); position: relative;">=0A        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"235" style=3D"border-width: =
+0px; border-top-style: solid; border-top-color: rgb(52, 168, 196); padding:=
+ 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bot=
+tom-right-radius: 0px; border-bottom-left-radius: 0px; width: 300px;">=0A  =
+          <tbody>=0A                <tr>=0A                    <td height=
+=3D"100%" style=3D"padding: 0px; border-width: 2px 0px 0px; border-top-styl=
+e: solid; border-bottom-style: solid; border-top-color: rgb(255, 255, 255);=
+ border-bottom-color: rgb(255, 255, 255); border-collapse: collapse; vertic=
+al-align: middle; border-top-left-radius: 0px; border-top-right-radius: 0px=
+; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; backgrou=
+nd-color: rgb(255, 255, 255); color: rgb(255, 255, 255); display: block; te=
+xt-decoration: none; background-position: 0px 50%; background-repeat: repea=
+t repeat;">=0A                        <a href=3D"https://www.etsy.com/brows=
+e/home-garden/lighting?ref=3Dbr_nav_new_2&campaign_label=3Dnew_at_etsy&utm_=
+source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3D=
+email&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clic=
+ked=3D29" style=3D"text-decoration: none; padding: 0px; background-color: r=
+gb(255, 255, 255); border-top-left-radius: 0px; border-top-right-radius: 0p=
+x; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; color: =
+rgb(1, 146, 181); font-weight: normal; font-family: Arial, sans-serif; disp=
+lay: block; font-size: 13px; line-height: 17px; text-align: left; height: 1=
+1px; background-position: 0% 0%; background-repeat: repeat repeat;">=0A    =
+                        <span>Shop more Lighting</span>=0A                 =
+           <span style=3D"display: inline; visibility: visible;">=0A       =
+                         <span><img src=3D"http://www.etsy.com/images/email=
+/holiday-retention-2012/more-arrow@2x.png" style=3D"border: 0px none rgb(1,=
+ 146, 181); height: 11px; width: 11px; vertical-align: middle; padding-bott=
+om: 3px;"></span>=0A                            </span>=0A                 =
+       </a>=0A                    </td>=0A                </tr>=0A         =
+   </tbody>=0A        </table>=0A    </div>=0A        </td>=0A    </tr>=0A<=
+/tbody></table>                                                            =
+             </td>=0A                                                      =
+              </tr>=0A                                                     =
+               <tr>=0A                                                     =
+                   <td style=3D"padding: 0px; border: 0px; border-collapse:=
+ collapse; vertical-align: top;">  =0A                                     =
+                                       <table width=3D"300" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse; borde=
+r: 0px; padding: 0px;">=0A    <tbody><tr>=0A        <td valign=3D"top" bgco=
+lor=3D"#ffffff" style=3D"padding: 0px; border: 0px; border-collapse: collap=
+se; vertical-align: top;">=0A            <div style=3D"font-family: Georgia=
+, serif; position: relative; transition: background-color 0.25s ease-out; -=
+webkit-transition: background-color 0.25s ease-out;"><p style=3D"margin: 0p=
+x; font-family: arial, sans-serif; font-size: 18px; color: rgb(1, 146, 181)=
+; text-align: left; text-decoration: none;"><a href=3D"https://www.etsy.com=
+/browse/home-garden/outdoors-garden/birds-bees?campaign_label=3Dnew_at_etsy=
+&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medi=
+um=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link=
+_clicked=3D30" style=3D"color: rgb(1, 146, 181); font-weight: normal; text-=
+decoration: none;">Birdfeeders</a></p></div>=0A        </td>=0A    </tr> =
+=0A    <tr>=0A        <td valign=3D"top" height=3D"211" bgcolor=3D"#ffffff"=
+ style=3D"padding: 5px 20px 5px 0px; border: 0px none rgb(85, 85, 85); bord=
+er-collapse: collapse; vertical-align: top; height: 245px;">=0A            =
+<a href=3D"https://www.etsy.com/listing/120992864/similar?campaign_label=3D=
+new_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988=
+_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy=
+8JDyOQ&link_clicked=3D31" style=3D"position: relative; display: block;"><im=
+g src=3D"https://img1.etsystatic.com/009/0/6807624/icnv_fullxfull.459646433=
+_etxltl74.jpg" style=3D"height: 238px; width: 300px; border: 0px none rgb(0=
+, 0, 238); background-color: rgb(245, 245, 241);" height=3D"238" width=3D"3=
+00" alt=3D"Mason Jar Bird Feeder"></a>=0A        </td>=0A    </tr>=0A    <t=
+r>=0A        <td height=3D"11" valign=3D"middle" bgcolor=3D"#ffffff" style=
+=3D"border: 0px none rgb(85, 85, 85); border-collapse: collapse; padding: 0=
+px 0px 25px; vertical-align: top;">=0A            <div style=3D"margin: 0px=
+; width: 235px; text-align: center; border-top-left-radius: 3px; border-top=
+-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-rad=
+ius: 3px; background-color: rgb(255, 255, 255); position: relative;">=0A   =
+     <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"235" =
+style=3D"border-width: 0px; border-top-style: solid; border-top-color: rgb(=
+52, 168, 196); padding: 0px; border-top-left-radius: 0px; border-top-right-=
+radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0p=
+x; width: 300px;">=0A            <tbody>=0A                <tr>=0A         =
+           <td height=3D"100%" style=3D"padding: 0px; border-width: 2px 0px=
+ 0px; border-top-style: solid; border-bottom-style: solid; border-top-color=
+: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); border-colla=
+pse: collapse; vertical-align: middle; border-top-left-radius: 0px; border-=
+top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-=
+radius: 0px; background-color: rgb(255, 255, 255); color: rgb(255, 255, 255=
+); display: block; text-decoration: none; background-position: 0px 50%; bac=
+kground-repeat: repeat repeat;">=0A                        <a href=3D"https=
+://www.etsy.com/browse/home-garden/outdoors-garden/birds-bees?campaign_labe=
+l=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_579454=
+6988_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNT=
+cqpy8JDyOQ&link_clicked=3D32" style=3D"text-decoration: none; padding: 0px;=
+ background-color: rgb(255, 255, 255); border-top-left-radius: 0px; border-=
+top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-=
+radius: 0px; color: rgb(1, 146, 181); font-weight: normal; font-family: Ari=
+al, sans-serif; display: block; font-size: 13px; line-height: 17px; text-al=
+ign: left; height: 11px; background-position: 0% 0%; background-repeat: rep=
+eat repeat;">=0A                            <span>Shop more Birdfeeders</sp=
+an>=0A                            <span style=3D"display: inline; visibilit=
+y: visible;">=0A                                <span><img src=3D"http://ww=
+w.etsy.com/images/email/holiday-retention-2012/more-arrow@2x.png" style=3D"=
+border: 0px none rgb(1, 146, 181); height: 11px; width: 11px; vertical-alig=
+n: middle; padding-bottom: 3px;"></span>=0A                            </sp=
+an>=0A                        </a>=0A                    </td>=0A          =
+      </tr>=0A            </tbody>=0A        </table>=0A    </div>=0A      =
+  </td>=0A    </tr>=0A</tbody></table>                                     =
+                                    </td>=0A                               =
+                                         <td style=3D"padding: 0px; border:=
+ 0px; border-collapse: collapse; vertical-align: top;">=0A                 =
+                                                           <table align=3D"=
+left" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border: 0px=
+ none rgb(85, 85, 85); border-collapse: collapse; padding: 0px;">=0A    <tb=
+ody><tr>=0A        <td colspan=3D"2" bgcolor=3D"#ffffff" style=3D"border: 0=
+px none rgb(85, 85, 85); border-collapse: collapse; padding: 0px; vertical-=
+align: top;">=0A            <div style=3D"font-family: Georgia, serif; posi=
+tion: relative; transition: background-color 0.25s ease-out; -webkit-transi=
+tion: background-color 0.25s ease-out;"><p style=3D"margin: 0px; font-famil=
+y: arial, sans-serif; font-size: 18px; color: rgb(1, 146, 181); text-align:=
+ left; text-decoration: none;"><a href=3D"https://www.etsy.com/browse/jewel=
+ry?ref=3Dfp_ln_new_jewelry&campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&=
+utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sen=
+t=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D33" style=
+=3D"color: rgb(1, 146, 181); font-weight: normal; text-decoration: none;">J=
+ewelry</a></p></div>=0A        </td>=0A    </tr> =0A    <tr>=0A        <td =
+bgcolor=3D"#ffffff" style=3D"padding: 5px 20px 5px 0px; border: 0px none rg=
+b(85, 85, 85); border-collapse: collapse; vertical-align: top; height: 245p=
+x;">=0A            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"300" height=3D"238" style=3D"border: 0px none rgb(85, 85, 85); bor=
+der-collapse: collapse; padding: 0px;">=0A                <tbody><tr>=0A   =
+                 <td valign=3D"top" bgcolor=3D"#ffffff" style=3D"border: 0p=
+x none rgb(85, 85, 85); border-collapse: collapse; padding: 0px 0px 2px; ve=
+rtical-align: top;">=0A                        <a href=3D"https://www.etsy.=
+com/listing/121014421/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadh=
+oc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_=
+sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D34" st=
+yle=3D"height: 118px; position: relative; display: block;"><img src=3D"http=
+s://img0.etsystatic.com/009/0/6807624/icnv_fullxfull.459639504_f137wdzv.jpg=
+" style=3D"height: 118px; width: 149px; border: 0px none rgb(0, 0, 238); ba=
+ckground-color: rgb(245, 245, 241); display: block;" height=3D"118" width=
+=3D"149" alt=3D"Sterling Silver Tribal Heart Hoop Earrings"></a>=0A        =
+            </td>=0A                    <td align=3D"right" valign=3D"top" =
+bgcolor=3D"#ffffff" style=3D"padding: 0px 0px 2px; border: 0px; border-coll=
+apse: collapse; vertical-align: top;">=0A                        <a href=3D=
+"https://www.etsy.com/listing/126450409/similar?campaign_label=3Dnew_at_ets=
+y&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_med=
+ium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&lin=
+k_clicked=3D35" style=3D"height: 118px; position: relative; display: block;=
+"><img src=3D"https://img1.etsystatic.com/011/0/6807624/icnv_fullxfull.4596=
+49061_e1m6j99z.jpg" style=3D"height: 118px; width: 149px; border: 0px none =
+rgb(0, 0, 238); background-color: rgb(245, 245, 241); display: block;" heig=
+ht=3D"118" width=3D"149" alt=3D"Set of 4 rope bracelets"></a>=0A           =
+         </td>=0A                </tr>=0A                <tr>=0A           =
+         <td valign=3D"bottom" bgcolor=3D"#ffffff" style=3D"padding: 0px 0p=
+x 2px; border: 0px; border-collapse: collapse; vertical-align: top;">=0A   =
+                     <a href=3D"https://www.etsy.com/listing/98411577/simil=
+ar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_et=
+sy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-c=
+euV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D36" style=3D"height: 118px; posit=
+ion: relative; display: block;"><img src=3D"https://img0.etsystatic.com/013=
+/0/6807624/icnv_fullxfull.459639912_kalqwwd8.jpg" style=3D"height: 118px; w=
+idth: 149px; border: 0px none rgb(0, 0, 238); background-color: rgb(245, 24=
+5, 241); display: block;" height=3D"118" width=3D"149" alt=3D"1930s Diamond=
+ Ring Platinum and Diamond Ring"></a>=0A                    </td>=0A       =
+             <td align=3D"right" valign=3D"bottom" bgcolor=3D"#ffffff" styl=
+e=3D"padding: 0px 0px 2px; border: 0px; border-collapse: collapse; vertical=
+-align: top;">=0A                        <a href=3D"https://www.etsy.com/li=
+sting/92288905/similar?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_=
+campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D=
+1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D37" style=3D"=
+height: 118px; position: relative; display: block;"><img src=3D"https://img=
+0.etsystatic.com/011/0/6807624/icnv_fullxfull.459639796_k7btmd08.jpg" style=
+=3D"height: 118px; width: 149px; border: 0px none rgb(0, 0, 238); backgroun=
+d-color: rgb(245, 245, 241); display: block;" height=3D"118" width=3D"149" =
+alt=3D"Functional Hot Pink and Gold Premo Plugz Necklace"></a>=0A          =
+          </td>=0A                </tr>  =0A            </tbody></table>=0A=
+        </td>=0A    </tr>=0A    <tr>=0A        <td height=3D"11" valign=3D"=
+middle" bgcolor=3D"#ffffff" style=3D"border: 0px none rgb(85, 85, 85); bord=
+er-collapse: collapse; padding: 0px 0px 25px; vertical-align: top;">=0A    =
+        <div style=3D"margin: 0px; width: 235px; text-align: center; border=
+-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-ra=
+dius: 3px; border-bottom-left-radius: 3px; background-color: rgb(255, 255, =
+255); position: relative;">=0A        <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" width=3D"235" style=3D"border-width: 0px; border-top-st=
+yle: solid; border-top-color: rgb(52, 168, 196); padding: 0px; border-top-l=
+eft-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: =
+0px; border-bottom-left-radius: 0px; width: 300px;">=0A            <tbody>=
+=0A                <tr>=0A                    <td height=3D"100%" style=3D"=
+padding: 0px; border-width: 2px 0px 0px; border-top-style: solid; border-bo=
+ttom-style: solid; border-top-color: rgb(255, 255, 255); border-bottom-colo=
+r: rgb(255, 255, 255); border-collapse: collapse; vertical-align: middle; b=
+order-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-rig=
+ht-radius: 0px; border-bottom-left-radius: 0px; background-color: rgb(255, =
+255, 255); color: rgb(255, 255, 255); display: block; text-decoration: none=
+; background-position: 0px 50%; background-repeat: repeat repeat;">=0A     =
+                   <a href=3D"https://www.etsy.com/browse/jewelry?ref=3Dfp_=
+ln_new_jewelry&campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=
+=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D13692662=
+41&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D38" style=3D"text-dec=
+oration: none; padding: 0px; background-color: rgb(255, 255, 255); border-t=
+op-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radi=
+us: 0px; border-bottom-left-radius: 0px; color: rgb(1, 146, 181); font-weig=
+ht: normal; font-family: Arial, sans-serif; display: block; font-size: 13px=
+; line-height: 17px; text-align: left; height: 11px; background-position: 0=
+% 0%; background-repeat: repeat repeat;">=0A                            <sp=
+an>Shop more Jewelry</span>=0A                            <span style=3D"di=
+splay: inline; visibility: visible;">=0A                                <sp=
+an><img src=3D"http://www.etsy.com/images/email/holiday-retention-2012/more=
+-arrow@2x.png" style=3D"border: 0px none rgb(1, 146, 181); height: 11px; wi=
+dth: 11px; vertical-align: middle; padding-bottom: 3px;"></span>=0A        =
+                    </span>=0A                        </a>=0A              =
+      </td>=0A                </tr>=0A            </tbody>=0A        </tabl=
+e>=0A    </div>=0A        </td>=0A    </tr>=0A</tbody></table>   =0A       =
+                                                                 </td>=0A  =
+                                                                  </tr>=0A =
+                                                               </tbody></ta=
+ble>                    =0A                                                =
+            </td>=0A                                                       =
+ </tr>=0A                                                    </tbody></tabl=
+e>=0A                                                </td>=0A              =
+                              </tr>=0A                                     =
+       <tr>=0A    <td align=3D"left" valign=3D"top" style=3D"padding: 0px 4=
+5px; border-width: 3px 0px 0px; border-top-style: solid; border-top-color: =
+rgb(204, 233, 240); border-collapse: collapse; vertical-align: top; backgro=
+und-color: rgb(214, 237, 244);">=0A    =09=0A    </td>=0A</tr>     =0A<tr>=
+=0A    <td style=3D"padding: 25px 0px; border: 0px; border-collapse: collap=
+se; vertical-align: top; border-bottom-right-radius: 6px; border-bottom-lef=
+t-radius: 6px; background-color: rgb(214, 237, 244);">=0A        <div style=
+=3D"margin: 0px; width: 235px; text-align: center; border-top-left-radius: =
+3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-=
+bottom-left-radius: 3px; background-color: rgb(214, 237, 244); padding-left=
+: 212px; position: relative;">=0A        <table cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" width=3D"235" style=3D"border-width: 1px 0px 0px; bor=
+der-top-style: solid; border-top-color: rgb(52, 168, 196); padding: 0px; bo=
+rder-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-righ=
+t-radius: 5px; border-bottom-left-radius: 5px;">=0A            <tbody>=0A  =
+              <tr>=0A                    <td height=3D"100%" style=3D"paddi=
+ng: 3px 5px; border-width: 2px 0px; border-top-style: solid; border-bottom-=
+style: solid; border-top-color: rgb(103, 190, 211); border-bottom-color: rg=
+b(1, 146, 181); border-collapse: collapse; vertical-align: top; border-top-=
+left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius:=
+ 5px; border-bottom-left-radius: 5px; background-color: rgb(52, 168, 196); =
+color: rgb(255, 255, 255); display: block;">=0A                        <a h=
+ref=3D"http://www.etsy.com?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&=
+utm_campaign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sen=
+t=3D1369266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D39" style=
+=3D"text-decoration: none; padding: 5px; background-color: rgb(52, 168, 196=
+); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom=
+-right-radius: 5px; border-bottom-left-radius: 5px; color: rgb(255, 255, 25=
+5); font-weight: bold; font-family: Arial, sans-serif; display: block; font=
+-size: 15px; line-height: 17px; text-align: center;">=0A                   =
+         <span>Keep Discovering</span>=0A                            =0A   =
+                     </a>=0A                    </td>=0A                </t=
+r>=0A            </tbody>=0A        </table>=0A    </div>=0A    </td>=0A</t=
+r> =0A                                        </tbody></table>=0A          =
+                          </td>=0A                                </tr>=0A =
+                               <tr>=0A                                    <=
+td style=3D"padding: 0px; border: 0px; border-collapse: collapse; vertical-=
+align: top;">=0A                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"660" style=3D"border: 0px; paddin=
+g: 0px;">=0A    <tbody><tr>=0A        <td style=3D"padding: 0px; border: 0p=
+x; border-collapse: collapse; background-color: rgb(245, 245, 241); font-fa=
+mily: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 16px; ver=
+tical-align: top;">=0A            <table border=3D"0" cellpadding=3D"20" ce=
+llspacing=3D"0" width=3D"660" style=3D"background-color: rgb(245, 245, 241)=
+; border: 0px; padding: 0px;">=0A                <tbody><tr>=0A            =
+        <td valign=3D"top" width=3D"370" style=3D"padding: 20px; border: 0p=
+x; border-collapse: collapse; background-color: rgb(245, 245, 241); font-fa=
+mily: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 16px; ver=
+tical-align: top;">=0A                         <div style=3D"color: rgb(151=
+, 146, 143); font-family: Arial, Helvetica, sans-serif; font-size: 12px; li=
+ne-height: 16px; text-align: left;">=0A                            <span>=
+=0A                                You are receiving this email because you=
+ registered on <a style=3D"color: rgb(151, 146, 143); font-weight: normal; =
+text-decoration: underline;" title=3D"Etsy" href=3D"http://www.etsy.com?cam=
+paign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_052=
+213_5794546988_0&utm_medium=3Demail&email_sent=3D1369266241&euid=3D-ceuV_41=
+rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D40">Etsy.com</a> with this email addres=
+s.=0A                                To stop receiving emails about What's =
+new at Etsy, <a rel=3D"nofollow" href=3D"http://www.etsy.com/mailinglist/un=
+subscribe_token/OGE1a3F1WFU5M2RZOTBIZTJOVmE3UTRIQjhhWFFnOXpjTi83c3hYWHAxQT0=
+uLjEzNjkyNjczNjU=3D?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_cam=
+paign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D136=
+9266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D41" title=3D"Uns=
+ubscribe" style=3D"color: rgb(151, 146, 143); font-weight: normal; text-dec=
+oration: underline;">unsubscribe here</a>.=0A                            </=
+span>=0A                            If you have any questions regarding thi=
+s email, please contact <a style=3D"color: rgb(151, 146, 143); font-weight:=
+ normal; text-decoration: underline;" title=3D"Etsy" href=3D"http://www.ets=
+y.com/help/contact?campaign_label=3Dnew_at_etsy&utm_source=3Dadhoc&utm_camp=
+aign=3Dnew_at_etsy_052213_5794546988_0&utm_medium=3Demail&email_sent=3D1369=
+266241&euid=3D-ceuV_41rOCWhpZwNTcqpy8JDyOQ&link_clicked=3D42">support</a>.=
+=0A                            <br>=0A                            <br>=0A  =
+                          Copyright =C2=A9 2013 Etsy, Inc. 55 Washington St=
+. Brooklyn, NY 11201 USA. All rights reserved.=0A                        </=
+div>=0A                    </td>=0A                </tr>=0A            </tb=
+ody></table>=0A        </td>=0A    </tr>=0A</tbody></table>=09=09=09=09    =
+                                    </td>=0A                               =
+ </tr>=0A                            </tbody></table>=0A                   =
+     </td>=0A                    </tr>=0A                </tbody></table>=
+=0A            </td>=0A        </tr>=0A    </tbody></table>=0A=0A</div>
+
+--e0275757b71463dc4af35bc1f67b95a1f4ba2099--
+

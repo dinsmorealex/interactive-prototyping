@@ -1,0 +1,1082 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.3.46 with SMTP id 14csp184374ldz;
+        Mon, 20 Jan 2014 08:47:06 -0800 (PST)
+X-Received: by 10.140.50.9 with SMTP id r9mr27678093qga.22.1390236425374;
+        Mon, 20 Jan 2014 08:47:05 -0800 (PST)
+Return-Path: <s-XbVL5w6bb3zbXyJgxPVKAZADV1k_ajelYlVL0uAmt3zqZEJXj3jRQt@bounce.linkedin.com>
+Received: from mailc-fd.linkedin.com (mailc-fd.linkedin.com. [199.101.162.80])
+        by mx.google.com with ESMTP id p9si101187qcr.6.2014.01.20.08.47.04
+        for <dinsmorealex@gmail.com>;
+        Mon, 20 Jan 2014 08:47:05 -0800 (PST)
+Received-SPF: pass (google.com: domain of s-XbVL5w6bb3zbXyJgxPVKAZADV1k_ajelYlVL0uAmt3zqZEJXj3jRQt@bounce.linkedin.com designates 199.101.162.80 as permitted sender) client-ip=199.101.162.80;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of s-XbVL5w6bb3zbXyJgxPVKAZADV1k_ajelYlVL0uAmt3zqZEJXj3jRQt@bounce.linkedin.com designates 199.101.162.80 as permitted sender) smtp.mail=s-XbVL5w6bb3zbXyJgxPVKAZADV1k_ajelYlVL0uAmt3zqZEJXj3jRQt@bounce.linkedin.com;
+       dkim=pass header.i=@linkedin.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=linkedin.com
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:From:Message-ID:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=ozV6fHqOxdBKUlV73UTuF4YEAZzoK22+E0R5yKhVH9RA7tD0K2u3pNHLuRI4ys91
+	L+ZtYnjE+3ygylM1fhd/OMi1c3cUuzsjCKcEgZoOd+CBx3e8dvVMg83hd8Fsjs7G
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1390236423;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl:
+	X-LinkedIn-Template;
+	bh=/NHM8BklfwRD7IqjWbpTSka8KTM=;
+	b=JFIxvTS3d181unFI1c875z25cQJTRjdZE19Cs/7xR3ILKHGMZ1pGSWhOFHUvI+UY
+	oieMopFkGzdQQgrD938JRpO7hoXTTAw9Q1gxP79V1SzJRlEvwWnAVbtjJEvFy63F
+	ZaGjmHXUTyy2dLEBzcerrFRLH9zyDMyVy0WTQIrEHLI=;
+Sender: messages-noreply@bounce.linkedin.com
+From: LinkedIn Updates <messages-noreply@linkedin.com>
+Message-ID: <40481578.1412786.1390236422660.JavaMail.app@lva1-app3833.prod>
+Subject: See Hailey Harmon's new endorsement
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1412782_1348264125.1390236422655"
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+Date: Mon, 20 Jan 2014 16:47:02 +0000 (UTC)
+X-LinkedIn-Class: NETWORKDIGEST
+X-LinkedIn-Template: nu_digest
+X-LinkedIn-fbl: s-XbVL5w6bb3zbXyJgxPVKAZADV1k_ajelYlVL0uAmt3zqZEJXj3jRQt
+
+------=_Part_1412782_1348264125.1390236422655
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-ID: text-body
+
+LinkedIn Network Updates
+----------------------------------------------------
+
+=========================
+What are your connections up to?
+See all updates: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=viewUpdates&tracking=eml-comm_nu_digest-see_all_updates&ek=nu_digest
+=========================
+
+
+
+=========================
+Endorsements
+=========================
+
+Anna Pipes was endorsed by William Coffey for Adobe Creative Suite,  and Graphics
+   View profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=skyline-entry-point&tracking=eml-comm_nu_digest-endorsement-textendorser-1-id123&ek=nu_digest&skylineType=NPU-REG&skylineSourceId=0&parameterMap=memberID%3D70087284
+   Comment http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=skyline-entry-point&tracking=eml-comm_nu_digest-endorsement-textcta-1-id123&ek=nu_digest&skylineType=NPU-REG&skylineSourceId=0&parameterMap=memberID%3D70087284
+
+William Coffey was endorsed by Anna Pipes for Environmental Awareness, Sustainability, Environmental Issues, Renewable Energy,  and Editing
+   View profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=skyline-entry-point&tracking=eml-comm_nu_digest-endorsement-textendorser-2-id123&ek=nu_digest&skylineType=NPU-REG&skylineSourceId=0&parameterMap=memberID%3D82187569
+   Comment http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=skyline-entry-point&tracking=eml-comm_nu_digest-endorsement-textcta-2-id123&ek=nu_digest&skylineType=NPU-REG&skylineSourceId=0&parameterMap=memberID%3D82187569
+
+Andrew Kinsey was endorsed by Courtney Burke for Fashion,  and Retail
+   View profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=skyline-entry-point&tracking=eml-comm_nu_digest-endorsement-textendorser-3-id123&ek=nu_digest&skylineType=NPU-REG&skylineSourceId=0&parameterMap=memberID%3D133413542
+   Comment http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=skyline-entry-point&tracking=eml-comm_nu_digest-endorsement-textcta-3-id123&ek=nu_digest&skylineType=NPU-REG&skylineSourceId=0&parameterMap=memberID%3D133413542
+
+
+
+=========================
+New Connections
+=========================
+
+Jedd Levine has made 6 new connections
+   Visit Jedd Levine&#39;s profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-connection-textprof-4-id123&ek=nu_digest&memberID=43709831
+
+Dash Hammerstein is now connected to Thomas Duffy
+   Visit Dash Hammerstein&#39;s profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-connection-textprof-5-id123&ek=nu_digest&memberID=131053947
+
+Jeff Shynn is now connected to Ashton Frulla
+   Visit Jeff Shynn&#39;s profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-connection-textprof-6-id123&ek=nu_digest&memberID=44117233
+
+Christopher Maire is now connected to Will Fallows
+   Visit Christopher Maire&#39;s profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-connection-textprof-7-id123&ek=nu_digest&memberID=47447724
+
+Hailey Harmon has made 4 new connections
+   Visit Hailey Harmon&#39;s profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-connection-textprof-8-id123&ek=nu_digest&memberID=66608079
+
+Alexandra Citrin has made 2 new connections
+   Visit Alexandra Citrin&#39;s profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-connection-textprof-9-id123&ek=nu_digest&memberID=79476894
+
+
+
+=========================
+People You May Know
+=========================
+
+elizabeth pantone,Assistant to Agent at ICM Partners
+   View profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=leo-pymk-pcard&tracking=eml-comm_nu_digest-pymk-textprof-10-id123&ek=nu_digest&mid=63282968
+   Connect: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-pymk-textconn-10-id123&ek=nu_digest
+
+Peter Rynsky,Busy Guy at Logan Media
+   View profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=leo-pymk-pcard&tracking=eml-comm_nu_digest-pymk-textprof-11-id123&ek=nu_digest&mid=176347241
+   Connect: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-pymk-textconn-11-id123&ek=nu_digest
+
+Moishe Horowitz,President at Internet Garage
+   View profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=leo-pymk-pcard&tracking=eml-comm_nu_digest-pymk-textprof-12-id123&ek=nu_digest&mid=314003152
+   Connect: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-pymk-textconn-12-id123&ek=nu_digest
+
+Trevor McLoughlin,--
+   View profile: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=leo-pymk-pcard&tracking=eml-comm_nu_digest-pymk-textprof-13-id123&ek=nu_digest&mid=138538490
+   Connect: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=npv&tracking=eml-comm_nu_digest-pymk-textconn-13-id123&ek=nu_digest
+
+----------------------------------------------------
+See all updates: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=viewUpdates&tracking=eml-comm_nu_digest-see_all_updates&ek=nu_digest
+
+You are receiving Network Updates Digest emails. Unsubscribe here: https://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&t=eus&tracking=eml-comm_nu_digest-unsub_text&ek=nu_digest&loid=AQEGgPbOZ7X_rwAAAUOwjFHAl0PbLsdNHpVf61v7-YtTKNhtacBf31frTfn_jE7HVobFU4qHUFTA_euOeGY
+
+This email was intended for Alex Dinsmore (Assistant at Yorgo Alexopoulos Multimedia). Learn why we included this at the following link: http://www.linkedin.com/e/v2?e=2nuuno-hqnbdisp-6c&a=customerServiceUrl&ek=nu_digest&articleId=4788
+&copy; 2014, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, USA
+------=_Part_1412782_1348264125.1390236422655
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head><meta http-equiv=3D"Content-Type" content=3D"text/htm=
+l;charset=3Dutf-8" /><meta name=3D"HandheldFriendly" content=3D"true"/><met=
+a name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D0.6666=
+67; maximum-scale=3D0.666667; user-scalable=3D0"/><meta name=3D"viewport" c=
+ontent=3D"width=3Ddevice-width"/><title></title><style type=3D"text/css">*[=
+class].hero_bg {background-repeat: no-repeat;background-position: top right=
+;}*[class].bg_anniversary,*[class].bg_position {background-image: url(http:=
+//s.c.lnkd.licdn.com/scds/common/u/images/email/campaigns/network_updates_d=
+igest/herobg_ribbon_162x172_v01.png);}*[class].bg_endorsement.digest,*[clas=
+s].bg_skill {background-image: url(http://s.c.lnkd.licdn.com/scds/common/u/=
+images/email/campaigns/network_updates_digest/herobg_skills_135x193_v01.png=
+);}*[class].bg_post {background-image: url(http://s.c.lnkd.licdn.com/scds/c=
+ommon/u/images/email/campaigns/network_updates_digest/herobg_comment_160x14=
+1_v01.png);}*[class].bg_connection {background-image: url(http://s.c.lnkd.l=
+icdn.com/scds/common/u/images/email/campaigns/network_updates_digest/herobg=
+_connections_193x163_v01.png);}*[class].bg_otherprofileupdates {background-=
+image: url(http://s.c.lnkd.licdn.com/scds/common/u/images/email/campaigns/n=
+etwork_updates_digest/herobg_profile_184x129_v01.png);background-position: =
+bottom right;}*[class].bg_pictureshare {background-image: url(http://s.c.ln=
+kd.licdn.com/scds/common/u/images/email/campaigns/network_updates_digest/he=
+robg_photo_158x129_v01.png);background-position: bottom right;}*[class].her=
+o_bg_ovr_none {background-image: none;}html { -webkit-text-size-adjust: non=
+e; }body { background-color: #DFDFDF; padding: 0; margin: 0; width: 100%; m=
+argin: 0 auto; }@media all and (max-width: 590px){*[class].responsive{width=
+:290px !important;}*[id]#center {width:50%; margin: 0 auto; display:table;}=
+*[class].responsive-spacer table{width: 20px !important; }*[class].vspacer{=
+ margin-top: 10px !important; margin-bottom: 15px !important; margin-left: =
+0 !important; }*[class].res-font14{font-size:14px !important;}*[class].res-=
+font16{font-size:16px !important;}*[class].res-font13{font-size:13px !impor=
+tant;}*[class].res-font12{font-size:12px !important;}*[class].res-font10{fo=
+nt-size:10px !important;}*[class].res-font18{font-size:18px !important;}*[c=
+lass].res-font18 span{font-size: 18px !important;}*[class].responsive-50per=
+{ width: 100% !important;}*[class].responsive-spacer70{ width: 70px !import=
+ant; }*[class].hideIMG{ height: 0px !important; width: 0px !important; }*[c=
+lass].res-height30{ height: 30px !important; }*[class].res-height20{ height=
+: 20px !important; }*[class].res-height20 div{ height: 20px !important; }*[=
+class].res-height10{ height: 10px !important; }*[class].res-height10 div{ h=
+eight: 10px !important; }*[class].res-height10.email-spacer div { height: 1=
+0px !important; min-height: 10px !important; line-height: 10px !important; =
+font-size: 10px !important; }*[class].res-height0 { height: 0px !important;=
+ }*[class].res-height0 div{ height: 0px !important; }*[class].res-width280{=
+ width: 280px !important; }*[class].res-width25{ width: 25px !important; }*=
+[class].res-width10{ width: 10px !important; }*[class].res-width10 table{ w=
+idth: 10px !important; }*[class].res-width120 { width: 120px !important; }*=
+[class].res-padding{ width: 0 !important; }*[class].res-padding table{ widt=
+h: 0 !important; }*[class].cellpadding-none{ width: 0px !important; }*[clas=
+s].cellpadding-none table{ border: collapse !important; }*[class].cellpaddi=
+ng-none table td{ padding: 0 !important; }*[class].display-none{ display: n=
+one !important; }*[class].display-block{ display: block !important; }*[clas=
+s].remove-margin{ margin: 0 !important; }*[class].remove-border{ border: no=
+ne !important; }*[class].res-img60{ width: 60px !important; height: 60px !i=
+mportant; }*[class].res-img75{ width: 75px !important; height: 75px !import=
+ant; }*[class].res-img100{ width: 100px !important; height: 100px !importan=
+t; }*[class].res-img320{ width: 320px !important; height: auto !important; =
+position: relative;}*[class].res-img90x63{ width: 90px !important; height: =
+63px !important;}*[class].res-border{border-top: 1px solid #E1E1E1 !importa=
+nt;}*[class].responsive2col{width: 100% !important;}*[class].center-content=
+{text-align: center !important;}*[class].hide-for-mobile{ display: none !im=
+portant; }*[class].show-for-mobile{ width: 100% !important; max-height: non=
+e !important; visibility: visible !important; overflow: visible !important;=
+ float: none !important; height: auto !important; display: block !important=
+; }*[class].responsive-table { display: table !important; }*[class].respons=
+ive-row { display: table-row !important; }*[class].responsive-cell { displa=
+y: table-cell !important; }*[class].fix-table-content{ table-layout: fixed;=
+ }*[class].res-padding08{ padding-top:8px; }*[class].hero_bg {background-im=
+age: none !important;}*[class].show_hero {max-height: none !important;visib=
+ility: visible !important;overflow: visible !important;float: none !importa=
+nt;display: table-cell !important;width: 270px !important;}*[class].cta_tex=
+t {max-height: none !important;visibility: visible !important;overflow: vis=
+ible !important;float: none !important;display: table-cell !important;width=
+: 100% !important;color:#0077b5 !important;font-size:12px !important;}*[cla=
+ss].left_10 {padding-left:10px;}*[class].limit_4_items:nth-child(n+8) {disp=
+lay: none !important;}}@media all and (-webkit-min-device-pixel-ratio : 1.5=
+) {*[id]#base-header-logo {background-image: url(http://s.c.lnkd.licdn.com/=
+scds/common/u/images/email/logos/logo_linkedin_tm_email_197x48_v1.png) !imp=
+ortant;background-size: 95px;background-repeat: no-repeat;width: 95px !impo=
+rtant;height: 21px !important;}*[id]#base-header-logo img {display: none;}*=
+[id]#base-header-logo a {height: 21px !important;}*[id]#base-header-logo-ch=
+ina {background-image: url(http://s.c.lnkd.licdn.com/scds/common/u/images/e=
+mail/logos/logo_linkedin_tm_china_email_266x42_v1.png) !important;backgroun=
+d-size: 133px;background-repeat: no-repeat;width: 133px !important;height: =
+21px !important;}*[id]#base-header-logo-china img {display: none;}*[id]#bas=
+e-header-logo-china a {height: 21px !important;}}</style></head><body><span=
+ class=3D"preheader" style=3D"display: none !important; font-size: 1px;">Se=
+e what&#39;s new with your LinkedIn connections</span><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,san=
+s-serif; " width=3D"100%" bgcolor=3D"#DFDFDF"><tbody><tr><td colspan=3D"3">=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-famil=
+y:Helvetica,Arial,sans-serif; " width=3D"1"><tbody><tr><td><div style=3D"he=
+ight:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></tbody></ta=
+ble></td></tr><tr><td align=3D"center" width=3D"100%"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,san=
+s-serif; min-width:290px;" width=3D"600" class=3D"responsive"><tbody><tr><t=
+d style=3D"font-family:Helvetica,Arial,sans-serif;"><table width=3D"1" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbod=
+y><tr><td><div style=3D"height:8px;font-size:8px;line-height:8px">&nbsp;</d=
+iv></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;" width=3D"100%" =
+bgcolor=3D"#DDDDDD"><tbody><tr><td align=3D"left" valign=3D"middle" width=
+=3D"95" height=3D"21" id=3D"base-header-logo"><a style=3D"text-decoration:n=
+one;cursor:pointer;border:none;display:block;height:21px;width:100%;" href=
+=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnmp&ek=3Dnu_dig=
+est'><img src=3D'http://s.c.lnkd.licdn.com/scds/common/u/images/email/logos=
+/logo_linkedin_tm_email_95x21_v1.png' width=3D"95" height=3D"21" alt=3D"Lin=
+kedIn" style=3D"border:none;text-decoration:none;"/></a></td></tr></tbody><=
+/table><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" =
+  class=3D"email-spacer"><tbody><tr><td><div style=3D"height:8px;font-size:=
+8px;line-height:8px">&nbsp;</div></td></tr></tbody></table><table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Aria=
+l,sans-serif;" width=3D"100%"  bgcolor=3D"#333333"><tbody><tr><td width=3D"=
+20" class=3D"responsive-spacer"><table width=3D"20" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div styl=
+e=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbod=
+y></table></td><td width=3D"100%"><table width=3D"1" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div sty=
+le=3D"height:14px;font-size:14px;line-height:14px">&nbsp;</div></td></tr></=
+tbody></table><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%"><tbody><tr><td=
+ style=3D"color: #FFFFFF; font-size: 20pt; font-family: Helvetica,Arial,san=
+s-serif;" valign=3D"middle" align=3D"left"><span style=3D"font-size:20px;" =
+class=3D"res-font14 display-block">What are your connections up to?</span><=
+!--[if !mso 9]><!--><div class=3D"cta_text" style=3D"background-color:none;=
+width:0;max-height:0;visibility:collapse;overflow:hidden;float:left;display=
+:none;font-size:0;line-height:0;"><table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; background-=
+color: none; width: 0; max-height: 0; visibility: collapse; overflow: hidde=
+n; float: left; display: none; font-size:0; line-height:0; mso-hide:all" wi=
+dth=3D"100%" class=3D"cta_text"><tbody><tr><td><table width=3D"1" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr=
+><td><div style=3D"height:5px;font-size:5px;line-height:5px">&nbsp;</div></=
+td></tr></tbody></table></td></tr><tr><td><a href=3D"http://www.linkedin.co=
+m/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnmp&tracking=3Deml-comm_nu_digest-see_all=
+_updates&ek=3Dnu_digest" style=3D"border:none;outline:none;text-decoration:=
+none;color:#0077B5;">See all updates <img width=3D"4" height=3D"8" src=3D'h=
+ttp://s.c.lnkd.licdn.com/scds/common/u/img/email/arrow_right_blue.png' styl=
+e=3D"border:none;outline:none;text-decoration:none;"/></a></td></tr></tbody=
+></table></div><!--<![endif]--></td><td><table width=3D"20" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><=
+div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></t=
+r></tbody></table></td><td valign=3D"middle" align=3D"right"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif; " width=3D"100%" class=3D"display-none"><tbody><tr><td><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"right"><tbody=
+><tr><td align=3D"center" height=3D"30" valign=3D"middle" bgcolor=3D"#287BB=
+C" background=3D"http://s.c.lnkd.licdn.com/scds/common/u/img/email/bg_btn_k=
+aty_blue_medium.png" style=3D"background:url(http://s.c.lnkd.licdn.com/scds=
+/common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x scroll bottom #28=
+7BBC;background-color:#287BBC;border:1px solid #1B5480;-moz-border-radius:3=
+px;-webkit-border-radius:3px;border-radius:3px; cursor: pointer;"><table bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helveti=
+ca,Arial,sans-serif; " width=3D"100%" bgcolor=3D"transparent"><tbody><tr><t=
+d width=3D"13"><table width=3D"13px" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px=
+;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td>=
+<td><a href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnmp&=
+tracking=3Deml-comm_nu_digest-see_all_updates&ek=3Dnu_digest" style=3D"text=
+-decoration:none; font-size: 13px;font-family: Helvetica,Arial,sans-serif;f=
+ont-weight: bold;color: white;white-space: nowrap;display: block;" target=
+=3D"_blank"><span style=3D"font-size: 13px;font-family: Helvetica,Arial,san=
+s-serif;font-weight: bold;color: white;white-space: nowrap;display: block;"=
+>See all updates</span></a></td><td width=3D"13"><table width=3D"13px" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbod=
+y><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</d=
+iv></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr></tbody></table></td></tr></tbody></table><table width=3D"1=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"=
+><tbody><tr><td><div style=3D"height:14px;font-size:14px;line-height:14px">=
+&nbsp;</div></td></tr></tbody></table></td><td width=3D"20"><table width=3D=
+"20" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spac=
+er"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">=
+&nbsp;</div></td></tr></tbody></table></td></tr></tbody></table><table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica=
+,Arial,sans-serif; " width=3D"100%" bgcolor=3D"#FFFFFF"><tbody><tr><td><tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:He=
+lvetica,Arial,sans-serif; " width=3D"100%" class=3D"hero_bg bg_endorsement =
+"><tbody><tr><td colspan=3D"5"><table width=3D"1" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=
+=3D"height:20px;font-size:20px;line-height:20px">&nbsp;</div></td></tr></tb=
+ody></table></td></tr><tr valign=3D"top"><td width=3D"30" class=3D"res-widt=
+h10"><table width=3D"30" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"  =
+ class=3D"email-spacer res-width10"><tbody><tr><td><div style=3D"height:0px=
+;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td>=
+<td width=3D"140" class=3D"res-img100"><a href=3D"http://www.linkedin.com/e=
+/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dskyline-entry-point&tracking=3Deml-comm_nu_d=
+igest-endorsement-prof-0-id123&ek=3Dnu_digest&skylineType=3DNPU-REG&skyline=
+SourceId=3D0&parameterMap=3DmemberID%3D66608079" style=3D"text-decoration:n=
+one;border:none;"><img src=3D"" alt=3D"Hailey Harmon" width=3D"140" height=
+=3D"140" class=3D"res-img100" style=3D"border:none;outline:none;text-decora=
+tion:none;display:block;"/></a></td><td width=3D"20"><table width=3D"20" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tb=
+ody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;<=
+/div></td></tr></tbody></table></td><td width=3D"100%" valign=3D"middle"><t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:=
+Helvetica,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif;font-siz=
+e:14px;color:#333333;" width=3D"100%"><tbody><tr><td><table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans=
+-serif; font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#333333=
+;" width=3D"100%"><tbody><tr><td><a style=3D"text-decoration:none;color:#00=
+0000;font-weight:bold;" href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqn=
+bdisp-6c&a=3Dskyline-entry-point&tracking=3Deml-comm_nu_digest-endorsement-=
+prof-0-id123&ek=3Dnu_digest&skylineType=3DNPU-REG&skylineSourceId=3D0&param=
+eterMap=3DmemberID%3D66608079">Hailey Harmon</a> was endorsed by <a style=
+=3D"text-decoration:none;color:#000000;font-weight:bold;" href=3D"http://ww=
+w.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_d=
+igest-endorsement-endorser-0-id123&ek=3Dnu_digest&memberID=3D229450017">Hay=
+ley Andrews</a> for Mac</td></tr></tbody></table></td></tr><tr class=3D"dis=
+play-none"><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"font-family:Helvetica,Arial,sans-serif; font-family:Helvetica,Arial,sa=
+ns-serif;font-size:14px;color:#333333;" width=3D"100%"><tbody><tr><td><tabl=
+e width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"e=
+mail-spacer"><tbody><tr><td><div style=3D"height:10px;font-size:10px;line-h=
+eight:10px">&nbsp;</div></td></tr></tbody></table></td></tr><tr><td style=
+=3D"background-color:#F0F0F0;"><table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100=
+%"><tbody><tr><td colspan=3D"3"><table width=3D"1" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=
+=3D"height:10px;font-size:10px;line-height:10px">&nbsp;</div></td></tr></tb=
+ody></table></td></tr><tr><td width=3D"70"><a href=3D'http://www.linkedin.c=
+om/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-endors=
+ement-endorsersmall-0-id123&ek=3Dnu_digest&memberID=3D229450017' style=3D"t=
+ext-decoration:none;border:none;"><img class=3D"res-img60" width=3D"70" hei=
+ght=3D"70" alt=3D'Hayley Andrews' src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/=
+shrink_80_80/p/5/005/020/003/2f8efd3.jpg'/></a></td><td width=3D"20" class=
+=3D"res-height10 display-block"><table width=3D"20" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1"   class=3D"email-spacer res-height10"><tbody><tr>=
+<td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></t=
+d></tr></tbody></table></td><td width=3D"100%" valign=3D"middle" class=3D"d=
+isplay-block left_10"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; font-size:13px;line-hei=
+ght:15px;" width=3D"100%"><tbody><tr><td><a href=3D'http://www.linkedin.com=
+/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-endorsem=
+ent-endorsersmall-0-id123&ek=3Dnu_digest&memberID=3D229450017' style=3D"fon=
+t-weight:bold;color:#000000;text-decoration: none;">Hayley Andrews</a></td>=
+</tr><tr><td>Executive Assistant at Conjunctionfund</td></tr></tbody></tabl=
+e></td></tr><tr><td colspan=3D"3"><table width=3D"1" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div sty=
+le=3D"height:10px;font-size:10px;line-height:10px">&nbsp;</div></td></tr></=
+tbody></table></td></tr></tbody></table></td></tr><tr><td><table width=3D"1=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"=
+><tbody><tr><td><div style=3D"height:10px;font-size:10px;line-height:10px">=
+&nbsp;</div></td></tr></tbody></table></td></tr><tr><td><a href=3D'http://w=
+ww.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dskyline-entry-point&trackin=
+g=3Deml-comm_nu_digest-endorsement-prof-0-id123&ek=3Dnu_digest&skylineType=
+=3DNPU-REG&skylineSourceId=3D0&parameterMap=3DmemberID%3D66608079' style=3D=
+"border:none;outline:none;text-decoration:none;color:#0077B5;">Endorse Hail=
+ey <img width=3D"4" height=3D"8" src=3D'http://s.c.lnkd.licdn.com/scds/comm=
+on/u/img/email/arrow_right_blue.png' style=3D"border:none;outline:none;text=
+-decoration:none;"/></a></td></tr></tbody></table></td></tr></tbody></table=
+></td><td width=3D"20" class=3D"res-width10"><table width=3D"20" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer res-width10"=
+><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nb=
+sp;</div></td></tr></tbody></table></td></tr><!--[if !mso 9]><!--><tr><td w=
+idth=3D"10"><table width=3D"10" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;fon=
+t-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td><td =
+colspan=3D"3"><div class=3D"show_hero" style=3D"background-color:none;width=
+:0;max-height:0;visibility:collapse;overflow:hidden;float:left;display:none=
+;font-size:0;line-height:0;mso-hide:all"><table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; font=
+-family:Helvetica,Arial,sans-serif;font-size:14px;color:#333333;" width=3D"=
+100%"><tbody><tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:=
+10px;font-size:10px;line-height:10px">&nbsp;</div></td></tr></tbody></table=
+></td></tr><tr><td style=3D"background-color:#F0F0F0;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sa=
+ns-serif; " width=3D"100%"><tbody><tr><td colspan=3D"3"><table width=3D"1" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><=
+tbody><tr><td><div style=3D"height:10px;font-size:10px;line-height:10px">&n=
+bsp;</div></td></tr></tbody></table></td></tr><tr><td width=3D"70"><a href=
+=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3D=
+eml-comm_nu_digest-endorsement-endorsersmall-0-id123&ek=3Dnu_digest&memberI=
+D=3D229450017' style=3D"text-decoration:none;border:none;"><img class=3D"re=
+s-img60" width=3D"70" height=3D"70" alt=3D'Hayley Andrews' src=3D'http://m.=
+c.lnkd.licdn.com/mpr/mpr/shrink_80_80/p/5/005/020/003/2f8efd3.jpg'/></a></t=
+d><td width=3D"20" class=3D"res-height10 display-block"><table width=3D"20"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer r=
+es-height10"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-hei=
+ght:0px">&nbsp;</div></td></tr></tbody></table></td><td width=3D"100%" vali=
+gn=3D"middle" class=3D"display-block left_10"><table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;=
+ font-size:13px;line-height:15px;" width=3D"100%"><tbody><tr><td><a href=3D=
+'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml=
+-comm_nu_digest-endorsement-endorsersmall-0-id123&ek=3Dnu_digest&memberID=
+=3D229450017' style=3D"font-weight:bold;color:#000000;text-decoration: none=
+;">Hayley Andrews</a></td></tr><tr><td>Executive Assistant at Conjunctionfu=
+nd</td></tr></tbody></table></td></tr><tr><td colspan=3D"3"><table width=3D=
+"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-space=
+r"><tbody><tr><td><div style=3D"height:10px;font-size:10px;line-height:10px=
+">&nbsp;</div></td></tr></tbody></table></td></tr></tbody></table></td></tr=
+><tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1=
+"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:10px;font-si=
+ze:10px;line-height:10px">&nbsp;</div></td></tr></tbody></table></td></tr><=
+tr><td><a href=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Ds=
+kyline-entry-point&tracking=3Deml-comm_nu_digest-endorsement-prof-0-id123&e=
+k=3Dnu_digest&skylineType=3DNPU-REG&skylineSourceId=3D0&parameterMap=3Dmemb=
+erID%3D66608079' style=3D"border:none;outline:none;text-decoration:none;col=
+or:#0077B5;">Endorse Hailey <img width=3D"4" height=3D"8" src=3D'http://s.c=
+.lnkd.licdn.com/scds/common/u/img/email/arrow_right_blue.png' style=3D"bord=
+er:none;outline:none;text-decoration:none;"/></a></td></tr></tbody></table>=
+</div></td><td width=3D"10"><table width=3D"10" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D=
+"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></=
+table></td></tr><!--<![endif]--><tr><td colspan=3D"5"><table width=3D"1" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tb=
+ody><tr><td><div style=3D"height:20px;font-size:20px;line-height:20px">&nbs=
+p;</div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; width:60=
+0px;table-layout:fixed;" width=3D"600" class=3D"responsive"><tbody><tr><td>=
+<table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=
+=3D"email-spacer res-height20"><tbody><tr><td><div style=3D"height:20px;fon=
+t-size:20px;line-height:20px">&nbsp;</div></td></tr></tbody></table></td></=
+tr><tr><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" bgcolor=3D"#FFFFF=
+F"><tbody><tr><td width=3D"20" class=3D"res-width10"><table width=3D"20px" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><=
+tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp=
+;</div></td></tr></tbody></table></td><td style=3D"color: #333333; font-fam=
+ily: Helvetica,Arial,sans-serif; font-size: 15px; line-height: 18px;" align=
+=3D"left"><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+1"   class=3D"email-spacer res-height20"><tbody><tr><td><div style=3D"heigh=
+t:30px;font-size:30px;line-height:30px">&nbsp;</div></td></tr></tbody></tab=
+le><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fa=
+mily:Helvetica,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif;" w=
+idth=3D"100%"><tbody><tr><td colspan=3D"3"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; f=
+ont-family:Helvetica,Arial,sans-serif;color:#666666;font-size: 13px;" width=
+=3D"100%"><tbody><tr><td>Endorsements</td></tr></tbody></table></td></tr><t=
+r><td colspan=3D"3" style=3D"border-bottom-color: #E5E5E5;border-bottom-wid=
+th: 1px; border-bottom-style: solid;"><table width=3D"1" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div=
+ style=3D"height:5px;font-size:5px;line-height:5px">&nbsp;</div></td></tr><=
+/tbody></table></td></tr><tr><td><table width=3D"1" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div styl=
+e=3D"height:15px;font-size:15px;line-height:15px">&nbsp;</div></td></tr></t=
+body></table></td></tr><tr valign=3D"top"><td width=3D"60" valign=3D"top" s=
+tyle=3D"vertical-align: top;"><a href=3D'http://www.linkedin.com/e/v2?e=3D2=
+nuuno-hqnbdisp-6c&a=3Dskyline-entry-point&tracking=3Deml-comm_nu_digest-end=
+orsement-endorser-1-id123&ek=3Dnu_digest&skylineType=3DNPU-REG&skylineSourc=
+eId=3D0&parameterMap=3DmemberID%3D70087284' style=3D"text-decoration:none;c=
+ursor:pointer;"><img alt=3D"Anna Pipes" src=3D"http://m.c.lnkd.licdn.com/mp=
+r/mpr/shrink_60_60/p/7/000/1fc/241/2a16a80.jpg" width=3D"60" height=3D"60" =
+border=3D"0" style=3D"border:none;text-decoration:none;outline:hidden;"/></=
+a></td><td width=3D"10"><table width=3D"10px" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"h=
+eight:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></ta=
+ble></td><td width=3D"100%"><table border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; font-family:Helve=
+tica,Arial,sans-serif;color:#333333;font-size:13px;" width=3D"100%"><tbody>=
+<tr><td><a style=3D"text-decoration:none;color:#000000;font-weight:bold;" h=
+ref=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dskyline-entr=
+y-point&tracking=3Deml-comm_nu_digest-endorsement-endorser-1-id123&ek=3Dnu_=
+digest&skylineType=3DNPU-REG&skylineSourceId=3D0&parameterMap=3DmemberID%3D=
+70087284">Anna Pipes</a> was endorsed by <a style=3D"text-decoration:none;c=
+olor:#000000;font-weight:bold;" href=3D"http://www.linkedin.com/e/v2?e=3D2n=
+uuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-endorsement-endorser=
+-1-id123&ek=3Dnu_digest&memberID=3D82187569">William Coffey</a> for Adobe C=
+reative Suite, Graphics</td></tr><tr><td><table width=3D"1" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><=
+div style=3D"height:3px;font-size:3px;line-height:3px">&nbsp;</div></td></t=
+r></tbody></table></td></tr><tr><td><a href=3D'http://www.linkedin.com/e/v2=
+?e=3D2nuuno-hqnbdisp-6c&a=3Dskyline-entry-point&tracking=3Deml-comm_nu_dige=
+st-endorsement-cta-1-id123&ek=3Dnu_digest&skylineType=3DNPU-REG&skylineSour=
+ceId=3D0&parameterMap=3DmemberID%3D70087284' style=3D"text-decoration:none;=
+cursor:pointer;color:#0077b5;">Endorse Anna Pipes</a></td></tr></tbody></ta=
+ble></td></tr><tr><td colspan=3D"3"><table width=3D"1" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div s=
+tyle=3D"height:20px;font-size:20px;line-height:20px">&nbsp;</div></td></tr>=
+</tbody></table></td></tr><tr valign=3D"top"><td width=3D"60" valign=3D"top=
+" style=3D"vertical-align: top;"><a href=3D'http://www.linkedin.com/e/v2?e=
+=3D2nuuno-hqnbdisp-6c&a=3Dskyline-entry-point&tracking=3Deml-comm_nu_digest=
+-endorsement-endorser-2-id123&ek=3Dnu_digest&skylineType=3DNPU-REG&skylineS=
+ourceId=3D0&parameterMap=3DmemberID%3D82187569' style=3D"text-decoration:no=
+ne;cursor:pointer;"><img alt=3D"William Coffey" src=3D"http://m.c.lnkd.licd=
+n.com/mpr/mpr/shrink_60_60/p/2/000/074/233/0db26c8.jpg" width=3D"60" height=
+=3D"60" border=3D"0" style=3D"border:none;text-decoration:none;outline:hidd=
+en;"/></a></td><td width=3D"10"><table width=3D"10px" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div st=
+yle=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tb=
+ody></table></td><td width=3D"100%"><table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; font-fami=
+ly:Helvetica,Arial,sans-serif;color:#333333;font-size:13px;" width=3D"100%"=
+><tbody><tr><td><a style=3D"text-decoration:none;color:#000000;font-weight:=
+bold;" href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dskyl=
+ine-entry-point&tracking=3Deml-comm_nu_digest-endorsement-endorser-2-id123&=
+ek=3Dnu_digest&skylineType=3DNPU-REG&skylineSourceId=3D0&parameterMap=3Dmem=
+berID%3D82187569">William Coffey</a> was endorsed by <a style=3D"text-decor=
+ation:none;color:#000000;font-weight:bold;" href=3D"http://www.linkedin.com=
+/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-endorsem=
+ent-endorser-2-id123&ek=3Dnu_digest&memberID=3D70087284">Anna Pipes</a> for=
+ Environmental Awareness, Sustainability, Environmental Issues, Renewable E=
+nergy, Editing</td></tr><tr><td><table width=3D"1" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=
+=3D"height:3px;font-size:3px;line-height:3px">&nbsp;</div></td></tr></tbody=
+></table></td></tr><tr><td><a href=3D'http://www.linkedin.com/e/v2?e=3D2nuu=
+no-hqnbdisp-6c&a=3Dskyline-entry-point&tracking=3Deml-comm_nu_digest-endors=
+ement-cta-2-id123&ek=3Dnu_digest&skylineType=3DNPU-REG&skylineSourceId=3D0&=
+parameterMap=3DmemberID%3D82187569' style=3D"text-decoration:none;cursor:po=
+inter;color:#0077b5;">Endorse William Coffey</a></td></tr></tbody></table><=
+/td></tr><tr><td colspan=3D"3"><table width=3D"1" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=
+=3D"height:20px;font-size:20px;line-height:20px">&nbsp;</div></td></tr></tb=
+ody></table></td></tr><tr valign=3D"top"><td width=3D"60" valign=3D"top" st=
+yle=3D"vertical-align: top;"><a href=3D'http://www.linkedin.com/e/v2?e=3D2n=
+uuno-hqnbdisp-6c&a=3Dskyline-entry-point&tracking=3Deml-comm_nu_digest-endo=
+rsement-endorser-3-id123&ek=3Dnu_digest&skylineType=3DNPU-REG&skylineSource=
+Id=3D0&parameterMap=3DmemberID%3D133413542' style=3D"text-decoration:none;c=
+ursor:pointer;"><img alt=3D"Andrew Kinsey" src=3D"http://m.c.lnkd.licdn.com=
+/mpr/mpr/shrink_60_60/p/2/005/02b/115/32b1cad.jpg" width=3D"60" height=3D"6=
+0" border=3D"0" style=3D"border:none;text-decoration:none;outline:hidden;"/=
+></a></td><td width=3D"10"><table width=3D"10px" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=
+=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody=
+></table></td><td width=3D"100%"><table border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; font-family:=
+Helvetica,Arial,sans-serif;color:#333333;font-size:13px;" width=3D"100%"><t=
+body><tr><td><a style=3D"text-decoration:none;color:#000000;font-weight:bol=
+d;" href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dskyline=
+-entry-point&tracking=3Deml-comm_nu_digest-endorsement-endorser-3-id123&ek=
+=3Dnu_digest&skylineType=3DNPU-REG&skylineSourceId=3D0&parameterMap=3Dmembe=
+rID%3D133413542">Andrew Kinsey</a> was endorsed by <a style=3D"text-decorat=
+ion:none;color:#000000;font-weight:bold;" href=3D"http://www.linkedin.com/e=
+/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-endorsemen=
+t-endorser-3-id123&ek=3Dnu_digest&memberID=3D88946043">Courtney Burke</a> f=
+or Fashion, Retail</td></tr><tr><td><table width=3D"1" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div s=
+tyle=3D"height:3px;font-size:3px;line-height:3px">&nbsp;</div></td></tr></t=
+body></table></td></tr><tr><td><a href=3D'http://www.linkedin.com/e/v2?e=3D=
+2nuuno-hqnbdisp-6c&a=3Dskyline-entry-point&tracking=3Deml-comm_nu_digest-en=
+dorsement-cta-3-id123&ek=3Dnu_digest&skylineType=3DNPU-REG&skylineSourceId=
+=3D0&parameterMap=3DmemberID%3D133413542' style=3D"text-decoration:none;cur=
+sor:pointer;color:#0077b5;">Endorse Andrew Kinsey</a></td></tr></tbody></ta=
+ble></td></tr><tr><td colspan=3D"3"></td></tr></tbody></table><table width=
+=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-sp=
+acer res-height20"><tbody><tr><td><div style=3D"height:30px;font-size:30px;=
+line-height:30px">&nbsp;</div></td></tr></tbody></table><table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,s=
+ans-serif; font-family:Helvetica,Arial,sans-serif;" width=3D"100%"><tbody><=
+tr><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"fon=
+t-family:Helvetica,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif=
+;color:#666666;font-size: 13px;" width=3D"100%"><tbody><tr><td>New Connecti=
+ons</td></tr></tbody></table></td></tr><tr><td style=3D"border-bottom-color=
+: #E5E5E5;border-bottom-width: 1px; border-bottom-style: solid;"><table wid=
+th=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-=
+spacer"><tbody><tr><td><div style=3D"height:5px;font-size:5px;line-height:5=
+px">&nbsp;</div></td></tr></tbody></table></td></tr><tr><td><table width=3D=
+"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-space=
+r"><tbody><tr><td><div style=3D"height:15px;font-size:15px;line-height:15px=
+">&nbsp;</div></td></tr></tbody></table></td></tr><tr valign=3D"top"><td wi=
+dth=3D"100%" valign=3D"top" style=3D"vertical-align: top;"><table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Aria=
+l,sans-serif; font-family:Helvetica,Arial,sans-serif;font-size:13px;" width=
+=3D"100%"><tbody><tr><td width=3D"60"><a href=3D"http://www.linkedin.com/e/=
+v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-=
+textprof-4-id123&ek=3Dnu_digest&memberID=3D43709831" style=3D"text-decorati=
+on:none;cursor:pointer;"><img alt=3D"Jedd Levine" src=3D'http://m.c.lnkd.li=
+cdn.com/mpr/mpr/shrink_60_60/p/2/005/027/110/205b226.jpg' width=3D"60" heig=
+ht=3D"60" border=3D"0" style=3D"border:none;text-decoration:none;outline:hi=
+dden;"/></a></td><td width=3D"20"><table width=3D"20" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div st=
+yle=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tb=
+ody></table></td><td width=3D"100%" valign=3D"top"><table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-s=
+erif; font-family:Helvetica,Arial,sans-serif;font-size:13px;" width=3D"100%=
+"><tbody><tr><td><a style=3D"text-decoration:none;font-weight:bold;color:#0=
+00000;" href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv=
+&tracking=3Deml-comm_nu_digest-connection-prof-4-id123&ek=3Dnu_digest&membe=
+rID=3D43709831">Jedd Levine</a> has 6 new connections</td></tr><tr><td><tab=
+le width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"=
+email-spacer"><tbody><tr><td><div style=3D"height:10px;font-size:10px;line-=
+height:10px">&nbsp;</div></td></tr></tbody></table></td></tr><tr><td><table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helv=
+etica,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif;color:#33333=
+3;font-size:13px;" width=3D"100%"><tbody><tr class=3D"limit_4_items"><td wi=
+dth=3D"40" class=3D"limit_4_items"><a href=3D'http://www.linkedin.com/e/v2?=
+e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-con=
+nsmall-4-id123&ek=3Dnu_digest&memberID=3D306643348' style=3D"text-decoratio=
+n:none;border:none;"><img height=3D"40" width=3D"40" alt=3D'Alexander Carra=
+lejo' src=3D'http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/gho=
+sts/person/ghost_person_40x40_v1.png'/></a></td><td width=3D"2" class=3D"li=
+mit_4_items"><table width=3D"2" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;fon=
+t-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td><td =
+width=3D"40" class=3D"limit_4_items"><a href=3D'http://www.linkedin.com/e/v=
+2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-c=
+onnsmall-4-id123&ek=3Dnu_digest&memberID=3D74214182' style=3D"text-decorati=
+on:none;border:none;"><img height=3D"40" width=3D"40" alt=3D'Russell Perry'=
+ src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_40_40/p/1/000/1d0/063/2c33=
+d28.jpg'/></a></td><td width=3D"2" class=3D"limit_4_items"><table width=3D"=
+2" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer=
+"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&n=
+bsp;</div></td></tr></tbody></table></td><td width=3D"40" class=3D"limit_4_=
+items"><a href=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dn=
+pv&tracking=3Deml-comm_nu_digest-connection-connsmall-4-id123&ek=3Dnu_diges=
+t&memberID=3D253274981' style=3D"text-decoration:none;border:none;"><img he=
+ight=3D"40" width=3D"40" alt=3D'Eric Katz' src=3D'http://s.c.lnkd.licdn.com=
+/scds/common/u/images/themes/katy/ghosts/person/ghost_person_40x40_v1.png'/=
+></a></td><td width=3D"2" class=3D"limit_4_items"><table width=3D"2" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody>=
+<tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div=
+></td></tr></tbody></table></td><td width=3D"40" class=3D"limit_4_items"><a=
+ href=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracki=
+ng=3Deml-comm_nu_digest-connection-connsmall-4-id123&ek=3Dnu_digest&memberI=
+D=3D109968991' style=3D"text-decoration:none;border:none;"><img height=3D"4=
+0" width=3D"40" alt=3D'Heather Griffin' src=3D'http://m.c.lnkd.licdn.com/mp=
+r/mpr/shrink_40_40/p/3/000/0c8/2d1/3b0d92c.jpg'/></a></td><td width=3D"2" c=
+lass=3D"limit_4_items"><table width=3D"2" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"heigh=
+t:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table>=
+</td><td width=3D"40" class=3D"limit_4_items"><a href=3D'http://www.linkedi=
+n.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-con=
+nection-connsmall-4-id123&ek=3Dnu_digest&memberID=3D22541147' style=3D"text=
+-decoration:none;border:none;"><img height=3D"40" width=3D"40" alt=3D'Nick =
+Jones' src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_40_40/p/2/000/06b/32=
+0/15476cc.jpg'/></a></td><td width=3D"2" class=3D"limit_4_items"><table wid=
+th=3D"2" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-=
+spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0=
+px">&nbsp;</div></td></tr></tbody></table></td><td width=3D"40" class=3D"li=
+mit_4_items"><a href=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c=
+&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-connsmall-4-id123&ek=3Dnu=
+_digest&memberID=3D29956645' style=3D"text-decoration:none;border:none;"><i=
+mg height=3D"40" width=3D"40" alt=3D'Nathan Crow' src=3D'http://m.c.lnkd.li=
+cdn.com/mpr/mpr/shrink_40_40/p/2/000/05e/25b/1bfe536.jpg'/></a></td><td wid=
+th=3D"2" class=3D"limit_4_items"><table width=3D"2" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div styl=
+e=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbod=
+y></table></td><td width=3D"100%">&nbsp;</td></tr></tbody></table></td></tr=
+></tbody></table></td></tr></tbody></table></td></tr><tr><td><table width=
+=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-sp=
+acer"><tbody><tr><td><div style=3D"height:20px;font-size:20px;line-height:2=
+0px">&nbsp;</div></td></tr></tbody></table></td></tr><tr valign=3D"top"><td=
+ width=3D"100%" valign=3D"top" style=3D"vertical-align: top;"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif; font-family:Helvetica,Arial,sans-serif;font-size:13px;" wi=
+dth=3D"100%"><tbody><tr><td width=3D"60"><a href=3D"http://www.linkedin.com=
+/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connecti=
+on-textprof-5-id123&ek=3Dnu_digest&memberID=3D131053947" style=3D"text-deco=
+ration:none;cursor:pointer;"><img alt=3D"Dash Hammerstein" src=3D'http://m.=
+c.lnkd.licdn.com/mpr/mpr/shrink_60_60/p/5/005/02f/394/18d2af4.jpg' width=3D=
+"60" height=3D"60" border=3D"0" style=3D"border:none;text-decoration:none;o=
+utline:hidden;"/></a></td><td width=3D"20" align=3D"center" style=3D"color:=
+#666666;font-size:15px;">+</td><td width=3D"60"><a href=3D"http://www.linke=
+din.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-c=
+onnection-textconn-5-id123&ek=3Dnu_digest&memberID=3D91453357" style=3D"tex=
+t-decoration:none;cursor:pointer;"><img alt=3D"Thomas Duffy" src=3D'http://=
+m.c.lnkd.licdn.com/mpr/mpr/shrink_60_60/p/2/000/07a/109/24cdbea.jpg' width=
+=3D"60" height=3D"60" border=3D"0" style=3D"border:none;text-decoration:non=
+e;outline:hidden;"/></a></td><td width=3D"10"><table width=3D"10" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr=
+><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></=
+td></tr></tbody></table></td><td width=3D"100%" valign=3D"top"><a style=3D"=
+text-decoration:none;font-weight:bold;color:#000000;" href=3D"http://www.li=
+nkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_diges=
+t-connection-prof-5-id123&ek=3Dnu_digest&memberID=3D131053947">Dash Hammers=
+tein</a> is now connected to <a style=3D"text-decoration:none;font-weight:b=
+old;color:#000000;" href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdis=
+p-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-conn-5-id123&ek=3Dnu_=
+digest&memberID=3D91453357">Thomas Duffy</a></td></tr></tbody></table></td>=
+</tr><tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:20px;fo=
+nt-size:20px;line-height:20px">&nbsp;</div></td></tr></tbody></table></td><=
+/tr><tr valign=3D"top"><td width=3D"100%" valign=3D"top" style=3D"vertical-=
+align: top;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; font-family:Helvetica,Arial,san=
+s-serif;font-size:13px;" width=3D"100%"><tbody><tr><td width=3D"60"><a href=
+=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3D=
+eml-comm_nu_digest-connection-textprof-6-id123&ek=3Dnu_digest&memberID=3D44=
+117233" style=3D"text-decoration:none;cursor:pointer;"><img alt=3D"Jeff Shy=
+nn" src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_60_60/p/6/000/1b4/2c9/1=
+371b7d.jpg' width=3D"60" height=3D"60" border=3D"0" style=3D"border:none;te=
+xt-decoration:none;outline:hidden;"/></a></td><td width=3D"20" align=3D"cen=
+ter" style=3D"color:#666666;font-size:15px;">+</td><td width=3D"60"><a href=
+=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3D=
+eml-comm_nu_digest-connection-textconn-6-id123&ek=3Dnu_digest&memberID=3D11=
+5738644" style=3D"text-decoration:none;cursor:pointer;"><img alt=3D"Ashton =
+Frulla" src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_60_60/p/2/000/0b3/1=
+3d/1e631e3.jpg' width=3D"60" height=3D"60" border=3D"0" style=3D"border:non=
+e;text-decoration:none;outline:hidden;"/></a></td><td width=3D"10"><table w=
+idth=3D"10" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"ema=
+il-spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-heigh=
+t:0px">&nbsp;</div></td></tr></tbody></table></td><td width=3D"100%" valign=
+=3D"top"><a style=3D"text-decoration:none;font-weight:bold;color:#000000;" =
+href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&trackin=
+g=3Deml-comm_nu_digest-connection-prof-6-id123&ek=3Dnu_digest&memberID=3D44=
+117233">Jeff Shynn</a> is now connected to <a style=3D"text-decoration:none=
+;font-weight:bold;color:#000000;" href=3D"http://www.linkedin.com/e/v2?e=3D=
+2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-conn-6-=
+id123&ek=3Dnu_digest&memberID=3D115738644">Ashton Frulla</a></td></tr></tbo=
+dy></table></td></tr><tr><td><table width=3D"1" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D=
+"height:20px;font-size:20px;line-height:20px">&nbsp;</div></td></tr></tbody=
+></table></td></tr><tr valign=3D"top"><td width=3D"100%" valign=3D"top" sty=
+le=3D"vertical-align: top;"><table border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; font-family:Helve=
+tica,Arial,sans-serif;font-size:13px;" width=3D"100%"><tbody><tr><td width=
+=3D"60"><a href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3D=
+npv&tracking=3Deml-comm_nu_digest-connection-textprof-7-id123&ek=3Dnu_diges=
+t&memberID=3D47447724" style=3D"text-decoration:none;cursor:pointer;"><img =
+alt=3D"Christopher Maire" src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_6=
+0_60/p/1/000/2ae/389/39f1724.jpg' width=3D"60" height=3D"60" border=3D"0" s=
+tyle=3D"border:none;text-decoration:none;outline:hidden;"/></a></td><td wid=
+th=3D"20" align=3D"center" style=3D"color:#666666;font-size:15px;">+</td><t=
+d width=3D"60"><a href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-=
+6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-textconn-7-id123&ek=3Dn=
+u_digest&memberID=3D34804471" style=3D"text-decoration:none;cursor:pointer;=
+"><img alt=3D"Will Fallows" src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink=
+_60_60/p/8/005/01b/292/26defe9.jpg' width=3D"60" height=3D"60" border=3D"0"=
+ style=3D"border:none;text-decoration:none;outline:hidden;"/></a></td><td w=
+idth=3D"10"><table width=3D"10" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;fon=
+t-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td><td =
+width=3D"100%" valign=3D"top"><a style=3D"text-decoration:none;font-weight:=
+bold;color:#000000;" href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdi=
+sp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-prof-7-id123&ek=3Dnu=
+_digest&memberID=3D47447724">Christopher Maire</a> is now connected to <a s=
+tyle=3D"text-decoration:none;font-weight:bold;color:#000000;" href=3D"http:=
+//www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_=
+nu_digest-connection-conn-7-id123&ek=3Dnu_digest&memberID=3D34804471">Will =
+Fallows</a></td></tr></tbody></table></td></tr><tr><td><table width=3D"1" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><t=
+body><tr><td><div style=3D"height:20px;font-size:20px;line-height:20px">&nb=
+sp;</div></td></tr></tbody></table></td></tr><tr valign=3D"top"><td width=
+=3D"100%" valign=3D"top" style=3D"vertical-align: top;"><table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,s=
+ans-serif; font-family:Helvetica,Arial,sans-serif;font-size:13px;" width=3D=
+"100%"><tbody><tr><td width=3D"60"><a href=3D"http://www.linkedin.com/e/v2?=
+e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-tex=
+tprof-8-id123&ek=3Dnu_digest&memberID=3D66608079" style=3D"text-decoration:=
+none;cursor:pointer;"><img alt=3D"Hailey Harmon" src=3D'http://m.c.lnkd.lic=
+dn.com/mpr/mpr/shrink_60_60/p/3/000/06d/1c9/35b595d.jpg' width=3D"60" heigh=
+t=3D"60" border=3D"0" style=3D"border:none;text-decoration:none;outline:hid=
+den;"/></a></td><td width=3D"20"><table width=3D"20" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div sty=
+le=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbo=
+dy></table></td><td width=3D"100%" valign=3D"top"><table border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-se=
+rif; font-family:Helvetica,Arial,sans-serif;font-size:13px;" width=3D"100%"=
+><tbody><tr><td><a style=3D"text-decoration:none;font-weight:bold;color:#00=
+0000;" href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&=
+tracking=3Deml-comm_nu_digest-connection-prof-8-id123&ek=3Dnu_digest&member=
+ID=3D66608079">Hailey Harmon</a> has 4 new connections</td></tr><tr><td><ta=
+ble width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D=
+"email-spacer"><tbody><tr><td><div style=3D"height:10px;font-size:10px;line=
+-height:10px">&nbsp;</div></td></tr></tbody></table></td></tr><tr><td><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Hel=
+vetica,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif;color:#3333=
+33;font-size:13px;" width=3D"100%"><tbody><tr class=3D"limit_4_items"><td w=
+idth=3D"40" class=3D"limit_4_items"><a href=3D'http://www.linkedin.com/e/v2=
+?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-co=
+nnsmall-8-id123&ek=3Dnu_digest&memberID=3D69992303' style=3D"text-decoratio=
+n:none;border:none;"><img height=3D"40" width=3D"40" alt=3D'Nikhil Manjunat=
+h Gowda' src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_40_40/p/7/000/282/=
+0c9/02ba02c.jpg'/></a></td><td width=3D"2" class=3D"limit_4_items"><table w=
+idth=3D"2" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"emai=
+l-spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height=
+:0px">&nbsp;</div></td></tr></tbody></table></td><td width=3D"40" class=3D"=
+limit_4_items"><a href=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-=
+6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connection-connsmall-8-id123&ek=3D=
+nu_digest&memberID=3D81871184' style=3D"text-decoration:none;border:none;">=
+<img height=3D"40" width=3D"40" alt=3D'Juan Ignacio Correa' src=3D'http://m=
+.c.lnkd.licdn.com/mpr/mpr/shrink_40_40/p/2/000/06a/17e/2d71f43.jpg'/></a></=
+td><td width=3D"2" class=3D"limit_4_items"><table width=3D"2" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td=
+><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td><=
+/tr></tbody></table></td><td width=3D"40" class=3D"limit_4_items"><a href=
+=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3D=
+eml-comm_nu_digest-connection-connsmall-8-id123&ek=3Dnu_digest&memberID=3D2=
+13935204' style=3D"text-decoration:none;border:none;"><img height=3D"40" wi=
+dth=3D"40" alt=3D'Spencer Branigan' src=3D'http://m.c.lnkd.licdn.com/mpr/mp=
+r/shrink_40_40/p/3/000/1cd/00d/305425f.jpg'/></a></td><td width=3D"2" class=
+=3D"limit_4_items"><table width=3D"2" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0p=
+x;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td=
+><td width=3D"40" class=3D"limit_4_items"><a href=3D'http://www.linkedin.co=
+m/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-connect=
+ion-connsmall-8-id123&ek=3Dnu_digest&memberID=3D42665674' style=3D"text-dec=
+oration:none;border:none;"><img height=3D"40" width=3D"40" alt=3D'Graham Ga=
+rdner' src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_40_40/p/2/000/187/32=
+e/3043a4f.jpg'/></a></td><td width=3D"2" class=3D"limit_4_items"><table wid=
+th=3D"2" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-=
+spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0=
+px">&nbsp;</div></td></tr></tbody></table></td><td width=3D"100%">&nbsp;</t=
+d></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>=
+</td></tr><tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:20p=
+x;font-size:20px;line-height:20px">&nbsp;</div></td></tr></tbody></table></=
+td></tr><tr valign=3D"top"><td width=3D"100%" valign=3D"top" style=3D"verti=
+cal-align: top;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"font-family:Helvetica,Arial,sans-serif; font-family:Helvetica,Arial,=
+sans-serif;font-size:13px;" width=3D"100%"><tbody><tr><td width=3D"60"><a h=
+ref=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=
+=3Deml-comm_nu_digest-connection-textprof-9-id123&ek=3Dnu_digest&memberID=
+=3D79476894" style=3D"text-decoration:none;cursor:pointer;"><img alt=3D"Ale=
+xandra Citrin" src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_60_60/p/2/00=
+0/189/3e8/3f1f0c5.jpg' width=3D"60" height=3D"60" border=3D"0" style=3D"bor=
+der:none;text-decoration:none;outline:hidden;"/></a></td><td width=3D"20"><=
+table width=3D"20" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=
+=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0px;lin=
+e-height:0px">&nbsp;</div></td></tr></tbody></table></td><td width=3D"100%"=
+ valign=3D"top"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" sty=
+le=3D"font-family:Helvetica,Arial,sans-serif; font-family:Helvetica,Arial,s=
+ans-serif;font-size:13px;" width=3D"100%"><tbody><tr><td><a style=3D"text-d=
+ecoration:none;font-weight:bold;color:#000000;" href=3D"http://www.linkedin=
+.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_digest-conn=
+ection-prof-9-id123&ek=3Dnu_digest&memberID=3D79476894">Alexandra Citrin</a=
+> has 2 new connections</td></tr><tr><td><table width=3D"1" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><=
+div style=3D"height:10px;font-size:10px;line-height:10px">&nbsp;</div></td>=
+</tr></tbody></table></td></tr><tr><td><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; font-f=
+amily:Helvetica,Arial,sans-serif;color:#333333;font-size:13px;" width=3D"10=
+0%"><tbody><tr class=3D"limit_4_items"><td width=3D"40" class=3D"limit_4_it=
+ems"><a href=3D'http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv=
+&tracking=3Deml-comm_nu_digest-connection-connsmall-9-id123&ek=3Dnu_digest&=
+memberID=3D16985815' style=3D"text-decoration:none;border:none;"><img heigh=
+t=3D"40" width=3D"40" alt=3D'Maggie Schneider' src=3D'http://m.c.lnkd.licdn=
+.com/mpr/mpr/shrink_40_40/p/5/005/037/33a/2dd7b8e.jpg'/></a></td><td width=
+=3D"2" class=3D"limit_4_items"><table width=3D"2" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=
+=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody=
+></table></td><td width=3D"40" class=3D"limit_4_items"><a href=3D'http://ww=
+w.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnpv&tracking=3Deml-comm_nu_d=
+igest-connection-connsmall-9-id123&ek=3Dnu_digest&memberID=3D230705091' sty=
+le=3D"text-decoration:none;border:none;"><img height=3D"40" width=3D"40" al=
+t=3D'Nicolet Schenck' src=3D'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_40_40=
+/p/8/000/1fe/29c/26e049f.jpg'/></a></td><td width=3D"2" class=3D"limit_4_it=
+ems"><table width=3D"2" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   =
+class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0p=
+x;line-height:0px">&nbsp;</div></td></tr></tbody></table></td><td width=3D"=
+100%">&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr><tr><td></td></tr></tbody></table><table width=3D"=
+1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer=
+ res-height20"><tbody><tr><td><div style=3D"height:30px;font-size:30px;line=
+-height:30px">&nbsp;</div></td></tr></tbody></table><table border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-=
+serif; font-family:Helvetica,Arial,sans-serif;" width=3D"100%"><tbody><tr><=
+td colspan=3D"3" style=3D"font-family:Helvetica,Arial,sans-serif;color:#666=
+666;font-size: 13px;">People You May Know</td></tr><tr><td colspan=3D"3" st=
+yle=3D"border-bottom-color: #E5E5E5;border-bottom-width: 1px; border-bottom=
+-style: solid;"><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:5px;f=
+ont-size:5px;line-height:5px">&nbsp;</div></td></tr></tbody></table></td></=
+tr><tr><td colspan=3D"3"><table width=3D"1" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"hei=
+ght:15px;font-size:15px;line-height:15px">&nbsp;</div></td></tr></tbody></t=
+able></td></tr><tr valign=3D"top"><td width=3D"270" class=3D"display-block"=
+><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fami=
+ly:Helvetica,Arial,sans-serif; " width=3D"100%"><tbody><tr><td width=3D"60"=
+ valign=3D"top" style=3D"vertical-align: top;"><a href=3D"http://www.linked=
+in.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml-comm_n=
+u_digest-pymk-conn-10-id123&ek=3Dnu_digest&mid=3D63282968" style=3D"text-de=
+coration:none;cursor:pointer;"><img alt=3D"elizabeth pantone" src=3D"http:/=
+/m.c.lnkd.licdn.com/mpr/mpr/shrink_60_60/p/4/005/025/1b9/04d202d.jpg" width=
+=3D"60" height=3D"60" border=3D"0" style=3D"border:none;text-decoration:non=
+e;outline:hidden;"/></a></td><td width=3D"10"><table width=3D"10px" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody>=
+<tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div=
+></td></tr></tbody></table></td><td valign=3D"top" width=3D"100%"><table bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helveti=
+ca,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif;font-size:13px;=
+" width=3D"100%"><tbody><tr><td width=3D"100%" align=3D"left" style=3D"font=
+-size: 13px;color: #333333;" valign=3D"top"><a href=3D"http://www.linkedin.=
+com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml-comm_nu_d=
+igest-pymk-conn-10-id123&ek=3Dnu_digest&mid=3D63282968" style=3D"cursor:poi=
+nter;text-decoration: none;"><span style=3D"color: #000000; font-weight: bo=
+ld;">elizabeth pantone</span></a></td></tr><tr><td>Assistant to Agent at IC=
+M Partners</td></tr><tr><td width=3D"100%" align=3D"left" valign=3D"top"><t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:=
+Helvetica,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif;font-siz=
+e:13px;" width=3D"auto"><tbody><tr valign=3D"middle"><td width=3D"12"><img =
+src=3D"http://s.c.lnkd.licdn.com/scds/common/u/img/email/pymk_connectv2.png=
+" width=3D"12" height=3D"12"/></td><td width=3D"7">&nbsp;</td><td><a href=
+=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&=
+tracking=3Deml-comm_nu_digest-pymk-conn-10-id123&ek=3Dnu_digest&mid=3D63282=
+968" style=3D"cursor:pointer;text-decoration: none;"><span style=3D"color: =
+#0077B5; font-size: 13px;">Connect</span></a></td></tr></tbody></table></td=
+></tr></tbody></table></td></tr></tbody></table></td><td width=3D"20" class=
+=3D"res-height10 display-block"><table width=3D"20" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1" align=3D"left" class=3D"email-spacer display-none=
+"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&n=
+bsp;</div></td></tr></tbody></table></td><td width=3D"270" class=3D"display=
+-block"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"fo=
+nt-family:Helvetica,Arial,sans-serif; " width=3D"100%"><tbody><tr><td width=
+=3D"60" valign=3D"top" style=3D"vertical-align: top;"><a href=3D"http://www=
+.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml=
+-comm_nu_digest-pymk-conn-11-id123&ek=3Dnu_digest&mid=3D176347241" style=3D=
+"text-decoration:none;cursor:pointer;"><img alt=3D"Peter Rynsky" src=3D"htt=
+p://m.c.lnkd.licdn.com/mpr/mpr/shrink_60_60/p/3/005/038/078/0273061.jpg" wi=
+dth=3D"60" height=3D"60" border=3D"0" style=3D"border:none;text-decoration:=
+none;outline:hidden;"/></a></td><td width=3D"10"><table width=3D"10px" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbod=
+y><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</d=
+iv></td></tr></tbody></table></td><td valign=3D"top" width=3D"100%"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helve=
+tica,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif;font-size:13p=
+x;" width=3D"100%"><tbody><tr><td width=3D"100%" align=3D"left" style=3D"fo=
+nt-size: 13px;color: #333333;" valign=3D"top"><a href=3D"http://www.linkedi=
+n.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml-comm_nu=
+_digest-pymk-conn-11-id123&ek=3Dnu_digest&mid=3D176347241" style=3D"cursor:=
+pointer;text-decoration: none;"><span style=3D"color: #000000; font-weight:=
+ bold;">Peter Rynsky</span></a></td></tr><tr><td>Busy Guy at Logan Media</t=
+d></tr><tr><td width=3D"100%" align=3D"left" valign=3D"top"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif; font-family:Helvetica,Arial,sans-serif;font-size:13px;" wi=
+dth=3D"auto"><tbody><tr valign=3D"middle"><td width=3D"12"><img src=3D"http=
+://s.c.lnkd.licdn.com/scds/common/u/img/email/pymk_connectv2.png" width=3D"=
+12" height=3D"12"/></td><td width=3D"7">&nbsp;</td><td><a href=3D"http://ww=
+w.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Dem=
+l-comm_nu_digest-pymk-conn-11-id123&ek=3Dnu_digest&mid=3D176347241" style=
+=3D"cursor:pointer;text-decoration: none;"><span style=3D"color: #0077B5; f=
+ont-size: 13px;">Connect</span></a></td></tr></tbody></table></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr><tr><td><table width=3D"1" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><=
+tbody><tr><td><div style=3D"height:10px;font-size:10px;line-height:10px">&n=
+bsp;</div></td></tr></tbody></table></td></tr><tr valign=3D"top"><td width=
+=3D"270" class=3D"display-block"><table border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"1=
+00%"><tbody><tr><td width=3D"60" valign=3D"top" style=3D"vertical-align: to=
+p;"><a href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-=
+pymk-pcard&tracking=3Deml-comm_nu_digest-pymk-conn-12-id123&ek=3Dnu_digest&=
+mid=3D314003152" style=3D"text-decoration:none;cursor:pointer;"><img alt=3D=
+"Moishe Horowitz" src=3D"http://s.c.lnkd.licdn.com/scds/common/u/images/the=
+mes/katy/ghosts/person/ghost_person_80x80_v1.png" width=3D"60" height=3D"60=
+" border=3D"0" style=3D"border:none;text-decoration:none;outline:hidden;"/>=
+</a></td><td width=3D"10"><table width=3D"10px" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D=
+"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></=
+table></td><td valign=3D"top" width=3D"100%"><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; =
+font-family:Helvetica,Arial,sans-serif;font-size:13px;" width=3D"100%"><tbo=
+dy><tr><td width=3D"100%" align=3D"left" style=3D"font-size: 13px;color: #3=
+33333;" valign=3D"top"><a href=3D"http://www.linkedin.com/e/v2?e=3D2nuuno-h=
+qnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml-comm_nu_digest-pymk-conn-12-id=
+123&ek=3Dnu_digest&mid=3D314003152" style=3D"cursor:pointer;text-decoration=
+: none;"><span style=3D"color: #000000; font-weight: bold;">Moishe Horowitz=
+</span></a></td></tr><tr><td>President at Internet Garage</td></tr><tr><td =
+width=3D"100%" align=3D"left" valign=3D"top"><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; =
+font-family:Helvetica,Arial,sans-serif;font-size:13px;" width=3D"auto"><tbo=
+dy><tr valign=3D"middle"><td width=3D"12"><img src=3D"http://s.c.lnkd.licdn=
+.com/scds/common/u/img/email/pymk_connectv2.png" width=3D"12" height=3D"12"=
+/></td><td width=3D"7">&nbsp;</td><td><a href=3D"http://www.linkedin.com/e/=
+v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml-comm_nu_digest-=
+pymk-conn-12-id123&ek=3Dnu_digest&mid=3D314003152" style=3D"cursor:pointer;=
+text-decoration: none;"><span style=3D"color: #0077B5; font-size: 13px;">Co=
+nnect</span></a></td></tr></tbody></table></td></tr></tbody></table></td></=
+tr></tbody></table></td><td width=3D"20" class=3D"res-height10 display-bloc=
+k"><table width=3D"20" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" ali=
+gn=3D"left" class=3D"email-spacer display-none"><tbody><tr><td><div style=
+=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody=
+></table></td><td width=3D"270" class=3D"display-block"><table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,s=
+ans-serif; " width=3D"100%"><tbody><tr><td width=3D"60" valign=3D"top" styl=
+e=3D"vertical-align: top;"><a href=3D"http://www.linkedin.com/e/v2?e=3D2nuu=
+no-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml-comm_nu_digest-pymk-conn-1=
+3-id123&ek=3Dnu_digest&mid=3D138538490" style=3D"text-decoration:none;curso=
+r:pointer;"><img alt=3D"Trevor McLoughlin" src=3D"http://s.c.lnkd.licdn.com=
+/scds/common/u/images/themes/katy/ghosts/person/ghost_person_80x80_v1.png" =
+width=3D"60" height=3D"60" border=3D"0" style=3D"border:none;text-decoratio=
+n:none;outline:hidden;"/></a></td><td width=3D"10"><table width=3D"10px" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tb=
+ody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;<=
+/div></td></tr></tbody></table></td><td valign=3D"top" width=3D"100%"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Hel=
+vetica,Arial,sans-serif; font-family:Helvetica,Arial,sans-serif;font-size:1=
+3px;" width=3D"100%"><tbody><tr><td width=3D"100%" align=3D"left" style=3D"=
+font-size: 13px;color: #333333;" valign=3D"top"><a href=3D"http://www.linke=
+din.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml-comm_=
+nu_digest-pymk-conn-13-id123&ek=3Dnu_digest&mid=3D138538490" style=3D"curso=
+r:pointer;text-decoration: none;"><span style=3D"color: #000000; font-weigh=
+t: bold;">Trevor McLoughlin</span></a></td></tr><tr><td>--</td></tr><tr><td=
+ width=3D"100%" align=3D"left" valign=3D"top"><table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;=
+ font-family:Helvetica,Arial,sans-serif;font-size:13px;" width=3D"auto"><tb=
+ody><tr valign=3D"middle"><td width=3D"12"><img src=3D"http://s.c.lnkd.licd=
+n.com/scds/common/u/img/email/pymk_connectv2.png" width=3D"12" height=3D"12=
+"/></td><td width=3D"7">&nbsp;</td><td><a href=3D"http://www.linkedin.com/e=
+/v2?e=3D2nuuno-hqnbdisp-6c&a=3Dleo-pymk-pcard&tracking=3Deml-comm_nu_digest=
+-pymk-conn-13-id123&ek=3Dnu_digest&mid=3D138538490" style=3D"cursor:pointer=
+;text-decoration: none;"><span style=3D"color: #0077B5; font-size: 13px;">C=
+onnect</span></a></td></tr></tbody></table></td></tr></tbody></table></td><=
+/tr></tbody></table></td></tr></tbody></table><table width=3D"1" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr>=
+<td><div style=3D"height:50px;font-size:50px;line-height:50px">&nbsp;</div>=
+</td></tr></tbody></table>  </td><td width=3D"20" class=3D"res-width10"><ta=
+ble width=3D"20px" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=
+=3D"email-spacer res-width10"><tbody><tr><td><div style=3D"height:0px;font-=
+size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr><tr style=3D"background-color:#333333;"><td><table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helv=
+etica,Arial,sans-serif; " width=3D"100%"><tbody><tr><td><table width=3D"1" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><=
+tbody><tr><td><div style=3D"height:12px;font-size:12px;line-height:12px">&n=
+bsp;</div></td></tr></tbody></table></td></tr><tr><td><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" align=3D"center"><tbody><tr><td align=3D=
+"center" height=3D"30" valign=3D"middle" bgcolor=3D"#287BBC" background=3D"=
+http://s.c.lnkd.licdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.p=
+ng" style=3D"background:url(http://s.c.lnkd.licdn.com/scds/common/u/img/ema=
+il/bg_btn_katy_blue_medium.png) repeat-x scroll bottom #287BBC;background-c=
+olor:#287BBC;border:1px solid #1B5480;-moz-border-radius:3px;-webkit-border=
+-radius:3px;border-radius:3px; cursor: pointer;"><table border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-ser=
+if; " width=3D"100%" bgcolor=3D"transparent"><tbody><tr><td width=3D"13"><t=
+able width=3D"13px" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   clas=
+s=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0px;li=
+ne-height:0px">&nbsp;</div></td></tr></tbody></table></td><td><a href=3D"ht=
+tp://www.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Dnmp&tracking=3Deml-co=
+mm_nu_digest-see_all_updates&ek=3Dnu_digest" style=3D"text-decoration:none;=
+ font-size: 13px;font-family: Helvetica,Arial,sans-serif;font-weight: bold;=
+color: white;white-space: nowrap;display: block;" target=3D"_blank"><span s=
+tyle=3D"font-size: 13px;font-family: Helvetica,Arial,sans-serif;font-weight=
+: bold;color: white;white-space: nowrap;display: block;">See all updates</s=
+pan></a></td><td width=3D"13"><table width=3D"13px" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div styl=
+e=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbod=
+y></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr=
+><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   =
+class=3D"email-spacer"><tbody><tr><td><div style=3D"height:12px;font-size:1=
+2px;line-height:12px">&nbsp;</div></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=
+=3D"600" class=3D"responsive"><tbody><tr><td align=3D"left"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif; " width=3D"100%" class=3D"responsive"><tbody><tr><td><tabl=
+e width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"e=
+mail-spacer"><tbody><tr><td><div style=3D"height:10px;font-size:10px;line-h=
+eight:10px">&nbsp;</div></td></tr></tbody></table></td></tr><tr><td align=
+=3D"left"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+font-family:Helvetica,Arial,sans-serif; font-size:11px; font-family:Helveti=
+ca,Arial,sans-serif; color:#999999;" width=3D"100%" class=3D"responsive res=
+-font10"><tbody><tr><td>You are receiving Network Updates Digest emails. <a=
+ style=3D"text-decoration:none;color:#0077B5;" href=3D"https://www.linkedin=
+.com/e/v2?e=3D2nuuno-hqnbdisp-6c&t=3Deus&tracking=3Deml-comm_nu_digest-unsu=
+b_html&ek=3Dnu_digest&loid=3DAQEURRMiGlaAAQAAAUOwjFHBlLTp19lqSrCnCL3v-eB6l2=
+xRMIzk3NhEJYUEKdNHSyAtLYS6D8Dh5OCxiT8">Unsubscribe</a></td></tr><tr><td>Thi=
+s email was intended for Alex Dinsmore (Assistant at Yorgo Alexopoulos Mult=
+imedia). <a style=3D"text-decoration:none;color:#0077B5;" href=3D"http://ww=
+w.linkedin.com/e/v2?e=3D2nuuno-hqnbdisp-6c&a=3DcustomerServiceUrl&ek=3Dnu_d=
+igest&articleId=3D4788">Learn why we included this.</a></td></tr><tr><td><t=
+able width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=
+=3D"email-spacer"><tbody><tr><td><div style=3D"height:10px;font-size:10px;l=
+ine-height:10px">&nbsp;</div></td></tr></tbody></table></td></tr><tr><td>&c=
+opy; 2014, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043,=
+ USA</td></tr></tbody></table></td></tr><tr><td><table width=3D"1" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody>=
+<tr><td><div style=3D"height:20px;font-size:20px;line-height:20px">&nbsp;</=
+div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody></table><img src=3D"http://www.linkedin.com/emimp/=
+2nuuno-hqnbdisp-6c.gif" style=3D"width:1px; height:1px;"/></body></html>
+------=_Part_1412782_1348264125.1390236422655--

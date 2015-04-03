@@ -1,0 +1,582 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp15751ldh;
+        Mon, 9 Feb 2015 08:01:51 -0800 (PST)
+X-Received: by 10.224.38.70 with SMTP id a6mr14183528qae.15.1423497710162;
+        Mon, 09 Feb 2015 08:01:50 -0800 (PST)
+Return-Path: <v-cngealm_bnebkamjeo_cfafcgga_cfafcgga_a@bounce.mapmyfitness.mkt5144.com>
+Received: from mail4546.mapmyfitness.mkt5144.com (mail4546.mapmyfitness.mkt5144.com. [208.73.5.15])
+        by mx.google.com with ESMTP id j8si14712575qan.55.2015.02.09.08.01.49
+        for <dinsmorealex@gmail.com>;
+        Mon, 09 Feb 2015 08:01:50 -0800 (PST)
+Received-SPF: pass (google.com: domain of v-cngealm_bnebkamjeo_cfafcgga_cfafcgga_a@bounce.mapmyfitness.mkt5144.com designates 208.73.5.15 as permitted sender) client-ip=208.73.5.15;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of v-cngealm_bnebkamjeo_cfafcgga_cfafcgga_a@bounce.mapmyfitness.mkt5144.com designates 208.73.5.15 as permitted sender) smtp.mail=v-cngealm_bnebkamjeo_cfafcgga_cfafcgga_a@bounce.mapmyfitness.mkt5144.com;
+       dkim=pass header.i=@mapmyfitness.messages4.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=messages4.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop1024; d=mapmyfitness.messages4.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=info@mapmyfitness.messages4.com;
+ bh=j50Il76G/UlVUa7hH6APbp5SzV4=;
+ b=DAI4H2gsHXLxkZMi2m0JG3qvSAeyVV8PwArsViOLD0E0Mj4OSg/hnrIdMXDpmNhoi7jZ3dgMdezq
+   6HOAFFy4FfBCvpb9RukEd4Gz9mzfhzgceJAaggKJwDpPZsFRnO8eFhXOYz0BQSGNR2juxdCx1igO
+   Bs0Ldctl+3WMtB7P7go=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop1024; d=mapmyfitness.messages4.com;
+ b=GCTimztqmZTMSDjp3gYMTFY9EBuJsWSMFOf+fQ5TbMehm8sOpS6IvuQEQhbQyb5yPHF5UJVCfzQt
+   SK86KLaC77Emqt8qb79e1pyKmyC4s7sjpgdrq/pLaRGsB1DRmRWihIPyfcV7I/GmrKLmnU84IJ/k
+   F4Dv8RGWb4bQSoBFiek=;
+Received: by mail4546.mapmyfitness.mkt5144.com id hr3cus19if4m for <dinsmorealex@gmail.com>; Mon, 9 Feb 2015 16:00:16 +0000 (envelope-from <v-cngealm_bnebkamjeo_cfafcgga_cfafcgga_a@bounce.mapmyfitness.mkt5144.com>)
+Date: Mon, 9 Feb 2015 16:00:16 +0000 (GMT)
+From: MapMyRide <info@mapmyfitness.messages4.com>
+Reply-To: info@mapmyfitness.messages4.com
+To: dinsmorealex@gmail.com
+Message-ID: <1642734346.1186374861423497616746.JavaMail.app@rbg42.atlis1>
+Subject: Introducing the all-new Activity Feed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_487168_428368245.1423497608803"
+x-mid: 47595708
+x-job: 47595708
+x-rpcampaign: sp47595708
+x-orgId: 47208
+List-Unsubscribe: <mailto:v-cngealm_bnebkamjeo_cfafcgga_cfafcgga_a@bounce.mapmyfitness.mkt5144.com?subject=Unsubscribe>
+
+------=_Part_487168_428368245.1423497608803
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta property=3D"og:image" content=3D"http://static.mapmyfitness.com/d/ema=
+ils/WWS/wws_fb_sample3.png"/>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+
+
+=09<title></title>
+=09<style type=3D"text/css">
+=09
+=09=09#outlook a {padding:0;}
+=09=09body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-s=
+ize-adjust:100%; margin:0; padding:0;}=20
+=09=09.ExternalClass {width:100% !important;}
+=09=09.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass=
+ font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+=09=09img {outline:none; text-decoration:none; -ms-interpolation-mode: bicu=
+bic;}=20
+=09=09a img {border:none;}=20
+=09=09.applelinks a {color:#222222; text-decoration: none;}
+=09=09.ExternalClass img[class^=3Dscmmft] { width: 10px !important; height:=
+ 10px !important; display: inline !important; }=20
+=09=09
+=09=09
+=09=09/*RESPONSIVE CODE*/
+=09=09
+=09=09@media screen and (max-width: 660px) {
+=09=09
+=09=09/*wrap to 100% width*/
+=09=09*[class=3Demailwrapto100pc]{width:100% !important; height:auto !impor=
+tant;}=09
+=09=09/*hide on mobile*/
+=09=09*[class=3Demailnomob]{display:none !important;}
+=09=09/*split columns*/
+=09=09*[class=3Demailcolsplit]{width:100%!important; float:left!important;}
+=09
+=09=09/*add padding*/
+=09=09*[class=3Dpaddingh10]{padding-left:10px !important;padding-right:10px=
+ !important;}
+=09=09
+=09=09/*extends click area for links*/
+=09=09*[class=3Dlinkbutton]{width:100% auto; display:block;}
+=09=09
+=09=09/*change font size*/
+=09=09span[class=3Demailfontsize14]{font-size:14px !important;}
+=09=09span[class=3Demailfontsize16]{font-size:16px !important;}
+=09=09span[class=3Demailfontsize18]{font-size:18px !important;}
+=09=09span[class=3Demailfontsize20]{font-size:20px !important;}
+=09=09span[class=3Demailfontsize24]{font-size:24px !important; letter-spaci=
+ng:0px !important;}
+=09=09
+=09=09/*additional image resizes*/
+
+=09=09*[class=3Demailwrapto65px]{width:65px !important;}
+=09=09
+=09=09
+=09}
+=09
+=09@media screen {=09/* open sans import */
+=09=09@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://themes=
+.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTaRDOzj=
+iPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleuserc=
+ontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvx=
+L-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://=
+themes.googleusercontent.com/static/fonts/opensans/v6/MTP_ySUJH_bn48VBG8sNS=
+qRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://themes.g=
+oogleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzKRDOzjiP=
+cYnFooOUGCOsRk.woff) format('woff');
+}
+}
+=09
+=09
+
+</style>
+
+</head>
+<body style=3D"min-width:100%;padding:0; margin:0;-webkit-text-size-adjust:=
+none; background-color:#ffffff;" bgcolor=3D"#ffffff">
+
+<!--start of preheader-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eceaea">
+  <tr>
+    <td align=3D"center" style=3D"padding-left:10px;padding-right:10px;padd=
+ing-top:10px;padding-bottom:10px;">
+   =20
+   =20
+   =20
+   =20
+    <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" c=
+lass=3D"emailwrapto100pc">
+  <tr>
+    <td align=3D"left" style=3D"font-family: 'Open Sans', Arial, Helvetica,=
+ sans-serif; color:#666666; font-size:10px;">
+
+    <a   name=3D"stories_" href=3D"http://links.mapmyfitness.mkt5144.com/ct=
+t?kn=3D14&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S=
+0&mt=3D1&rt=3D0" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-=
+serif; color:#0083d5; font-size:10px; text-decoration:none;">Track, like, c=
+omment and add friends with the Activity Feed.</a>
+   =20
+    </td>
+
+  </tr>
+</table>
+   =20
+=20
+</td>
+  </tr>
+</table>
+<!--end of preheader-->
+
+
+<!--start of main content block-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#0285d7"  name=3D"Cont_0" background=3D"http://static.mapmyfitness.c=
+om/d/emails/StyleCampaign/header-bg-ride.png">
+  <tr>
+    <td align=3D"center" style=3D"border-bottom:1px solid #75766e;">
+   =20
+   =20
+   =20
+    <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" c=
+lass=3D"emailwrapto100pc">
+      <tr>
+        <td class=3D"emailwrapto100pc" width=3D"158" align=3D"center" style=
+=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; color:#666666; =
+font-size:16px;width: 100%;"><a   name=3D"logo" href=3D"http://links.mapmyf=
+itness.mkt5144.com/ctt?kn=3D1&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=
+=3D0&j=3DNjIxMDk0NDk2S0&mt=3D1&rt=3D0"><img style=3D"display:block;"   src=
+=3D"http://static.mapmyfitness.com/d/emails/logos/Final/ride_logo_email.png=
+" width=3D"180" height=3D"45" border=3D"0" alt=3D"MapMyRide" /></a></td>
+        <td align=3D"right" valign=3D"top" class=3D"emailnomob"><img style=
+=3D"display:block;"   src=3D"http://static.mapmyfitness.com/d/emails/StyleC=
+ampaign/spacer.gif" width=3D"1" height=3D"1" border=3D"0"/></td>
+      </tr>
+    </table></td>
+  </tr>
+  </table>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#f4f4f4">
+  <tr>
+    <td align=3D"center" style=3D"padding-top:25px;">
+   =20
+   =20
+
+   =20
+   =20
+
+
+
+
+  <!--start of intro text module-->
+   =20
+    <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" c=
+lass=3D"emailwrapto100pc" style=3D"background: #f4f4f4;" class=3D"emailwrap=
+to100pc">
+  <tr>
+    <td align=3D"left" style=3D"font-family: 'Open Sans', Arial, Helvetica,=
+ sans-serif; color:#666; font-size:36px;line-height:56px;font-weight: 300;"=
+ class=3D"paddingh10">
+    Introducing the all-new Activity Feed.<br />
+    <span style=3D"font-family: 'Open Sans Semibold', Arial, Helvetica, san=
+s-serif; color:#666; font-size:12px;line-height:22px;letter-spacing: 2px;pa=
+dding-bottom:5px;">TRACK, LIKE, COMMENT & ADD FRIENDS</span>
+   =20
+   =20
+    </td>
+  </tr>
+</table>
+
+
+    <!--end of intro text module-->
+   =20
+  =20
+   =20
+        <!--start of 640x200 Hero short cropfluid mobile  -->
+   =20
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"emailwrapto100pc">
+  <tr>
+    <td align=3D"center"><a   name=3D"stories_" href=3D"http://links.mapmyf=
+itness.mkt5144.com/ctt?kn=3D14&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=
+=3D0&j=3DNjIxMDk0NDk2S0&mt=3D1&rt=3D0"><img style=3D"display:block;"   src=
+=3D"http://static.mapmyfitness.com/d/emails/Feed/RIDE_Hero_640.png" border=
+=3D"0" class=3D"emailwrapto100pc"/></a></td>
+  </tr>
+</table>
+        <!--end of 640x200 Hero short cropfluid mobile  -->
+       =20
+       =20
+              <!--start of 640x200 Hero short cropfluid mobile  -->
+   =20
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"emailwrapto100pc">
+  <tr>
+    <td style=3D"padding-bottom:25px;" align=3D"center"><a   name=3D"storie=
+s_" href=3D"http://links.mapmyfitness.mkt5144.com/ctt?kn=3D14&ms=3DNDc1OTU3=
+MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S0&mt=3D1&rt=3D0"><img s=
+tyle=3D"display:block;"   src=3D"http://static.mapmyfitness.com/d/emails/Fe=
+ed/Comment_Like.png" border=3D"0" class=3D"emailwrapto100pc"/></a></td>
+  </tr>
+</table>
+        <!--end of 640x200 Hero short cropfluid mobile  -->
+
+
+
+              <!--start of 640x200 Hero short cropfluid mobile  -->
+   =20
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"emailwrapto100pc">
+  <tr>
+    <td style=3D"padding-bottom:25px;" align=3D"center"><a   name=3D"storie=
+s_" href=3D"http://links.mapmyfitness.mkt5144.com/ctt?kn=3D14&ms=3DNDc1OTU3=
+MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S0&mt=3D1&rt=3D0"><img s=
+tyle=3D"display:block;"   src=3D"http://static.mapmyfitness.com/d/emails/Fe=
+ed/Percentile.png" border=3D"0" class=3D"emailwrapto100pc"/></a></td>
+  </tr>
+</table>
+        <!--end of 640x200 Hero short cropfluid mobile  -->
+
+
+
+           <!--start of intro text module-->
+   =20
+    <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" c=
+lass=3D"emailwrapto100pc">
+  <tr>
+    <td align=3D"center" style=3D"font-family: 'Open Sans', Arial, Helvetic=
+a, sans-serif; color:#666666; font-size:16px;line-height:26px;padding-botto=
+m:15px;" class=3D"paddingh10">
+   =20
+    When you perform in the top 10% of your age and gender group, it=E2=80=
+=99s a big deal. With the new Activity Feed, you and your friends will cele=
+brate your achievement.
+   =20
+    </td>
+  </tr>
+</table>
+
+
+    <!--end of intro text module-->
+   =20
+   =20
+   =20
+   =20
+   =20
+
+
+
+<!--start of footer - 1 CTA button Orange with White Background -->
+
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#f4f4f4">
+  <tr>
+    <td align=3D"center" style=3D"padding-left:10px;padding-right:10px;padd=
+ing-top:15px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"640" class=3D"emailwrapto100pc">
+      <tr>
+        <td align=3D"center" style=3D"padding-left:30px;padding-right:30px;=
+"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"emailwra=
+pto100pc">
+          <tr>
+              <td align=3D"center" class=3D"emailcolsplit" style=3D"padding=
+-bottom:30px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" clas=
+s=3D"emailwrapto100pc">
+                <tr>
+                  <td align=3D"center"><table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" class=3D"emailwrapto100pc">
+                    <tr>
+                      <td align=3D"center" style=3D"padding-top:8px;padding=
+-bottom:8px;border-radius:5px; padding-right:18px;padding-left:18px;box-sha=
+dow:0px 2px 2px #cccccc; background-image:url(http://static.mapmyfitness.co=
+m/d/emails/StyleCampaign/org_9x40.png)"><a   name=3D"about_mapmyfitness_com=
+_20_4" href=3D"http://links.mapmyfitness.mkt5144.com/ctt?kn=3D11&ms=3DNDc1O=
+TU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S0&mt=3D1&rt=3D0" sty=
+le=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; color:#ffffff=
+; font-size:16px; font-weight:600; text-decoration:none;padding-top:5px;pad=
+ding-bottom:5px;border-radius:5px; padding-right:10px;padding-left:10px; le=
+tter-spacing:.5px;">VIEW YOUR FEED</a></td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+            </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<!--end of footer - 1 CTA button Orange -->
+
+
+       =20
+       =20
+       =20
+       =20
+       =20
+       =20
+
+       <!--start of new footer-->
+       =20
+       =20
+       =20
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"emailwrapto100pc" bgcolor=3D"#316381">
+  <tr>
+    <td style=3D"padding: 25px 20px 20px 30px;">
+      <a   name=3D"facebook_footer" href=3D"http://links.mapmyfitness.mkt51=
+44.com/ctt?kn=3D3&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxM=
+Dk0NDk2S0&mt=3D1&rt=3D0">
+        <img   src=3D"http://static.mapmyfitness.com/d/emails/WWS/Footer_Fa=
+cebook_29x29.png" alt=3D"Visit our Facebook Page" width=3D"29" height=3D"29=
+" />
+      </a>
+    </td>
+    <td style=3D"padding: 0 20px 0 0;">
+      <a   name=3D"twitter_footer" href=3D"http://links.mapmyfitness.mkt514=
+4.com/ctt?kn=3D13&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxM=
+Dk0NDk2S0&mt=3D1&rt=3D0">
+        <img   src=3D"http://static.mapmyfitness.com/d/emails/WWS/Footer_Tw=
+itter_29x29.png" alt=3D"Check Our Tweets" width=3D"29" height=3D"29" />
+      </a>
+    </td>
+    <td style=3D"padding: 0 20px 0 0;">
+      <a   name=3D"instagram_footer" href=3D"http://links.mapmyfitness.mkt5=
+144.com/ctt?kn=3D2&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIx=
+MDk0NDk2S0&mt=3D1&rt=3D0">
+        <img   src=3D"http://static.mapmyfitness.com/d/emails/WWS/Footer_In=
+stagram_29x29.png" alt=3D"View the MMF Instagram" width=3D"29" height=3D"29=
+" />
+      </a>
+    </td>
+    <!--td style=3D"width: 227px;"></td-->
+=09<td style=3D"padding: 0 20px 0 0;">
+      <a   name=3D"UA_footer" href=3D"http://links.mapmyfitness.mkt5144.com=
+/ctt?kn=3D15&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0ND=
+k2S0&mt=3D1&rt=3D0">
+        <img   src=3D"http://static.mapmyfitness.com/d/emails/WWS/Footer_UA=
+.png" alt=3D"Shop UnderArmour.com" width=3D"49" height=3D"29" />
+      </a>
+    </td>
+=09<td style=3D"padding: 0 20px 0 0;">
+      <a   name=3D"MMF_footer_1" href=3D"http://links.mapmyfitness.mkt5144.=
+com/ctt?kn=3D5&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0=
+NDk2S0&mt=3D1&rt=3D0">
+        <img   src=3D"http://static.mapmyfitness.com/d/emails/WWS/Footer_MM=
+Fitness_29x29.png" alt=3D"MapMyFitness" width=3D"29" height=3D"29" />
+      </a>
+    </td>
+    <td style=3D"padding: 0 20px 0 0;" class=3D"emailnomob">
+      <a   name=3D"MMR_footer" href=3D"http://links.mapmyfitness.mkt5144.co=
+m/ctt?kn=3D7&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0ND=
+k2S0&mt=3D1&rt=3D0">
+        <img   src=3D"http://static.mapmyfitness.com/d/emails/WWS/Footer_MM=
+Run_29x29.png" alt=3D"MapMyRun" width=3D"29" height=3D"29" />
+      </a>
+    </td>
+    <td style=3D"padding: 0 20px 0 0;" class=3D"emailnomob">
+      <a   name=3D"MMRi_footer" href=3D"http://links.mapmyfitness.mkt5144.c=
+om/ctt?kn=3D16&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0=
+NDk2S0&mt=3D1&rt=3D0">
+        <img   src=3D"http://static.mapmyfitness.com/d/emails/WWS/Footer_MM=
+Ride_29x29.png" alt=3D"MapMyRide" width=3D"29" height=3D"29" />
+      </a>
+    </td>
+    <td style=3D"padding: 0 10px 0 0" class=3D"emailnomob">
+      <a   name=3D"MMW_footer" href=3D"http://links.mapmyfitness.mkt5144.co=
+m/ctt?kn=3D6&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0ND=
+k2S0&mt=3D1&rt=3D0">
+        <img   src=3D"http://static.mapmyfitness.com/d/emails/WWS/Footer_MM=
+Walk_29x29.png" alt=3D"MapMyWalk" width=3D"29" height=3D"29" />
+      </a>
+    </td>
+  </tr>
+</table>
+        <!--end of new footer-->
+
+
+
+
+
+
+       =20
+        <!--start of closing tags for outermost container -->
+</td>
+  </tr>
+</table>
+
+        <!--end of closing tags for outermost container -->
+
+
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+<!--start of unsub footer-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eceaea">
+  <tr>
+    <td align=3D"center" style=3D"padding-left:10px;padding-right:10px;padd=
+ing-top:25px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"640" class=3D"emailwrapto100pc">
+      <tr>
+        <td align=3D"center">
+         =20
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+            <tr>
+              <td align=3D"center" class=3D"emailcolsplit" style=3D"padding=
+-bottom:30px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <td style=3D"font-family: 'Open Sans', Arial, Helvetica, =
+sans-serif; color:#666666; font-size:10px; text-decoration:none;"><a   name=
+=3D"Customer-Service" href=3D"http://links.mapmyfitness.mkt5144.com/ctt?kn=
+=3D9&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S0&mt=
+=3D1&rt=3D0" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-seri=
+f; color:#666666; font-size:10px; text-decoration:none;">Customer Service</=
+a></td>
+                  <td><img style=3D"display:block;"   src=3D"http://static.=
+mapmyfitness.com/d/emails/StyleCampaign/spacer.gif" width=3D"20" height=3D"=
+1" border=3D"0"/></td>
+                  <td style=3D"font-family: 'Open Sans', Arial, Helvetica, =
+sans-serif; color:#666666; font-size:10px; text-decoration:none;"><a name=
+=3D"unsub"  href=3D"http://links.mapmyfitness.mkt5144.com/servlet/OneClickO=
+ptOutServlet?m=3D47595708&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S0&m=
+t=3D1&rt=3D0" target=3D"_blank" style=3D"font-family: 'Open Sans', Arial, H=
+elvetica, sans-serif; color:#666666; font-size:10px; text-decoration:none;"=
+>Unsubscribe</a></td>
+                </tr>
+              </table></td>
+              <td class=3D"emailnomob"><img style=3D"display:block;"   src=
+=3D"http://static.mapmyfitness.com/d/emails/StyleCampaign/spacer.gif" width=
+=3D"20" height=3D"1" border=3D"0"/></td>
+              <td align=3D"center" class=3D"emailcolsplit" style=3D"padding=
+-bottom:30px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                <tr>
+                  <td style=3D"font-family: 'Open Sans', Arial, Helvetica, =
+sans-serif; color:#666666; font-size:10px; text-decoration:none;"><a   name=
+=3D"Manage-Subscriptions" href=3D"http://links.mapmyfitness.mkt5144.com/ctt=
+?kn=3D4&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S0&=
+mt=3D1&rt=3D0" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-se=
+rif; color:#666666; font-size:10px; text-decoration:none;">Manage Subscript=
+ions</a></td>
+                  <td><img style=3D"display:block;"   src=3D"http://static.=
+mapmyfitness.com/d/emails/StyleCampaign/spacer.gif" width=3D"20" height=3D"=
+1" border=3D"0"/></td>
+                  <td style=3D"font-family: 'Open Sans', Arial, Helvetica, =
+sans-serif; color:#666666; font-size:10px; text-decoration:none;"><a   name=
+=3D"Privacy-Policy" href=3D"http://links.mapmyfitness.mkt5144.com/ctt?kn=3D=
+10&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S0&mt=3D=
+1&rt=3D0" style=3D"font-family: 'Open Sans', Arial, Helvetica, sans-serif; =
+color:#666666; font-size:10px; text-decoration:none;">Privacy Policy</a></t=
+d>
+                    <td><img style=3D"display:block;"   src=3D"http://stati=
+c.mapmyfitness.com/d/emails/StyleCampaign/spacer.gif" width=3D"20" height=
+=3D"1" border=3D"0"/></td>
+                  <td style=3D"font-family: 'Open Sans', Arial, Helvetica, =
+sans-serif; color:#666666; font-size:10px; text-decoration:none;"><a  name=
+=3D"Connected-Fitness-Logo" href=3D"http://links.mapmyfitness.mkt5144.com/c=
+tt?kn=3D8&ms=3DNDc1OTU3MDgS1&r=3DMTI1NjU1MTA3OTE4S0&b=3D0&j=3DNjIxMDk0NDk2S=
+0&mt=3D1&rt=3D0"><img   src=3D"http://static.mapmyfitness.com/d/emails/logo=
+s/Connected_Fitness_Logo.png" alt=3D"Under Armour Connected Fitness" width=
+=3D"137" height=3D"16" /></a></td>
+                </tr>
+              </table></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<!--end of unsub footer-->
+
+
+
+
+<!--start of grey footer-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eceaea">
+  <tr>
+    <td align=3D"center" style=3D"padding-left:10px;padding-right:10px;padd=
+ing-top:5px;padding-bottom:25px;"><table width=3D"640" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" class=3D"emailwrapto100pc">
+      <tr>
+        <td align=3D"center" style=3D"font-family: 'Open Sans', Arial, Helv=
+etica, sans-serif; color:#666666; font-size:10px;padding-bottom:20px;">Appl=
+e and iPhone are trademarks of Apple Inc., registered in the U.S. and other=
+ countries. App Store is a service mark of Apple Inc.<br /><br />This email=
+ was sent by MapMyFitness, Inc. 610 W. 5th Street, Austin, TX 78701.</td>
+        </tr><tr>
+        <td align=3D"center" style=3D"font-family: 'Open Sans', Arial, Helv=
+etica, sans-serif; color:#666666; font-size:10px;">&copy; 2014 MapMyFitness=
+, Inc. All rights reserved</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<!--end of new footer-->
+<IMG src=3D"http://links.mapmyfitness.mkt5144.com/open/log/47595708/MTI1NjU=
+1MTA3OTE4S0/0/NjIxMDk0NDk2S0/1/0"></body>
+</html>
+
+
+------=_Part_487168_428368245.1423497608803--
+

@@ -1,0 +1,962 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.80.68 with SMTP id p4csp509611ldx;
+        Wed, 24 Sep 2014 06:07:43 -0700 (PDT)
+X-Received: by 10.70.94.104 with SMTP id db8mr12085467pdb.124.1411564062294;
+        Wed, 24 Sep 2014 06:07:42 -0700 (PDT)
+Return-Path: <blurb.52610@envfrm.rsys5.com>
+Received: from omp.makebooks.blurb.com (omp.makebooks.blurb.com. [199.7.204.114])
+        by mx.google.com with ESMTP id ti10si26142250pab.206.2014.09.24.06.07.41
+        for <dinsmorealex@gmail.com>;
+        Wed, 24 Sep 2014 06:07:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) client-ip=199.7.204.114;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) smtp.mail=blurb.52610@envfrm.rsys5.com;
+       dkim=pass header.i=@makebooks.blurb.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=makebooks.blurb.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=blurb; d=makebooks.blurb.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=support@makebooks.blurb.com;
+ bh=e6Rj+Z3E9lnMijAG13HU/jHQYZ4=;
+ b=RiV0RIWpeuit5/XoKyAE5yjB8NtvUdmtFQslMq1n7Qk2D/sCmfvHlFDBq6FN9zmONlOeNNZ20p98
+   8rt6smEgLKjSPtBrRXIsq+0rmjvLI8iPQI4WftZ0HAUULDiG06QDDuu58n6kseK1y5ZhG5lOxhHI
+   WVHzQ9NwdwYf/aiJ25I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=blurb; d=makebooks.blurb.com;
+ b=gw7om0k45s39AR1Cz+Nti0uz1fndLgJ/wrWqrKJvr1hvqtWYVqBIL2M5nqUFZCVM8/4kSb3gdtGv
+   5a2PVkj6t+qqbCsF6+yUemCahLaobr0XzgUpSVjn5ooq7LSgPBbFrYFddxSGVgmBoYfHEkxl9Iws
+   y5f6syLY5opeonf/abM=;
+Received: by omp.makebooks.blurb.com id h4b11s1607gi for <dinsmorealex@gmail.com>; Wed, 24 Sep 2014 06:03:52 -0700 (envelope-from <blurb.52610@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 24 Sep 2014 06:03:52 -0700
+To: dinsmorealex@gmail.com
+From: "Blurb" <support@makebooks.blurb.com>
+Reply-To: "Blurb" <noreply@makebooks.blurb.com>
+Subject: =?UTF-8?B?Qmx1cmIgTWFnYXppbmVz4oCUcHJvZmVzc2lvbmFsLCBzbGljaywg?=
+	=?UTF-8?B?YW5kIGdsb3NzeQ==?=
+List-Unsubscribe: <http://makebooks.blurb.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3&_ei_=EolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2>, <mailto:unsubscribe-WQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: KpgkuhjLHtLzfxnuHptQJhu
+X-rext: 4.interact5.EvEv5maifawz9J33SZQhrQov-ey4SuphvpU
+X-cid: blurb.337395
+Message-ID: <0.1.3.B58.1CFD7F7FD90D032.0@omp.makebooks.blurb.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html>
+<head>
+<title>Blurb Magazines=E2=80=94professional, slick, and glossy</title>
+<style type=3D=22text/css=22>
+=40charset =22UTF-8=22;
+html =7B
+	-webkit-text-size-adjust: none;
+=7D
+=2EReadMsgBody =7B
+	width: 100%;
+=7D
+=2EExternalClass =7B
+	width: 100%;
+=7D
+=2EExternalClass * =7B
+	line-height: 100%
+=7D
+=2EappleLinksWhite a =7B
+	color: =23ffffff;
+	text-decoration: none;
+=7D
+body =7B
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	margin: 0 auto;
+	background-repeat: repeat-x;
+=7D
+=40media screen and (max-width: 620px) =7B
+*=5Bclass=5D=2Eblock =7B
+	display: block =21important;
+=7D
+*=5Bclass=5D=2Ehide =7B
+	display: none =21important;
+=7D
+*=5Bclass=5D=2Erel =7B
+	position: relative =21important;
+=7D
+*=5Bclass=5D=2Eabs =7B
+	position: absolute =21important;
+=7D
+*=5Bclass=5D=2Eshow =7B
+	display: block =21important;
+	width: auto =21important;
+	overflow: visible =21important;
+	float: none =21important;
+	max-height: inherit =21important;
+	line-height: inherit =21important;
+=7D
+/* ALIGNMENT */
+*=5Bclass=5D=2Ealigncenter =7B
+	text-align: center =21important;
+=7D
+*=5Bclass=5D=2Ealignleft =7B
+	text-align: left =21important;
+=7D
+/*** widths ****/
+
+*=5Bclass=5D=2Ewidth15 =7B
+	width: 15px =21important;
+=7D
+*=5Bclass=5D=2Ewidth160 =7B
+	width: 160px =21important;
+=7D
+*=5Bclass=5D=2Ewidth270 =7B
+	width: 270px =21important;
+=7D
+*=5Bclass=5D=2Ewidth290 =7B
+	width: 290px =21important;
+=7D
+*=5Bclass=5D=2Ewidth320 =7B
+	width: 320px =21important;
+=7D
+/*** height ***/
+*=5Bclass=5D=2Ehauto =7B
+	height: auto =21important;
+=7D
+*=5Bclass=5D=2Eheight1 =7B
+	height: 1px =21important;
+=7D
+/*** padding/margin ****/
+*=5Bclass=5D=2Epaddingr20 =7B
+	padding-right: 20px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl20 =7B
+	padding-left: 20px =21important;
+=7D
+*=5Bclass=5D=2Epaddinglrb20 =7B
+	padding: 0px 20px 20px =21important;
+=7D
+/*** fonts ****/
+*=5Bclass=5D=2Efont14 =7B
+	font-size: 14px =21important;
+=7D
+*=5Bclass=5D=2Efont18 =7B
+	font-size: 18px =21important;
+=7D
+*=5Bclass=5D=2Eline20 =7B
+	line-height: 20px =21important;
+=7D
+*=5Bclass=5D=2Eline22 =7B
+	line-height: 22px =21important;
+=7D
+/*** positioning ***/
+*=5Bclass=5D=2Etop21 =7B
+	top: 21px =21important;
+=7D
+*=5Bclass=5D=2Ebggrey =7B
+	background-color: =23f5f5f5 =21important;
+=7D
+*=5Bclass=5D=2Ebggrey_drk =7B
+	background-color: =23e3e3e3 =21important;
+=7D
+*=5Bclass=5D=2Ebgwhite =7B
+	background-color: =23ffffff =21important;
+=7D
+=7D</style>
+</head>
+<body width=3D=22100%=22 style=3D=22padding:0; margin:0;=22 bgcolor=3D=22=
+=23FFFFFF=22>
+<=21--=5Bif gte mso 9=5D>
+<style>
+=2Emr15=7B margin-right:15px =21important;=7D
+=2Eml15=7B margin-left:15px =21important;=7D
+=2Emr5lr5 =7B margin-left:5px =21important; margin-right:5px =21important;=
+=7D
+=2Emr20lr20 =7B margin-left:20px =21important; margin-right:20px =21importa=
+nt;=7D
+=2Emm1=7B margin-left:30px =21important; margin-right:30px =21important;=7D
+=2Emm2=7B margin-left:15px =21important; margin-right:15px =21important;=7D
+=2Emm3=7B margin-left:50px =21important; margin-right:50px =21important;=7D
+=2Emm4=7B margin-left:15px =21important; margin-right:5px =21important;=7D
+=2Emm5=7B margin-left:10px =21important; margin-right:10px =21important;=7D
+</style>
+<=21=5Bendif=5D-->
+<center>
+  <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=22>
+    <tr>
+      <td align=3D=22center=22 bgcolor=3D=22=23cc0001=22><table width=3D=22=
+600=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22width320=22>
+          <tr>
+            <td bgcolor=3D=22=23FFFFFF=22>
+
+              <=21-- hero image-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtp=
+KX%3DWABTCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF=
+8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img src=3D=22http:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1494-blu=
+rb=2Epng=22 style=3D=22display:block; border:0;=22 alt=3D=22=22 width=3D=22=
+600=22 class=3D=22width320 hauto=22 /></a></td>
+                </tr>
+              </table>
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtp=
+KX%3DWABURY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF=
+8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img src=3D=22http:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1494-hea=
+der=2Epng=22 style=3D=22display:block; border:0;=22 alt=3D=22Blurb on Magaz=
+ines=22 width=3D=22600=22 class=3D=22width320 hauto=22 /></a></td>
+                </tr>
+              </table>
+             =20
+              <=21--Text block-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22 bgcolor=3D=22=23ffffff=22>
+                <tr>
+                  <td width=3D=2225=22 class=3D=22width15=22></td>
+                  <td width=3D=22550=22 align=3D=22left=22 valign=3D=22top=
+=22 class=3D=22width290=22><table cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22550=22 class=3D=22width290=22 bgcolor=3D=22=23ececec=22>
+                      <tr>
+                        <td width=3D=2210=22 bgcolor=3D=22=23000000=22></td>
+                        <td width=3D=22530=22 class=3D=22width270=22><div s=
+tyle=3D=22font-family:Arial, Helvetica, sans-serif; font-size:14px; line-he=
+ight:20px; color:=23000000; padding: 20px;=22 class=3D=22font14 line20=22>A=
+ magazine is an amazing format=2E It has a casual feel but can still hold s=
+erious&mdash;and seriously good&mdash;content=2E It gives you tons of page =
+space to play with=2E And it's a long-form medium suited for bite-sized sec=
+tions of content=2E Whether you want to design your own magazine template&m=
+dash;made easy with Blurb&reg; BookWright&reg;&mdash;or get inspiration fro=
+m those creating magazine masterpieces, a la <em>Refueled</em> and <em>AXIO=
+M</em>, we've got you covered this week=2E</div></td>
+                        <td width=3D=2210=22 bgcolor=3D=22=23000000=22></td>
+                      </tr>
+                    </table></td>
+                  <td width=3D=2225=22 class=3D=22width15=22></td>
+                </tr>
+              </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- column title -->
+
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td bgcolor=3D=22=23000000=22 width=3D=22600=22 class=3D=
+=22width320=22 align=3D=22center=22><div style=3D=22font-family:Arial, Helv=
+etica, sans-serif; font-size:22px; line-height:26px; color:=23ffffff; paddi=
+ng: 20px; letter-spacing: 0=2E1em;=22 class=3D=22font18 line22=22>THE COLUM=
+N: CHRIS BROWN</div></td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- column content -->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22 bgcolor=3D=22=23ffffff=22>
+                <tr>
+                  <td width=3D=2225=22 class=3D=22width15=22></td>
+                  <td width=3D=22550=22 align=3D=22left=22 valign=3D=22top=
+=22 class=3D=22width290=22>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22 widt=
+h=3D=22550=22 class=3D=22width290=22>
+                      <tr>
+                        <td width=3D=22220=22 class=3D=22width290 block=22 =
+valign=3D=22top=22>
+                          <table cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22220=22 class=3D=22width290=22>
+                            <tr>
+                              <td><a href=3D=22http://makebooks=2Eblurb=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioN=
+i3VXtpKX%3DWABUTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7q=
+lYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img src=3D=22=
+http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-14=
+96-col-chris-brown=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=
+=22Chris Brown=22 width=3D=22220=22 class=3D=22width290 hauto=22/></a></td>
+                            </tr>
+                            <tr>
+                              <td height=3D=2210=22><img src=3D=22http://re=
+sponsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=2Egif=22=
+ height=3D=221=22 width=3D=221=22 style=3D=22display:block; border:0;=22 />=
+</td>
+                            </tr>
+                            <tr>
+                              <td width=3D=22220=22 class=3D=22width290=22>=
+<br />
+                                <div style=3D=22font-family:Arial, Helvetic=
+a, sans-serif; font-size:13px; line-height:19px; color:=23000000; font-weig=
+ht:bold;=22 class=3D=22font14 line20=22>Growing up a child of the sixties i=
+n a small Texas town, there were very few options when it came to discoveri=
+ng the world around you=2E Unless, of course, you decided to leave the secu=
+rity of your neighborhood on your Schwinn=2E There was AM radio, black and =
+white television with three channels, and&mdash;most influential for myself=
+&mdash;print=2E</div>
+                                <br />
+                                <div style=3D=22font-family:Arial, Helvetic=
+a, sans-serif; font-size:13px; line-height:19px; color:=23000000;=22 class=
+=3D=22font14 line20=22><em>LIFE</em> magazine, with its large format, full =
+bleed Kodachrome photos of the American dream, inter-related cultural and p=
+olitical trends, and the Apollo program, fed my curious young mind with dre=
+ams of travel=2E And then there was <em>MAD</em>, the enemy of parents and =
+teachers=2E The afternoon my grandfather bought me my first issue at the lo=
+cal emporium he had no idea he was unleashing a rebel&mdash;one who would f=
+orever ask questions and forge a different path=2E</div>
+                                <br />
+                                <div style=3D=22font-family:Arial, Helvetic=
+a, sans-serif; font-size:13px; line-height:19px; color:=23000000;=22 class=
+=3D=22font14 line20=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtpKX%3D=
+WABUWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO=
+8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22text-decoratio=
+n:none; color: =2300adef;=22>READ MORE</a></div>
+                                <br /></td>
+                            </tr>
+                          </table></td>
+                        <td width=3D=2230=22 class=3D=22hide=22></td>
+                        <td width=3D=22300=22 class=3D=22width290 block=22 =
+bgcolor=3D=22=23ffffff=22 valign=3D=22top=22>
+                          <table cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22300=22 class=3D=22width290=22>
+                            <tr>
+                              <td><img src=3D=22http://responsys=2Ehs=2Elln=
+wd=2Enet/i5/responsysimages/content/blurb/MAR-1496-col-book-one=2Ejpg=22 st=
+yle=3D=22display:block; border:0;=22 alt=3D=22Refueled 1=22 width=3D=22300=
+=22 class=3D=22width290 hauto=22/></td>
+                            </tr>
+                            <tr>
+                              <td height=3D=2220=22><img src=3D=22http://re=
+sponsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=2Egif=22=
+ height=3D=221=22 width=3D=221=22 style=3D=22display:block; border:0;=22 />=
+</td>
+                            </tr>
+                            <tr>
+                              <td><img src=3D=22http://responsys=2Ehs=2Elln=
+wd=2Enet/i5/responsysimages/content/blurb/MAR-1496-col-book-two=2Ejpg=22 st=
+yle=3D=22display:block; border:0;=22 alt=3D=22Refueled 2=22 width=3D=22300=
+=22 class=3D=22hide=22/></td>
+                            </tr>
+                            <tr>
+                              <td height=3D=2220=22><img src=3D=22http://re=
+sponsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/spacer=2Egif=22=
+ height=3D=221=22 width=3D=221=22 style=3D=22display:block; border:0;=22 />=
+</td>
+                            </tr>
+                            <tr>
+                              <td><img src=3D=22http://responsys=2Ehs=2Elln=
+wd=2Enet/i5/responsysimages/content/blurb/MAR-1496-col-book-three=2Ejpg=22 =
+style=3D=22display:block; border:0;=22 alt=3D=22Refueled 3=22 width=3D=2230=
+0=22 class=3D=22hide=22/></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width=3D=2225=22 class=3D=22width15=22></td>
+                </tr>
+              </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22 class=3D=22hide=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- top content title -->
+
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td bgcolor=3D=22=23000000=22 width=3D=22600=22 class=3D=
+=22width320=22 align=3D=22center=22><div style=3D=22font-family:Arial, Helv=
+etica, sans-serif; font-size:22px; line-height:28px; color:=23ffffff; paddi=
+ng: 20px; letter-spacing: 0=2E1em;=22 class=3D=22font18 line22=22>MAKING YO=
+UR OWN TEMPLATES WITH BLURB BOOKWRIGHT</div></td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21-- Top content -->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22 bgcolor=3D=22=23ffffff=22>
+                <tr>
+                  <td width=3D=2225=22 class=3D=22width15=22></td>
+                  <td width=3D=22550=22 align=3D=22left=22 valign=3D=22top=
+=22 class=3D=22width290=22>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22 widt=
+h=3D=22550=22 class=3D=22width290=22>
+                      <tr>
+                        <td width=3D=22300=22 class=3D=22width290 block=22 =
+valign=3D=22top=22>
+                          <table cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22300=22 class=3D=22width290=22>
+                            <tr>
+                              <td><a href=3D=22http://makebooks=2Eblurb=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioN=
+i3VXtpKX%3DWABUAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7q=
+lYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img src=3D=22=
+http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-14=
+96-fea-text-containers=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=
+=3D=22Templates=22 width=3D=22300=22 class=3D=22width290 hauto=22/></a></td>
+                            </tr>
+                            <tr>
+                              <td width=3D=22290=22 class=3D=22width290=22>=
+<br />
+                                <div style=3D=22font-family:Arial, Helvetic=
+a, sans-serif; font-size:13px; line-height:19px; color:=23000000;=22 class=
+=3D=22font14 line20=22>If you want to give your magazine a truly unique loo=
+k, you'll want to create your own layouts=2E One of the beauties of Blurb B=
+ookWright is how easy it is to make custom layouts to perfectly suit your c=
+ontent=2E If you can draw a box with a cursor, you're already halfway there=
+=2E</div>
+                                <br />
+                                <div style=3D=22font-family:Arial, Helvetic=
+a, sans-serif; font-size:13px; line-height:19px; color:=23000000;=22 class=
+=3D=22font14 line20=22>You can draw multiple containers, overlap them, and =
+even change the order of how they overlap=2E Instead of just listing the fe=
+atures, we thought we'd ask one of our dedicated BookWright users&mdash;who=
+ just so happens to work at Blurb&mdash;to take us through how he creates h=
+is own templates=2E</div>
+                                <br />
+                                <div style=3D=22font-family:Arial, Helvetic=
+a, sans-serif; font-size:13px; line-height:19px; color:=23000000;=22 class=
+=3D=22font14 line20=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtpKX%3D=
+WABUCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO=
+8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22text-decoratio=
+n:none; color: =2300adef;=22>READ MORE</a></div>
+                                <br /></td>
+                            </tr>
+                          </table>
+                        </td>
+                        <td width=3D=2225=22 class=3D=22hide=22></td>
+                        <td width=3D=22235=22 class=3D=22width290 block=22 =
+bgcolor=3D=22=23000000=22 valign=3D=22top=22><div style=3D=22font-family:Ar=
+ial, Helvetica, sans-serif; font-size:18px; line-height:22px; color:=23f4f4=
+f4; padding: 20px 20px 0px; font-weight:bold;=22 class=3D=22font18 line22=
+=22>Blurb Magazines</div>
+                          <div style=3D=22font-family:Arial, Helvetica, san=
+s-serif; font-size:13px; line-height:20px; color:=23f4f4f4; padding: 0px 20=
+px;=22 class=3D=22font14 line20=22>
+                            <ul style=3D=22padding: 0px 15px;=22>          =
+                    <li>8=2E5 x 11 inches</li>                             =
+<li>Perfect bound</li>                              <li>Two formats</li>   =
+                          <li>Unlimited possibilities</li>
+                              <li style=3D=22list-style: none;=22>&nbsp;</l=
+i>
+                              <li style=3D=22list-style: none; font-weight:=
+ bold;=22>Premium magazine</li>                     <li>High quality Indigo=
+ printing</li>                              <li>80=23 UV-coated cover</li> =
+                             <li>80=23 matte pages</li>                    =
+          <li>=245=2E99 for 20 pages</li>                              <li>=
+=240=2E20 for each additional page</li>
+                              <li style=3D=22list-style: none;=22>&nbsp;</l=
+i>
+                              <li style=3D=22list-style: none; font-weight:=
+ bold;=22>Economy magazine</li>                       <li>Inkjet printing</=
+li>                             <li>65=23 matte cover</li>                 =
+             <li>60=23 gloss pages</li>                              <li>=
+=244=2E99 for 20 pages</li>                              <li>=240=2E15 for =
+each additional page</li>
+                            </ul>
+                            Make yours today</div>
+                          <table cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22100%=22>
+                            <tr>
+                              <td width=3D=2220=22></td>
+                              <td width=3D=2260=22><a href=3D=22http://make=
+books=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zd=
+zaojzahNqLPW1mioNi3VXtpKX%3DWABWRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYu=
+ie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=
+=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/blurb/MAR-1494-bookwright=2Ejpg=22 style=3D=22display:block; border:0=
+; padding: 10px; padding-left: 0px;=22 alt=3D=22BookWright=22 width=3D=2260=
+=22 /></a></td>
+                              <td width=3D=2260=22><a href=3D=22http://make=
+books=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zd=
+zaojzahNqLPW1mioNi3VXtpKX%3DWABWTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYu=
+ie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=
+=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/blurb/MAR-1494-indesign=2Ejpg=22 style=3D=22display:block; border:0;p=
+adding: 10px;=22 alt=3D=22InDesign=22 width=3D=2260=22 /></a></td>
+                              <td width=3D=2220=22></td>
+                            </tr>
+                          </table>
+                          <div style=3D=22font-family:Arial, Helvetica, san=
+s-serif; font-size:13px; line-height:20px; color:=23ffffff; padding: 0px 20=
+px 20px;=22 class=3D=22font14 line20=22><a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLP=
+W1mioNi3VXtpKX%3DWABWWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZy=
+EgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=
+=22color: =2300adef; text-decoration: none;=22>READ MORE</a></div></td>
+                      </tr>
+                    </table></td>
+                  <td width=3D=2225=22 class=3D=22width15=22></td>
+                </tr>
+              </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21--Bottom section-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td bgcolor=3D=22=23000000=22 width=3D=22600=22 class=3D=
+=22width320=22 align=3D=22center=22><div style=3D=22font-family:Arial, Helv=
+etica, sans-serif; font-size:22px; line-height:26px; color:=23ffffff; paddi=
+ng: 20px; letter-spacing: 0=2E1em;=22 class=3D=22font18 line22=22>MAGAZINE =
+SPOTLIGHT: AXIOM</div></td>
+                </tr>
+              </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2220=22 style=3D=22line-height:20px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtp=
+KX%3DWABWAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF=
+8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img src=3D=22http:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1496-spo=
+t-axiom=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=22AXIOM=22 w=
+idth=3D=22600=22 class=3D=22width320 hauto=22 /></a></td>
+                </tr>
+              </table>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2220=22 style=3D=22line-height:20px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21-- Spotlight-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22 bgcolor=3D=22=23ffffff=22>
+                <tr>
+                  <td width=3D=2230=22 class=3D=22width15=22></td>
+                  <td width=3D=22540=22 align=3D=22left=22 valign=3D=22top=
+=22 class=3D=22width290=22>
+                    <table cellpadding=3D=220=22 cellspacing=3D=220=22 widt=
+h=3D=22540=22 class=3D=22width290=22>
+                      <tr>
+                        <td width=3D=22139=22 class=3D=22hide=22 valign=3D=
+=22top=22 align=3D=22center=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=
+=2Enet/i5/responsysimages/content/blurb/MAR-1496-spot-axiom-lucy-stevens=2E=
+jpg=22 style=3D=22display:block; border:0;=22 alt=3D=22Lucy Stevens=22 widt=
+h=3D=22140=22 /></td>
+                        <td class=3D=22width290 block=22 valign=3D=22top=22=
+><div style=3D=22font-family:Arial, Helvetica, sans-serif; font-size:18px; =
+line-height:22px; color:=23000000; font-weight:bold; padding: 0px 20px;=22 =
+class=3D=22font14 line22=22>Magazine Spotlight</div>
+                          <br />
+                          <div style=3D=22font-family:Arial, Helvetica, san=
+s-serif; font-size:13px; line-height:19px; color:=23000000; padding: 0 0 0 =
+20px;=22 class=3D=22font14 line20=22>This week, we've set our sights on <em=
+>AXIOM</em>, a magazine with a mission to give young creatives a platform t=
+o showcase their work=2E We asked Lucy Stevens, publisher, maker, and creat=
+or, how the magazine got started and what inspires her vision=2E<br />
+                            <br />
+                            <a href=3D=22http://makebooks=2Eblurb=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtp=
+KX%3DWABWCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF=
+8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color: =
+=2300adef; text-decoration: none;=22>                READ MORE</a></div></t=
+d>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width=3D=2230=22 class=3D=22width15=22></td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2230=22 style=3D=22line-height:30px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21-- newsstand -->
+
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td bgcolor=3D=22=23000000=22 width=3D=22600=22 class=3D=
+=22width320=22 align=3D=22center=22><div style=3D=22font-family:Arial, Helv=
+etica, sans-serif; font-size:22px; line-height:26px; color:=23ffffff; paddi=
+ng: 20px; letter-spacing: 0=2E1em;=22 class=3D=22font18 line22=22>BLURB NEW=
+SSTAND</div></td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2230=22 style=3D=22line-height:30px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+            =20
+              <=21--Row 1-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22 bgcolor=3D=22=23ffffff=22>
+                <tr>
+                  <td width=3D=2230=22 class=3D=22hide=22 valign=3D=22top=
+=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/blurb/MAR-1494-r1-bg1=2Egif=22 style=3D=22display:block; border:0;=22=
+ width=3D=2230=22 /></td>
+                  <td width=3D=22140=22 class=3D=22width320 block=22 valign=
+=3D=22top=22 align=3D=22left=22><center><a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLP=
+W1mioNi3VXtpKX%3DWABYRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZy=
+EgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=
+=22color: =2300adef; text-decoration: none;=22><img src=3D=22http://respons=
+ys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1496-news-360-ma=
+gazine=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=22360 Magazin=
+e=22 width=3D=22135=22 /></a></center>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:16px; line-height:20px; color:=23000000; padding: 15px 0px; fo=
+nt-weight:bold;=22 class=3D=22font14 line22 paddinglrb20 aligncenter=22>360=
+ Magazine</div>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px; line-height:18px; color:=23000000;=22 class=3D=22font14 =
+line20 paddinglrb20=22>Seminal English band The Who are the cover stars of =
+the special UK-edition of the LA-based monthly entertainment magazine=2E</d=
+iv></td>
+                  <td width=3D=2220=22 class=3D=22hide=22 valign=3D=22top=
+=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/blurb/MAR-1494-r1-bg2=2Egif=22 style=3D=22display:block; border:0;=22=
+ width=3D=2220=22 /></td>
+                  <td width=3D=22140=22 class=3D=22width320 block=22 valign=
+=3D=22top=22 align=3D=22left=22><center><a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLP=
+W1mioNi3VXtpKX%3DWABYTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZy=
+EgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=
+=22color: =2300adef; text-decoration: none;=22><img src=3D=22http://respons=
+ys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1496-news-pa57=
+=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=22PA57=22 width=3D=
+=22135=22 /></a></center>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:16px; line-height:20px; color:=23000000; font-weight:bold; pad=
+ding: 15px 0px;=22 class=3D=22font14 line22 paddinglrb20 aligncenter=22>PA5=
+7</div>
+                   =20
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px; line-height:18px; color:=23000000;=22 class=3D=22font14 =
+line20 paddinglrb20=22>Profiling cutting edge artists and curators, PoetsAr=
+tists is avant-garde art at its best and most provocative=2E</div></td>
+                  <td width=3D=2220=22 class=3D=22hide=22 valign=3D=22top=
+=22 align=3D=22center=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/=
+i5/responsysimages/content/blurb/MAR-1494-r1-bg3=2Egif=22 style=3D=22displa=
+y:block; border:0;=22 width=3D=2220=22 /></td>
+                  <td width=3D=22140=22 class=3D=22width320 block=22 valign=
+=3D=22top=22 align=3D=22left=22><center><a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLP=
+W1mioNi3VXtpKX%3DWABYWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZy=
+EgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=
+=22color: =2300adef; text-decoration: none;=22><img src=3D=22http://respons=
+ys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1496-news-plenil=
+une=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=22Plenilune Maga=
+zine=22 width=3D=22135=22 /></a></center>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:16px; line-height:20px; color:=23000000; font-weight:bold; pad=
+ding: 15px 0px;=22 class=3D=22font14 line22 paddinglrb20 aligncenter=22>Ple=
+nilune Magazine</div>
+                   =20
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px; line-height:18px; color:=23000000;=22 class=3D=22font14 =
+line20 paddinglrb20=22>The premiere issue of a magazine named, appropriatel=
+y, for the time period of a full moon=2E Devoted to beauty, style, poetry, =
+and whimsy=2E</div></td>
+                  <td width=3D=22110=22 class=3D=22hide=22 valign=3D=22top=
+=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/blurb/MAR-1494-r1-bg4=2Egif=22 style=3D=22display:block; border:0;=22=
+ width=3D=22110=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22 class=3D=22hide=22>
+                <tr>
+                  <td height=3D=2250=22 style=3D=22line-height:50px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+             =20
+              <=21--Row 2-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 class=3D=22width320=22 bgcolor=3D=22=23ffffff=22>
+                <tr>
+                  <td width=3D=22110=22 class=3D=22hide=22 valign=3D=22top=
+=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/blurb/MAR-1494-r2-bg1=2Egif=22 style=3D=22display:block; border:0;=22=
+ width=3D=22110=22 /></td>
+                  <td width=3D=22140=22 class=3D=22width320 block=22 valign=
+=3D=22top=22 align=3D=22left=22><center><a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLP=
+W1mioNi3VXtpKX%3DWABYAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZy=
+EgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=
+=22color: =2300adef; text-decoration: none;=22><img src=3D=22http://respons=
+ys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1496-news-i-eat-=
+awesome=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=22I Eat Awes=
+ome=22 width=3D=22135=22 /></a></center>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:16px; line-height:20px; color:=23000000; font-weight:bold; pad=
+ding: 15px 0px;=22 class=3D=22font14 line22 paddinglrb20 aligncenter=22>I E=
+at Awesome</div>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px; line-height:18px; color:=23000000;=22 class=3D=22font14 =
+line20 paddinglrb20=22>Two fitness experts bring attitude and a sense of fu=
+n to paleo, gluten-free, and all-around healthy eating=2E</div></td>
+                  <td width=3D=2220=22 class=3D=22hide=22 valign=3D=22top=
+=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/blurb/MAR-1494-r2-bg2=2Egif=22 style=3D=22display:block; border:0;=22=
+ width=3D=2220=22 /></td>
+                  <td width=3D=22140=22 class=3D=22width320 block=22 valign=
+=3D=22top=22 align=3D=22left=22><center><a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLP=
+W1mioNi3VXtpKX%3DWABYCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZy=
+EgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=
+=22color: =2300adef; text-decoration: none;=22><img src=3D=22http://respons=
+ys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1496-news-ncfa-y=
+earbook=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=22The 2014 N=
+CFA Yearbook=22 width=3D=22135=22 /></a></center>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:16px; line-height:20px; color:=23000000; font-weight:bold; pad=
+ding: 15px 0px;=22 class=3D=22font14 line22 paddinglrb20 aligncenter=22>The=
+ 2014 NCFA Yearbook</div>
+                   =20
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px; line-height:18px; color:=23000000;=22 class=3D=22font14 =
+line20 paddinglrb20=22>A new magazine by&mdash;and for&mdash;passionate fan=
+s of the fantasy college football league=2E</div></td>
+                  <td width=3D=2220=22 class=3D=22hide=22 valign=3D=22top=
+=22 align=3D=22center=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/=
+i5/responsysimages/content/blurb/MAR-1494-r2-bg3=2Egif=22 style=3D=22displa=
+y:block; border:0;=22 width=3D=2220=22 /></td>
+                  <td width=3D=22140=22 class=3D=22width320 block=22 valign=
+=3D=22top=22 align=3D=22left=22><center><a href=3D=22http://makebooks=2Eblu=
+rb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLP=
+W1mioNi3VXtpKX%3DWABARY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZy=
+EgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=
+=22color: =2300adef; text-decoration: none;=22><img src=3D=22http://respons=
+ys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-1496-news-omgirl=
+s-magazine=2Ejpg=22 style=3D=22display:block; border:0;=22 alt=3D=22OMGirls=
+ Magazine=22 width=3D=22135=22 /></a></center>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:16px; line-height:20px; color:=23000000; font-weight:bold; pad=
+ding: 15px 0px;=22 class=3D=22font14 line22 paddinglrb20 aligncenter=22>OMG=
+irls Magazine</div>
+                   =20
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:12px; line-height:18px; color:=23000000;=22 class=3D=22font14 =
+line20 paddinglrb20=22>The second issue of this lifestyle and fashion magaz=
+ine for teen and tween girls brings girl power to back-to-school style=2E</=
+div></td>
+                 =20
+                  <td width=3D=2230=22 class=3D=22hide=22 valign=3D=22top=
+=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/co=
+ntent/blurb/MAR-1494-r2-bg4=2Egif=22 style=3D=22display:block; border:0;=22=
+ width=3D=2230=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=
+=22=23ffffff=22 width=3D=22100%=22>
+                <tr>
+                  <td height=3D=2250=22 style=3D=22line-height:50px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- FOOTER -->=20
+
+              <=21-- FOOTER -->
+       =20
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=
+=22 class=3D=22hide=22>
+          <tr>
+            <td width=3D=22600=22 align=3D=22center=22 bgcolor=3D=22=23ffff=
+ff=22 class=3D=22width320=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXt=
+pKX%3DWABATY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwT=
+F8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22abs=
+middle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/c=
+ontent/blurb/icon-blurb-47=2Epng=22 border=3D=220=22 alt=3D=22Blurb=22 titl=
+e=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=2Ebl=
+urb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqL=
+PW1mioNi3VXtpKX%3DWABAWY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZ=
+yEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img al=
+ign=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respo=
+nsysimages/content/blurb/icon-facebook-41=2Epng=22 border=3D=220=22 alt=3D=
+=22Facebook=22 title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22ht=
+tp://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMH=
+OFDcUU1zdzaojzahNqLPW1mioNi3VXtpKX%3DWABAAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828=
+MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh2=
+7umSa=2E=22><img align=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2El=
+lnwd=2Enet/i5/responsysimages/content/blurb/icon-gplus-41=2Epng=22 border=
+=3D=220=22 alt=3D=22Google Plus=22 title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&=
+nbsp;<a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtpKX%3DWABACY&_ei_=3DEi2L=
+-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNd=
+ozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=22 src=3D=22http:=
+//responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/icon-twitte=
+r-41=2Epng=22 border=3D=220=22 alt=3D=22Twitter=22 title=3D=22=22 /></a>&nb=
+sp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri=
+_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtpKX%3DWA=
+CYRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N=
+-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=
+=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content=
+/blurb/icon-linkedin-41=2Epng=22 border=3D=220=22 alt=3D=22LinkedIn=22 titl=
+e=3D=22=22 /></a></td>
+          </tr>
+<tr><td>&nbsp;</td></tr>
+        </table>
+        <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=
+=22 class=3D=22width320=22>
+          <tr>
+            <td width=3D=22600=22 align=3D=22center=22 bgcolor=3D=22=23ffff=
+ff=22 class=3D=22width320=22><div style=3D=22font-size:10px; font-family:Ar=
+ial, Helvetica, sans-serif; color:=23666666; line-height:18px;=22> <a href=
+=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGN=
+GNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3VXtpKX%3DWABBRY&_ei_=3DEi2L-z0LtlVkTFJ2=
+DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0=
+i4vbQKh27umSa=2E=22 style=3D=22color: =2300adef; text-decoration: none=22 t=
+arget=3D=22_top=22>Privacy</a> =7C <a href=3D=22http://makebooks=2Eblurb=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mio=
+Ni3VXtpKX%3DWABBTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7=
+qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 style=3D=22co=
+lor: =2300adef; text-decoration: none=22 target=3D=22_top=22>Pricing</a> =
+=7C <a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/optout?_ri_=3DX0Gzc2X%3=
+DWQpglLjHJlYQGNGNYuHpMHOFDcUU1zdzaojzahNqLPW1mioNi3&_ei_=3DEolaGGF4SNMvxFF7=
+KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2=22 style=
+=3D=22color: =2300adef; text-decoration: none=22 target=3D=22_top=22>Unsubs=
+cribe</a><br />
+                <br />
+                Blurb, Inc=2E PO Box 728, San Francisco, CA 94104-0728<br />
+                &copy;2014 Blurb, All Rights Reserved</div></td>
+          </tr>
+        </table>=20
+             =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2250=22 style=3D=22line-height:50px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+</center><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+makebooks=2Eblurb=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGNGNYuHpMHOFDcU=
+U1zdzaojzahNqLPW1mioNi3VXHkMX%3Dw&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYui=
+e_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSBv2UdWief=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/EfSUgganmdoI9U_NPtR=
+hpYgCMQMGAPKWuPR2AfnbHjZqRRPPJDGe2HNBFErb20Dsb9cudBKWKAyatxB-st0ocHkIg_Lf/%=
+24UID=22>
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,493 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp1242930ldh;
+        Mon, 23 Feb 2015 08:45:10 -0800 (PST)
+X-Received: by 10.170.165.66 with SMTP id h63mr11970095ykd.94.1424709910234;
+        Mon, 23 Feb 2015 08:45:10 -0800 (PST)
+Return-Path: <bounce-mc.us1_43379.454521-dinsmorealex=gmail.com@mail47.atl71.mcdlv.net>
+Received: from mail47.atl71.mcdlv.net (mail47.atl71.mcdlv.net. [198.2.129.47])
+        by mx.google.com with ESMTP id k68si7187991ykb.34.2015.02.23.08.45.09
+        for <dinsmorealex@gmail.com>;
+        Mon, 23 Feb 2015 08:45:10 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-mc.us1_43379.454521-dinsmorealex=gmail.com@mail47.atl71.mcdlv.net designates 198.2.129.47 as permitted sender) client-ip=198.2.129.47;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us1_43379.454521-dinsmorealex=gmail.com@mail47.atl71.mcdlv.net designates 198.2.129.47 as permitted sender) smtp.mail=bounce-mc.us1_43379.454521-dinsmorealex=gmail.com@mail47.atl71.mcdlv.net;
+       dkim=pass header.i=@issuumail.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=issuumail.com;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Content-Type:MIME-Version; i=no-reply@issuumail.com;
+ bh=JzhBpTO+0bAQOBEmtYx+ExWun9E=;
+ b=xBzxQOPC5GEZCBvNzJzLrtpF4ETNCMck0Hx7Z+3BiLudDg021wpJcLNIMCHqniLiuCUuY51B1c7R
+   LcCxWRrCSW71evrjCpuj459Eu4dXyXOnfEdqQQKmoZsxBkZVmgDb9k8OdiNOUuFN88j4X3W/wUzp
+   HVR/t2j1/3ahE7n3cxk=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Content-Type:MIME-Version;
+ bh=JzhBpTO+0bAQOBEmtYx+ExWun9E=;
+ b=oqIZiZ7qznX6CNl2jNMNX84jezgwwc/fG9QvLjeKauVy4dj7Mq/ILbyrzNZyAcVclTs7JcuFUiET
+   SoC0Q2f8/YfeAAtD6D0B03N+JR6iVodr87Fb+rDM9VKfFpP4ar382xa257lDmgb5tnKv+A7TpXHE
+   Beyip12p9yEFl5bMJ5s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=issuumail.com;
+ b=UYg8ZvnlkAH8kHKEIcMSkHvzWbP9vxNhz2Z8QWn3U7NEDEkwHZ3UE/hnC70pXN5P5ttxaW3jEdOf
+   DPNaPqIjSP/gum7Q1R0gBtdnZWwzqyMzdxlHofkFpue8GUBKpPKujjdiPvniBJ6IP4jideOI6tgg
+   OsCzWFb09yowWkiC9DE=;
+Received: from (127.0.0.1) by mail47.atl71.mcdlv.net id htdchc174f4p for <dinsmorealex@gmail.com>; Mon, 23 Feb 2015 16:43:09 +0000 (envelope-from <bounce-mc.us1_43379.454521-dinsmorealex=gmail.com@mail47.atl71.mcdlv.net>)
+Subject: =?utf-8?Q?Use=20social=20media=20to=20improve=20the=20reach=20of=20your=20publications?=
+From: =?utf-8?Q?issuu?= <no-reply@issuumail.com>
+Reply-To: =?utf-8?Q?issuu?= <no-reply@issuumail.com>
+To: =?utf-8?Q?Alex?= <dinsmorealex@gmail.com>
+Date: Mon, 23 Feb 2015 16:43:09 +0000
+Message-ID: <32202d765113057ef2a0ae770a3b38309d3.20150223164225@mail47.atl71.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDe8b4f1f9a7a3b38309d3**
+X-Campaign: mailchimp32202d765113057ef2a0ae770.e8b4f1f9a7
+X-campaignid: mailchimp32202d765113057ef2a0ae770.e8b4f1f9a7
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=32202d765113057ef2a0ae770&id=e8b4f1f9a7&e=a3b38309d3
+X-MC-User: 32202d765113057ef2a0ae770
+X-Feedback-ID: 43379:43379.454521:us1:mc
+List-ID: 32202d765113057ef2a0ae770mc list <32202d765113057ef2a0ae770.133805.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-32202d765113057ef2a0ae770-e8b4f1f9a7-a3b38309d3@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://issuu.us1.list-manage1.com/unsubscribe?u=32202d765113057ef2a0ae770&id=bcc97defd7&e=a3b38309d3&c=e8b4f1f9a7>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1221035254"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1221035254
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+http://issuu.com/pricing?utm_medium=3Demail&utm_source=3Dpromotion&utm_cam=
+paign=3Dfreeupgrade2015&utm_content=3Den&utm_term=3Dsocial
+http://issuu.com/pricing?utm_medium=3Demail&utm_source=3Dpromotion&utm_cam=
+paign=3Dfreeupgrade2015&utm_content=3Den&utm_term=3Dsocial Publisher speci=
+al
+Grow with social media
+Hello
+Each day=2C over 1 million people see an issuu publication on Facebook=2C=
+ Twitter=2C Pinterest or other social media platforms. Premium gives you t=
+he power to track every interaction with your publications.
+Upgrade now (http://issuu.com/pricing?utm_medium=3Demail&utm_source=3Dprom=
+otion&utm_campaign=3Dfreeupgrade2015&utm_content=3Den&utm_term=3Dsocial)
+3 Easy steps to expand your audience:
+* Upload your publication manually or through our API.
+* Share on Facebook=2C Twitter=2C Pinterest=2C Tumblr or other social netw=
+orks to increase referral traffic.
+* Track how your readership grows with detailed stats on every publication=
+ and page for Premium publishers.
+
+http://issuu.com/pricing?utm_medium=3Demail&utm_source=3Dpromotion&utm_cam=
+paign=3Dfreeupgrade2015&utm_content=3Den&utm_term=3Dsocial
+http://youtu.be/L1f_CJMnuRQ?list=3DPLQl_1PsP9WcCZbw8TTzUbzSW0bh53NzmY
+Watch our tutorial videos (http://youtu.be/L1f_CJMnuRQ?list=3DPLQl_1PsP9Wc=
+CZbw8TTzUbzSW0bh53NzmY)
+Learn more about how to grow your audience through social media with our h=
+elpful tutorial videos (http://youtu.be/L1f_CJMnuRQ?list=3DPLQl_1PsP9WcCZb=
+w8TTzUbzSW0bh53NzmY) . Upgrade now (http://issuu.com/pricing?utm_medium=3D=
+email&utm_source=3Dpromotion&utm_campaign=3Dfreeupgrade2015&utm_content=3D=
+en&utm_term=3Dsocial)
+join the publishing revolution http://facebook.com/issuu http://twitter.co=
+m/issuu http://pinterest.com/issuu http://plus.google.com/+issuu
+This email was sent to dinsmorealex@gmail.com (mailto:dinsmorealex@gmail.com)
+If you don't want to receive these emails=2Cunsubscribe at any time (http:=
+//issuu.us1.list-manage1.com/unsubscribe?u=3D32202d765113057ef2a0ae770&id=
+=3Dbcc97defd7&e=3Da3b38309d3&c=3De8b4f1f9a7)
+issuu =C2=B7 131 Lytton ave =C2=B7 Palo Alto=2C CA 94301 =C2=B7 USA
+--_----------=_MCPart_1221035254
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+  <title>
+Grow your audience with social media
+</title>
+<style type=3D"text/css">
+@import url(http://fonts.googleapis.com/css?family=3DOpen+Sans:300+600);
+=09body {
+    =09margin:0;
+        padding:0;
+        background-color:#fff;
+    =09font-family:'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVe=
+rdana=2C Trebuchet MS=2Csans-serif;
+    }
+    a {
+   color:#f36d5d;
+
+   }
+    .headlineText {
+    font-family:'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVerda=
+na=2C Trebuchet MS=2Csans-serif;font-size:33px;color:#f36d5d;text-align:ce=
+nter;display:block;width:480px;margin-left:auto;margin-right:auto;margin-t=
+op:30px;
+    }
+=09.descriptionText {
+    =09font-family:'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVe=
+rdana=2C Trebuchet MS=2Csans-serif;
+        font-size:15px;
+        color:#bbb;
+        text-align:center;
+        line-height:20px;
+    }
+    .centerWide {
+    =09width:500px;
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        text-align:center;
+    }
+    .lightBackground {
+    =09background-color:#faf9f8;
+    }
+    .iconImg {
+      width:60px;
+    }
+    .listHeader {
+=09=09font-family:'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVer=
+dana=2C Trebuchet MS=2Csans-serif;
+        font-weight:600;
+        font-size:16px;
+        color:#f36d5d;
+text-transform:uppercase;
+    }
+    li.listText {
+    =09font-family:'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVe=
+rdana=2C Trebuchet MS=2Csans-serif;
+=09=09font-size:14px;
+        color:#787878;
+=09=09margin-top:10px;
+        text-align:left;
+        line-height:18px;
+   }
+   li .strong {
+   font-weight:600;
+  =09}
+   img.listImg {
+   =09display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:15px;
+    }
+    .greenButton {
+    border-radius:20px;background-color:#56b66a;display:block;width:140px;=
+padding:10px 15px 10px 15px;color:#fff;text-decoration:none;margin-top:20p=
+x;margin-left:auto;margin-right:auto;margin-bottom:15px;font-family:'Open=
+ Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVerdana=2C Trebuchet MS=2C=
+sans-serif;font-size:16px;text-align:center;text-transform:uppercase;
+    }
+    .secondaryHeadline {
+    =09font-size:25px;
+        color:#5f5f5f;
+    }
+    .tagline {
+    =09font-weight:600;
+        font-size:13px;
+        text-transform:uppercase;
+        color:#787878;
+        margin-bottom:15px;
+        display:block;
+    }
+    .socialContainer {
+    =09display:block;
+    }
+    .socialIcon {
+    =09margin-left:10px;
+        margin-right:10px;
+    }
+    .plainLink {
+    =09text-decoration:none;
+        border:none;
+    }
+    .unsubText {
+    =09font-size:11px;
+        color:#bbb;
+    }
+</style>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+>
+  </head>
+  <body>
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600px"=
+ align=3D"center">
+  <tr>
+  <td align=3D"center">
+  =09<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"600px">
+    =09<tr>
+        =09<td height=3D"315" width=3D"600" style=3D"height:315;background=
+-color:#faf9f8;width:600px;">
+              <table>
+                  <tr>
+                      <td style=3D"height:25px;">&nbsp;</td>
+                  </tr>
+                  <tr>
+                  =09<td width=3D"600px;">
+                    =09<span style=3D"display:block;width:160px;margin-lef=
+t:auto;margin-right:auto;">
+                        =09<a href=3D"http://issuu.us1.list-manage.com/tra=
+ck/click?u=3D32202d765113057ef2a0ae770&id=3D67191f1a0d&e=3Da3b38309d3" cl=
+ass=3D"plainLink" style=3D"color: #f36d5d;text-decoration: none;border: no=
+ne;"><img src=3D"https://gallery.mailchimp.com/32202d765113057ef2a0ae770/i=
+mages/91ac5be5-2848-4bb7-b6e2-09cda0e5315b.png"></a>
+                        </span>
+                    </td>
+                    </tr>
+                    <tr>
+                    =09<td>
+                        =09<span style=3D"display:block;width:25px;margin-=
+left:auto;margin-right:auto;margin-top:25px;">
+                        =09<a href=3D"http://issuu.us1.list-manage.com/tra=
+ck/click?u=3D32202d765113057ef2a0ae770&id=3D01b0176ada&e=3Da3b38309d3" cl=
+ass=3D"plainLink" style=3D"color: #f36d5d;text-decoration: none;border: no=
+ne;"><img src=3D"https://gallery.mailchimp.com/32202d765113057ef2a0ae770/i=
+mages/e38271cf-0fad-4c45-898e-0a7bea8d9cec.png"></a>
+                        </span>
+                        <span style=3D"display:block;width:140px;margin-le=
+ft:auto;margin-right:auto;text-align:center;margin-top:5px;">
+                        =09<span style=3D"margin:0;display:inline-block;te=
+xt-align:center;font-family:Open Sans;font-size:13px;text-transform:upperc=
+ase;color:#bbbbbb">Publisher special</span>
+                        </span>
+                        </td>
+                    </tr>
+                    <tr>
+=09=09=09=09=09=09<td width=3D"600px">
+                        <span style=3D"font-family: 'Open Sans'=2C'Helveti=
+ca Neue'=2CHelvetica=2CArial=2CVerdana=2C Trebuchet MS=2Csans-serif;font-s=
+ize: 33px;color: #f36d5d;text-align: center;display: block;width: 480px;ma=
+rgin-left: auto;margin-right: auto;margin-top: 30px;" class=3D"headlineTex=
+t">Grow with social media</span>
+                        </td>
+              </tr></table>
+        =09</td>
+        </tr>
+        <tr>
+        =09<td>
+            =09<table width=3D"600" height=3D"275px" style=3D"height:275px=
+;">
+                =09<tr>
+                    =09<td>
+                        =09<span style=3D"font-family:Open Sans;font-size:=
+25px;color:#5f5f5f;display:block;text-align:center;width:420px;margin-left=
+:auto;margin-right:auto;margin-top:25px;">Hello</span>
+                        </td>
+                    </tr>
+                    <tr>
+                    =09<td>
+                        =09<span class=3D"descriptionText centerWide" styl=
+e=3D"margin-top: 5px;line-height: 20px;font-family: 'Open Sans'=2C'Helveti=
+ca Neue'=2CHelvetica=2CArial=2CVerdana=2C Trebuchet MS=2Csans-serif;font-s=
+ize: 15px;color: #bbb;text-align: center;width: 500px;display: block;margi=
+n-left: auto;margin-right: auto;">Each day=2C over 1 million people see an=
+ issuu publication on Facebook=2C Twitter=2C Pinterest or other social med=
+ia platforms. Premium gives you the power to track every interaction with=
+ your publications.</span>
+                        </td>
+                    </tr>
+                    <tr>
+                    =09<td>
+                        =09<a href=3D"http://issuu.us1.list-manage1.com/tr=
+ack/click?u=3D32202d765113057ef2a0ae770&id=3D5e387f4635&e=3Da3b38309d3" c=
+lass=3D"greenButton" style=3D"margin-top: 15px;color: #fff;border-radius:=
+ 20px;background-color: #56b66a;display: block;width: 140px;padding: 10px=
+ 15px 10px 15px;text-decoration: none;margin-left: auto;margin-right: auto=
+;margin-bottom: 15px;font-family: 'Open Sans'=2C'Helvetica Neue'=2CHelveti=
+ca=2CArial=2CVerdana=2C Trebuchet MS=2Csans-serif;font-size: 16px;text-ali=
+gn: center;text-transform: uppercase;">Upgrade now</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+        =09<td class=3D"lightBackground" style=3D"background-color: #faf9f=
+8;">
+            =09<table>
+                =09<tr>
+                    =09<td height=3D"25px;">
+                        </td>
+                    </tr>
+                =09<tr>
+                    =09<td width=3D"60px;">
+                        </td>
+                    =09<td style=3D"width:60px;vertical-align:top;" valign=
+=3D"top">
+                        =09<img class=3D"iconImg" src=3D"https://gallery.m=
+ailchimp.com/32202d765113057ef2a0ae770/images/6452749a-8edc-4659-a64c-dbf5=
+4b7e3c22.png" style=3D"width: 60px;">
+                        </td>
+                        <td width=3D"10px;">
+                        </td>
+                        <td style=3D"padding-right:45px;">
+                        =09<span class=3D"listHeader" style=3D"font-family=
+: 'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVerdana=2C Trebuche=
+t MS=2Csans-serif;font-weight: 600;font-size: 16px;color: #f36d5d;text-tra=
+nsform: uppercase;">3 Easy steps to expand your audience:</span>
+                            <span>
+                            =09<ul>
+                                =09<li class=3D"listText" style=3D"font-fa=
+mily: 'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVerdana=2C Treb=
+uchet MS=2Csans-serif;font-size: 14px;color: #787878;margin-top: 10px;text=
+-align: left;line-height: 18px;"><span class=3D"strong" style=3D"font-weig=
+ht: 600;">Upload </span>your publication manually or through our API.</li>
+                                    <li class=3D"listText" style=3D"font-f=
+amily: 'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVerdana=2C Tre=
+buchet MS=2Csans-serif;font-size: 14px;color: #787878;margin-top: 10px;tex=
+t-align: left;line-height: 18px;"><span class=3D"strong" style=3D"font-wei=
+ght: 600;">Share</span> on Facebook=2C Twitter=2C Pinterest=2C Tumblr or o=
+ther social networks to increase referral traffic.</li>
+                                    <li class=3D"listText" style=3D"font-f=
+amily: 'Open Sans'=2C'Helvetica Neue'=2CHelvetica=2CArial=2CVerdana=2C Tre=
+buchet MS=2Csans-serif;font-size: 14px;color: #787878;margin-top: 10px;tex=
+t-align: left;line-height: 18px;"><span class=3D"strong" style=3D"font-wei=
+ght: 600;">Track</span> how your readership grows with detailed stats on e=
+very publication and page for Premium publishers.</li>
+                                    </ul>
+
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                    =09<td colspan=3D"4">
+                        =09<a href=3D"http://issuu.us1.list-manage.com/tra=
+ck/click?u=3D32202d765113057ef2a0ae770&id=3Dbd0224ec79&e=3Da3b38309d3" st=
+yle=3D"color: #f36d5d;"><img class=3D"listImg" style=3D"margin-top: 15px;m=
+argin-bottom: 0px;display: block;margin-left: auto;margin-right: auto;" sr=
+c=3D"https://gallery.mailchimp.com/32202d765113057ef2a0ae770/images/5208d5=
+3d-712a-4254-85b0-edbdf087aa2f.png"></a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+        =09<td class=3D"whiteBG">
+            =09<table width=3D"600">
+                =09<tr>
+                    =09<td>
+                        =09<span class=3D"centerWide" style=3D"margin-top:=
+ 35px;width: 500px;display: block;margin-left: auto;margin-right: auto;tex=
+t-align: center;">
+                            =09<a href=3D"http://issuu.us1.list-manage.com=
+/track/click?u=3D32202d765113057ef2a0ae770&id=3D6da9f81f45&e=3Da3b38309d3=
+" style=3D"color: #f36d5d;"><img src=3D"https://gallery.mailchimp.com/3220=
+2d765113057ef2a0ae770/images/46572c46-6bfc-4abe-8048-3a8e68704eda.png"></a=
+>
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                    =09<td>
+                        =09<span class=3D"secondaryHeadline centerWide" st=
+yle=3D"margin-bottom: 15px;width: 500px;display: block;margin-left: auto;m=
+argin-right: auto;text-align: center;font-size: 25px;color: #5f5f5f;"><a c=
+lass=3D"plainLink secondaryHeadline" href=3D"http://issuu.us1.list-manage.=
+com/track/click?u=3D32202d765113057ef2a0ae770&id=3D7709a3952c&e=3D=
+a3b38309d3" style=3D"color: #5f5f5f;font-size: 25px;text-decoration: none;border:=
+ none;">Watch our tutorial videos</a></span>
+                        </td>
+                    </tr>
+                    <tr>
+                    =09<td>
+                        =09<span class=3D"descriptionText centerWide" styl=
+e=3D"width: 450px;font-family: 'Open Sans'=2C'Helvetica Neue'=2CHelvetica=
+=2CArial=2CVerdana=2C Trebuchet MS=2Csans-serif;font-size: 15px;color: #bb=
+b;text-align: center;line-height: 20px;display: block;margin-left: auto;ma=
+rgin-right: auto;">Learn more about how to grow your audience through soci=
+al media with our <a href=3D"http://issuu.us1.list-manage.com/track/click?=
+u=3D32202d765113057ef2a0ae770&id=3D5a022ee56c&e=3Da3b38309d3" style=3D"co=
+lor: #f36d5d;">helpful tutorial videos</a>.</span>
+                            <a href=3D"http://issuu.us1.list-manage.com/tr=
+ack/click?u=3D32202d765113057ef2a0ae770&id=3D443f10eea4&e=3Da3b38309d3" c=
+lass=3D"greenButton" style=3D"color: #fff;border-radius: 20px;background-c=
+olor: #56b66a;display: block;width: 140px;padding: 10px 15px 10px 15px;tex=
+t-decoration: none;margin-top: 20px;margin-left: auto;margin-right: auto;m=
+argin-bottom: 15px;font-family: 'Open Sans'=2C'Helvetica Neue'=2CHelvetica=
+=2CArial=2CVerdana=2C Trebuchet MS=2Csans-serif;font-size: 16px;text-align=
+: center;text-transform: uppercase;">Upgrade now</a>
+                        </td>
+                    </tr>
+                    <tr>
+                    =09<td>
+                        =09<span style=3D"margin-top: 25px;width: 500px;di=
+splay: block;margin-left: auto;margin-right: auto;text-align: center;font-=
+weight: 600;font-size: 13px;text-transform: uppercase;color: #787878;margi=
+n-bottom: 15px;" class=3D"tagline centerWide">join the publishing revoluti=
+on</span>
+                            <span class=3D"socialContainer centerWide" sty=
+le=3D"width: 500px;display: block;margin-left: auto;margin-right: auto;tex=
+t-align: center;">
+=09=09=09=09=09=09=09=09<a class=3D"plainLink" href=3D"http://issuu.us1.li=
+st-manage.com/track/click?u=3D32202d765113057ef2a0ae770&id=3D5f64b41bc4&e=
+=3Da3b38309d3" style=3D"color: #f36d5d;text-decoration: none;border: none=
+;"><img class=3D"socialIcon" src=3D"https://gallery.mailchimp.com/32202d76=
+5113057ef2a0ae770/images/66192452-fb13-4e77-a41f-e2d1853a6aeb.jpg" style=
+=3D"margin-left: 10px;margin-right: 10px;"></a>
+                                <a class=3D"plainLink" href=3D"http://issu=
+u.us1.list-manage1.com/track/click?u=3D32202d765113057ef2a0ae770&id=3D9b4a=
+2cd514&e=3Da3b38309d3" style=3D"color: #f36d5d;text-decoration: none;bord=
+er: none;"><img class=3D"socialIcon" src=3D"https://gallery.mailchimp.com/=
+32202d765113057ef2a0ae770/images/2c591ca6-5e80-4237-a8cd-5c7e4fce1c4e.jpg"=
+ style=3D"margin-left: 10px;margin-right: 10px;"></a>
+                               <a class=3D"plainLink" href=3D"http://issuu=
+=2Eus1.list-manage.com/track/click?u=3D32202d765113057ef2a0ae770&id=3Defc1fc=
+deb9&e=3Da3b38309d3" style=3D"color: #f36d5d;text-decoration: none;border=
+: none;"> <img class=3D"socialIcon" src=3D"https://gallery.mailchimp.com/3=
+2202d765113057ef2a0ae770/images/c7a639d3-d1cc-4276-ae4d-a5b9da51fe40.jpg"=
+ style=3D"margin-left: 10px;margin-right: 10px;"></a>
+                               <a class=3D"plainLink" href=3D"http://issuu=
+=2Eus1.list-manage.com/track/click?u=3D32202d765113057ef2a0ae770&id=3D1f0cd2=
+8f39&e=3Da3b38309d3" style=3D"color: #f36d5d;text-decoration: none;border=
+: none;"> <img class=3D"socialIcon" src=3D"https://gallery.mailchimp.com/3=
+2202d765113057ef2a0ae770/images/3f5f4b6f-2acc-4868-a81d-5d2dd46ec5fb.jpg"=
+ style=3D"margin-left: 10px;margin-right: 10px;"></a>
+
+</span>
+                        </td>
+                </tr></table>
+            </td>
+            </tr>
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td><span class=3D"unsubText centerWid=
+e" style=3D"width: 500px;display: block;margin-left: auto;margin-right: au=
+to;text-align: center;font-size: 11px;color: #bbb;">
+                                        This email was sent to <a href=3D"=
+mailto:dinsmorealex@gmail.com" target=3D"_blank" style=3D"color:#404040 !importa=
+nt;">dinsmorealex@gmail.com</a>
+                                        <br>
+                                        If you don't want to receive these=
+ emails=2C<a href=3D"http://issuu.us1.list-manage1.com/unsubscribe?u=3D322=
+02d765113057ef2a0ae770&id=3Dbcc97defd7&e=3Da3b38309d3&c=3De8b4f1f9a7" style=
+=3D"color:#404040 !important;"> unsubscribe at any time</a>
+                                        <br>
+                                        issuu &middot; 131 Lytton ave &mid=
+dot; Palo Alto=2C CA 94301 &middot; USA
+
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                </td>
+                </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table[id=3D"canspamBar"] td{font-size:14px !impor=
+tant;}
+                        table[id=3D"canspamBar"] td a{display:block !impo=
+rtant; margin-top:10px !important;}
+                    }
+                </style>
+<img src=3D"http://issuu.us1.list-manage.com/track/open.php?u=3D32202d7651=
+13057ef2a0ae770&id=3De8b4f1f9a7&e=3Da3b38309d3" height=3D"1" width=3D"1">=
+</body>
+  </html>
+--_----------=_MCPart_1221035254--

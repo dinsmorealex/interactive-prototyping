@@ -1,0 +1,622 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.1.228 with SMTP id 4csp795158ldp;
+        Fri, 13 Mar 2015 07:16:12 -0700 (PDT)
+X-Received: by 10.170.150.194 with SMTP id r185mr11115185ykc.81.1426256171880;
+        Fri, 13 Mar 2015 07:16:11 -0700 (PDT)
+Return-Path: <bounce-mc.us5_12166667.178045-dinsmorealex=gmail.com@mail166.atl61.mcsv.net>
+Received: from mail166.atl61.mcsv.net (mail166.atl61.mcsv.net. [205.201.135.166])
+        by mx.google.com with ESMTP id e184si613010yka.0.2015.03.13.07.16.11
+        for <dinsmorealex@gmail.com>;
+        Fri, 13 Mar 2015 07:16:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us5_12166667.178045-dinsmorealex=gmail.com@mail166.atl61.mcsv.net designates 205.201.135.166 as permitted sender) client-ip=205.201.135.166;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us5_12166667.178045-dinsmorealex=gmail.com@mail166.atl61.mcsv.net designates 205.201.135.166 as permitted sender) smtp.mail=bounce-mc.us5_12166667.178045-dinsmorealex=gmail.com@mail166.atl61.mcsv.net;
+       dkim=pass header.i=@mail166.atl61.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail166.atl61.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=info=3Dflatrate.com@mail166.atl61.mcsv.net;
+ bh=cph8d0XS9JNyqigvXfE2QWdYUGE=;
+ b=0cfwG+a1KWJ599pbtd3or5GTURl6kLAuRZjwCmBta0uXahb9CBXP1dpwjrRUg+HDcylnhkleVB5t
+   tsaRe5d4WjJcs+vyX+l/9S9h8CwuqfjnTHSAQ3JJdqTMM5bdahXx0ztBZH+wxhBfFLpfeoJz7d0D
+   s7ftOBbgmPCRdiJ4Ncs=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=cph8d0XS9JNyqigvXfE2QWdYUGE=;
+ b=EYL0RI78K5+4e2m7stOTfRRhks1oYVmugdTSjeEpYIDBVBGyaOQRLEXx5Oq01dVoP3EcpZ8CCYxA
+   XPK8nDfu2wo6xJUl4vzPptiGM+7IwZsgupm/0ZHZQEdhgLc6aakoDr8ARLoamKHXFwD4Y8LUv0q5
+   uf9UJptTkuLx+BYGxqs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail166.atl61.mcsv.net;
+ b=y708ALv22k9YfGvTmTvH8t2Mh0EDkeVmTe7TWVP1uH31tE6paaDSEoLm3HOPRFMeGZSlMd5DRTG2
+   U1D8NWc5aenGmD/YT9lOAtoSUm6PddguhMfFE05RgGJsCGNjXTskhoEU83t0u3FyD29W3X8Lv8sU
+   y8K7JjLCrkkmPX7ZC0Y=;
+Received: from (127.0.0.1) by mail166.atl61.mcsv.net id h0boim174ac2 for <dinsmorealex@gmail.com>; Fri, 13 Mar 2015 14:12:20 +0000 (envelope-from <bounce-mc.us5_12166667.178045-dinsmorealex=gmail.com@mail166.atl61.mcsv.net>)
+Subject: =?utf-8?Q?Enjoy=20this=20special=20offer=20from=20FlatRate=20Moving.?=
+From: =?utf-8?Q?FlatRate=20Moving?= <info@flatrate.com>
+Reply-To: =?utf-8?Q?FlatRate=20Moving?= <info@flatrate.com>
+To: =?utf-8?Q?Alex?= <dinsmorealex@gmail.com>
+Date: Fri, 13 Mar 2015 14:12:20 +0000
+Message-ID: <3b4f0e5f214c412c9748186dc0df6e6d69d.20150313141137@mail166.atl61.mcsv.net>
+X-Mailer: MailChimp Mailer - **CIDbc0fb2e8f40df6e6d69d**
+X-Campaign: mailchimp3b4f0e5f214c412c9748186dc.bc0fb2e8f4
+X-campaignid: mailchimp3b4f0e5f214c412c9748186dc.bc0fb2e8f4
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=3b4f0e5f214c412c9748186dc&id=bc0fb2e8f4&e=0df6e6d69d
+X-MC-User: 3b4f0e5f214c412c9748186dc
+X-Feedback-ID: 12166667:12166667.178045:us5:mc
+List-ID: 3b4f0e5f214c412c9748186dcmc list <3b4f0e5f214c412c9748186dc.80193.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-3b4f0e5f214c412c9748186dc-bc0fb2e8f4-0df6e6d69d@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://flatrate.us5.list-manage.com/unsubscribe?u=3b4f0e5f214c412c9748186dc&id=beb96ef2a4&e=0df6e6d69d&c=bc0fb2e8f4>
+Sender: "FlatRate Moving" <info=flatrate.com@mail166.atl61.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_889502314"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_889502314
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+------------------------------------------------------------
+http://us5.campaign-archive2.com/?u=3D3b4f0e5f214c412c9748186dc&id=3Dbc0fb=
+2e8f4&e=3D0df6e6d69d
+http://www.flatrate.com/?utm_source=3DNewsletter&utm_medium=3DEmail&utm_ca=
+mpaign=3DCustomerBenefit
+
+Spring is almost here and it's time to get up and get moving!
+
+Take advantage of our exclusive repeat customer offer:
+
+Enjoy $75 or $125 cash back* on your next booked move with us.
+
+Mention that you are a repeat customer and we'll handle the rest!
+
+
+Visit our website (http://www.flatrate.com/?utm_source=3DEmail&utm_medium=
+=3DNewsletter&utm_campaign=3D125CB)  or call 212-988-9292 to book today.
+This Offer is valid only for moves booked through FlatRate Moving's New Yo=
+rk branch after the date of this Offer where both the 'pick up' and 'deliv=
+ery' take place between March 13=2C 2015 and May 21=2C 2015. This Offer is=
+ only valid if presented to FlatRate Moving prior to receiving a FlatRate=
+ Moving quote. This Offer may not be combined with any other offers=2C dis=
+counts or promotions. $75 cash back is valid on moves valued between $1=2C=
+000 and $1=2C999. $125 cash back is valid on moves valued at $2=2C000 or m=
+ore. Black out dates occur on the 1st and 2nd of each month=2C as well as=
+ the 26th to 30th or 31st of each month.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+212.988.9292 | ** FLATRATE.COM (http://www.flatrate.com?utm_source=3DNewsl=
+etter&utm_medium=3DEmail&utm_campaign=3DCustomerBenefit)
+| ** Twitter (http://www.twitter.com/FlatRate_Moving?utm_source=3DNewslett=
+er&utm_medium=3DEmail&utm_campaign=3DCustomerBenefit)
+| ** Facebook (http://www.facebook.com/FlatRateMoving?utm_source=3DNewslet=
+ter&utm_medium=3DEmail&utm_campaign=3DCustomerBenefit)
+
+
+U.S. DOT 488466 | NYS DOT T-32557
+Copyright =C2=A9 2015 FlatRate Moving=C2=AE=2C All rights reserved.
+ You're receiving this email because you booked a move with FlatRate Movin=
+g New York.=0D
+US DOT 488466 NY DOT T-32557
+Our mailing address is:
+FlatRate Moving=C2=AE
+555 W. 25th Street
+3rd Floor
+New York=2C NY 10001
+USA
+
+** unsubscribe from this list (http://flatrate.us5.list-manage.com/unsubsc=
+ribe?u=3D3b4f0e5f214c412c9748186dc&id=3Dbeb96ef2a4&e=3D0df6e6d69d&c=3Dbc0fb2=
+e8f4)
+| ** update subscription preferences (http://flatrate.us5.list-manage1.com=
+/profile?u=3D3b4f0e5f214c412c9748186dc&id=3Dbeb96ef2a4&e=3D0df6e6d69d)
+--_----------=_MCPart_889502314
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+
+        <!-- Facebook sharing information tags -->
+        <meta property=3D"og:title" content=3D"Enjoy this special offer fr=
+om FlatRate Moving.">
+
+        <title>Enjoy this special offer from FlatRate Moving.</title>
+=09=09
+=09<style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table td{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09#backgroundTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09body=2C#backgroundTable{
+=09=09=09background-color:#FAFAFA;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:1px solid #DDDDDD;
+=09=09}
+=09=09h1=2C.h1{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2=2C.h2{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:30px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3=2C.h3{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:26px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4=2C.h4{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:22px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FAFAFA;
+=09=09}
+=09=09.preheaderContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:10px;
+=09=09=09line-height:100%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent div a:link=2C.preheaderContent div a:visited=2C.pr=
+eheaderContent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#202020;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding:0;
+=09=09=09text-align:center;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link=2C.headerContent a:visited=2C.headerContent a=
+ .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px;
+=09=09}
+=09=09#templateContainer=2C.bodyContent{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.bodyContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent div a:link=2C.bodyContent div a:visited=2C.bodyContent=
+ div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09}
+=09=09.footerContent div{
+=09=09=09color:#707070;
+=09=09=09font-family:Arial;
+=09=09=09font-size:12px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContent div a:link=2C.footerContent div a:visited=2C.footerCo=
+ntent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09}
+=09=09#social{
+=09=09=09background-color:#FAFAFA;
+=09=09=09border:0;
+=09=09}
+=09=09#social div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#utility{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border:0;
+=09=09}
+=09=09#utility div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:190px;
+=09=09}
+</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"-webkit-text-size-adjust: none;margin: 0;padd=
+ing: 0;background-color: #FAFAFA;width: 100% !important;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"backgroundTable" style=3D"margin: 0;padding=
+: 0;background-color: #FAFAFA;height: 100% !important;width: 100% !importa=
+nt;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top" style=3D"border-col=
+lapse: collapse;">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"600" id=3D"templatePreheader" style=3D"background-color: #=
+FAFAFA;">
+                            <tr>
+                                <td valign=3D"top" class=3D"preheaderConte=
+nt" style=3D"border-collapse: collapse;">
+
+                                =09<!-- // Begin Module: Standard Preheade=
+r \ -->
+                                    <table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"100%">
+                                    =09<tr>
+                                        =09<td valign=3D"top" style=3D"bor=
+der-collapse: collapse;">
+                                            =09<div style=3D"color: #50505=
+0;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">=
+</div>
+                                            </td>
+                                            <!--
+ -->
+=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"190" style=3D=
+"border-collapse: collapse;">
+                                            =09<div style=3D"color: #50505=
+0;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">
+                                                =09Is this email not displ=
+aying correctly?<br><a href=3D"http://us5.campaign-archive2.com/?u=3D3b4f0=
+e5f214c412c9748186dc&id=3Dbc0fb2e8f4&e=3D0df6e6d69d" target=3D"_blank" style=
+=3D"color: #336699;font-weight: normal;text-decoration: underline;">View i=
+t in your browser</a>.
+                                                </div>
+                                            </td>
+=09=09=09=09=09=09=09=09=09=09=09<!--
+ -->
+                                        </tr>
+                                    </table>
+                                =09<!-- // End Module: Standard Preheader=
+ \ -->
+
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    =09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" style=3D"border: 1px solid #=
+DDDDDD;background-color: #FFFFFF;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Header \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"background-c=
+olor: #FFFFFF;border-bottom: 0;">
+                                        <tr>
+                                            <td class=3D"headerContent" st=
+yle=3D"border-collapse: collapse;color: #202020;font-family: Arial;font-si=
+ze: 34px;font-weight: bold;line-height: 100%;padding: 0;text-align: center=
+;vertical-align: middle;">
+
+                                            =09<!-- // Begin Module: Stand=
+ard Header Image \\ -->
+                                            =09<a href=3D"http://flatrate.=
+us5.list-manage1.com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3D12dbfe=
+466c&e=3D0df6e6d69d" target=3D"_blank" style=3D"color: #336699;font-weigh=
+t: normal;text-decoration: underline;"><img src=3D"https://gallery.mailchi=
+mp.com/3b4f0e5f214c412c9748186dc/images/header_deals.jpg" alt=3D"FlatRate=
+ Moving - Exclusive Customer Benefit" border=3D"0" style=3D"border-style:=
+ none;margin: 0;padding: 0;max-width: 600px;border: 0;height: auto;line-he=
+ight: 100%;outline: none;text-decoration: none;" id=3D"headerImage campaig=
+n-icon"></a>
+                                            =09<!-- // End Module: Standar=
+d Header Image \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Body \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateBody">
+                                    =09<tr>
+                                            <td valign=3D"top" class=3D"bo=
+dyContent" style=3D"border-collapse: collapse;background-color: #FFFFFF;">
+
+                                                <!-- // Begin Module: Stan=
+dard Postcard Content \\ -->
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                    <tr mc:repeatable=3D"r=
+epeat_1" mc:repeatindex=3D"0" mc:hideable=3D"hideable_repeat_1_1" mchideab=
+le=3D"hideable_repeat_1_1">
+                                                        <td valign=3D"top"=
+ style=3D"border-collapse: collapse;">
+                                                            <table border=
+=3D"0" cellpadding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                                <tr>
+                                                                    <td va=
+lign=3D"top" style=3D"border-collapse: collapse;">
+                                                                        <d=
+iv style=3D"color: #505050;font-family: Arial;font-size: 14px;line-height:=
+ 150%;text-align: left;"></div>
+                                                                        <i=
+mg src=3D"http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/tr=
+ansparent.gif" alt=3D"" border=3D"0" style=3D"margin: 0;padding: 0;border:=
+ 0;height: auto;line-height: 100%;outline: none;text-decoration: none;disp=
+lay: inline;">
+                                                                        <d=
+iv style=3D"color: #505050;font-family: Arial;font-size: 14px;line-height:=
+ 150%;text-align: left;"><div style=3D"text-align: left;color: #505050;fon=
+t-family: Arial;font-size: 14px;line-height: 150%;">&nbsp;</div>
+
+<div style=3D"text-align: center;color: #505050;font-family: Arial;font-si=
+ze: 14px;line-height: 150%;"><span style=3D"font-size:24px">Spring is almo=
+st here and it&#39;s time to get up and get moving! </span></div>
+
+<div style=3D"text-align: left;color: #505050;font-family: Arial;font-size=
+: 14px;line-height: 150%;">&nbsp;</div>
+
+<div style=3D"text-align: center;color: #505050;font-family: Arial;font-si=
+ze: 14px;line-height: 150%;"><strong>Take advantage of our exclusive <span=
+ style=3D"font-size:14px">repeat customer offer</span>:</strong><br>
+&nbsp;</div>
+
+<div style=3D"text-align: center;color: #505050;font-family: Arial;font-si=
+ze: 14px;line-height: 150%;"><strong><span style=3D"color:#FF0000">Enjoy $=
+75 or $125 cash back*&nbsp;on your next booked move with us.</span> &nbsp;=
+</strong><br>
+&nbsp;</div>
+
+<div style=3D"text-align: center;color: #505050;font-family: Arial;font-si=
+ze: 14px;line-height: 150%;"><strong>Mention that you are a repeat custome=
+r and we&#39;ll handle the rest!&nbsp;&nbsp;</strong><br>
+&nbsp;</div>
+
+<div style=3D"text-align: left;color: #505050;font-family: Arial;font-size=
+: 14px;line-height: 150%;">&nbsp;</div>
+
+<div style=3D"text-align: center;color: #505050;font-family: Arial;font-si=
+ze: 14px;line-height: 150%;"><strong style=3D"text-align:center"><span sty=
+le=3D"font-size:18px">Visit our <a href=3D"http://flatrate.us5.list-manage=
+=2Ecom/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3D593e631705&e=3D=
+0df6e6d69d" target=3D"_blank" style=3D"color: #336699;font-weight: normal;text-d=
+ecoration: underline;">website</a>&nbsp;or call 212-988-9292 to book today=
+=2E&nbsp;</span></strong></div>
+
+<div style=3D"text-align: left;color: #505050;font-family: Arial;font-size=
+: 14px;line-height: 150%;"><br>
+<span style=3D"font-size:10px"><em>This Offer&nbsp;is valid only for moves=
+ booked through FlatRate Moving&#39;s New York branch after the date of th=
+is Offer where both the &#39;pick up&#39; and &#39;delivery&#39; take plac=
+e between March 13=2C 2015&nbsp;and May 21=2C 2015. This Offer&nbsp;is onl=
+y valid if presented to FlatRate Moving prior to receiving a FlatRate Movi=
+ng quote. This Offer may not be combined with any other offers=2C discount=
+s or promotions. $75 cash back is valid on moves valued between $1=2C000 a=
+nd $1=2C999. $125 cash back is valid on moves valued at $2=2C000 or more.=
+ Black out dates occur on the 1st and 2nd of each month=2C as well as the=
+ 26th to 30th or 31st of each month.&nbsp;</em></span></div>
+</div>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standa=
+rd Postcard Content \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Footer \\ -->
+                                =09<table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"background=
+-color: #FFFFFF;border-top: 0;">
+                                    =09<tr>
+                                        =09<td valign=3D"top" class=3D"foo=
+terContent" style=3D"border-collapse: collapse;">
+
+                                                <!-- // Begin Module: Stan=
+dard Footer \\ -->
+                                                <table border=3D"0" cellpa=
+dding=3D"10" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td colspan=3D"2"=
+ valign=3D"middle" id=3D"social" style=3D"border-collapse: collapse;backgr=
+ound-color: #FAFAFA;border: 0;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: center;"><span style=3D"font-size:12px">212.988.9292 | </span><a hre=
+f=3D"http://flatrate.us5.list-manage.com/track/click?u=3D3b4f0e5f214c412c9=
+748186dc&id=3D2b67710aef&e=3D0df6e6d69d" style=3D"font-size: 12px;color:=
+ #336699;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">FLATRATE.COM</a>&nbsp;|&nbsp;<a href=3D"http://flatrate.us5.list-manage.=
+com/track/click?u=3D3b4f0e5f214c412c9748186dc&id=3Dc22a414a6c&e=3D=
+0df6e6d69d" style=3D"font-size: 12px;color: #336699;font-weight: normal;text-deco=
+ration: underline;" target=3D"_blank">Twitter</a><span style=3D"font-size:=
+12px">&nbsp;|&nbsp;</span><a href=3D"http://flatrate.us5.list-manage.com/t=
+rack/click?u=3D3b4f0e5f214c412c9748186dc&id=3D647912a528&e=3D0df6e6d69d"=
+ style=3D"font-size: 12px;color: #336699;font-weight: normal;text-decorati=
+on: underline;" target=3D"_blank">Facebook</a><span style=3D"font-size:12p=
+x">&nbsp;</span><br>
+<br>
+U.S. DOT 488466 | NYS DOT T-32557</div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ width=3D"350" style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: left;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<em>Copyright &copy; 2015=
+ FlatRate Moving=C2=AE=2C All rights reserved.</em>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+ You're receiving this email because you booked a move with FlatRate Movin=
+g New York.=0D
+US DOT 488466 NY DOT T-32557
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>Our mailing addres=
+s is:</strong>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"vcard"><span=
+ class=3D"org fn">FlatRate Moving=C2=AE</span><div class=3D"adr"><div clas=
+s=3D"street-address">555 W. 25th Street</div><div class=3D"extended-addres=
+s">3rd Floor</div><span class=3D"locality">New York</span>=2C <span class=
+=3D"region">NY</span>  <span class=3D"postal-code">10001</span></div><br><=
+a href=3D"http://flatrate.us5.list-manage2.com/vcard?u=3D3b4f0e5f214c412c9=
+748186dc&id=3Dbeb96ef2a4" class=3D"hcard-download">Add us to your address=
+ book</a></div>
+                                                            </div>
+                                                        </td>
+                                                        <td valign=3D"top"=
+ width=3D"190" id=3D"monkeyRewards" style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: left;">
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan=3D"2"=
+ valign=3D"middle" id=3D"utility" style=3D"border-collapse: collapse;backg=
+round-color: #FFFFFF;border: 0;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: center;">
+                                                                &nbsp;<a h=
+ref=3D"http://flatrate.us5.list-manage.com/unsubscribe?u=3D3b4f0e5f214c412=
+c9748186dc&id=3Dbeb96ef2a4&e=3D0df6e6d69d&c=3Dbc0fb2e8f4" style=3D"color: #3=
+36699;font-weight: normal;text-decoration: underline;">unsubscribe from th=
+is list</a> | <a href=3D"http://flatrate.us5.list-manage1.com/profile?u=3D=
+3b4f0e5f214c412c9748186dc&id=3Dbeb96ef2a4&e=3D0df6e6d69d" style=3D"color: #3=
+36699;font-weight: normal;text-decoration: underline;">update subscription=
+ preferences</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standa=
+rd Footer \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://flatrate.us5.list-manage.com/track/open.php?u=3D3b4=
+f0e5f214c412c9748186dc&id=3Dbc0fb2e8f4&e=3D0df6e6d69d" height=3D"1" width=
+=3D"1"></body>
+</html>
+--_----------=_MCPart_889502314--

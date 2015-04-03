@@ -1,0 +1,726 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp265926ldh;
+        Thu, 12 Feb 2015 00:38:47 -0800 (PST)
+X-Received: by 10.170.42.129 with SMTP id 123mr2617023ykk.74.1423730326296;
+        Thu, 12 Feb 2015 00:38:46 -0800 (PST)
+Return-Path: <0000014b7cf0b694-7ece00c4-ca80-4aff-8955-5c36c0d9131e-000000@amazonses.com>
+Received: from a9-120.smtp-out.amazonses.com (a9-120.smtp-out.amazonses.com. [54.240.9.120])
+        by mx.google.com with ESMTPS id z3si4226026qab.76.2015.02.12.00.38.45
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 12 Feb 2015 00:38:46 -0800 (PST)
+Received-SPF: pass (google.com: domain of 0000014b7cf0b694-7ece00c4-ca80-4aff-8955-5c36c0d9131e-000000@amazonses.com designates 54.240.9.120 as permitted sender) client-ip=54.240.9.120;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 0000014b7cf0b694-7ece00c4-ca80-4aff-8955-5c36c0d9131e-000000@amazonses.com designates 54.240.9.120 as permitted sender) smtp.mail=0000014b7cf0b694-7ece00c4-ca80-4aff-8955-5c36c0d9131e-000000@amazonses.com;
+       dkim=pass header.i=@academia.edu
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1423730325;
+	h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=gjPNrN9bJ2g/s7cPv/i8xslOH8CHa8dhNs8p7dlVPJo=;
+	b=VMCk7zFiM02lDvcrCOO7Doj+/KLAQqDlpdXFbBakbchvj4uRGckAWQ7ArPRseXuq
+	sVrbU6qkyHt8QKud61IZHNDjTBZAh0CPjSfbaWiqoqxOiAZcBY2B5ppshnJkn7LqX5Y
+	6lA9mid5W9NQCz4SXoQYCJZui12zIEzaTRfjMXRI=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7jzy5c4bunm27sdv7btjwusno34jc4bl; d=academia.edu; t=1423730325;
+	h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding;
+	bh=gjPNrN9bJ2g/s7cPv/i8xslOH8CHa8dhNs8p7dlVPJo=;
+	b=cW/QcXhavtkr723XksovvOMWh9ot/dlYqOulriX4xSYlWbcIZD70emrHvFERgXAu
+	6tzv2axmS21w186urUBSA1tjv5Ae504h+n6Dd273UrwqVvD/eOEweuAi6ZHCnYRPNCq
+	0laG7IyvCjmykG9EWhwn/SV+Z+0/qNBmxlf0Oq4s=
+Date: Thu, 12 Feb 2015 08:38:45 +0000
+From: "Academia.edu Weekly Digest" <noreply@academia.edu>
+To: dinsmorealex@gmail.com
+Message-ID: <0000014b7cf0b694-7ece00c4-ca80-4aff-8955-5c36c0d9131e-000000@email.amazonses.com>
+Subject:  Cuneiform Character Similarity Using Graph Representations -
+ Academia.edu
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_54dc6694b926e_3c13f920402bcc04797044";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SES-Outgoing: 2015.02.12-54.240.9.120
+Feedback-ID: 1.us-east-1.+D6yPXNQsonfrDMv/Fmi8P0+JMZ6ZUD6kklooEAhQUc=:AmazonSES
+
+
+----==_mimepart_54dc6694b926e_3c13f920402bcc04797044
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Top papers from your news feed from the last week
+
+ Cuneiform Character Similarity Using Graph Representations
+https://www.academia.edu/t/a-JVBeYZX-bdnFq5/10484924/Cuneiform_Character_=
+Similarity_Using_Graph_Representations
+Motivated by the increased demand for computerized analysis of documents =
+within the Digital Humanities we are developing algorithms for cuneiform =
+tablets, which contain the oldest handwritten script used for more than t=
+hree millennia. These tablets are typically found in the Middle East and =
+contain a total amount of written words comparable to all documents in La=
+tin or ancient Greek. In previous work we have shown how to extract vecto=
+r drawings from 3D-models similar to those manually drawn over digital ph=
+otographs. Both types of drawings share the Scalable Vector Graphic (SVG)=
+ format...
+
+Object Localisation by Selective Convolution with Fuzzy Mask =E2=80=93 a =
+Simple Approach
+https://www.academia.edu/t/a-JVBeYZX-bdnFq5/10367936/Object_Localisation_=
+by_Selective_Convolution_with_Fuzzy_Mask_a_Simple_Approach
+This paper describes about an approach for object localization using fuzz=
+y mask
+of thresholded difference images of training data normalized by Gaussian.=
+ By convolving
+the mask in different scales in a sliding window approach with sectional =
+selectivity trained
+according to variance of values across different classes, the area which =
+returns a likelihood
+above a trained threshold is shown as the image location. The idea is bas=
+ed on the idea that
+humans detect objects based on their edges and their relative scale.
+
+
+David Tudor's Rainforest: The culture of 'electric ecology'
+https://www.academia.edu/t/a-JVBeYZX-bdnFq5/10363685/David_Tudors_Rainfor=
+est_The_culture_of_electric_ecology
+Primarily associated as a collaborator alongside John Cage, David Tudor i=
+s often overlooked as an influential composer of 20th century electronic =
+music. His work, though less documented, remains historically significant=
+ to the development of the art form. Perhaps his most accomplished sound =
+art installation; =E2=80=9CRainforest I-IV=E2=80=9D is an evolving series=
+ that explores the principles of analog circuitry, resonant frequency, so=
+und diffusion, indeterminacy, and communal experience of environmental sp=
+ace. With renewed interest in his legacy, recent recreations of Rainfores=
+t IV have allowed listeners...
+
+Optical Measurement of Low-Frequency Vibration
+https://www.academia.edu/t/a-JVBeYZX-bdnFq5/10363522/Optical_Measurement_=
+of_Low-Frequency_Vibration
+
+M=02mode Swept Source Optical Coherence Tomography for Quantification of =
+Salt Concentration in Blood: An in vitro Study
+https://www.academia.edu/t/a-JVBeYZX-bdnFq5/10490383/M_mode_Swept_Source_=
+Optical_Coherence_Tomography_for_Quantification_of_Salt_Concentration_in_=
+Blood_An_in_vitro_Study
+We report the use of Mmode swept source optical coherence tomography (SSO=
+CT) for measuring sodium chloride (NaCl) salt concentrations in liquid ph=
+antoms and in drawn whole blood based on temporal dynamics of light scatt=
+ering. The Brownian motion of scattering particle is affected due to the =
+change
+in viscosity of liquid. An autocorrelation function was determined from t=
+he power spectrum of SSOCT signal
+and then was fit by mono and double exponential function to obtain decorr=
+elation time. These translational
+decorrelation times corresponding to translational diffusion coefficients=
+ enabled us...
+
+Colorization and Automated Segmentation of Human T2 MR Brain Images for C=
+haracterization of Soft Tissues
+https://www.academia.edu/t/a-JVBeYZX-bdnFq5/8782013/Colorization_and_Auto=
+mated_Segmentation_of_Human_T2_MR_Brain_Images_for_Characterization_of_So=
+ft_Tissues
+
+iPads in the Early Years: Developing literacy and creativity
+https://www.academia.edu/t/a-JVBeYZX-bdnFq5/10356667/iPads_in_the_Early_Y=
+ears_Developing_literacy_and_creativity
+Digital devices, such as smart phones and tablet computers, are becoming =
+commonplace in young children=E2=80=99s lives for play, entertainment, le=
+arning and communication. Recently, there has been a great deal of focus =
+on the educational potential of these devices in both formal and informal=
+ educational settings. There is now an abundance of educational =E2=80=98=
+apps=E2=80=99 available to children, parents, and teachers, which claim t=
+o enhance children=E2=80=99s early literacy and numeracy development, but=
+ to date, there has been very little formal investigation of the educatio=
+nal potential of these devices.
+
+This book...
+
+Is there speech or is there silence? And for how long? A conversation bet=
+ween Liz Greene and Dominic Paterson, 29th April 2014, University of Glas=
+gow
+https://www.academia.edu/t/a-JVBeYZX-bdnFq5/7131003/Is_there_speech_or_is=
+_there_silence_And_for_how_long_A_conversation_between_Liz_Greene_and_Dom=
+inic_Paterson_29th_April_2014_University_of_Glasgow
+
+
+-----
+Click here to disable weekly digest emails:
+https://academia.edu/t/a-JVBeYZX-bdnFq5/keypass/a6dd13d0fd857fa639cd77dd3=
+50e0fea51caa575/unsubscribe/weekly_digest
+
+Academia.edu, 251 Kearny St., Suite 520, San Francisco, CA, 94108
+
+----==_mimepart_54dc6694b926e_3c13f920402bcc04797044
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+  =
+
+
+<style type=3D"text/css">
+body {
+background: #f1f1f1; padding: 20px;
+}
+a.export_link:hover {
+border-color: #ccc;
+}
+</style>
+</head>
+<body style=3D"background: #f1f1f1; padding: 20px;">
+  <html>
+<head>
+  =
+
+
+<style type=3D"text/css">
+body {
+background: #f1f1f1; padding: 20px;
+}
+a.export_link:hover {
+border-color: #ccc;
+}
+</style>
+</head>
+<body style=3D"background: #f1f1f1; padding: 20px;">
+  <img src=3D"http://a.academia-assets.com/images/dark-email-logo.jpg" al=
+t=3D"Academia.edu" />
+
+  <br/><br/>
+  <table style=3D"width: 720px;" cellpadding=3D"40">
+    <tr style=3D"background: #fff;">
+      <td>
+        <p class=3D"medium" style=3D"font-family: 'Open Sans','Helvetica =
+Neue',sans-serif; font-weight: 600; font-size: 15px; color: #202020; widt=
+h: 522px; margin: 15px 15px 15px 0;">Top papers from your news feed from =
+the last week </p>
+        <table style=3D"border-collapse: collapse;">
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Hubert" border=3D"0" height=3D"45px" onerror=3D=
+"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic.pn=
+g&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_pic.=
+png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/284175/=
+69875/1466519/s65_hubert.mara.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/10484924/Cuneiform_Character_Similarity_Using_Graph_=
+Representations" style=3D"color: #06c; text-decoration: none; line-height=
+: 24px; font-size: 16px;"> Cuneiform Character Similarity Using Graph Rep=
+resentations</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://uni-heidelberg.=
+academia.edu/t/a-JVBeYZX-bdnFq5/HubertMara" style=3D"color: #06c; text-de=
+coration: none;">Hubert Mara</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    Motivated by the increased demand for computerized an=
+alysis of documents within the Digital Humanities we are developing algor=
+ithms for cuneiform tablets, which contain the oldest handwritten script =
+used for more than three millennia. These tablets are typically found in =
+the Middle East and contain a total amount of written words comparable to=
+ all documents in Latin or ancient Greek. In previous work we have shown =
+how to extract vector drawings from 3D-models similar to those manually d=
+rawn over digital photographs. Both types of drawings share the Scalable =
+Vector Graphic (SVG) format...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/44c0a1b360e93636a7837fae80a8f0782aa9=
+bda6/t/a-JVBeYZX-bdnFq5/10484924/Cuneiform_Character_Similarity_Using_Gra=
+ph_Representations?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D=
+"font-family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text=
+-decoration: none; border-radius: 2px; font-size: 13px; margin-left: 0; d=
+isplay: block; float: left; margin-top: 10px; margin-right: 10px; backgro=
+und: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/ec89487684a0be8eda065e49054b07a2c740328=
+5/t/a-JVBeYZX-bdnFq5/10484924/Cuneiform_Character_Similarity_Using_Graph_=
+Representations?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"fo=
+nt-family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-de=
+coration: none; display: block; float: left; border-radius: 2px; font-siz=
+e: 13px; margin-left: 0; margin-top: 10px; margin-right: 10px; background=
+: #479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Aritra" border=3D"0" height=3D"45px" onerror=3D=
+"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic.pn=
+g&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_pic.=
+png&#39;;" protocol=3D"http" src=3D"https://gravatar.com/avatar/6440261da=
+a8e2d556bf475bce0b1d6ae?s=3D65" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/10367936/Object_Localisation_by_Selective_Convolutio=
+n_with_Fuzzy_Mask_a_Simple_Approach" style=3D"color: #06c; text-decoratio=
+n: none; line-height: 24px; font-size: 16px;">Object Localisation by Sele=
+ctive Convolution with Fuzzy Mask =E2=80=93 a Simple Approach</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://jaduniv.academi=
+a.edu/t/a-JVBeYZX-bdnFq5/AMukherjee" style=3D"color: #06c; text-decoratio=
+n: none;">Aritra Mukherjee</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    This paper describes about an approach for object loc=
+alization using fuzzy mask
+of thresholded difference images of training data normalized by Gaussian.=
+ By convolving
+the mask in different scales in a sliding window approach with sectional =
+selectivity trained
+according to variance of values across different classes, the area which =
+returns a likelihood
+above a trained threshold is shown as the image location. The idea is bas=
+ed on the idea that
+humans detect objects based on their edges and their relative scale.
+
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/642f3d65527e2f7ac6f28bcf93a8cac6a821=
+cbff/t/a-JVBeYZX-bdnFq5/10367936/Object_Localisation_by_Selective_Convolu=
+tion_with_Fuzzy_Mask_a_Simple_Approach?auto=3Ddownload&amp;campaign=3Dwee=
+kly_digest" style=3D"font-family: 'Open Sans','Helvetica Neue',sans-serif=
+; color: white; text-decoration: none; border-radius: 2px; font-size: 13p=
+x; margin-left: 0; display: block; float: left; margin-top: 10px; margin-=
+right: 10px; background: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/4ca73fe0d0c66a012eb56adf157eebee2105927=
+b/t/a-JVBeYZX-bdnFq5/10367936/Object_Localisation_by_Selective_Convolutio=
+n_with_Fuzzy_Mask_a_Simple_Approach?auto=3Dbookmark&amp;campaign=3Dweekly=
+_digest" style=3D"font-family: 'Open Sans','Helvetica Neue',sans-serif; c=
+olor: white; text-decoration: none; display: block; float: left; border-r=
+adius: 2px; font-size: 13px; margin-left: 0; margin-top: 10px; margin-rig=
+ht: 10px; background: #479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Christopher" border=3D"0" height=3D"45px" one=
+rror=3D"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no=
+_pic.png&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_=
+no_pic.png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/=
+25463298/6955378/7850476/s65_christopher.sciacca.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/10363685/David_Tudors_Rainforest_The_culture_of_elec=
+tric_ecology" style=3D"color: #06c; text-decoration: none; line-height: 2=
+4px; font-size: 16px;">David Tudor&#39;s Rainforest: The culture of &#39;=
+electric ecology&#39;</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://brighton.academ=
+ia.edu/t/a-JVBeYZX-bdnFq5/ChristopherSciacca" style=3D"color: #06c; text-=
+decoration: none;">Christopher Sciacca</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    Primarily associated as a collaborator alongside John=
+ Cage, David Tudor is often overlooked as an influential composer of 20th=
+ century electronic music. His work, though less documented, remains hist=
+orically significant to the development of the art form. Perhaps his most=
+ accomplished sound art installation; =E2=80=9CRainforest I-IV=E2=80=9D i=
+s an evolving series that explores the principles of analog circuitry, re=
+sonant frequency, sound diffusion, indeterminacy, and communal experience=
+ of environmental space. With renewed interest in his legacy, recent recr=
+eations of Rainforest IV have allowed listeners...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/bca739ebdcd439142c5429d409f77b11ce2b=
+0dc4/t/a-JVBeYZX-bdnFq5/10363685/David_Tudors_Rainforest_The_culture_of_e=
+lectric_ecology?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D"fo=
+nt-family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-de=
+coration: none; border-radius: 2px; font-size: 13px; margin-left: 0; disp=
+lay: block; float: left; margin-top: 10px; margin-right: 10px; background=
+: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/14bcb5bf6a0d103cfb035562d2abe5efefd7624=
+3/t/a-JVBeYZX-bdnFq5/10363685/David_Tudors_Rainforest_The_culture_of_elec=
+tric_ecology?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"font-=
+family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-decor=
+ation: none; display: block; float: left; border-radius: 2px; font-size: =
+13px; margin-left: 0; margin-top: 10px; margin-right: 10px; background: #=
+479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Richard" border=3D"0" height=3D"45px" onerror=
+=3D"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic=
+.png&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_p=
+ic.png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/2546=
+4342/6955202/7843854/s65_richard.shaw.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/10363522/Optical_Measurement_of_Low-Frequency_Vibrat=
+ion" style=3D"color: #06c; text-decoration: none; line-height: 24px; font=
+-size: 16px;">Optical Measurement of Low-Frequency Vibration</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://bath.academia.e=
+du/t/a-JVBeYZX-bdnFq5/RichardShaw" style=3D"color: #06c; text-decoration:=
+ none;">Richard Shaw</a>
+                </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/9011623fa85af15f292ab0132e5e48d0c8a7=
+a78d/t/a-JVBeYZX-bdnFq5/10363522/Optical_Measurement_of_Low-Frequency_Vib=
+ration?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D"font-family=
+: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-decoration:=
+ none; border-radius: 2px; font-size: 13px; margin-left: 0; display: bloc=
+k; float: left; margin-top: 10px; margin-right: 10px; background: #669a4e=
+; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/f60b6b55050fa646c6fe67d857121e518e8a667=
+8/t/a-JVBeYZX-bdnFq5/10363522/Optical_Measurement_of_Low-Frequency_Vibrat=
+ion?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"font-family: '=
+Open Sans','Helvetica Neue',sans-serif; color: white; text-decoration: no=
+ne; display: block; float: left; border-radius: 2px; font-size: 13px; mar=
+gin-left: 0; margin-top: 10px; margin-right: 10px; background: #479ed9; p=
+adding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Muhammad" border=3D"0" height=3D"45px" onerro=
+r=3D"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pi=
+c.png&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_=
+pic.png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/189=
+47860/5510507/6279185/s65_muhammad.attique.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/10490383/M_mode_Swept_Source_Optical_Coherence_Tomog=
+raphy_for_Quantification_of_Salt_Concentration_in_Blood_An_in_vitro_Study=
+" style=3D"color: #06c; text-decoration: none; line-height: 24px; font-si=
+ze: 16px;">M=02mode Swept Source Optical Coherence Tomography for Quantif=
+ication of Salt Concentration in Blood: An in vitro Study</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://iub-pk.academia=
+.edu/t/a-JVBeYZX-bdnFq5/MuhammadAttique" style=3D"color: #06c; text-decor=
+ation: none;">Muhammad Attique</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    We report the use of Mmode swept source optical coher=
+ence tomography (SSOCT) for measuring sodium chloride (NaCl) salt concent=
+rations in liquid phantoms and in drawn whole blood based on temporal dyn=
+amics of light scattering. The Brownian motion of scattering particle is =
+affected due to the change
+in viscosity of liquid. An autocorrelation function was determined from t=
+he power spectrum of SSOCT signal
+and then was fit by mono and double exponential function to obtain decorr=
+elation time. These translational
+decorrelation times corresponding to translational diffusion coefficients=
+ enabled us...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/24423142e97f6310959925ffd48dc208fa66=
+3235/t/a-JVBeYZX-bdnFq5/10490383/M_mode_Swept_Source_Optical_Coherence_To=
+mography_for_Quantification_of_Salt_Concentration_in_Blood_An_in_vitro_St=
+udy?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D"font-family: '=
+Open Sans','Helvetica Neue',sans-serif; color: white; text-decoration: no=
+ne; border-radius: 2px; font-size: 13px; margin-left: 0; display: block; =
+float: left; margin-top: 10px; margin-right: 10px; background: #669a4e; p=
+adding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/07dc6fb05a6bda713287d5e425b3266c8c4f64a=
+b/t/a-JVBeYZX-bdnFq5/10490383/M_mode_Swept_Source_Optical_Coherence_Tomog=
+raphy_for_Quantification_of_Salt_Concentration_in_Blood_An_in_vitro_Study=
+?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"font-family: 'Ope=
+n Sans','Helvetica Neue',sans-serif; color: white; text-decoration: none;=
+ display: block; float: left; border-radius: 2px; font-size: 13px; margin=
+-left: 0; margin-top: 10px; margin-right: 10px; background: #479ed9; padd=
+ing: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Muhammad" border=3D"0" height=3D"45px" onerro=
+r=3D"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pi=
+c.png&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_=
+pic.png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/189=
+47860/5510507/6279185/s65_muhammad.attique.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/8782013/Colorization_and_Automated_Segmentation_of_H=
+uman_T2_MR_Brain_Images_for_Characterization_of_Soft_Tissues" style=3D"co=
+lor: #06c; text-decoration: none; line-height: 24px; font-size: 16px;">Co=
+lorization and Automated Segmentation of Human T2 MR Brain Images for Cha=
+racterization of Soft Tissues</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://iub-pk.academia=
+.edu/t/a-JVBeYZX-bdnFq5/MuhammadAttique" style=3D"color: #06c; text-decor=
+ation: none;">Muhammad Attique</a>
+                </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/f21f8543b9ff4420d8a527516979ad34f4ae=
+cc7d/t/a-JVBeYZX-bdnFq5/8782013/Colorization_and_Automated_Segmentation_o=
+f_Human_T2_MR_Brain_Images_for_Characterization_of_Soft_Tissues?auto=3Ddo=
+wnload&amp;campaign=3Dweekly_digest" style=3D"font-family: 'Open Sans','H=
+elvetica Neue',sans-serif; color: white; text-decoration: none; border-ra=
+dius: 2px; font-size: 13px; margin-left: 0; display: block; float: left; =
+margin-top: 10px; margin-right: 10px; background: #669a4e; padding: 8px 6=
+px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/c20f3a2f29f26e1d0702ad33d37774c584afaf9=
+2/t/a-JVBeYZX-bdnFq5/8782013/Colorization_and_Automated_Segmentation_of_H=
+uman_T2_MR_Brain_Images_for_Characterization_of_Soft_Tissues?auto=3Dbookm=
+ark&amp;campaign=3Dweekly_digest" style=3D"font-family: 'Open Sans','Helv=
+etica Neue',sans-serif; color: white; text-decoration: none; display: blo=
+ck; float: left; border-radius: 2px; font-size: 13px; margin-left: 0; mar=
+gin-top: 10px; margin-right: 10px; background: #479ed9; padding: 8px 6px;=
+">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Linda" border=3D"0" height=3D"45px" onerror=3D=
+"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic.pn=
+g&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_pic.=
+png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/167892/=
+42433/39003/s65_linda.knight.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/10356667/iPads_in_the_Early_Years_Developing_literac=
+y_and_creativity" style=3D"color: #06c; text-decoration: none; line-heigh=
+t: 24px; font-size: 16px;">iPads in the Early Years: Developing literacy =
+and creativity</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://qut.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/LindaKnight" style=3D"color: #06c; text-decoration: =
+none;">Linda Knight</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    Digital devices, such as smart phones and tablet comp=
+uters, are becoming commonplace in young children=E2=80=99s lives for pla=
+y, entertainment, learning and communication. Recently, there has been a =
+great deal of focus on the educational potential of these devices in both=
+ formal and informal educational settings. There is now an abundance of e=
+ducational =E2=80=98apps=E2=80=99 available to children, parents, and tea=
+chers, which claim to enhance children=E2=80=99s early literacy and numer=
+acy development, but to date, there has been very little formal investiga=
+tion of the educational potential of these devices.
+
+This book...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/547966640f51f5ed5d82e4a04a02d4978c62=
+b30d/t/a-JVBeYZX-bdnFq5/10356667/iPads_in_the_Early_Years_Developing_lite=
+racy_and_creativity?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D=
+"font-family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text=
+-decoration: none; border-radius: 2px; font-size: 13px; margin-left: 0; d=
+isplay: block; float: left; margin-top: 10px; margin-right: 10px; backgro=
+und: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/3d13a3e41a56c7d1651e037e98f9a2f94f02918=
+5/t/a-JVBeYZX-bdnFq5/10356667/iPads_in_the_Early_Years_Developing_literac=
+y_and_creativity?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"f=
+ont-family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-d=
+ecoration: none; display: block; float: left; border-radius: 2px; font-si=
+ze: 13px; margin-left: 0; margin-top: 10px; margin-right: 10px; backgroun=
+d: #479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Liz" border=3D"0" height=3D"45px" onerror=3D"=
+if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic.png=
+&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_pic.p=
+ng&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/924639/3=
+46006/4769737/s65_liz.greene.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/7131003/Is_there_speech_or_is_there_silence_And_for_=
+how_long_A_conversation_between_Liz_Greene_and_Dominic_Paterson_29th_Apri=
+l_2014_University_of_Glasgow" style=3D"color: #06c; text-decoration: none=
+; line-height: 24px; font-size: 16px;">Is there speech or is there silenc=
+e? And for how long? A conversation between Liz Greene and Dominic Paters=
+on, 29th April 2014, University of Glasgow</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://dcu.academia.ed=
+u/t/a-JVBeYZX-bdnFq5/LizGreene" style=3D"color: #06c; text-decoration: no=
+ne;">Liz Greene</a>
+                </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/6a76f737d045394b6bed0b7c3af0c45034a0=
+fcd4/t/a-JVBeYZX-bdnFq5/7131003/Is_there_speech_or_is_there_silence_And_f=
+or_how_long_A_conversation_between_Liz_Greene_and_Dominic_Paterson_29th_A=
+pril_2014_University_of_Glasgow?auto=3Ddownload&amp;campaign=3Dweekly_dig=
+est" style=3D"font-family: 'Open Sans','Helvetica Neue',sans-serif; color=
+: white; text-decoration: none; border-radius: 2px; font-size: 13px; marg=
+in-left: 0; display: block; float: left; margin-top: 10px; margin-right: =
+10px; background: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/d61861a379d5342b42b79c70aab841672fd9277=
+0/t/a-JVBeYZX-bdnFq5/7131003/Is_there_speech_or_is_there_silence_And_for_=
+how_long_A_conversation_between_Liz_Greene_and_Dominic_Paterson_29th_Apri=
+l_2014_University_of_Glasgow?auto=3Dbookmark&amp;campaign=3Dweekly_digest=
+" style=3D"font-family: 'Open Sans','Helvetica Neue',sans-serif; color: w=
+hite; text-decoration: none; display: block; float: left; border-radius: =
+2px; font-size: 13px; margin-left: 0; margin-top: 10px; margin-right: 10p=
+x; background: #479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+        </table>
+
+        <div class=3D"digest_call_to_upload" style=3D"padding-top: 30px; =
+margin-top: 30px; text-align: center;" align=3D"center">
+          <span style=3D"font-size: 12px; color: #878787;">Share your pap=
+ers</span>
+          <a class=3D"paper_upload" href=3D"https://www.academia.edu/keyp=
+ass/cca07da9529b61032f43b74d2ad33764e92643d3/t/a-JVBeYZX-bdnFq5/upload-a-=
+paper/paper_digest" style=3D"color: white; border-radius: 2px; text-decor=
+ation: none; display: block; width: 230px; background: #669a4e; margin: 1=
+5px auto; padding: 10px 0;">Upload Your Papers</a>
+        </div>
+
+        =
+
+      </td>
+    </tr>
+  </table>
+
+  <p class=3D"footer" style=3D"font-family: 'Open Sans','Helvetica Neue',=
+sans-serif; font-weight: 400; font-size: 11px; color: #777; width: 560px;=
+ margin: 15px 0;">
+    <a href=3D"https://academia.edu/t/a-JVBeYZX-bdnFq5/keypass/a6dd13d0fd=
+857fa639cd77dd350e0fea51caa575/unsubscribe/weekly_digest">Click here</a> =
+to disable paper digest emails.
+  </p>
+  <p class=3D"footer" style=3D"font-family: 'Open Sans','Helvetica Neue',=
+sans-serif; font-weight: 400; font-size: 11px; color: #777; width: 560px;=
+ margin: 15px 0;">
+    Academia.edu, 251 Kearny St., Suite 520, San Francisco, CA, 94108
+  </p>
+  <img src=3D"https://www.academia.edu/t/a-JVBeYZX-bdnFq5/images/clear.gi=
+f" border=3D"0" width=3D"1" height=3D"1" />
+</body>
+</html>
+
+  <img src=3D"https://www.academia.edu/t/a-JVBeYZX-bdnFq5/images/clear.gi=
+f" border=3D"0" width=3D"1" height=3D"1">
+</body>
+</html>
+
+----==_mimepart_54dc6694b926e_3c13f920402bcc04797044--

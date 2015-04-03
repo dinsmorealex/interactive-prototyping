@@ -1,0 +1,53 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.174.52 with SMTP id bp20csp399649ldc;
+        Thu, 24 Oct 2013 14:10:59 -0700 (PDT)
+X-Received: by 10.49.50.198 with SMTP id e6mr6266866qeo.87.1382649058519;
+        Thu, 24 Oct 2013 14:10:58 -0700 (PDT)
+Return-Path: <20131024211057e0c0981b05674980a8511cb487df5f6e@bounces.amazon.com>
+Received: from smtp-out-174-15.amazon.com (smtp-out-174-15.amazon.com. [207.171.174.15])
+        by mx.google.com with ESMTP id i9si641131qce.75.2013.10.24.14.10.58
+        for <dinsmorealex@gmail.com>;
+        Thu, 24 Oct 2013 14:10:58 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 20131024211057e0c0981b05674980a8511cb487df5f6e@bounces.amazon.com designates 207.171.174.15 as permitted sender) client-ip=207.171.174.15;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 20131024211057e0c0981b05674980a8511cb487df5f6e@bounces.amazon.com designates 207.171.174.15 as permitted sender) smtp.mail=20131024211057e0c0981b05674980a8511cb487df5f6e@bounces.amazon.com;
+       dkim=pass header.i=@amazon.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=amazon.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1382649057;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=/0pibmAM/TjZa4O4oifXaU8+moPnwiIyhcmmlSWuJtA=;
+	b=YhIach6VTcvUqJzFKzj0KNUTcfgEpY69Nqh7383pifa1C3Aguo/sfv/TGi0h4S7K
+	RrSWvKoXhvqMzbTPD+DyAleqqZNW187aGheUBJwwAnSB2b/QGFT8bJVYEVdU9l/hS1E
+	fISs4rZxebIWqMXIipEi8dnsESOXt2Bym+RK3RvQ=
+Return-Path: 20131024211057e0c0981b05674980a8511cb487df5f6e@bounces.amazon.com
+Date: Thu, 24 Oct 2013 21:10:57 +0000
+From: "order-update@amazon.com" <order-update@amazon.com>
+Reply-To: "order-update@amazon.com" <order-update@amazon.com>
+To: "dinsmorealex@gmail.com" <dinsmorealex@gmail.com>
+Message-ID: <00000141ec4e505e-6de6affe-d3ec-490e-ae83-00a4512f0376-000000@email.amazonses.com>
+Subject: Amazon.com - Order Revision (111-7284691-4689059)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Bounces-to: 20131024211057e0c0981b05674980a8511cb487df5f6e@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20131024211057e0c0981b05674980a8511cb487df5f6e@1382649057270.rte-svc-1d2-i-6dd5831d.us-east-1.amazon.com>
+X-SES-Outgoing: 207.171.174.15
+
+Dear Alex Dinsmore,
+
+Thanks for updating the shipping method for your order #111-7284691-4689059 placed with Clicket Party Supplies and Costumes to:
+
+Expedited
+
+When your order is shipped, we will send you an e-mail message to confirm the date, contents and method of your shipment.  If you requested any additional changes to this order, you will receive a separate e-mail to confirm those changes.
+
+Thank you for visiting Amazon.com!
+
+---------------------------------------------------------------------
+Amazon.com
+Earth's Biggest Selection
+http://www.amazon.com
+---------------------------------------------------------------------

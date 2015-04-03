@@ -1,0 +1,288 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp762221ldh;
+        Wed, 4 Feb 2015 16:36:12 -0800 (PST)
+X-Received: by 10.107.10.214 with SMTP id 83mr1166944iok.79.1423096571948;
+        Wed, 04 Feb 2015 16:36:11 -0800 (PST)
+Return-Path: <bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org>
+Received: from o1.list.fightforthefuture.org (o1.list.fightforthefuture.org. [50.31.33.35])
+        by mx.google.com with ESMTPS id l1si2799308igx.50.2015.02.04.16.36.11
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 04 Feb 2015 16:36:11 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org designates 50.31.33.35 as permitted sender) client-ip=50.31.33.35;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org designates 50.31.33.35 as permitted sender) smtp.mail=bounces+855142-b8a2-dinsmorealex=gmail.com@list.fightforthefuture.org;
+       dkim=pass header.i=@list.fightforthefuture.org
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=list.fightforthefuture.org; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	s=smtpapi; bh=B9somfLiClm17Zsf54B0EKkOqAs=; b=GhMHYMkhjIlIdmAjvH
+	nTxB41yoH6pPOkdIWBJtKIj1URx8F+t8P0EUYS7bSANDsL+SQ+owtpIG3MafxXV9
+	UsKqvVxaD48dvmkggwQqomEOG0wl/kixJaQS2237mfXx+Mm/F0EbKT2dJH0pGemL
+	h/ZupMnVNiC9Ov6EroAkkmnwk=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=B9somfLiClm17Zsf54B0EKkOqAs=; b=vkR+dCLob2CxhrXLGZ
+	FRgUPuWJCCgZWC+2uujeMpOTpe+xFRuSta6P7XrUOBrzPuc0Ukoh+rzGsUF0uNUf
+	9TNTrLjaZuXpKqh13QUEBiq33hNggrplH1RukirODOVTQ9C1LksBAj/QGeWYDjUI
+	xW92s8brKPkFL8oOypjje+eWY=
+Received: by filter0163p1mdw1.sendgrid.net with SMTP id filter0163p1mdw1.23871.54D2BAF31B
+        2015-02-05 00:36:09.42664884 +0000 UTC
+Received: from list.fightforthefuture.org (ec2-107-21-172-29.compute-1.amazonaws.com [107.21.172.29])
+	by ismtpd-040 (SG) with ESMTP id 14b572a5dfe.423a.b6a2
+	for <noreply@list.fightforthefuture.org>; Thu, 05 Feb 2015 00:36:09 +0000 (UTC)
+Date: Thu, 05 Feb 2015 00:36:09 +0000
+From: Tiffiniy Cheng from FFTF <info@list.fightforthefuture.org>
+Reply-to: info@fightforthefuture.org
+To: dinsmorealex@gmail.com
+Message-ID: <54d2baf94836d_33fbe62ffbea41870032@597bb5f8-3bc6-489d-af36-56aea379d815.mail>
+Subject: Against all odds
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_54d2baf945be9_33fbe62ffbea418699b3";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://list.fightforthefuture.org/mpss/u/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/um8>, <mailto:unsubscribe@list.fightforthefuture.org?subject=http://list.fightforthefuture.org/mpss/u/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/um8>
+X-SG-EID: fTk2GWsSovuA2NZwoXLUxwmBKlaM2Ltb9Sa8mKPC5/uKit6Pti5gzc0tr1remIlUHct1l2ssFBky+c
+ lbbqcwPorfYqUTdmDwkBsMawJPVbVnuBZecbfHVtuNmFUZd42jPhsdjVg9JzDD4gIWHH1KZgf50JNP
+ uaI6VoXdzeYwslvhuupclklocEDJiV1CkypF
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZrDsohfZt7eWyJhFn1O1iNZXp9AFruKhnvlwW9PDClV4wHB74TyHLeUTed
+ 6Ou43Vb7uK0H4nW1hYIJlJ8sjTv9lQ+NxaaVL8QZjrprFwzmyQKtYxBRl/xOG49PgD/8DDX5pEZ7RG
+ b8PLzRK//aMBGzw=
+X-Feedback-ID: 855142:FS3YJhBa/x3YcS8zSTuc4u5bd0kydSlb0DeBxJfUxMI=:POO1wlnGg4v4JF+hxM1YOQ==:SG
+
+----==_mimepart_54d2baf945be9_33fbe62ffbea418699b3
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear FFTF member,
+
+We've got chills as we write to you about this: we are on the brink of scor=
+ing the biggest victory in modern memory for the public and the Internet ag=
+ainst some of the fiercest lobbies in the world.
+
+The FCC Chairman just proposed rules for net neutrality, which will get vot=
+ed on February 26th -- they plan on reclassifying Comcast, Verizon, AT&T, a=
+ll telecom as a... Title II. Common. Carrier... meaning we keep the Interne=
+t equal for all.=C2=A0
+Dollar for dollar, this is the biggest win against entrenched corruption an=
+d million dollar lobbyists in recent memory. No matter what happens next, t=
+his is a watershed moment for free speech.=20
+
+https://donate.fightforthefuture.org/?tag=3Dtitleiidonatelongversionhttps:/=
+/donate.fightforthefuture.org/?tag=3DtitleiidonatelongversionBut,&t=3DdXNlc=
+mlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ5Mg=3D=3D it's also true we still have three =
+weeks to go before these rules get voted on. Almost anything can happen in =
+that time, and the details of the rules matter so much. We know our opponen=
+ts in the Cable industry will use their exclusive access to the FCC and Con=
+gress to add loopholes and attack the process. This is our last moment to b=
+low this fight out of the water and make it crystal clear that we will not =
+let ANY loophole or monopoly behavior gut this historic win we've fought so=
+ hard for.=C2=A0
+=C2=A0
+Can you make an emergency donation to help ramp up a bring-it-home, all-han=
+ds-on-deck campaign to protect free speech for decades?
+=C2=A0
+https://donate.fightforthefuture.org/?tag=3Dtitleiidonatelongversion&t=3DdX=
+NlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ5Mg=3D=3D
+=C2=A0
+There's no doubt this is the moment we've all been fighting for. The FCC vo=
+te for net neutrality -- the most important vote of the FCC's entire histor=
+y -- was a year in the making (and a decade of groundwork) and the result o=
+f coming together around smart, strategic mobilization at the FCC, the hall=
+s of Congress, across the political spectrum and around the world.=C2=A0
+=C2=A0
+But, the Cable lobby knows exactly what they're going to do about it and th=
+ey are unrolling their plans as we speak. We don't know all the details, bu=
+t we know they are putting everything they've got into the next three weeks=
+ to mobilize the TV networks they own, the million dollar political lists t=
+hey've bought, and the politicians they gave campaign contributions to (esp=
+ecially the ones who are already pushing a bill that could derail the vote).
+=C2=A0
+It will all come down to February 26th, when the FCC votes on their rules. =
+We know we can beat them, but on that day we'll either have done everything=
+ we needed to do to win real net neutrality or we'll lose it for a long tim=
+e.=C2=A0
+
+https://donate.fightforthefuture.org/?tag=3Dtitleiidonatelongversion&t=3DdX=
+NlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ5Mg=3D=3D
+First, we're going to generate a massive avalanche of public opposition to =
+Cable's plans by creatively distributing a ticking vote-countdown clock all=
+ across the web on thousands of websites and social media accounts. We'll g=
+enerate such a determined outpouring of support for real net neutrality rul=
+es that we'll resoundingly save the open Internet and make it so politicall=
+y toxic for any member of Congress and any FCC commissioner to be on the wr=
+ong side of history.=20
+We moved mountains to get here. A year ago when net neutrality rules were s=
+truck down in court, Title II was off the table. We bravely came out for it=
+ when it was scary and built campaigns so the support would spread. No one =
+expected us to set up camp outside the FCC offices for 10 days. And, when w=
+e created the Internet Slowdown protest and made the spinning wheel of deat=
+h the iconic emblem of Cable's plans, and with our partners, helped drive a=
+ historic 4 million comments, we created the turning point for net neutrali=
+ty that changed everything.=20
+
+While millions of dollars and a host of lobbyists are a stone's throw away =
+from every Congressional office and FCC staffer, we defied all odds and are=
+ winning, not on their terms of corruption and DC lobbying, but on our own =
+-- the public banding together. Our fingerprints are all over these rules. =
+We know exactly how to finish the job. =C2=A0
+=C2=A0
+Are we ready to make the FCC vote on net neutrality the biggest moment for =
+you, me, and everyone else? Oh yes. =C2=A0
+=C2=A0
+All those sleepless nights. All that wrist pain. The rain and the cold stre=
+ets. All of that has been worth it. And it's going to be worth going throug=
+h it all again over the next three weeks.
+=C2=A0
+It's been an overwhelming years worth of work. But we're not going to let u=
+p now. =C2=A0We=E2=80=99ve come so far. Not long ago most people didn=E2=80=
+=99t have a clue what net neutrality even was. Now, we're mobilized and rea=
+dy. Can you make a donation to help finish the job and save the free and op=
+en Internet?
+=C2=A0
+https://donate.fightforthefuture.org/?tag=3Dtitleiidonatelongversion&t=3DdX=
+NlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ5Mg=3D=3D
+=C2=A0
+Please, please join us in winning!
+--- Tiffiniy, Evan, Holmes, Jeff, Vasjen, Jessica, and Kevin
+Fight for the Future=C2=A0=20
+
+P.S. This isn=E2=80=99t the end -- it=E2=80=99s the beginning. 2015 will be=
+ the year that we define the future of the Internet. We=E2=80=99re ready to=
+ fight but we need help. https://donate.fightforthefuture.org/?tag=3Dtitlei=
+idonatelongversion&t=3DdXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ5Mg=3D=3D
+
+Want more awesome more often?=0D
+=0D
+* Like us on Facebook: https://www.facebook.com/fightfortheftr=0D
+* Follow us on Twitter: https://twitter.com/fightfortheftr=0D
+* Keep us fighting. Chip in what you can: https://donate.fightforthefuture.=
+org
+If you would like to unsubscribe and stop receiving these emails click here=
+: http://list.fightforthefuture.org/mpss/u/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0N=
+K8TiCtQ/ut6.
+
+----==_mimepart_54d2baf945be9_33fbe62ffbea418699b3
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<style type="text/css">
+					
+			p {
+				margin: 1em 0;
+			}
+
+			@media only screen and (max-device-width: 480px) {
+				
+				[class="body"] {
+					font-size: 16px !important;
+					line-height: 19px !important;
+				}	 
+					
+				img[class="header"] {
+					width: 320px !important;
+					height: 48px !important;
+				}		
+							
+				table[class="sidebox"] {
+					width: 150px !important;
+				} 
+
+				img[class="sidebox"] {
+					width: 120px !important;
+					height: 79px !important;
+				}
+
+				img[class="sidebox-button"] {
+					width: 120px !important;
+					height: 22px !important;
+				} 
+
+				table[class="table-footer"] {
+					width: 320px !important;
+					padding: 5px !important;
+				}		
+			}
+		</style>
+  </head>
+<body>
+  <p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 13px; background-color: transparent;">Dear FFTF member,</span></p>
+<span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong></span>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><span style="color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">We've got chills as we write to you about this: </span><span style="color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">we are on the brink of scoring the biggest victory in modern memory for the public and the Internet against some of the fiercest lobbies in the world.</span></span></p>
+<span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong></span>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><span style="color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">The FCC Chairman just proposed rules for net neutrality, which will get voted on February 26th -- they plan on reclassifying Comcast, Verizon, AT&amp;T, all telecom as a... </span><span style="color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Title II. Common. Carrier</span><span style="color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">... meaning </span><span style="color: #0
+ 00000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">we keep the Internet equal for all.</span><span style="color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">&nbsp;</span></span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><span style="color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"><br class="kix-line-break" /></span><span style="color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Dollar for dollar, this is </span><span style="color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">the biggest win against entrenched corruption and million dollar lobbyists in recent memory</span><span style="color: #000000; font-weight: normal; font-style: normal; font-variant: n
+ ormal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">. No matter what happens next, this is a watershed moment for free speech. </span></span></p>
+<span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong></span>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><strong><a href="http://list.fightforthefuture.org/mpss/c/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/h0/Pa8otjfmmhIzvTMTCB8ZJJUXf-2BRddPW57EVXPeuxLv-2F52jyENscDF2nYNcDSPDbKcZk2g76uACwVeP-2BRRfd8RzpZ9AbMpNUDm1iOYhG8-2FiNIgOjfFvJEX8oNut55KXnQDTHdBTIxqDbkYKRHZ8lLgw-3D-3D">We can celebrate soon, but first we have to finish the fight. Will you chip in?<br/>
+</a><a href="http://list.fightforthefuture.org/mpss/c/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/h1/Pa8otjfmmhIzvTMTCB8ZJJUXf-2BRddPW57EVXPeuxLv-2F52jyENscDF2nYNcDSPDbKcZk2g76uACwVeP-2BRRfd8RzpZ9AbMpNUDm1iOYhG8-2FiNIgOjfFvJEX8oNut55KXnQDTHdBTIxqDbkYKRHZ8lLgw-3D-3D"><br/>
+</a></strong>But, it's also true we still have three weeks to go before these rules get voted on. Almost anything can happen in that time, and the details of the rules matter so much. We know our opponents in the Cable industry will use their exclusive access to the FCC and Congress to add loopholes and attack the process. <strong style="font-family: Arial; font-size: 13px; white-space: pre-wrap; background-color: transparent;">This is our last moment to blow this fight out of the water and make it crystal clear that we will not let ANY loophole or monopoly behavior gut this historic win we've fought so hard for.&nbsp;</strong></span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">Can you make an emergency donation to help ramp up a bring-it-home, all-hands-on-deck campaign to protect free speech for decades?</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><a style="font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: 1.15;" href="http://list.fightforthefuture.org/mpss/c/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/h2/Pa8otjfmmhIzvTMTCB8ZJJUXf-2BRddPW57EVXPeuxLv-2F52jyENscDF2nYNcDSPDbKcZk2g76uACwVeP-2BRRfd8RzpZ9AbMpNUDm1iOYhG8-2FiNIgOjfFvJEX8oNut55KXnQDTHdBTIxqDbkYKRHZ8lLgw-3D-3D"><strong style="font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: 1.15;">Yes, I will gladly, triumphantly, or fiercely donate $10, 20, or $500 to win net neutrality right now.</strong></a></span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><span style="line-height: 1.15;">There's no doubt this is the moment we've all been fighting for. The FCC vote for net neutrality -- the most important vote of the FCC's entire history -- was a year in the making (and a decade of groundwork) and the result of coming together around smart, strategic mobilization at the FCC, the halls of Congress, across the political spectrum and around the world.&nbsp;</span></span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;"><span style="line-height: 1.15;">But, the Cable lobby knows exactly what they're going to do about it and they are unrolling their plans as we speak. We don't know all the details, but </span><strong style="font-family: arial, helvetica, sans-serif; font-size: 13px;">we know they are putting everything they've got into the next three weeks to mobilize the TV networks they own, the million dollar political lists they've bought, and the politicians they gave campaign contributions to (especially the ones who are already pushing a bill that could derail the vote).</strong></span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-family: arial, helvetica, sans-serif; font-size: 13px;">It will all come down to February 26th, when the FCC votes on their rules. We know we can beat them, but on that day we'll either have done everything we needed to do to win real net neutrality or we'll lose it for a long time.&nbsp;</span></p>
+<div>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;"><a href="http://list.fightforthefuture.org/mpss/c/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/h3/Pa8otjfmmhIzvTMTCB8ZJJUXf-2BRddPW57EVXPeuxLv-2F52jyENscDF2nYNcDSPDbKcZk2g76uACwVeP-2BRRfd8RzpZ9AbMpNUDm1iOYhG8-2FiNIgOjfFvJEX8oNut55KXnQDTHdBTIxqDbkYKRHZ8lLgw-3D-3D"><br/>
+<strong>So, it's up to us to decide if we close the deal. And, we have only have three weeks to get your support and do it.</strong> </a></span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><br/>
+<span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">First, we're going to generate a massive avalanche of public opposition to Cable's plans by creatively distributing a ticking vote-countdown clock all across the web on thousands of websites and social media accounts. We'll generate such a determined outpouring of support for real net neutrality rules that we'll resoundingly save the open Internet and make it so politically toxic for any member of Congress and any FCC commissioner to be on the wrong side of history. </span><br/>
+<br/>
+</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">We moved mountains to get here. A year ago when net neutrality rules were struck down in court, Title II was off the table. We bravely came out for it when it was scary and built campaigns so the support would spread. No one expected us to set up camp outside the FCC offices for 10 days. And, when we created the Internet Slowdown protest and made the spinning wheel of death the iconic emblem of Cable's plans, and with our partners, helped drive a historic 4 million comments, we created the turning point for net neutrality that changed everything. </span></p>
+<span style="font-size: 13px; font-family: arial, helvetica, sans-serif;"><strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong></span>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">While millions of dollars and a host of lobbyists are a stone's throw away from every Congressional office and FCC staffer, we defied all odds and are winning, not on their terms of corruption and DC lobbying, but on our own -- the public banding together. Our fingerprints are all over these rules. We know exactly how to finish the job. &nbsp;</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">Are we ready to make the FCC vote on net neutrality the biggest moment for you, me, and everyone else? Oh yes. &nbsp;</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">All those sleepless nights. All that wrist pain. The rain and the cold streets. All of that has been worth it. And it's going to be worth going through it all again over the next three weeks.</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">It's been an overwhelming years worth of work. But we're not going to let up now. &nbsp;We&rsquo;ve come so far. Not long ago most people didn&rsquo;t have a clue what net neutrality even was. Now, we're mobilized and ready. Can you make a donation to help finish the job and save the free and open Internet?</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;"><strong style="font-family: arial, helvetica, sans-serif; font-size: 13px; line-height: 1.15;"><a href="http://list.fightforthefuture.org/mpss/c/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/h4/Pa8otjfmmhIzvTMTCB8ZJJUXf-2BRddPW57EVXPeuxLv-2F52jyENscDF2nYNcDSPDbKcZk2g76uACwVeP-2BRRfd8RzpZ9AbMpNUDm1iOYhG8-2FiNIgOjfFvJEX8oNut55KXnQDTHdBTIxqDbkYKRHZ8lLgw-3D-3D">Yes, I&rsquo;ll make a donation.</a></strong></span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">Please, please join us in winning!</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">--- Tiffiniy, Evan, Holmes, Jeff, Vasjen, Jessica, and Kevin</span></p>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">Fight for the Future&nbsp; <br/>
+</span></p>
+<span style="font-size: 13px; font-family: arial, helvetica, sans-serif;"><strong style="font-weight: normal;"><strong style="font-weight: normal;"><br/>
+</strong></strong></span>
+<p style="line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 13px; font-family: arial, helvetica, sans-serif;">P.S. This isn&rsquo;t the end -- it&rsquo;s the beginning. 2015 will be the year that we define the future of the Internet. We&rsquo;re ready to fight but we need help. <strong><a href="http://list.fightforthefuture.org/mpss/c/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/h5/Pa8otjfmmhIzvTMTCB8ZJJUXf-2BRddPW57EVXPeuxLv-2F52jyENscDF2nYNcDSPDbKcZk2g76uACwVeP-2BRRfd8RzpZ9AbMpNUDm1iOYhG8-2FiNIgOjfFvJEX8oNut55KXnQDTHdBTIxqDbkYKRHZ8lLgw-3D-3D">Want to support us? Donate $20 (or more) today!</a></strong></span></p>
+</div>
+  <br>
+  <img src="http://action.fightforthefuture.org/beacon.gif?t=dXNlcmlkPTQ3Nzk2NDc3LGVtYWlsaWQ9OTQ5Mg==">
+
+<p>
+	Want more awesome more often?<br />
+	<br />
+	* <a href="https://www.facebook.com/fightfortheftr" target="_blank">Like us on Facebook</a><br />
+	* <a href="https://twitter.com/fightfortheftr" target="_blank">Follow us on Twitter</a><br />
+	<br />
+	<a href="https://donate.fightforthefuture.org" style="font-size: 110%" target="_blank"><strong>* Keep us fighting, chip in what you can.</strong></a></p>
+
+<img src="http://list.fightforthefuture.org/mpss/o/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/o.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+<p>
+	If you would like to unsubscribe and stop receiving these emails <a href="http://list.fightforthefuture.org/mpss/u/1QA/ZgwNAA/t.1ka/EFrcaqnmTeKSu0NK8TiCtQ/uh7">click here</a>.</p>
+
+</body>
+</html>
+
+
+----==_mimepart_54d2baf945be9_33fbe62ffbea418699b3--

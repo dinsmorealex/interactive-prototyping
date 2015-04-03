@@ -1,0 +1,718 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp160981ldh;
+        Tue, 3 Feb 2015 15:29:29 -0800 (PST)
+X-Received: by 10.224.10.201 with SMTP id q9mr56741470qaq.48.1423006168351;
+        Tue, 03 Feb 2015 15:29:28 -0800 (PST)
+Return-Path: <0000014b51c6f02d-6c17b7dc-0ba7-4e25-a8e8-c11fc792c0c6-000000@amazonses.com>
+Received: from a10-87.smtp-out.amazonses.com (a10-87.smtp-out.amazonses.com. [54.240.10.87])
+        by mx.google.com with ESMTPS id m4si30629869qaz.119.2015.02.03.15.29.27
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 03 Feb 2015 15:29:28 -0800 (PST)
+Received-SPF: pass (google.com: domain of 0000014b51c6f02d-6c17b7dc-0ba7-4e25-a8e8-c11fc792c0c6-000000@amazonses.com designates 54.240.10.87 as permitted sender) client-ip=54.240.10.87;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 0000014b51c6f02d-6c17b7dc-0ba7-4e25-a8e8-c11fc792c0c6-000000@amazonses.com designates 54.240.10.87 as permitted sender) smtp.mail=0000014b51c6f02d-6c17b7dc-0ba7-4e25-a8e8-c11fc792c0c6-000000@amazonses.com;
+       dkim=pass header.i=@academia.edu
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1423006167;
+	h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=VRNc8Tl4tc8yMOPF0IxP8vDZ5r76JYsu3HmGVOsUv6A=;
+	b=Do7PpNTB2tYLx7sY6kKiQ/e+YLJegscTafoIJsIg8WI/aaZZ2FcXH6aXvwKazbUL
+	PXdCX2Rf2f5XD3Eh8plRaRqCkMEB3gJN21I0MDaZrOkHWD5St2P23OC5aY/ULjHD//w
+	8o286rgCsujiG98kArzZDWOu65nP3jN+9lhuXQxA=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7jzy5c4bunm27sdv7btjwusno34jc4bl; d=academia.edu; t=1423006167;
+	h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding;
+	bh=VRNc8Tl4tc8yMOPF0IxP8vDZ5r76JYsu3HmGVOsUv6A=;
+	b=ZrqLangRVjg7ej7pS3K4hLPnWCZG43Xx51JBV8P+88uWN3KZHwkEIFUK3HCbQMU8
+	HFaU7s0t/KXQxJQVRH61xBzOAdxJNY48EsvMkXzFS83Busdq3jP8v8RNmGuOzn1hd15
+	dPluoYaxsO4ecyZoCGQZkKXIY50SPwC4g1FjGPV8=
+Date: Tue, 3 Feb 2015 23:29:27 +0000
+From: "Academia.edu Weekly Digest" <noreply@academia.edu>
+To: dinsmorealex@gmail.com
+Message-ID: <0000014b51c6f02d-6c17b7dc-0ba7-4e25-a8e8-c11fc792c0c6-000000@email.amazonses.com>
+Subject: Onset Diabetes Diagnosis Using Artificial Neural Network -
+ Academia.edu
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_54d159d6ca2fd_64ea3fde80044a041174e4";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SES-Outgoing: 2015.02.03-54.240.10.87
+Feedback-ID: us-east-1.IkFjYWRlbWlhLmVkdSBXZWVrbHkgRGlnZXN0IiA8bm9yZXBseUBhY2FkZW1pYS5lZHU+:AmazonSES
+
+
+----==_mimepart_54d159d6ca2fd_64ea3fde80044a041174e4
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Top papers from your news feed from the last week
+
+Onset Diabetes Diagnosis Using Artificial Neural Network
+https://www.academia.edu/t/a-JUAt2UD-Js74y/10132455/Onset_Diabetes_Diagno=
+sis_Using_Artificial_Neural_Network
+Diabetes Mellitus is a chronic, lifelong metabolism disorder that affects=
+ the ability of the body system to use the energy found in food. People l=
+iving with high blood sugar will experience polyuria (frequent urination)=
+, which will make them to become increasingly thirsty (polydipsia) and hu=
+ngry (polyphagia) .The improper management of this disease can lead to co=
+mplication such as cardiovascular disease, kidney disease, eye disease, n=
+erve disease, pregnancy complication. The database of Pima Indian diabete=
+s has been considered for the diagnosis of the diabetes mellitus. This da=
+tabase...
+
+A Scalable Approach to Point-Cloud Data Processing for Railroad Asset Loc=
+ation and Health Monitoring
+https://www.academia.edu/t/a-JUAt2UD-Js74y/10270072/A_Scalable_Approach_t=
+o_Point-Cloud_Data_Processing_for_Railroad_Asset_Location_and_Health_Moni=
+toring
+Monitoring the health of railroads is essential to meet safety regulation=
+s and maintain efficient operations. This is currently achieved using a c=
+ombination of surveying and data processing. Recent advancements in 3D sc=
+anning using LiDAR (Light Detection And Ranging) technology have led to a=
+ streamlined and efficient surveying process. This however resulted in a =
+dramatic increase in the amount of imaging data collected for every kilom=
+eter of surveying. Rudimentary data processing approaches involving point=
+-and-click methods remain the bottleneck, preventing the industry from me=
+eting their...
+
+Tackling Mental Health by Integrating Unobtrusive Multimodal Sensing
+https://www.academia.edu/t/a-JUAt2UD-Js74y/10270189/Tackling_Mental_Healt=
+h_by_Integrating_Unobtrusive_Multimodal_Sensing
+Mental illness is becoming a major plague in modern societies
+and poses challenges to the capacity of current public
+health systems worldwide. With the widespread adoption of
+social media and mobile devices, and rapid advances in artificial
+intelligence, a unique opportunity arises for tackling
+mental health problems. In this study, we investigate how
+users=E2=80=99 online social activities and physiological signals detecte=
+d
+through ubiquitous sensors can be utilized in realistic
+scenarios for monitoring their mental health states. First, we
+extract a suite of multimodal time-series signals using...
+
+NEURAL NETWORK RECOGNITION SYSTEM FOR IGBO VOWELS
+https://www.academia.edu/t/a-JUAt2UD-Js74y/10132488/NEURAL_NETWORK_RECOGN=
+ITION_SYSTEM_FOR_IGBO_VOWELS
+Handwritten recognition is one of the problems facing researchers in the =
+field of computer vision that many researchers are still finding it diffi=
+cult to provide solution. Several researches have been carried out on Eng=
+lish language and Asian Character recognition with
+little work done on the African language character recognition. In this p=
+aper, we consider Igbo vowels character recognition; we employed several =
+people to write Igbo vowels character with their handwritten. These chara=
+cters differ in their shapes, size, and orientation. These
+characters are then resampled by rotating each...
+
+Pre-Study: Interactive Advertising and its Impact on Consumer Behaviour
+https://www.academia.edu/t/a-JUAt2UD-Js74y/10267292/Pre-Study_Interactive=
+_Advertising_and_its_Impact_on_Consumer_Behaviour
+With the rapid advancement of technology, businesses are being pushed to =
+adapt to stay relevant on the market. The high saturation of advertisemen=
+ts as well as the dwindling attention span and interest of the consumer m=
+akes it increasingly difficult for firms to attract the consumer. With th=
+e dawn of social media, and personal mobile devices, there has been a shi=
+ft in focus from targeting the mass market to targeting the individual co=
+nsumer. This has called for more interactive methods and thus the relevan=
+ce of interactive advertising has increased. The central aim of this pape=
+r is to...
+
+Nomor NAMA SISWA
+https://www.academia.edu/t/a-JUAt2UD-Js74y/10262083/Nomor_NAMA_SISWA
+
+Review: Liquid Architecture 15 (Frieze magazine, Issue 168)
+https://www.academia.edu/t/a-JUAt2UD-Js74y/10135501/Review_Liquid_Archite=
+cture_15_Frieze_magazine_Issue_168_
+The 15th edition of =E2=80=98Liquid Architecture=E2=80=99, Australia=E2=80=
+=99s annual festival of sound art, took place between August and October =
+2014, with more than 50 artists performing across a range of venues in Me=
+lbourne, Sydney, Brisbane, Perth and, for the first time ever, Singapore.=
+ Evidently, this was a year for growth and diversification, because in ad=
+dition to extending the festival=E2=80=99s geographical reach, newly appo=
+inted curators Joel Stern and Danni Zuvela adopted a far more expansive t=
+ake on the sonic arts than in previous years. Following recent debates ab=
+out the place of sound in the field of...
+
+Range image segmentation based on function approximation
+https://www.academia.edu/t/a-JUAt2UD-Js74y/10158647/Range_image_segmentat=
+ion_based_on_function_approximation
+
+
+-----
+Click here to disable weekly digest emails:
+https://academia.edu/t/a-JUAt2UD-Js74y/keypass/0b627cb7e27f9758b5a7b82425=
+1a9e6756b72252/unsubscribe/weekly_digest
+
+Academia.edu, 251 Kearny St., Suite 520, San Francisco, CA, 94108
+
+----==_mimepart_54d159d6ca2fd_64ea3fde80044a041174e4
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+  =
+
+
+<style type=3D"text/css">
+body {
+background: #f1f1f1; padding: 20px;
+}
+a.export_link:hover {
+border-color: #ccc;
+}
+</style>
+</head>
+<body style=3D"background: #f1f1f1; padding: 20px;">
+  <html>
+<head>
+  =
+
+
+<style type=3D"text/css">
+body {
+background: #f1f1f1; padding: 20px;
+}
+a.export_link:hover {
+border-color: #ccc;
+}
+</style>
+</head>
+<body style=3D"background: #f1f1f1; padding: 20px;">
+  <img src=3D"http://a.academia-assets.com/images/dark-email-logo.jpg" al=
+t=3D"Academia.edu" />
+
+  <br/><br/>
+  <table style=3D"width: 720px;" cellpadding=3D"40">
+    <tr style=3D"background: #fff;">
+      <td>
+        <p class=3D"medium" style=3D"font-family: 'Open Sans','Helvetica =
+Neue',sans-serif; font-weight: 600; font-size: 15px; color: #202020; widt=
+h: 522px; margin: 15px 15px 15px 0;">Top papers from your news feed from =
+the last week </p>
+        <table style=3D"border-collapse: collapse;">
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Olaniyi" border=3D"0" height=3D"45px" onerror=
+=3D"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic=
+.png&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_p=
+ic.png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/7177=
+483/2686199/3126431/s65_olaniyi.ebenezer.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JUAt2UD-Js74y/10132455/Onset_Diabetes_Diagnosis_Using_Artificial_Ne=
+ural_Network" style=3D"color: #06c; text-decoration: none; line-height: 2=
+4px; font-size: 16px;">Onset Diabetes Diagnosis Using Artificial Neural N=
+etwork</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://neu-tr.academia=
+.edu/t/a-JUAt2UD-Js74y/OlaniyiEbenezer" style=3D"color: #06c; text-decora=
+tion: none;">Olaniyi  Ebenezer</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    Diabetes Mellitus is a chronic, lifelong metabolism d=
+isorder that affects the ability of the body system to use the energy fou=
+nd in food. People living with high blood sugar will experience polyuria =
+(frequent urination), which will make them to become increasingly thirsty=
+ (polydipsia) and hungry (polyphagia) .The improper management of this di=
+sease can lead to complication such as cardiovascular disease, kidney dis=
+ease, eye disease, nerve disease, pregnancy complication. The database of=
+ Pima Indian diabetes has been considered for the diagnosis of the diabet=
+es mellitus. This database...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/91f498e04e47dfb1e6101d8293541ffee113=
+8868/t/a-JUAt2UD-Js74y/10132455/Onset_Diabetes_Diagnosis_Using_Artificial=
+_Neural_Network?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D"fo=
+nt-family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-de=
+coration: none; border-radius: 2px; font-size: 13px; margin-left: 0; disp=
+lay: block; float: left; margin-top: 10px; margin-right: 10px; background=
+: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/72ff3fac8d415e7d21d167efa2c1092b6a29b40=
+3/t/a-JUAt2UD-Js74y/10132455/Onset_Diabetes_Diagnosis_Using_Artificial_Ne=
+ural_Network?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"font-=
+family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-decor=
+ation: none; display: block; float: left; border-radius: 2px; font-size: =
+13px; margin-left: 0; margin-top: 10px; margin-right: 10px; background: #=
+479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Sravan" border=3D"0" height=3D"45px" protocol=
+=3D"http" src=3D"http://a.academia-assets.com/images/s65_no_pic.png" widt=
+h=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JUAt2UD-Js74y/10270072/A_Scalable_Approach_to_Point-Cloud_Data_Proc=
+essing_for_Railroad_Asset_Location_and_Health_Monitoring" style=3D"color:=
+ #06c; text-decoration: none; line-height: 24px; font-size: 16px;">A Scal=
+able Approach to Point-Cloud Data Processing for Railroad Asset Location =
+and Health Monitoring</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://berkeley.academ=
+ia.edu/t/a-JUAt2UD-Js74y/SravanPuttagunta" style=3D"color: #06c; text-dec=
+oration: none;">Sravan Puttagunta</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    Monitoring the health of railroads is essential to me=
+et safety regulations and maintain efficient operations. This is currentl=
+y achieved using a combination of surveying and data processing. Recent a=
+dvancements in 3D scanning using LiDAR (Light Detection And Ranging) tech=
+nology have led to a streamlined and efficient surveying process. This ho=
+wever resulted in a dramatic increase in the amount of imaging data colle=
+cted for every kilometer of surveying. Rudimentary data processing approa=
+ches involving point-and-click methods remain the bottleneck, preventing =
+the industry from meeting their...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/eab8c783ed537d602d9bef51dd172d950ab3=
+e816/t/a-JUAt2UD-Js74y/10270072/A_Scalable_Approach_to_Point-Cloud_Data_P=
+rocessing_for_Railroad_Asset_Location_and_Health_Monitoring?auto=3Ddownlo=
+ad&amp;campaign=3Dweekly_digest" style=3D"font-family: 'Open Sans','Helve=
+tica Neue',sans-serif; color: white; text-decoration: none; border-radius=
+: 2px; font-size: 13px; margin-left: 0; display: block; float: left; marg=
+in-top: 10px; margin-right: 10px; background: #669a4e; padding: 8px 6px;"=
+>Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/0554398c2d579aa93c445be02bf2e703133bd13=
+0/t/a-JUAt2UD-Js74y/10270072/A_Scalable_Approach_to_Point-Cloud_Data_Proc=
+essing_for_Railroad_Asset_Location_and_Health_Monitoring?auto=3Dbookmark&=
+amp;campaign=3Dweekly_digest" style=3D"font-family: 'Open Sans','Helvetic=
+a Neue',sans-serif; color: white; text-decoration: none; display: block; =
+float: left; border-radius: 2px; font-size: 13px; margin-left: 0; margin-=
+top: 10px; margin-right: 10px; background: #479ed9; padding: 8px 6px;">Bo=
+okmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Dawei" border=3D"0" height=3D"45px" onerror=3D=
+"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic.pn=
+g&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_pic.=
+png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/1663993=
+7/4535686/5249914/s65_dawei.zhou.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JUAt2UD-Js74y/10270189/Tackling_Mental_Health_by_Integrating_Unobtr=
+usive_Multimodal_Sensing" style=3D"color: #06c; text-decoration: none; li=
+ne-height: 24px; font-size: 16px;">Tackling Mental Health by Integrating =
+Unobtrusive Multimodal Sensing</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://asu.academia.ed=
+u/t/a-JUAt2UD-Js74y/DaweiZhou" style=3D"color: #06c; text-decoration: non=
+e;">Dawei Zhou</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    Mental illness is becoming a major plague in modern s=
+ocieties
+and poses challenges to the capacity of current public
+health systems worldwide. With the widespread adoption of
+social media and mobile devices, and rapid advances in artificial
+intelligence, a unique opportunity arises for tackling
+mental health problems. In this study, we investigate how
+users=E2=80=99 online social activities and physiological signals detecte=
+d
+through ubiquitous sensors can be utilized in realistic
+scenarios for monitoring their mental health states. First, we
+extract a suite of multimodal time-series signals using...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/60c32496ce76ef2f5ed487d45f4c84bf9df6=
+28ff/t/a-JUAt2UD-Js74y/10270189/Tackling_Mental_Health_by_Integrating_Uno=
+btrusive_Multimodal_Sensing?auto=3Ddownload&amp;campaign=3Dweekly_digest"=
+ style=3D"font-family: 'Open Sans','Helvetica Neue',sans-serif; color: wh=
+ite; text-decoration: none; border-radius: 2px; font-size: 13px; margin-l=
+eft: 0; display: block; float: left; margin-top: 10px; margin-right: 10px=
+; background: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/71485d53fd5d1475e13731166bbdfd0d5a29c2a=
+f/t/a-JUAt2UD-Js74y/10270189/Tackling_Mental_Health_by_Integrating_Unobtr=
+usive_Multimodal_Sensing?auto=3Dbookmark&amp;campaign=3Dweekly_digest" st=
+yle=3D"font-family: 'Open Sans','Helvetica Neue',sans-serif; color: white=
+; text-decoration: none; display: block; float: left; border-radius: 2px;=
+ font-size: 13px; margin-left: 0; margin-top: 10px; margin-right: 10px; b=
+ackground: #479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Olaniyi" border=3D"0" height=3D"45px" onerror=
+=3D"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic=
+.png&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_p=
+ic.png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/7177=
+483/2686199/3126431/s65_olaniyi.ebenezer.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JUAt2UD-Js74y/10132488/NEURAL_NETWORK_RECOGNITION_SYSTEM_FOR_IGBO_V=
+OWELS" style=3D"color: #06c; text-decoration: none; line-height: 24px; fo=
+nt-size: 16px;">NEURAL NETWORK RECOGNITION SYSTEM FOR IGBO VOWELS</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://neu-tr.academia=
+.edu/t/a-JUAt2UD-Js74y/OlaniyiEbenezer" style=3D"color: #06c; text-decora=
+tion: none;">Olaniyi  Ebenezer</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    Handwritten recognition is one of the problems facing=
+ researchers in the field of computer vision that many researchers are st=
+ill finding it difficult to provide solution. Several researches have bee=
+n carried out on English language and Asian Character recognition with
+little work done on the African language character recognition. In this p=
+aper, we consider Igbo vowels character recognition; we employed several =
+people to write Igbo vowels character with their handwritten. These chara=
+cters differ in their shapes, size, and orientation. These
+characters are then resampled by rotating each...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/d1099c8f61ddc3808fef65c388a4d4f3d89a=
+a962/t/a-JUAt2UD-Js74y/10132488/NEURAL_NETWORK_RECOGNITION_SYSTEM_FOR_IGB=
+O_VOWELS?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D"font-fami=
+ly: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-decoratio=
+n: none; border-radius: 2px; font-size: 13px; margin-left: 0; display: bl=
+ock; float: left; margin-top: 10px; margin-right: 10px; background: #669a=
+4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/0531e74a845b2890de1b34ebbeec90ce05706aa=
+2/t/a-JUAt2UD-Js74y/10132488/NEURAL_NETWORK_RECOGNITION_SYSTEM_FOR_IGBO_V=
+OWELS?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"font-family:=
+ 'Open Sans','Helvetica Neue',sans-serif; color: white; text-decoration: =
+none; display: block; float: left; border-radius: 2px; font-size: 13px; m=
+argin-left: 0; margin-top: 10px; margin-right: 10px; background: #479ed9;=
+ padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Nadja" border=3D"0" height=3D"45px" onerror=3D=
+"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic.pn=
+g&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_pic.=
+png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/1756060=
+4/4886352/6929556/s65_nadja.ramsaroop.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JUAt2UD-Js74y/10267292/Pre-Study_Interactive_Advertising_and_its_Im=
+pact_on_Consumer_Behaviour" style=3D"color: #06c; text-decoration: none; =
+line-height: 24px; font-size: 16px;">Pre-Study: Interactive Advertising a=
+nd its Impact on Consumer Behaviour</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://hs-wismar.acade=
+mia.edu/t/a-JUAt2UD-Js74y/NadjaRamsaroop" style=3D"color: #06c; text-deco=
+ration: none;">Nadja Ramsaroop</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    With the rapid advancement of technology, businesses =
+are being pushed to adapt to stay relevant on the market. The high satura=
+tion of advertisements as well as the dwindling attention span and intere=
+st of the consumer makes it increasingly difficult for firms to attract t=
+he consumer. With the dawn of social media, and personal mobile devices, =
+there has been a shift in focus from targeting the mass market to targeti=
+ng the individual consumer. This has called for more interactive methods =
+and thus the relevance of interactive advertising has increased. The cent=
+ral aim of this paper is to...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/9ca2299b3fd72b6fbf973f0d5157321a5d2d=
+18bd/t/a-JUAt2UD-Js74y/10267292/Pre-Study_Interactive_Advertising_and_its=
+_Impact_on_Consumer_Behaviour?auto=3Ddownload&amp;campaign=3Dweekly_diges=
+t" style=3D"font-family: 'Open Sans','Helvetica Neue',sans-serif; color: =
+white; text-decoration: none; border-radius: 2px; font-size: 13px; margin=
+-left: 0; display: block; float: left; margin-top: 10px; margin-right: 10=
+px; background: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/47e1aaf4475d2a7f1a0fadd53cf623e61c2c8f3=
+2/t/a-JUAt2UD-Js74y/10267292/Pre-Study_Interactive_Advertising_and_its_Im=
+pact_on_Consumer_Behaviour?auto=3Dbookmark&amp;campaign=3Dweekly_digest" =
+style=3D"font-family: 'Open Sans','Helvetica Neue',sans-serif; color: whi=
+te; text-decoration: none; display: block; float: left; border-radius: 2p=
+x; font-size: 13px; margin-left: 0; margin-top: 10px; margin-right: 10px;=
+ background: #479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Idvianty" border=3D"0" height=3D"45px" protoc=
+ol=3D"http" src=3D"http://a.academia-assets.com/images/s65_no_pic.png" wi=
+dth=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JUAt2UD-Js74y/10262083/Nomor_NAMA_SISWA" style=3D"color: #06c; text=
+-decoration: none; line-height: 24px; font-size: 16px;">Nomor NAMA SISWA<=
+/a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://sma.academia.ed=
+u/t/a-JUAt2UD-Js74y/IdviantyWulandari" style=3D"color: #06c; text-decorat=
+ion: none;">Idvianty Wulandari</a>
+                </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/04478cf22e01d4c2427d7a2620b689572933=
+4327/t/a-JUAt2UD-Js74y/10262083/Nomor_NAMA_SISWA?auto=3Ddownload&amp;camp=
+aign=3Dweekly_digest" style=3D"font-family: 'Open Sans','Helvetica Neue',=
+sans-serif; color: white; text-decoration: none; border-radius: 2px; font=
+-size: 13px; margin-left: 0; display: block; float: left; margin-top: 10p=
+x; margin-right: 10px; background: #669a4e; padding: 8px 6px;">Download</=
+a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/3788175301f9bd06bd3d66890011ecae0c76844=
+2/t/a-JUAt2UD-Js74y/10262083/Nomor_NAMA_SISWA?auto=3Dbookmark&amp;campaig=
+n=3Dweekly_digest" style=3D"font-family: 'Open Sans','Helvetica Neue',san=
+s-serif; color: white; text-decoration: none; display: block; float: left=
+; border-radius: 2px; font-size: 13px; margin-left: 0; margin-top: 10px; =
+margin-right: 10px; background: #479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"James" border=3D"0" height=3D"45px" onerror=3D=
+"if (this.src !=3D &#39;http://a.academia-assets.com/images/s65_no_pic.pn=
+g&#39;) this.src =3D &#39;http://a.academia-assets.com/images/s65_no_pic.=
+png&#39;;" protocol=3D"http" src=3D"https://0.academia-photos.com/364813/=
+272216/3354479/s65_james.parker.jpg" width=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JUAt2UD-Js74y/10135501/Review_Liquid_Architecture_15_Frieze_magazin=
+e_Issue_168_" style=3D"color: #06c; text-decoration: none; line-height: 2=
+4px; font-size: 16px;">Review: Liquid Architecture 15 (Frieze magazine, I=
+ssue 168)</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://unimelb.academi=
+a.edu/t/a-JUAt2UD-Js74y/JamesParker" style=3D"color: #06c; text-decoratio=
+n: none;">James Parker</a>
+                </p>
+                  <p class=3D"work_summary" style=3D"font-family: 'Open S=
+ans','Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; colo=
+r: #494848; width: 522px; line-height: 20px; font-style: italic; margin: =
+20px 15px 15px 0;">
+                    The 15th edition of =E2=80=98Liquid Architecture=E2=80=
+=99, Australia=E2=80=99s annual festival of sound art, took place between=
+ August and October 2014, with more than 50 artists performing across a r=
+ange of venues in Melbourne, Sydney, Brisbane, Perth and, for the first t=
+ime ever, Singapore. Evidently, this was a year for growth and diversific=
+ation, because in addition to extending the festival=E2=80=99s geographic=
+al reach, newly appointed curators Joel Stern and Danni Zuvela adopted a =
+far more expansive take on the sonic arts than in previous years. Followi=
+ng recent debates about the place of sound in the field of...
+                  </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/d025f883ab4a42546eef59635006a2a89270=
+f558/t/a-JUAt2UD-Js74y/10135501/Review_Liquid_Architecture_15_Frieze_maga=
+zine_Issue_168_?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D"fo=
+nt-family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-de=
+coration: none; border-radius: 2px; font-size: 13px; margin-left: 0; disp=
+lay: block; float: left; margin-top: 10px; margin-right: 10px; background=
+: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/114dd47ed6e05997bb8e878283519fa8ac77b3b=
+d/t/a-JUAt2UD-Js74y/10135501/Review_Liquid_Architecture_15_Frieze_magazin=
+e_Issue_168_?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"font-=
+family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-decor=
+ation: none; display: block; float: left; border-radius: 2px; font-size: =
+13px; margin-left: 0; margin-top: 10px; margin-right: 10px; background: #=
+479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+            <tr>
+              <td class=3D"digest_icon" style=3D"vertical-align: top; wid=
+th: 60px; padding: 20px 0;" valign=3D"top">
+                <img alt=3D"Gilbert" border=3D"0" height=3D"45px" protoco=
+l=3D"http" src=3D"http://a.academia-assets.com/images/s65_no_pic.png" wid=
+th=3D"45px" />
+              </td>
+              <td class=3D"digest_paper" style=3D"padding: 10px 0 0;">
+                <p class=3D"work_title" style=3D"font-family: 'Open Sans'=
+,'Helvetica Neue',sans-serif; font-weight: 400; font-size: 13px; color: #=
+494848; width: 522px; margin: 0;">
+                  <a class=3D"work_title" href=3D"https://www.academia.ed=
+u/t/a-JUAt2UD-Js74y/10158647/Range_image_segmentation_based_on_function_a=
+pproximation" style=3D"color: #06c; text-decoration: none; line-height: 2=
+4px; font-size: 16px;">Range image segmentation based on function approxi=
+mation</a>
+                </p>
+                <p class=3D"work_author" style=3D"font-family: 'Open Sans=
+','Helvetica Neue',sans-serif; font-weight: 400; font-size: 12px; color: =
+#494848; width: 522px; margin: 10px 0 0;">by
+                  <a class=3D"work_owner" href=3D"https://hevs.academia.e=
+du/t/a-JUAt2UD-Js74y/GilbertMaitre" style=3D"color: #06c; text-decoration=
+: none;">Gilbert Maitre</a>
+                </p>
+              </td>
+            </tr>
+            <tr class=3D"digest_buttons" style=3D"border-bottom-width: 1p=
+x; border-bottom-color: #e9e9e9; border-bottom-style: solid;">
+              <td style=3D"padding: 0 0 20px;"></td>
+              <td style=3D"padding: 0 0 20px;">
+                <a class=3D"green_button digest_button paper_action" href=
+=3D"https://www.academia.edu/keypass/05081a998b8f04433f6f6e24d24e66286096=
+7f08/t/a-JUAt2UD-Js74y/10158647/Range_image_segmentation_based_on_functio=
+n_approximation?auto=3Ddownload&amp;campaign=3Dweekly_digest" style=3D"fo=
+nt-family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-de=
+coration: none; border-radius: 2px; font-size: 13px; margin-left: 0; disp=
+lay: block; float: left; margin-top: 10px; margin-right: 10px; background=
+: #669a4e; padding: 8px 6px;">Download</a>
+                <a class=3D"blue_button digest_button paper_action" href=3D=
+"https://www.academia.edu/keypass/442f58c7691f682d55053accb3ec3a2835c922d=
+c/t/a-JUAt2UD-Js74y/10158647/Range_image_segmentation_based_on_function_a=
+pproximation?auto=3Dbookmark&amp;campaign=3Dweekly_digest" style=3D"font-=
+family: 'Open Sans','Helvetica Neue',sans-serif; color: white; text-decor=
+ation: none; display: block; float: left; border-radius: 2px; font-size: =
+13px; margin-left: 0; margin-top: 10px; margin-right: 10px; background: #=
+479ed9; padding: 8px 6px;">Bookmark</a>
+              </td>
+            </tr>
+        </table>
+
+        <div class=3D"digest_call_to_upload" style=3D"padding-top: 30px; =
+margin-top: 30px; text-align: center;" align=3D"center">
+          <span style=3D"font-size: 12px; color: #878787;">Share your pap=
+ers</span>
+          <a class=3D"paper_upload" href=3D"https://www.academia.edu/keyp=
+ass/3afb21983faa1e64963832a365c1909e6fc01f09/t/a-JUAt2UD-Js74y/upload-a-p=
+aper/paper_digest" style=3D"color: white; border-radius: 2px; text-decora=
+tion: none; display: block; width: 230px; background: #669a4e; margin: 15=
+px auto; padding: 10px 0;">Upload Your Papers</a>
+        </div>
+
+        =
+
+      </td>
+    </tr>
+  </table>
+
+  <p class=3D"footer" style=3D"font-family: 'Open Sans','Helvetica Neue',=
+sans-serif; font-weight: 400; font-size: 11px; color: #777; width: 560px;=
+ margin: 15px 0;">
+    <a href=3D"https://academia.edu/t/a-JUAt2UD-Js74y/keypass/0b627cb7e27=
+f9758b5a7b824251a9e6756b72252/unsubscribe/weekly_digest">Click here</a> t=
+o disable paper digest emails.
+  </p>
+  <p class=3D"footer" style=3D"font-family: 'Open Sans','Helvetica Neue',=
+sans-serif; font-weight: 400; font-size: 11px; color: #777; width: 560px;=
+ margin: 15px 0;">
+    Academia.edu, 251 Kearny St., Suite 520, San Francisco, CA, 94108
+  </p>
+  <img src=3D"https://www.academia.edu/t/a-JUAt2UD-Js74y/images/clear.gif=
+" border=3D"0" width=3D"1" height=3D"1" />
+</body>
+</html>
+
+  <img src=3D"https://www.academia.edu/t/a-JUAt2UD-Js74y/images/clear.gif=
+" border=3D"0" width=3D"1" height=3D"1">
+</body>
+</html>
+
+----==_mimepart_54d159d6ca2fd_64ea3fde80044a041174e4--

@@ -1,0 +1,55 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.175.144 with SMTP id ca16csp281501ldc;
+        Mon, 1 Dec 2014 10:19:23 -0800 (PST)
+X-Received: by 10.70.19.226 with SMTP id i2mr56765282pde.26.1417457962397;
+        Mon, 01 Dec 2014 10:19:22 -0800 (PST)
+Return-Path: <alexdins@host167.hostmonster.com>
+Received: from outbound-ss-253.hostmonster.com (outbound-ss-253.hostmonster.com. [67.222.51.98])
+        by mx.google.com with SMTP id p8si29980779pds.186.2014.12.01.10.19.21
+        for <dinsmorealex@gmail.com>;
+        Mon, 01 Dec 2014 10:19:22 -0800 (PST)
+Received-SPF: none (google.com: alexdins@host167.hostmonster.com does not designate permitted sender hosts) client-ip=67.222.51.98;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: alexdins@host167.hostmonster.com does not designate permitted sender hosts) smtp.mail=alexdins@host167.hostmonster.com
+Received: (qmail 2773 invoked by uid 0); 1 Dec 2014 18:19:21 -0000
+Received: from unknown (HELO cmgw3) (67.20.127.203)
+  by soproxy6.mail.unifiedlayer.com with SMTP; 1 Dec 2014 18:19:21 -0000
+Received: from host167.hostmonster.com ([74.220.207.167])
+	by cmgw3 with 
+	id NJKJ1p00D3dELPe01JKM0v; Mon, 01 Dec 2014 11:19:21 -0700
+X-Authority-Analysis: v=2.1 cv=W++rC3mk c=1 sm=1 tr=0
+ a=vjlC5x6kNGBmqidfkbxN9A==:117 a=vjlC5x6kNGBmqidfkbxN9A==:17 a=DsvgjBjRAAAA:8
+ a=f5113yIGAAAA:8 a=wPDyFdB5xvgA:10 a=IkcTkHD0fZMA:10 a=DTuwoFSoP4sA:10
+ a=JvAnii-7AAAA:8 a=tbtgftj8VjcA:10 a=A92cGCtB03wA:10 a=pGLkceISAAAA:8
+ a=iVDDjwCNYIpUKt87t0sA:9 a=QEXdDO2ut3YA:10 a=pFo6Xf21wXcA:10
+ a=Ot974jw-UcsA:10 a=cNolFwi49xEA:10 a=8ooGVts1vPIA:10 a=FdU3PDy3UrcA:10
+Received: from localhost ([127.0.0.1]:53754 helo=host167.hostmonster.com)
+	by host167.hostmonster.com with esmtp (Exim 4.82)
+	(envelope-from <alexdins@host167.hostmonster.com>)
+	id 1XvVZ8-0002CD-0H
+	for dinsmorealex@gmail.com; Mon, 01 Dec 2014 11:19:18 -0700
+To: dinsmorealex@gmail.com
+Subject: [Alex Dinsmore] Password Reset
+X-PHP-Script: www.alexdinsmore.com/blog/wp-login.php for 149.31.201.115
+Date: Mon, 1 Dec 2014 18:19:15 +0000
+From: alexdins@host167.hostmonster.com
+Message-ID: <3eda62b4948ab7b43ddee1a762fcc4dd@www.alexdinsmore.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Identified-User: {:host167.hostmonster.com:alexdins:alexdinsmore.com} {sentby:program running on server}
+
+Someone requested that the password be reset for the following account:
+
+http://www.alexdinsmore.com/blog/
+
+Username: dinsmorealex@gmail.com
+
+If this was a mistake, just ignore this email and nothing will happen.
+
+To reset your password, visit the following address:
+
+<http://www.alexdinsmore.com/blog/wp-login.php?action=rp&key=pgM4cDYzvcYsd6lBoPlm&login=dinsmorealex%40gmail.com>
+

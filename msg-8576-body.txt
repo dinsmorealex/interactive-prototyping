@@ -1,0 +1,491 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.160.143 with SMTP id xk15csp756359ldb;
+        Fri, 12 Dec 2014 04:14:27 -0800 (PST)
+X-Received: by 10.68.93.132 with SMTP id cu4mr26480631pbb.36.1418386466826;
+        Fri, 12 Dec 2014 04:14:26 -0800 (PST)
+Return-Path: <blurb.52610@envfrm.rsys5.com>
+Received: from omp.makebooks.blurb.com (omp.makebooks.blurb.com. [199.7.204.114])
+        by mx.google.com with ESMTP id zk3si1613248pbc.212.2014.12.12.04.14.25
+        for <dinsmorealex@gmail.com>;
+        Fri, 12 Dec 2014 04:14:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) client-ip=199.7.204.114;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) smtp.mail=blurb.52610@envfrm.rsys5.com;
+       dkim=pass header.i=@makebooks.blurb.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=makebooks.blurb.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=blurb; d=makebooks.blurb.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=support@makebooks.blurb.com;
+ bh=R2dFQVDCCjMS5vxHYjD2uw1J+QI=;
+ b=UrGz1KUeZI9hd/4hsfdMiutQP7mJJLZV58WPI9RFFOTtuqBR9Eg2I0T6wu2TDFMBwlZA3m28cJVf
+   80vJnJLjN4KrBrxYeyaSeLmoyGXZsZp5Kty9GTxMyH4nMWzdJBmzlSmJau+Avx64GntxuC6k85Ff
+   ObC1HFGlsnFOQlvBN1c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=blurb; d=makebooks.blurb.com;
+ b=kn5BamaEfloNLypi7W3WfBNLJvWHprCR3VzBaaeGtw7FnCBReSppjJcbfdG512XYf61srD96iyDD
+   BuNazgZQBncdq4DXvcfTlXYIE+gk1NPxmDS7nlNemMXZftaqpJ5SNGoKlUtY1qRHkcaVQZSTYpuP
+   Tyd2XfSP8/HCr6dTank=;
+Received: by omp.makebooks.blurb.com id hhbe241hd78h for <dinsmorealex@gmail.com>; Fri, 12 Dec 2014 03:56:56 -0800 (envelope-from <blurb.52610@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 12 Dec 2014 03:56:56 -0800
+To: dinsmorealex@gmail.com
+From: "Blurb" <support@makebooks.blurb.com>
+Reply-To: "Blurb" <noreply@makebooks.blurb.com>
+Subject: Unwrap your offer
+List-Unsubscribe: <http://makebooks.blurb.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP2za&_ei_=EolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2>, <mailto:unsubscribe-WQpglLjHJlYQGhhYzffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP2za@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: KpgkuhjLHtLzfxnuHptQJhu
+X-rext: 4.interact5.Eoo5xMEQ7JpCZjmZbZAxHKP3ViC4T_JXyTQ
+X-cid: blurb.406155
+Message-ID: <0.0.19.64C.1D01602BA2F77AA.0@omp.makebooks.blurb.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html>
+<head>
+<title>Unwrap your offer</title>
+<style type=3D=22text/css=22>
+=40charset =22UTF-8=22;
+html =7B
+	-webkit-text-size-adjust: none;
+=7D
+=2EReadMsgBody =7B
+	width: 100%;
+=7D
+=2EExternalClass =7B
+	width: 100%;
+=7D
+=2EExternalClass * =7B
+	line-height: 100%
+=7D
+=2EappleLinksWhite a =7B
+	color: =23ffffff;
+	text-decoration: none;
+=7D
+body =7B
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	margin: 0 auto;
+	background-repeat: repeat-x;
+=7D
+=40media screen and (max-width: 620px) =7B
+*=5Bclass=5D=2Eblock =7B
+	display: block =21important;
+=7D
+*=5Bclass=5D=2Ehide =7B
+	display: none =21important;
+=7D
+*=5Bclass=5D=2Erel =7B
+	position: relative =21important;
+=7D
+*=5Bclass=5D=2Eabs =7B
+	position: absolute =21important;
+=7D
+*=5Bclass=5D=2Eshow =7B
+	display: block =21important;
+	width: auto =21important;
+	overflow: visible =21important;
+	float: none =21important;
+	max-height: inherit =21important;
+	line-height: inherit =21important;
+=7D
+/* ALIGNMENT */
+*=5Bclass=5D=2Ealigncenter =7B
+	text-align: center =21important;
+=7D
+*=5Bclass=5D=2Ealignleft =7B
+	text-align: left =21important;
+=7D
+/*** heights & widths ****/
+*=5Bclass=5D=2Ewidth15 =7B
+	width: 15px =21important;
+=7D
+*=5Bclass=5D=2Ewidth20 =7B
+	width: 20px =21important;
+=7D
+*=5Bclass=5D=2Ewidth150 =7B
+	width: 150px =21important;
+=7D
+*=5Bclass=5D=2Ewidth194 =7B
+	width: 194px =21important;
+=7D
+*=5Bclass=5D=2Ewidth210 =7B
+	width: 210px =21important;
+=7D
+*=5Bclass=5D=2Ewidth242 =7B
+	width: 242px =21important;
+=7D
+*=5Bclass=5D=2Ewidth245 =7B
+	width: 245px =21important;
+=7D
+*=5Bclass=5D=2Ewidth250 =7B
+	width: 250px =21important;
+=7D
+*=5Bclass=5D=2Ewidth290 =7B
+	width: 290px =21important;
+=7D
+*=5Bclass=5D=2Ewidth300 =7B
+	width: 300px =21important;
+=7D
+*=5Bclass=5D=2Ewidth312 =7B
+	width: 312px =21important;
+=7D
+*=5Bclass=5D=2Ewidth320 =7B
+	width: 320px =21important;
+=7D
+*=5Bclass=5D=2Ehauto =7B
+	height: auto =21important;
+=7D
+/*** padding/margin ****/
+*=5Bclass=5D=2Epaddingr0 =7B
+	padding-right: 0px =21important;
+=7D
+*=5Bclass=5D=2Epaddingr15 =7B
+	padding-right: 15px =21important;
+=7D
+*=5Bclass=5D=2Epaddingr55 =7B
+	padding-right: 55px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl0 =7B
+	padding-left: 0px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl15 =7B
+	padding-left: 15px =21important;
+=7D
+*=5Bclass=5D=2Epaddingl55 =7B
+	padding-left: 55px =21important;
+=7D
+*=5Bclass=5D=2Epaddinglr55 =7B
+	padding-left: 60px =21important;
+	padding-right: 60px =21important;
+=7D
+*=5Bclass=5D=2Epaddingb10 =7B
+	padding-bottom: 10px =21important
+=7D
+/*** fonts ****/
+*=5Bclass=5D=2Efont12 =7B
+	font-size: 12px =21important;
+=7D
+*=5Bclass=5D=2Efont14 =7B
+	font-size: 14px =21important;
+=7D
+*=5Bclass=5D=2Efont18 =7B
+	font-size: 18px =21important;
+=7D
+*=5Bclass=5D=2Eline18 =7B
+	line-height: 18px =21important;
+=7D
+*=5Bclass=5D=2Eline20 =7B
+	line-height: 20px =21important;
+=7D
+*=5Bclass=5D=2Eline22 =7B
+	line-height: 22px =21important;
+=7D
+*=5Bclass=5D=2Eline24 =7B
+	line-height: 24px =21important;
+=7D
+/*** positioning ***/
+*=5Bclass=5D=2Etop21 =7B
+	top: 21px =21important;
+=7D
+*=5Bclass=5D=2Ebggrey =7B
+	background-color: =23f5f5f5 =21important;
+=7D
+*=5Bclass=5D=2Ebggrey_drk =7B
+	background-color: =23e3e3e3 =21important;
+=7D
+*=5Bclass=5D=2Ebgwhite =7B
+	background-color: =23ffffff =21important;
+=7D
+=7D</style>
+</head>
+<body width=3D=22100%=22 style=3D=22padding:0; margin:0;=22 bgcolor=3D=22=
+=23FFFFFF=22>
+<=21--=5Bif gte mso 9=5D>
+<style>
+=2Emr15=7B margin-right:15px =21important;=7D
+=2Eml15=7B margin-left:15px =21important;=7D
+=2Emr5lr5 =7B margin-left:5px =21important; margin-right:5px =21important;=
+=7D
+=2Emr20lr20 =7B margin-left:20px =21important; margin-right:20px =21importa=
+nt;=7D
+=2Emm1=7B margin-left:30px =21important; margin-right:30px =21important;=7D
+=2Emm2=7B margin-left:15px =21important; margin-right:15px =21important;=7D
+=2Emm3=7B margin-left:50px =21important; margin-right:50px =21important;=7D
+=2Emm4=7B margin-left:15px =21important; margin-right:5px =21important;=7D
+=2Emm5=7B margin-left:10px =21important; margin-right:10px =21important;=7D
+</style>
+<=21=5Bendif=5D-->
+<center>
+  <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=22>
+    <tr>
+      <td align=3D=22center=22 bgcolor=3D=22=23ffffff=22><table width=3D=22=
+600=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 class=
+=3D=22width320=22>
+          <tr>
+            <td bgcolor=3D=22=23FFFFFF=22>
+             =20
+              <=21--header image-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP2=
+zaVXtpKX%3DARDAAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7q=
+lYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img src=3D=22=
+http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/MAR-23=
+50-header=2Epng=22 style=3D=22display:block; border:0;=22 width=3D=22600=22=
+ class=3D=22width320 hauto=22 /></a></td>
+                </tr>
+              </table>
+                                        =20
+              <=21--intro image-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i5/responsysimages/content/blurb/MAR-2467-intro=2Epng=22 alt=3D=22Your s=
+pecial offers are still waiting for you=21=22 style=3D=22display:block; bor=
+der:0;=22 width=3D=22600=22 class=3D=22width320 hauto=22 /></td>
+                </tr>
+              </table>
+
+              <=21--Text block-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 bgcolor=3D=22=2300adef=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=2250=22 class=3D=22width15=22></td>
+                  <td width=3D=22500=22 align=3D=22center=22 valign=3D=22to=
+p=22 class=3D=22width290=22><div style=3D=22font-family:Arial, Helvetica, s=
+ans-serif; font-size:22px; line-height:28px; color:=23ffffff; letter-spacin=
+g:0=2E05em;=22 class=3D=22font14 line20=22>Don't forget your very timely of=
+fers:</div><br></td>
+                  <td width=3D=2250=22 class=3D=22width15=22></td>
+                </tr>
+              </table>
+
+              <=21--offer image-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i5/responsysimages/content/blurb/MAR-2467-offer=2Epng=22 style=3D=22disp=
+lay:block; border:0;=22 width=3D=22600=22 class=3D=22width320 hauto=22 /></=
+td>
+                </tr>
+              </table>
+                           =20
+              <=21--Text block-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 bgcolor=3D=22=2300adef=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=2250=22 class=3D=22width15=22></td>
+                  <td width=3D=22500=22 align=3D=22center=22 valign=3D=22to=
+p=22 class=3D=22width290=22><br><div style=3D=22font-family:Arial, Helvetic=
+a, sans-serif; font-size:16px; line-height:24px; color:=23ffffff; letter-sp=
+acing:0=2E05em;=22 class=3D=22font14 line20=22>Use the savings to buy more =
+copies, make bigger books, or treat yourself to a book of your own=2E Just =
+use your deals before Tuesday, December 16&mdash;and happy book-making=21</=
+div><br></td>
+                  <td width=3D=2250=22 class=3D=22width15=22></td>
+                </tr>
+              </table>
+                                       =20
+              <=21--cta-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 bgcolor=3D=22=2300adef=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22200=22 bgcolor=3D=22=2300adef=22 class=3D=
+=22width15=22></td>
+                  <td width=3D=22200=22 bgcolor=3D=22=2300adef=22 align=3D=
+=22center=22 valign=3D=22top=22 class=3D=22width290=22><div style=3D=22font=
+-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; col=
+or:=23000000; font-weight:bold;=22 class=3D=22font14 line20=22><a href=3D=
+=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGhhYz=
+ffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP2zaVXtpKX%3DARDACY&_ei_=3DEi2L-z0LtlVkT=
+FJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-=
+5w0i4vbQKh27umSa=2E=22 style=3D=22border:4px solid =23000000; display:block=
+; padding:5px; text-decoration:none; color:=23000000;=22>
+Get Started</a></div></td>
+                  <td width=3D=22200=22 bgcolor=3D=22=2300adef=22 class=3D=
+=22width15=22></td>
+                </tr>
+              </table>
+
+              <=21--book image-->
+             =20
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 width=3D=22600=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=22600=22 class=3D=22width320=22 align=3D=22c=
+enter=22 valign=3D=22top=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i5/responsysimages/content/blurb/MAR-2467-book=2Epng=22 style=3D=22displ=
+ay:block; border:0;=22 width=3D=22600=22 class=3D=22width320 hauto=22 /></t=
+d>
+                </tr>
+              </table>
+                        =20
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21-- footer -->
+
+              <=21-- FOOTER -->
+       =20
+        <table bgcolor=3D=22=23ffffff=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 width=3D=22600=22 class=3D=22hide=22>
+          <tr>
+            <td width=3D=22600=22 align=3D=22center=22 bgcolor=3D=22=23ffff=
+ff=22 class=3D=22width320=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP=
+2zaVXtpKX%3DARDBRY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7=
+qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=
+=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysim=
+ages/content/blurb/icon-blurb-47=2Epng=22 border=3D=220=22 alt=3D=22Blurb=
+=22 title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebo=
+oks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8zdruzdI=
+zd6zfadyUzep8W2XczcP2zaVXtpKX%3DARDBTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn=
+8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=
+=2E=22><img align=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=
+=2Enet/i5/responsysimages/content/blurb/icon-facebook-41=2Epng=22 border=3D=
+=220=22 alt=3D=22Facebook=22 title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<=
+a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjH=
+JlYQGhhYzffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP2zaVXtpKX%3DARDBWY&_ei_=3DEi2L=
+-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNd=
+ozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22absmiddle=22 src=3D=22http:=
+//responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/blurb/icon-gplus-=
+41=2Epng=22 border=3D=220=22 alt=3D=22Google Plus=22 title=3D=22=22 /></a>&=
+nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP2zaVXt=
+pKX%3DARDBAY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwT=
+F8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22><img align=3D=22abs=
+middle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/c=
+ontent/blurb/icon-twitter-41=2Epng=22 border=3D=220=22 alt=3D=22Twitter=22 =
+title=3D=22=22 /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D=22http://makebooks=
+=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8zdruzdIzd6=
+zfadyUzep8W2XczcP2zaVXtpKX%3DARDBCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tY=
+uie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=
+=22><img align=3D=22absmiddle=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i5/responsysimages/content/blurb/icon-linkedin-41=2Epng=22 border=3D=220=
+=22 alt=3D=22LinkedIn=22 title=3D=22=22 /></a></td>
+          </tr>
+<tr><td>&nbsp;</td></tr>
+        </table>
+        <table bgcolor=3D=22=23ffffff=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 width=3D=22600=22 class=3D=22width320=22>
+          <tr>
+            <td width=3D=22600=22 align=3D=22center=22 bgcolor=3D=22=23ffff=
+ff=22 class=3D=22width320=22><div style=3D=22font-size:10px; font-family:Ar=
+ial, Helvetica, sans-serif; color:=23666666; line-height:18px;=22> <a href=
+=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGh=
+hYzffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP2zaVXtpKX%3DARDCRY&_ei_=3DEi2L-z0Ltl=
+VkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh=
+_i-5w0i4vbQKh27umSa=2E=22 style=3D=22color: =2300adef; text-decoration: non=
+e=22 target=3D=22_top=22>Privacy</a> =7C <a href=3D=22http://makebooks=2Ebl=
+urb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8zdruzdIzd6zfady=
+Uzep8W2XczcP2zaVXtpKX%3DARDCTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5=
+Ai6GxZyEgRn7qlYbwTF8UZBO8N-_SwNa7KSCzNaSNdozZABh_i-5w0i4vbQKh27umSa=2E=22 s=
+tyle=3D=22color: =2300adef; text-decoration: none=22 target=3D=22_top=22>Pr=
+icing</a> =7C <a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/optout?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8zdruzdIzd6zfadyUzep8W2XczcP2za&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlX=
+fSPwa6K2=22 style=3D=22color: =2300adef; text-decoration: none=22 target=3D=
+=22_top=22>Unsubscribe</a><br />
+                <br />
+                Blurb, Inc=2E PO Box 728, San Francisco, CA 94104-0728<br />
+                &copy;2014 Blurb, All Rights Reserved</div></td>
+          </tr>
+        </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2225=22 style=3D=22line-height:25px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+              <=21--Text block-->
+             =20
+              <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=
+=22600=22 bgcolor=3D=22=23ffffff=22 class=3D=22width320=22>
+                <tr>
+                  <td width=3D=2230=22 class=3D=22width15=22></td>
+                  <td width=3D=22540=22 align=3D=22left=22 valign=3D=22top=
+=22 class=3D=22width290=22>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:10px; line-height:16px; color:=23666666;=22>*EASYGIFTS: Offer =
+valid through December 16, 2014 (11:59 p=2Em=2E local time)=2E A 25% discou=
+nt is applied toward your product total with a minimum order of 3 units or =
+more=2E Maximum discount is USD =2475, GBP &pound;50, EUR &euro;60, CAD =24=
+75, or AUD =2475 off product total=2E Valid for printed photo books made by=
+ you only=2E This offer is good for one-time use, and cannot be combined wi=
+th volume discounts, other promotional codes, gift cards, or used for adjus=
+tments on previous&nbsp;orders=2E</div><br>
+                    <div style=3D=22font-family:Arial, Helvetica, sans-seri=
+f; font-size:10px; line-height:16px; color:=23666666;=22>**WRAPUP: Offer va=
+lid through December 16, 2014 (11:59 p=2Em=2E local time)=2E A 20% discount=
+ is applied toward your product total with no minimum purchase required=2E =
+Maximum discount is USD =2425, GBP &pound;15, EUR &euro;20, CAD =2425, or A=
+UD =2425 off product total=2E Valid for printed photo books made by you you=
+ only=2E This offer is good for one-time use, and cannot be combined with v=
+olume discounts, other promotional codes, gift cards, or used for adjustmen=
+ts on previous&nbsp;orders=2E</div>
+                  </td>
+                  <td width=3D=2230=22 class=3D=22width15=22></td>
+                </tr>
+              </table>
+
+              <=21-- space -->
+             =20
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22>
+                <tr>
+                  <td height=3D=2250=22 style=3D=22line-height:50px;=22><im=
+g src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimages/content/b=
+lurb/spacer=2Egif=22 height=3D=221=22 width=3D=221=22 style=3D=22display:bl=
+ock; border:0;=22 /></td>
+                </tr>
+              </table>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</center><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+makebooks=2Eblurb=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGhhYzffGzaBci8z=
+druzdIzd6zfadyUzep8W2XczcP2zaVXHkMX%3Dw&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRaz=
+n8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSBv2UdWief=2E=22>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+ib=2Eadnxs=2Ecom/getuid?http://a=2Eadrsp=2Enet/dsp/ci/2/E92Ew8yZ3E5RbAkLVPN=
+LhTSsqeENkKrOK8TqlqBrsWEClLbw89hRLjx00hPLfw0u0HLHrxliUjrs95JjSjyNqbTLrMzm/%=
+24UID=22>
+
+
+</body>
+</html>
+
+

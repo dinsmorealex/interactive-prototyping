@@ -1,0 +1,915 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp1870562ldh;
+        Tue, 24 Feb 2015 09:28:24 -0800 (PST)
+X-Received: by 10.140.109.164 with SMTP id l33mr36483337qgf.91.1424798903902;
+        Tue, 24 Feb 2015 09:28:23 -0800 (PST)
+Return-Path: <delivery@mx.sailthru.com>
+Received: from mx-indiegogo-b.sailthru.com (mx-indiegogo-b.sailthru.com. [192.64.236.99])
+        by mx.google.com with ESMTPS id w71si13417121qha.90.2015.02.24.09.28.22
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 24 Feb 2015 09:28:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of delivery@mx.sailthru.com designates 192.64.236.99 as permitted sender) client-ip=192.64.236.99;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of delivery@mx.sailthru.com designates 192.64.236.99 as permitted sender) smtp.mail=delivery@mx.sailthru.com;
+       dkim=pass header.i=@indiegogo.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=pmta.sailthru.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+ bh=fXP8tZyo+Qw5QtLmS0zIHfsVRkQ=;
+ b=X16As9RFQ/UH8oKi65o5Zvcw9QhXATjC17i5rmH3VhYdtVjz/WL44v7mjYfrlmeeLrLuoh7dVBcq
+   KOJbsPuLAV11Z6AzlcDRSrTrHlIVDQRGs3KLR53jzFMtuawt2LzkMfZxbPfG9yYXxPMvEX5srcMI
+   cORA3W81CsA0LGJdCrk=
+Received: from 162.208.119.171.static.nyinternet.net (162.208.119.171) by mx-indiegogo-b.sailthru.com id htiqbe1s6j09 for <dinsmorealex@gmail.com>; Tue, 24 Feb 2015 12:15:11 -0500 (envelope-from <delivery@mx.sailthru.com>)
+Received: from nj1-p-dimpine-prd-jma-16.flt (172.18.20.21) by 162.208.119.171.static.nyinternet.net id htiops1qqbsl for <dinsmorealex@gmail.com>; Tue, 24 Feb 2015 12:15:10 -0500 (envelope-from <delivery@mx.sailthru.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1424798110;
+	s=sailthru; d=indiegogo.com;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=YcqwVG8YYtJA/t2oeFH/TkyMYlObCzgoebdfPb6kuJM=;
+	b=jrmJatJJKXjTJ3MHFhsaUO2rG8AYcLXt6HfDGKqBcqmB9zgzI4QWEDsOufICBwyd
+	2K47Jro/VyMLuXiHkcxpEICJw8NBHS5GJ4KQd66yYXGRzv6ffk8NjlEwhotAQGacLx9
+	ypqUie8EqN1mAaNJU5zk2WDyWAMvgJg5QNKB6o8w=
+Date: Tue, 24 Feb 2015 12:15:10 -0500 (EST)
+From: Indiegogo <newsletter@indiegogo.com>
+To: dinsmorealex@gmail.com
+Message-ID: <20150224171510.3894678.533886@sailthru.com>
+Subject: Delicious honey on tap
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4123667_1782595502.1424798110959"
+Precedence: bulk
+X-Feedback-ID: 4343:3894678:campaign:sailthru
+X-TM-ID: 20150224171510.3894678.533886
+X-Info: Message sent by sailthru.com customer Indiegogo
+X-Info: We do not permit unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: abuse@sailthru.com
+X-Mailer: sailthru.com
+X-JMailer: nj1-p-dimpine-prd-jma-16.flt
+X-Unsubscribe-Web: http://link.indiegogo.com/oc/54e88e277cfe319c408b54842bh5i.bfy6/556595eb
+List-Unsubscribe: <http://link.indiegogo.com/oc/54e88e277cfe319c408b54842bh5i.bfy6/556595eb>, <mailto:unsubscribe_20150224171510.3894678.533886@mx.sailthru.com>
+X-rpcampaign: stglb3894678
+
+------=_Part_4123667_1782595502.1424798110959
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0"/>
+<title>Indiegogo - Story</title>
+<style type=3D"text/css">
+* {margin-top:0px;margin-bottom:0px;padding:0px;border:none;outline:none;li=
+st-style:none;-webkit-text-size-adjust: none;}
+body {margin:0 !important;padding:0 !important;width: 100% !important;-webk=
+it-text-size-adjust: 100% !important;-ms-text-size-adjust: 100% !important;=
+-webkit-font-smoothing: antialiased !important;}
+img {border:0 !important;display: block !important;outline: none !important=
+;}
+table {border-collapse: collapse;mso-table-lspace:0px;mso-table-rspace: 0px=
+;}
+td {border-collapse:collapse;mso-line-height-rule:exactly;}
+.ExternalClass {width: 100%;line-height: 100%;}
+.applelinks-white a {color:#ffffff; text-decoration: none;}
+/* mobile-specific CSS styles go here */
+@media only screen and (max-width:480px){
+/* Global */
+table[class=3Dmobile_width] { width: 320px !important; text-align:center !i=
+mportant; } =20
+table[class=3Dcontent_width] { width: 310px !important; text-align: center =
+!important; }
+table[class=3Dhide] { display:none !important; }
+td[class=3Dhide] { display:none !important; }
+table[class=3Dhero] img { width:100% !important; }
+td[class=3Dspc_betw_sections] { height: 5px !important; }
+td[class=3Dmin_width] { min-width: 320px !important; }
+span[class=3Dinline_block] {display:inline-block !important;}
+/* by Section */
+td[class=3Dpreheader_view] { text-align: center !important; }
+img[class=3Dmasthead_logo] { width: 80px !important; }
+td[class=3Dmasthead_social] { width: 20px !important; }
+td[class=3Dmasthead_social] img { width: 15px !important; }
+td[class=3Dmasthead_header] { padding: 20px !important; }
+td[class=3Dmasthead_headline] { padding: 20px !important; }
+td[class=3Dmasthead_headline] h1 { font-size: 40px !important; }
+td[class=3Dmasthead_headline] h5 { font-size: 14px !important; }
+td[class=3Dfeature_spc_above_title] { height: 26px !important; }
+td[class=3Dfeature_spc_below_article] { height: 40px !important; }
+td[class=3Dfeature_side_columns] { width: 26px !important; }
+td[class=3Dfeature_title] { font-size: 24px !important; text-align: left !i=
+mportant; } =20
+td[class=3Dfeature_description] { font-size: 14px !important; line-height:2=
+4px !important; text-align: left !important; }
+td[class=3Dheader_title] { width: 100% !important; align: center !important=
+; text-align: center !important; font-size: 22px !important; }
+td[class=3Dheader_side_columns] { width: 15px !important; }
+td[class=3Dheader_spc] { height: 20px !important; }
+td[class=3Dheader_spc_title] { height: 15px !important; }
+img[class=3Darticle_img] {width:310px !important;}
+table[class=3Darticle_textarea] {width:310px !important;}
+td[class=3Darticle_textarea_sides] {width:15px !important;}
+a[class=3Darticle_title] {font-size:18px !important;}
+td[class=3Darticle_category] {font-size:14px !important;}
+td[class=3Darticle_text] {font-size:12px !important;line-height:18px !impor=
+tant;}
+td[class=3Dapp_headline] { font-size: 22px !important; }
+td[class=3Dapp_text] {font-size:12px !important;line-height:20px !important=
+; text-align: center !important;}
+td[class=3Dapp_spc_below] { height: 30px !important; }
+td[class=3Dapp_below_img] { height: 20px !important; }
+table[class=3Dbutton_shrink] { width:230px !important; height:40px !importa=
+nt;}
+div[class=3Dbutton_shrink] { width: 230px !important; align: center !import=
+ant; }
+a[class=3Dbutton_shrink] { width: 230px !important; height: 40px !important=
+; font-size: 14px !important;  line-height: 40px !important; align: center =
+!important; valign:middle !important; }
+td[class=3Dcampaign_spc_above] { height: 28px !important; }
+td[class=3Dcampaign_spc_betw] { height: 20px !important; }
+td[class=3Dcampaign_spc_below] { height: 40px !important; }
+td[class=3Dpartner_spc_below] { height: 40px !important; }
+td[class=3Dfooter_text] { font-size: 11px !important; line-height:20px !imp=
+ortant; }
+td[class=3Dfooter_expand] { width:100% !important; text-align: center !impo=
+rtant; }
+}
+</style>
+</head>
+<body marginwidth=3D"0" marginheight=3D"0" style=3D"margin-top:0;margin-bot=
+tom:0;padding-top:0;padding-bottom:0;background-color:#eae9ea;width:100% !i=
+mportant;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-fo=
+nt-smoothing:antialiased;" offset=3D"0" topmargin=3D"0" leftmargin=3D"0" bg=
+color=3D"#eae9ea">
+<!-- Background table start -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" bgcolor=3D"#eae9ea">
+<tr>
+<td valign=3D"top">
+<!-- Container table start -->
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" c=
+lass=3D"mobile_width">
+<tr>
+<td valign=3D"top" style=3D"min-width:600px;" class=3D"min_width">
+<!-- start Contents -->
+<!-- =3D=3D=3D=3D=3D=3D PRE-HEADER =3D=3D=3D=3D=3D=3D -->
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D"mobile_wi=
+dth" border=3D"0" align=3D"center">
+<tr>
+<td bgcolor=3D"#eae9ea">
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"content_width">
+<tr>
+<td width=3D"40">&nbsp;</td>
+<td>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"content_width">
+<tr>
+<td height=3D"1" style=3D"line-height:1px; color:#eae9ea; font-size:1px;">J=
+oin the beekeeping revolution that's raised $2.4 million and counting</td>
+</tr>
+<tr><td height=3D"7" style=3D"line-height:1px;font-size:1px;">&nbsp;</td></=
+tr>
+<tr>
+<td align=3D"right" valign=3D"middle" class=3D"preheader_view"><a href=3D"h=
+ttp://link.indiegogo.com/view/54e88e277cfe319c408b54842bh5i.bfy6/02973e3d" =
+style=3D"font-family: Arial, sans-serif; color: #000001; font-size: 13px;">=
+View this email in your browser</a></td>
+</tr>
+<tr><td height=3D"8" style=3D"line-height:1px;font-size:1px;">&nbsp;</td></=
+tr>
+</table></td>
+<td width=3D"40">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- =3D=3D=3D=3D=3D=3D CONTENT =3D=3D=3D=3D=3D=3D -->
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" class=3D"mobile_wi=
+dth" border=3D"0" align=3D"center">
+<tr>
+<td bgcolor=3D"#eae9ea">
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"content_width">
+<tr>
+<td>
+<!-- =3D=3D=3D=3D=3D=3D MASTHEAD =3D=3D=3D=3D=3D=3D -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#ffffff" style=3D"border-collapse: collapse;" class=3D"content_width=
+">
+<tr>
+<td align=3D"left" class=3D"masthead_header" style=3D"border-collapse: coll=
+apse; padding: 50px 40px 50px 40px;">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"left" style=3D"border-collapse: collapse;"><a href=3D"http://l=
+ink.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/U_PwPMPooLh9mp6OBa95a"=
+><img src=3D"http://media.sailthru.com/3cn/1jy/7/1/53b33fec05325.png" width=
+=3D"142" height=3D"74" class=3D"logo" style=3D"display: block; border: none=
+;" /></a></td>
+<td align=3D"right" style=3D"border-collapse: collapse;">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"right" style=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"right" style=3D"border-collapse: collapse;"><p class=3D"follow=
+" style=3D"font-family: Arial, sans-serif; color: #b9b5b8; font-size: 13px;=
+">Follow us</p></td>
+<td align=3D"right" width=3D"30" class=3D"masthead_social" style=3D"border-=
+collapse: collapse;"><a href=3D"http://link.indiegogo.com/54e88e277cfe319c4=
+08b54842bh5i.bfy6/U0wCb8Po2_uiaPXgB053e"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/facebook.png" width=3D"25" style=3D"display:=
+ block; border: none;" /></a></td>
+<td align=3D"right" width=3D"30" class=3D"masthead_social" style=3D"border-=
+collapse: collapse;"><a href=3D"http://link.indiegogo.com/54e88e277cfe319c4=
+08b54842bh5i.bfy6/U0wCb8Po2_uiaPXhB04bf"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/twitter.png" width=3D"25" style=3D"display: =
+block; border: none;" /></a></td>
+<td align=3D"right" width=3D"30" class=3D"masthead_social" style=3D"border-=
+collapse: collapse;"><a href=3D"http://link.indiegogo.com/54e88e277cfe319c4=
+08b54842bh5i.bfy6/U0wCb8Po2_uiaPXkB8ccf"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/gplus.png" width=3D"25" style=3D"display: bl=
+ock; border: none;" /></a></td>
+<td align=3D"right" width=3D"30" class=3D"masthead_social" style=3D"border-=
+collapse: collapse;"><a href=3D"http://link.indiegogo.com/54e88e277cfe319c4=
+08b54842bh5i.bfy6/U0wCb8Po2_uiaPXjBaaf1"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/rss.png" width=3D"25" style=3D"display: bloc=
+k; border: none;" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#ffffff" style=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"left" class=3D"headline" style=3D"border-collapse: collapse; p=
+adding: 0px 40px 20px 40px;"><h1 style=3D"color: #000001; font-size: 80px; =
+font-family: Arial, sans-serif; padding: 0; margin: 0;font-weight:bold;"><a=
+ href=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VOyll=
+8PoQUE6j0WPA289e" style=3D"color: #000001; text-decoration: none;">What&#39=
+;s Up</a></h1>
+<h5 style=3D"color: #b9b5b8; font-size: 18px; font-weight: normal; font-fam=
+ily: Arial, sans-serif; padding: 0; margin: 0;">The latest news straight fr=
+om Indiegogo.</h5></td>
+</tr>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<!-- =3D=3D=3D=3D=3D=3D FEATURE =3D=3D=3D=3D=3D=3D -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" class=3D"content_width">
+<!-- image -->
+<tr>
+<td align=3D"left" style=3D"border-collapse: collapse;"><a href=3D"http://l=
+ink.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VOyll8PoQUE6j0WQAe17c"=
+><img src=3D"http://media.sailthru.com/3cn/1jz/2/o/54eca0ae1cc41.jpg" alt=
+=3D"Flow Hive Honey on Tap Directly From Your Beehive" width=3D"100%" style=
+=3D"display: block; border: none;" class=3D"hero" /></a></td>
+</tr>
+</table>
+<!-- title & text -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#ffffff" style=3D"border-collapse: collapse;">
+<tr>
+<td width=3D"40" class=3D"feature_side_columns">&nbsp;</td>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"left">
+<tr><td height=3D"40" style=3D"line-height:1px; font-size:1px;" class=3D"fe=
+ature_spc_above_title">&nbsp;</td></tr>
+<tr><td class=3D"feature_title" align=3D"left" style=3D"color: #eb1e73; fon=
+t-family: Arial, Helvetica, sans-serif; font-weight:bold; font-size: 36px;"=
+><a href=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VO=
+yll8PoQUE6j0WRA253c" style=3D"color: #eb1e73; text-decoration: none;">Flow =
+Hive Honey on Tap Directly From Your Beehive</a></td></tr>
+<tr><td height=3D"15" style=3D"line-height:1px; font-size:1px;">&nbsp;</td>=
+</tr>
+<tr><td class=3D"feature_description" align=3D"left" style=3D"color: #00000=
+1; font-size: 18px; font-family: Arial, Helvetica, sans-serif; line-height:=
+28px;">Join the beekeeping revolution that's raised $2.4 million and counti=
+ng! Flow is a revolutionary beehive invention, allowing you to harvest hone=
+y without opening the hive and with minimal disturbance to the bees. It is =
+so much easier on the beekeeper and so much easier on the bees. Get the hiv=
+e or just bee supportive!</td></tr>
+<tr><td height=3D"15" style=3D"line-height:1px; font-size:1px;">&nbsp;</td>=
+</tr>
+<tr><td class=3D"feature_description" style=3D"font-size: 18px; font-family=
+: Arial, Helvetica, sans-serif;"><a href=3D"http://link.indiegogo.com/54e88=
+e277cfe319c408b54842bh5i.bfy6/VOyll8PoQUE6j0WSA1de6" style=3D"color: #eb1e7=
+3; text-decoration: none; font-style: italic;">Read more &#8594;</a></span>=
+</td></tr>
+<tr><td height=3D"50" style=3D"line-height:1px; font-size:1px;" class=3D"fe=
+ature_spc_below_article">&nbsp;</td></tr>
+</table>
+</td>
+<td width=3D"40" class=3D"feature_side_columns">&nbsp;</td>
+</tr>
+</table>
+<!-- space between sections -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<!-- =3D=3D=3D=3D=3D=3D CHECK THESE OUT =3D=3D=3D=3D=3D=3D -->
+<!-- header -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#fffff=
+f" class=3D"content_width">
+<tr>
+<td width=3D"25" class=3D"header_side_columns">&nbsp;</td>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"left" class=3D"header_title" style=3D"border-collapse: collaps=
+e;">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" clas=
+s=3D"header_title" style=3D"border-collapse: collapse;">
+<tr><td height=3D"40" style=3D"line-height:1px;font-size:1px;" class=3D"hea=
+der_spc">&nbsp;</td></tr>
+<tr><td bgcolor=3D"#eae9ea" height=3D"1" width=3D"100%" style=3D"line-heigh=
+t:1px; font-size:1px;"><img src=3D"http://email-media.s3.amazonaws.com/misc=
+/spacer.gif" alt=3D"" border=3D"0" width=3D"1" height=3D"1" /></td></tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;" class=3D"hea=
+der_spc_title">&nbsp;</td></tr>
+<tr><td align=3D"center" class=3D"header_title" style=3D"border-collapse: c=
+ollapse; font-size: 36px; color: #b9b5b8; font-family: Arial, Helvetica, sa=
+ns-serif;font-weight:bold;">Check These Out</td></tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;" class=3D"hea=
+der_spc_title">&nbsp;</td></tr>
+<tr><td bgcolor=3D"#eae9ea" height=3D"1" width=3D"100%" style=3D"line-heigh=
+t: 1px; font-size: 1px;"><img src=3D"http://email-media.s3.amazonaws.com/mi=
+sc/spacer.gif" alt=3D"" border=3D"0" width=3D"1" height=3D"1" /></td></tr>
+<tr><td height=3D"40" style=3D"line-height:1px;font-size:1px;" class=3D"hea=
+der_spc">&nbsp;</td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D"25" class=3D"header_side_columns">&nbsp;</td>
+</tr>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<!-- =3D=3D=3D=3D=3D=3D Article  =3D=3D=3D=3D=3D -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" class=3D"content_=
+width"align=3D"center" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<!-- image -->
+<table width=3D"245" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=
+=3D"content_width"align=3D"left">
+<tr><td align=3D"center" valign=3D"top" style=3D"padding-top:20px"><a href=
+=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VOyll8PoQU=
+E6j0WTA0c48"><img src=3D"http://media.sailthru.com/3cn/1jz/2/o/54eca273d270=
+d.jpg" width=3D"245" alt=3D"SYMLIS Sparrow: OTG flash drive & phone charger=
+" style=3D"display: block; border: none;" class=3D"article_img" /></a></td>=
+</tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+<!-- text -->
+<table width=3D"345" cellspacing=3D"0" cellpadding=3D"0" align=3D"right" bo=
+rder=3D"0" class=3D"article_textarea">
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-top:20px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td width=3D"25" class=3D"article_textarea_sides">&nbsp;</td>
+<td align=3D"left" valign=3D"top">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td align=3D"left"><a href=3D"http://link.indiegogo.com/54e88e277cfe319=
+c408b54842bh5i.bfy6/VOyll8PoQUE6j0WUAbe91" target=3D"_blank" style=3D"color=
+: #eb1e73; font-size: 24px; font-family: Arial, Helvetica, sans-serif; font=
+-weight:bold;text-decoration:none;" class=3D"article_title">SYMLIS Sparrow:=
+ OTG flash drive & phone charger</a></td></tr>
+<tr><td height=3D"5" style=3D"line-height:1px;font-size:1px;">&nbsp;</td></=
+tr>
+<tr>
+<td align=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif;color:#0=
+00001;font-size:18px;line-height:18px;" class=3D"article_category"><strong>=
+Technology</strong></span> <a href=3D"http://link.indiegogo.com/54e88e277cf=
+e319c408b54842bh5i.bfy6/VOyll8PoQUE6j0WVA1a47" target=3D"_blank" style=3D"f=
+ont-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:14px;text-=
+decoration:none;color:#eb1e73;"><em>Read more &#8594;</em></a></td></tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+</td>
+<td width=3D"25" class=3D"article_textarea_sides">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td height=3D"30" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- end Article -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<!-- =3D=3D=3D=3D=3D=3D Article  =3D=3D=3D=3D=3D -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" class=3D"content_=
+width"align=3D"center" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<!-- image -->
+<table width=3D"245" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=
+=3D"content_width"align=3D"left">
+<tr><td align=3D"center" valign=3D"top" style=3D"padding-top:20px"><a href=
+=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VOyll8PoQU=
+E6j0WWAf5e3"><img src=3D"http://media.sailthru.com/3cn/1jz/2/o/54eca2f57a87=
+5.jpg" width=3D"245" alt=3D"The Last Barn Dance - A Documentary Film" style=
+=3D"display: block; border: none;" class=3D"article_img" /></a></td></tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+<!-- text -->
+<table width=3D"345" cellspacing=3D"0" cellpadding=3D"0" align=3D"right" bo=
+rder=3D"0" class=3D"article_textarea">
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-top:20px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td width=3D"25" class=3D"article_textarea_sides">&nbsp;</td>
+<td align=3D"left" valign=3D"top">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td align=3D"left"><a href=3D"http://link.indiegogo.com/54e88e277cfe319=
+c408b54842bh5i.bfy6/VOyll8PoQUE6j0WXA1243" target=3D"_blank" style=3D"color=
+: #eb1e73; font-size: 24px; font-family: Arial, Helvetica, sans-serif; font=
+-weight:bold;text-decoration:none;" class=3D"article_title">The Last Barn D=
+ance - A Documentary Film</a></td></tr>
+<tr><td height=3D"5" style=3D"line-height:1px;font-size:1px;">&nbsp;</td></=
+tr>
+<tr><td align=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif;colo=
+r:#000001;font-size:18px;line-height:18px;" class=3D"article_category"><str=
+ong>Film</strong></span> <a href=3D"http://link.indiegogo.com/54e88e277cfe3=
+19c408b54842bh5i.bfy6/VOyll8PoQUE6j0WYA9461" target=3D"_blank" style=3D"fon=
+t-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:14px;text-de=
+coration:none;color:#eb1e73;"><em>Read more &#8594;</em></a></td></tr>
+</table>
+</td>
+<td width=3D"25" class=3D"article_textarea_sides">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td height=3D"30" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- end Article -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<!-- =3D=3D=3D=3D=3D=3D Article  =3D=3D=3D=3D=3D -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" class=3D"content_=
+width"align=3D"center" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<!-- image -->
+<table width=3D"245" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=
+=3D"content_width"align=3D"left">
+<tr><td align=3D"center" valign=3D"top" style=3D"padding-top:20px"><a href=
+=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VOyll8PoQU=
+E6j0WZA1161"><img src=3D"http://media.sailthru.com/3cn/1jz/2/o/54eca3eec525=
+f.jpg" width=3D"245" alt=3D"One Million Textbooks to Africa: A Documentary"=
+ style=3D"display: block; border: none;" class=3D"article_img" /></a></td><=
+/tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+<!-- text -->
+<table width=3D"345" cellspacing=3D"0" cellpadding=3D"0" align=3D"right" bo=
+rder=3D"0" class=3D"article_textarea">
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-top:20px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td width=3D"25" class=3D"article_textarea_sides">&nbsp;</td>
+<td align=3D"left" valign=3D"top">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td align=3D"left"><a href=3D"http://link.indiegogo.com/54e88e277cfe319=
+c408b54842bh5i.bfy6/VOyll8PoQUE6j0WaAd9b5" target=3D"_blank" style=3D"color=
+: #eb1e73; font-size: 24px; font-family: Arial, Helvetica, sans-serif; font=
+-weight:bold;text-decoration:none;" class=3D"article_title">One Million Tex=
+tbooks to Africa: A Documentary</a></td></tr>
+<tr><td height=3D"5" style=3D"line-height:1px;font-size:1px;">&nbsp;</td></=
+tr>
+<tr>
+<td align=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif;color:#0=
+00001;font-size:18px;line-height:18px;" class=3D"article_category"><strong>=
+Community</strong></span> <a href=3D"http://link.indiegogo.com/54e88e277cfe=
+319c408b54842bh5i.bfy6/VOyll8PoQUE6j0WbAd1d7" target=3D"_blank" style=3D"fo=
+nt-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:14px;text-d=
+ecoration:none;color:#eb1e73;"><em>Read more &#8594;</em></a></td></tr>
+</table>
+</td>
+<td width=3D"25" class=3D"article_textarea_sides">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td height=3D"30" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- end Article -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<!-- =3D=3D=3D=3D=3D=3D Article  =3D=3D=3D=3D=3D -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" class=3D"content_=
+width"align=3D"center" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<!-- image -->
+<table width=3D"245" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=
+=3D"content_width"align=3D"left">
+<tr><td align=3D"center" valign=3D"top" style=3D"padding-top:20px"><a href=
+=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VOyll8PoQU=
+E6j0WcA3065"><img src=3D"http://media.sailthru.com/3cn/1jz/2/o/54eca49bd289=
+b.jpg" width=3D"245" alt=3D"A Global Forum for Millennials" style=3D"displa=
+y: block; border: none;" class=3D"article_img" /></a></td></tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+<!-- text -->
+<table width=3D"345" cellspacing=3D"0" cellpadding=3D"0" align=3D"right" bo=
+rder=3D"0" class=3D"article_textarea">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td width=3D"25" class=3D"article_textarea_sides">&nbsp;</td>
+<td align=3D"left" valign=3D"top" style=3D"padding-top:20px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr><td align=3D"left"><a href=3D"http://link.indiegogo.com/54e88e277cfe319=
+c408b54842bh5i.bfy6/VOyll8PoQUE6j0WdA0ecf" target=3D"_blank" style=3D"color=
+: #eb1e73; font-size: 24px; font-family: Arial, Helvetica, sans-serif; font=
+-weight:bold;text-decoration:none;" class=3D"article_title">A Global Forum =
+for Millennials</a></td></tr>
+<tr><td height=3D"5" style=3D"line-height:1px;font-size:1px;">&nbsp;</td></=
+tr>
+<tr><td align=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif;colo=
+r:#000001;font-size:18px;line-height:18px;" class=3D"article_category"><str=
+ong>Education</strong></span> <a href=3D"http://link.indiegogo.com/54e88e27=
+7cfe319c408b54842bh5i.bfy6/VOyll8PoQUE6j0WeAd74a" target=3D"_blank" style=
+=3D"font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:14px;=
+text-decoration:none;color:#eb1e73;"><em>Read more &#8594;</em></a></td></t=
+r>
+</table>
+</td>
+<td width=3D"25" class=3D"article_textarea_sides">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td height=3D"30" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- end Article -->
+<!-- =3D=3D=3D=3D=3D BLOG =3D=3D=3D=3D=3D=3D -->
+<!-- header -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#eae9ea" style=3D"border-collapse: collapse;">
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+<tr><td align=3D"center" valign=3D"middle" class=3D"app_headline" style=3D"=
+border-collapse: collapse;color: #000001; font-family: Arial, sans-serif; f=
+ont-size: 36px;font-weight:bold;">From the Indiegogo Blog <span style=3D"co=
+lor:#eb1e73;display:inline-block;"><a href=3D"http://link.indiegogo.com/54e=
+88e277cfe319c408b54842bh5i.bfy6/VOyll8PoQUE6j0WfA7da2" style=3D"font-family=
+: Arial, Helvetica, sans-serif;color: #eb1e73; text-decoration: none;">A Lo=
+ve Letter To My Hometown, Chicago</a></span></td></tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" class=3D"content_=
+width"align=3D"center" bgcolor=3D"#eae9ea">
+<tr>
+<td>
+<table width=3D"30%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=
+=3D"content_width"align=3D"left">
+<tr><td align=3D"center" valign=3D"top"><a href=3D"http://link.indiegogo.co=
+m/54e88e277cfe319c408b54842bh5i.bfy6/VOyll8PoQUE6j0WgAdf6c"><img src=3D"htt=
+p://media.sailthru.com/3cn/1jz/2/o/54eca4fc25090.jpg" width=3D"189"  alt=3D=
+"A Love Letter To My Hometown, Chicago" style=3D"display: block; border: no=
+ne;" /></a></td></tr>
+<tr><td height=3D"0" style=3D"line-height:1px;font-size:1px;" class=3D"blog=
+_below_img">&nbsp;</td></tr>
+</table>
+<!-- text -->
+<table width=3D"64%" cellspacing=3D"0" cellpadding=3D"0" align=3D"right" bo=
+rder=3D"0" class=3D"content_width">
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td style=3D"font-size: 14px; color: #000001; font-family: Arial, Helve=
+tica, sans-serif; line-height: 26px; font-weight:normal;text-align:left; pa=
+dding-right:10px;" class=3D"app_text">Chicago, I love you for so many reaso=
+ns. You=E2=80=99re a city second to none. I even love your cold winters, be=
+cause they inspire grit and perseverance in the people lucky enough to call=
+ you home. After two years leading Indiegogo=E2=80=99s Design, Tech and Har=
+dware team, last month I moved home to Chicago from San Francisco because I=
+ wanted to make a more direct impact on my local community.</td></tr>
+<tr><td height=3D"15" style=3D"line-height:15px; font-size:1px;">&nbsp;</td=
+></tr>
+<tr><td style=3D"padding-right:10px;"><a href=3D"http://link.indiegogo.com/=
+54e88e277cfe319c408b54842bh5i.bfy6/VOyll8PoQUE6j0WhA2721" style=3D"font-fam=
+ily: Arial, Helvetica, sans-serif;font-size: 14px;color: #eb1e73; text-deco=
+ration: none; font-style: italic;">Read more &#8594;</a></td></tr>
+</table>
+</td>
+<td width=3D"20" class=3D"hide">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td height=3D"50" style=3D"line-height:1px;font-size:1px;" class=3D"app=
+_spc_below">&nbsp;</td></tr>
+</table>
+<!-- =3D=3D=3D=3D=3D START A CAMPAIGN =3D=3D=3D=3D=3D -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#ffffff" style=3D"border-collapse: collapse;" align=3D"center">
+<tr><td height=3D"50" style=3D"line-height:1px;font-size:1px;" class=3D"cam=
+paign_spc_above">&nbsp;</td></tr>
+<tr><td align=3D"center" style=3D"font-family:Arial,Helvetica,sans-serif;co=
+lor:#000001;font-size:18px;line-height:18px;">Explore what&#39;s on Indiego=
+go</td></tr>
+<tr><td height=3D"40" style=3D"line-height:1px;font-size:1px;" class=3D"cam=
+paign_spc_betw">&nbsp;</td></tr>
+<tr>
+<td>
+<table width=3D"380" height=3D"80" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0" align=3D"center" valign=3D"middle" class=3D"button_shrink">
+<tr>
+<td>
+<div><!--[if mso]>
+<v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-mi=
+crosoft-com:office:word" href=3D"http://indiegogo.com/explore" style=3D"hei=
+ght:80px;v-text-anchor:middle;width:380px;" stroke=3D"f" fillcolor=3D"#eb14=
+78">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a href=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VOy=
+ll8PoQUE6j0WiA152a" style=3D"background-color:#eb1478;color:#ffffff;display=
+:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:22px;font-we=
+ight:bold;line-height:80px;text-align:center;text-decoration:none;width:380=
+px;-webkit-text-size-adjust:none;" class=3D"button_shrink">Explore Campaign=
+s</a>
+<!--[if mso]>
+</center>
+</v:rect>
+<![endif]-->
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td height=3D"50" style=3D"line-height:1px;font-size:1px;" class=3D"cam=
+paign_spc_below">&nbsp;</td></tr>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<!-- =3D=3D=3D=3D=3D FOOTER =3D=3D=3D=3D=3D=3D -->
+<!-- mobile image -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" clas=
+s=3D"article" style=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"left" class=3D"article" style=3D"border-collapse: collapse; pa=
+dding-bottom: 10px;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" class=3D"hero" style=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"center" class=3D"hero" style=3D"border-collapse: collapse;"><a=
+ href=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/U7R4s=
+-YQIaE2fjubAcc77"><img src=3D"http://media.sailthru.com/3cn/1jy/7/v/53dae9a=
+86cb0b.jpg" width=3D"600" height=3D"" alt=3D"The Indiegogo App for iPhone" =
+style=3D"display: block; border: none;" /></a></td>
+</tr>
+</table>
+<!-- igg life image -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" clas=
+s=3D"article" style=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"left" class=3D"article" style=3D"border-collapse: collapse; pa=
+dding-bottom: 10px;"><table width=3D"100%" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" class=3D"hero" style=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"center" class=3D"hero" style=3D"border-collapse: collapse;"><a=
+ href=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VI-NH=
+0mOovTe4elJB3d44"><img src=3D"http://media.sailthru.com/3cn/1jy/c/f/548f816=
+2591d3.jpg" width=3D"600" height=3D"" alt=3D"Indiegogo Life" style=3D"displ=
+ay: block; border: none;" /></a></td>
+</tr>
+</table>
+<!-- Explore Indiegogo -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;" bgcolor=3D"#EAE9EA" >
+<tr><td height=3D"10" style=3D"line-height:1px;font-size:1px;" class=3D"spc=
+_betw_sections">&nbsp;</td></tr>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#ffffff" style=3D"border-collapse: collapse;" align=3D"center">
+<tr><td height=3D"50" style=3D"line-height:1px;font-size:1px;" class=3D"cam=
+paign_spc_above">&nbsp;</td></tr>
+<tr><td align=3D"center" style=3D"font-family:Arial,Helvetica,sans-serif;co=
+lor:#000001;font-size:18px;line-height:18px;">Inspired? Learn about startin=
+g your own campaign.</td></tr>
+<tr><td height=3D"40" style=3D"line-height:1px;font-size:1px;" class=3D"cam=
+paign_spc_betw">&nbsp;</td></tr>
+<tr>
+<td>
+<table width=3D"380" height=3D"80" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0" align=3D"center" valign=3D"middle" class=3D"button_shrink">
+<tr>
+<td align=3D"center">
+<div><!--[if mso]>
+<v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-mi=
+crosoft-com:office:word" href=3D"http://landing.indiegogo.com/iggfieldguide=
+" style=3D"height:80px;v-text-anchor:middle;width:380px;" stroke=3D"f" fill=
+color=3D"#eb1478">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a href=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/VOy=
+ll8PoQUE6j0WjA0f9e" style=3D"background-color:#eb1478;color:#ffffff;display=
+:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:22px;font-we=
+ight:bold;line-height:80px;text-align:center;text-decoration:none;width:380=
+px;-webkit-text-size-adjust:none;" class=3D"button_shrink">Indiegogo Field =
+Guide</a>
+<!--[if mso]>
+</center>
+</v:rect>
+<![endif]-->
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td height=3D"50" style=3D"line-height:1px;font-size:1px;" class=3D"cam=
+paign_spc_below">&nbsp;</td></tr>
+</table>
+<!-- email & copyright -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" class=3D"content_=
+width"align=3D"center" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<table width=3D"40%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=
+=3D"content_width"align=3D"left">
+<tr><td style=3D"text-align:right;" class=3D"footer_expand"><a href=3D"http=
+://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/U30pJMPoEZqE-uWnB5=
+20e" style=3D"color:#000001; font-family:Arial,Helvetica,sans-serif; font-s=
+ize:14px; line-height:22px;text-decoration:none;">contact us</a></td></tr>
+<tr><td height=3D"25" style=3D"line-height:1px;font-size:1px;" class=3D"hid=
+e">&nbsp;</td></tr>
+</table>
+<table width=3D"55%" cellspacing=3D"0" cellpadding=3D"0" align=3D"right" bo=
+rder=3D"0" class=3D"content_width">
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td class=3D"footer_expand" style=3D"color: #000001; font-size: 14px; l=
+ine-height:22px; font-family: Arial, Helvetica, sans-serif;">&copy; 2015 In=
+diegogo, All rights reserved</td></tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"25">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"5" bgcolor=3D"#eae9ea" style=3D"line-height:5px; font-size:0p=
+x;"><img src=3D"http://email-media.s3.amazonaws.com/misc/spacer.gif" alt=3D=
+"" border=3D"0" width=3D"1" height=3D"1" /></td>
+</tr>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;">
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+<tr>
+<td align=3D"center" style=3D"border-collapse: collapse;">
+<!-- social -->
+<table width=3D"185" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=
+=3D"border-collapse: collapse;">
+<tr>
+<td align=3D"right" width=3D"25" style=3D"border-collapse: collapse;"><a hr=
+ef=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/U0wCb8Po=
+2_uiaPXgCea8b" style=3D"color: #000001;"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/facebook.png" width=3D"25" style=3D"display:=
+ block; border: none;" /></a></td>
+<td align=3D"right" width=3D"40" style=3D"border-collapse: collapse;"><a hr=
+ef=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/U0wCb8Po=
+2_uiaPXhC3d58" style=3D"color: #000001;"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/twitter.png" width=3D"25" style=3D"display: =
+block; border: none;" /></a></td>
+<td align=3D"right" width=3D"40" style=3D"border-collapse: collapse;"><a hr=
+ef=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/U0wCb8Po=
+2_uiaPXkC5a9b" style=3D"color: #000001;"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/gplus.png" width=3D"25" style=3D"display: bl=
+ock; border: none;" /></a></td>
+<td align=3D"right" width=3D"40" style=3D"border-collapse: collapse;"><a hr=
+ef=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/U0wCb8Po=
+2_uiaPXjCbced" style=3D"color: #000001;"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/rss.png" width=3D"25" style=3D"display: bloc=
+k; border: none;" /></a></td>
+<td align=3D"right" width=3D"40" style=3D"border-collapse: collapse;"><a hr=
+ef=3D"http://link.indiegogo.com/54e88e277cfe319c408b54842bh5i.bfy6/U30pJMPo=
+EZqE-uWnC6215" style=3D"color: #000001;"><img src=3D"http://email-media.s3.=
+amazonaws.com/indiegogo/assets/mail.png" width=3D"25" style=3D"display: blo=
+ck; border: none;" /></a></td>
+</tr>
+</table>
+<!-- footer text -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" styl=
+e=3D"border-collapse: collapse;">
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+<tr>
+<td align=3D"center" style=3D"font-size: 13px; font-family: Arial, sans-ser=
+if; color: #000001;line-height:28px;" class=3D"footer_text">This email was =
+sent to <span style=3D"color: #000001;text-decoration:underline;">dinsmorea=
+lex@gmail.com</span>.<br />
+<a href=3D"http://link.indiegogo.com/oc/54e88e277cfe319c408b54842bh5i.bfy6/=
+556595eb" style=3D"color: #000001;display:inline-block;">unsubscribe from t=
+his list</a><br />
+Indiegogo &bull; <span class=3D"applelinks">965 Mission Street, 6th Floor &=
+bull; San Francisco, CA 94103 &bull; USA</td>
+</tr>
+<tr><td height=3D"20" style=3D"line-height:1px;font-size:1px;">&nbsp;</td><=
+/tr>
+<tr><td align=3D"left" valign=3D"top"><img src=3D"http://link.indiegogo.com=
+/img/54e88e277cfe319c408b54842bh5i.bfy6/d258800a.gif" width=3D"1" height=3D=
+"1" border=3D"0" style=3D"display:block;" alt=3D""/></td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- end Contents -->
+</td>
+</tr>
+</table><!-- End of Container table -->
+</td>
+</tr>
+</table><!-- End of Background table -->
+</body>
+</html>
+------=_Part_4123667_1782595502.1424798110959--
+

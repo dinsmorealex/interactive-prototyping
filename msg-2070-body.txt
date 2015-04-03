@@ -1,0 +1,136 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.194.33.131 with SMTP id r3csp87367wji;
+        Mon, 8 Oct 2012 14:00:16 -0700 (PDT)
+Received: by 10.236.137.104 with SMTP id x68mr13390071yhi.65.1349730015730;
+        Mon, 08 Oct 2012 14:00:15 -0700 (PDT)
+Return-Path: <noreply-daa26fef@plus.google.com>
+Received: from mail-gh0-f197.google.com (mail-gh0-f197.google.com [209.85.160.197])
+        by mx.google.com with ESMTPS id f45si12794301yhg.129.2012.10.08.14.00.15
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 08 Oct 2012 14:00:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply-daa26fef@plus.google.com designates 209.85.160.197 as permitted sender) client-ip=209.85.160.197;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of noreply-daa26fef@plus.google.com designates 209.85.160.197 as permitted sender) smtp.mail=noreply-daa26fef@plus.google.com; dkim=pass header.i=@plus.google.com
+Received: by mail-gh0-f197.google.com with SMTP id f16so9912258ghb.4
+        for <dinsmorealex@gmail.com>; Mon, 08 Oct 2012 14:00:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=plus.google.com; s=20120806;
+        h=mime-version:x-notifications:x-ub:x-all-senders-in-circles:date
+         :message-id:subject:from:to:content-type;
+        bh=NkLs+LVZpCH/dm02NxTJiX0lT56TZERxqoB6G/Mg26s=;
+        b=tNpb3zpoh0LJqHsshZ+C5QTKSfVDfGcvKXf5N7lZphLkJS6BYcvtxXf6Bi7MyqeBYy
+         2QIqzo+hOOkVIAbCCLk1M+FMyrO7//7IWVG/SCNjMGMcuAI8iFmvYuDG6lAZ2HhdHQlL
+         j7CVFQc82M7MXADod/72sLpcphAdhtbtfK7vgShiCauhvAhGHysfylBIegbgPH0w2dCL
+         xTpu0otwBulLNgw9tIBzdMBwBlKGD2rEcPeBB5p1ePQSTG4H280j1MVBlfvMblScNkVX
+         nM1Z5PNZOE/v6G/E8DYB5f+4rwK7PsatQXaPQxhQ8EGz6Tn9xlIRMgjigFCHOI4No4S/
+         mCQg==
+MIME-Version: 1.0
+Received: by 10.58.200.167 with SMTP id jt7mr4136407vec.16.1349730015200; Mon,
+ 08 Oct 2012 14:00:15 -0700 (PDT)
+X-Notifications: XEAAAAHOmyp1S3UXp4GSF_zpRgKs
+X-UB: 54
+X-All-Senders-In-Circles: 1
+Date: Mon, 08 Oct 2012 14:00:15 -0700 (PDT)
+Message-ID: <CICM45Co8rICFQ2Z5QodukYAAA@plus.google.com>
+Subject: YouTube gets better with Google+
+From: "Google+ team" <noreply-daa26fef@plus.google.com>
+To: dinsmorealex@gmail.com
+Content-Type: multipart/alternative; boundary=047d7bdc14f41944b804cb928252
+
+--047d7bdc14f41944b804cb928252
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+WW91VHViZSBpcyBtb3JlIGZ1biB3aXRoIGZyaWVuZHMNCg0KSGkgQWxleCwNCllvdXIgbmV3IEdv
+b2dsZSsgcHJvZmlsZSBicmluZ3MgdGhlIGJlc3Qgb2YgR29vZ2xlKyB0byBZb3VUdWJlLiBGaW5k
+IHZpZGVvcyAgDQp0aGF0IHlvdXIgZnJpZW5kcyBhbmQgZmF2b3JpdGUgY2VsZWJyaXRpZXMgcG9z
+dCB0b0dvb2dsZSsgYW5kIHRvIFlvdVR1YmUsICANCmJ5IGFkZGluZyB0aGVtIHRvIHlvdXIgY2ly
+Y2xlczoNCmh0dHBzOi8vcGx1cy5nb29nbGUuY29tL18vbm90aWZpY2F0aW9ucy9lbWxpbms/ZW1y
+ZWNpcGllbnQ9MTE0MTYwODExMzUyMzkwOTA2OTYwJmVtaWQ9Q0lDTTQ1Q284cklDRlEyWjVRb2R1
+a1lBQUEmcGF0aD0lMkZnZXRzdGFydGVkJTNGZ3BzcmMlM0R5dGYzMCZkdD0xMzQ5NzMwMDE1MTc4
+JnViPTU0DQoNCllvdXIgWW91VHViZSBjaGFubmVsDQpZb3UgY2FuIGVhc2lseSBtYW5hZ2UgYSBz
+aW5nbGUgR29vZ2xlLXdpZGUgaWRlbnRpdHkgYnkgdXNpbmcgeW91ciBmdWxsIG5hbWUgIA0KYW5k
+IHBob3RvIGZyb20geW91ciBHb29nbGUrIHByb2ZpbGUgb24geW91ciBZb3VUdWJlIGNoYW5uZWwu
+IE5vdyB5b3VyICANCmZyaWVuZHMgY2FuIGVhc2lseSBmaW5kIHlvdSBvbiBZb3VUdWJlIGJ5IGxv
+b2tpbmcgZm9yIHlvdXIgbmFtZSBmcm9tIHlvdXIgIA0KR29vZ2xlKyBwcm9maWxlLg0KDQpGb2xs
+b3cgZnJpZW5kcyBhbmQgaW50ZXJlc3RzDQpZb3UnbGwgZmluZCBmcmllbmRzIGFuZCBzb21lIG9m
+IHRoZSB3b3JsZCdzIG1vc3QgY3JlYXRpdmUgbWluZHMgb24gR29vZ2xlKywgIA0Kc2hhcmluZyB0
+aGVpciBvcGluaW9ucywgbmV3IHNob3dzLCBhbmQgZmF2b3JpdGUgdmlyYWwgdmlkZW9zLiBBZGQg
+cGVvcGxlICANCmFuZCBpbnRlcmVzdHMgdG8geW91ciBjaXJjbGVzIHRvIGpvaW4gdGhlIGZ1bjoN
+Cmh0dHBzOi8vcGx1cy5nb29nbGUuY29tL18vbm90aWZpY2F0aW9ucy9lbWxpbms/ZW1yZWNpcGll
+bnQ9MTE0MTYwODExMzUyMzkwOTA2OTYwJmVtaWQ9Q0lDTTQ1Q284cklDRlEyWjVRb2R1a1lBQUEm
+cGF0aD0lMkZnZXRzdGFydGVkJTNGZ3BzcmMlM0R5dGYzMCZkdD0xMzQ5NzMwMDE1MTc4JnViPTU0
+DQoNClNoYXJlIHdpdGggdGhlIHJpZ2h0IHBlb3BsZQ0KVXNlIEdvb2dsZSsgY2lyY2xlcyB0byBx
+dWlja2x5IGFuZCBlYXNpbHkgc2hhcmUgWW91VHViZSB2aWRlb3Mgb25seSB3aXRoICANCmZyaWVu
+ZHMgd2hvJ2xsIGFwcHJlY2lhdGUgdGhlbS4NCg0KSGF2ZSBhIFlvdVR1YmUgcGFydHkgd2l0aCBH
+b29nbGUrIEhhbmdvdXRzDQpJbnZpdGUgdXAgdG8gOSBmcmllbmRzIHRvIGEgZnJlZSB2aWRlbyBj
+aGF0IGFueXRpbWUsIGFueXdoZXJlLCBhbmQgd2F0Y2ggYSAgDQpZb3VUdWJlIHZpZGVvIHRvZ2V0
+aGVyLiBMZWFybiBtb3JlOg0KaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9pbnRsL2VuX1VTLysvbGVh
+cm5tb3JlL2hhbmdvdXRzDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KQ2xpY2sgaGVyZSB0
+byB1bnN1YnNjcmliZSBmcm9tIHRoZXNlIGVtYWlsczogIA0KaHR0cHM6Ly9wbHVzLmdvb2dsZS5j
+b20vXy9ub3RpZmljYXRpb25zL2VtbGluaz9lbXJlY2lwaWVudD0xMTQxNjA4MTEzNTIzOTA5MDY5
+NjAmZW1pZD1DSUNNNDVDbzhySUNGUTJaNVFvZHVrWUFBQSZwYXRoPSUyRl8lMkZub25wbHVzJTJG
+ZW1haWxzZXR0aW5ncyUzRmVzdCUzREFESDV1OFZ6SFRJY3lndklHV09qTkxnYjJ1T01kSktIRUNh
+am55ZS1VcW80WTBLZHFmc3FfV1dfM052V3o0RjRMN08ydkpkd3JVQ1lBWE9nNVc3ZFdXNEhZV2NU
+RVN0clY3bEtTQjlSMENSXzF4WEpLNFZ6LWlTMXNidVRleHZRaTlIYUZsRGw5Uy15JmR0PTEzNDk3
+MzAwMTUxNzgmdWI9NTQNCg==
+--047d7bdc14f41944b804cb928252
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body style=3D"color:#666;font:13px Arial;line-height:1.4em;"><div st=
+yle=3D"max-width:700px;"><table cellspacing=3D0 cellpadding=3D0 style=3D"co=
+lor:#666;font:13px Arial;line-height:1.4em;border:solid 1px #dfdfdf; width:=
+100%;background-color:#f2f2f2"><tr><td style=3D"padding:15px 20px"><div sty=
+le=3D"color:#d44b38;font-size:20px;">YouTube is more fun with friends</div>=
+</td></tr></table><div style=3D"padding:0;border-left:solid 1px #dfdfdf; bo=
+rder-right:solid 1px #dfdfdf"><div style=3D"padding:20px"><div style=3D"fon=
+t-weight:bold;font-size:14px">Hi Alex,</div><div>Your new Google+ profile b=
+rings the best of Google+ to YouTube. Find videos that your friends and fav=
+orite celebrities post to Google+ and to YouTube, by adding them to your ci=
+rcles. <a href=3D"https://plus.google.com/_/notifications/emlink?emrecipien=
+t=3D114160811352390906960&emid=3DCICM45Co8rICFQ2Z5QodukYAAA&path=3D%2Fgetst=
+arted%3Fgpsrc%3Dytf30&dt=3D1349730015178&ub=3D54" style=3D"color:#3366CC;te=
+xt-decoration:none">Find people &raquo;</a></div></div><div style=3D"paddin=
+g: 20px"><table cellspacing=3D0 cellpadding=3D0 style=3D"color:#666;font:13=
+px Arial;line-height:1.4em;width:100%;"><tr style=3D"vertical-align:top"><t=
+d><img src=3Dhttps://ssl.gstatic.com/s2/oz/intl/en_US/images/yt-channel-17c=
+73fb0c9bb4f4a8d8ebfc9a50b3090.png style=3D"margin-right:10px;margin-bottom:=
+20px; width:320px;"/></td><td><div style=3D"font-weight:bold;">Your YouTube=
+ channel</div><div>You can easily manage a single Google-wide identity by u=
+sing your full name and photo from your Google+ profile on your YouTube cha=
+nnel. Now your friends can easily find you on YouTube by looking for your n=
+ame from your Google+ profile.</div></td></tr><tr style=3D"vertical-align:t=
+op"><td><img src=3Dhttps://ssl.gstatic.com/s2/oz/intl/en_US/images/yt-see-f=
+riends-ab6c74bcdbcfc262deb5b919b6161879.png style=3D"margin-right:10px;marg=
+in-bottom:20px; width:320px;"/></td><td><div style=3D"font-weight:bold;">Fo=
+llow friends and interests</div><div>You'll find friends and some of the wo=
+rld's most creative minds on Google+, sharing their opinions, new shows, an=
+d favorite viral videos. Add people and interests to your circles to <a hre=
+f=3D"https://plus.google.com/_/notifications/emlink?emrecipient=3D114160811=
+352390906960&emid=3DCICM45Co8rICFQ2Z5QodukYAAA&path=3D%2Fgetstarted%3Fgpsrc=
+%3Dytf30&dt=3D1349730015178&ub=3D54" style=3D"color:#3366CC;text-decoration=
+:none">join the fun.</a></div></td></tr><tr style=3D"vertical-align:top"><t=
+d><img src=3Dhttps://ssl.gstatic.com/s2/oz/intl/en_US/images/yt-share-ba88c=
+7e4c363fea27d1ed6dba58f15b3.png style=3D"margin-right:10px;margin-bottom:20=
+px; width:320px;"/></td><td><div style=3D"font-weight:bold;">Share with the=
+ right people</div><div>Use Google+ circles to quickly and easily share You=
+Tube videos only with friends who'll appreciate them.</div></td></tr></tabl=
+e></div><div style=3D"background-color:#f2f2f2"><div style=3D"padding: 20px=
+"><table cellspacing=3D0 cellpadding=3D0 style=3D"color:#666;font:13px Aria=
+l;line-height:1.4em;width:100%;"><tr><td><div style=3D"color:#d44b38;font-s=
+ize:18px;">Have a YouTube party with Google+ Hangouts</div></td></tr></tabl=
+e><table cellspacing=3D0 cellpadding=3D0 style=3D"color:#666;font:13px Aria=
+l;line-height:1.4em; padding-top:10px;width:60%;"><tr><td style=3D"width:52=
+0px">Invite up to 9 friends to a free video chat anytime, anywhere, and wat=
+ch a YouTube video together. <a href=3D"https://www.google.com/intl/en_US/+=
+/learnmore/hangouts" style=3D"color:#3366CC;text-decoration:none">Learn mor=
+e &raquo;</a></td></tr></table></div></div><img src=3D"https://ssl.gstatic.=
+com/s2/oz/intl/en_US/images/yt-hangout-2baae7f6cefb32f3a830013775c1e943.png=
+" style=3D"border:solid 5px #dfdfdf;margin-right:10px; margin-bottom:20px;w=
+idth:689px;"/></div><div style=3D"padding:0;border-top:solid 1px #dfdfdf"><=
+div style=3D"color:#636363;font:11px Arial;padding:10px 0;"><a href=3D"http=
+s://plus.google.com/_/notifications/emlink?emrecipient=3D114160811352390906=
+960&emid=3DCICM45Co8rICFQ2Z5QodukYAAA&path=3D%2Fsettings%2Fplus&dt=3D134973=
+0015178&ub=3D54" style=3D"color:#3366CC;text-decoration:none">Change</a> wh=
+at email Google+ sends you.</div></div></div></body></html>
+--047d7bdc14f41944b804cb928252--

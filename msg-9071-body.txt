@@ -1,0 +1,374 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.29.1 with SMTP id f1csp326148ldh;
+        Wed, 4 Feb 2015 00:01:28 -0800 (PST)
+X-Received: by 10.107.134.170 with SMTP id q42mr11974369ioi.41.1423036887330;
+        Wed, 04 Feb 2015 00:01:27 -0800 (PST)
+Return-Path: <402-YSS-156.0.6678.0.0.7101.7.43242119@em-sj-77.mktomail.com>
+Received: from em-sj-81.mktomail.com (em-sj-81.mktomail.com. [199.15.215.81])
+        by mx.google.com with ESMTP id h70si739195ioe.6.2015.02.04.00.01.26
+        for <dinsmorealex@gmail.com>;
+        Wed, 04 Feb 2015 00:01:27 -0800 (PST)
+Received-SPF: pass (google.com: domain of 402-YSS-156.0.6678.0.0.7101.7.43242119@em-sj-77.mktomail.com designates 199.15.215.81 as permitted sender) client-ip=199.15.215.81;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 402-YSS-156.0.6678.0.0.7101.7.43242119@em-sj-77.mktomail.com designates 199.15.215.81 as permitted sender) smtp.mail=402-YSS-156.0.6678.0.0.7101.7.43242119@em-sj-77.mktomail.com;
+       dkim=pass header.i=@unity3d.com
+Return-Path: <welcome@unity3d.com>
+X-MSFBL: ZGluc21vcmVhbGV4QGdtYWlsLmNvbUBkdnAtMTk5LTE1LTIxNS04MUBiZy1zai0w
+	MUA0MDItWVNTLTE1Njo3NDkwOjY2Nzg6MjIyODc6MDo3MTAxOjc6NDMyNDIxMTk=
+Received: from [10.0.8.1] ([10.0.8.1:57765] helo=sjmas01.marketo.org)
+	by sjmta05.marketo.org (envelope-from <welcome@unity3d.com>)
+	(ecelerity 3.6.4.44580 r(Platform:3.6.4.1)) with ESMTP
+	id 76/22-31557-1D1D1D45; Wed, 04 Feb 2015 02:01:21 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1423036881;
+	s=m1; d=unity3d.com; i=@unity3d.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=jX7lT64Wo/Tby5LnFAcDcb1TnV+gJxYPB9fV2FV0KCk=;
+	b=IJ1TnwOoP9C2o6/gRU7TJKmquw+9nGrTq1wIHY6QwZAHkMEPvf3Pls+wCcjyepuQ
+	s5jbuTsPrgb7HlxSiUcPOwl98um0IPlIEE7c72m2iOcHNAlkuIyL4x0Z2M5PHDXu1qE
+	7+UnGDyc0DrgyaX01fYeB0pK+LxNMaAgEFYjezCA=
+Date: Wed, 4 Feb 2015 02:01:21 -0600 (CST)
+From: Unity Technologies <welcome@unity3d.com>
+Reply-To: noreply@unity3d.com
+To: dinsmorealex@gmail.com
+Message-ID: <1603614807.-2011432534.1423036881662.JavaMail.root@sjmas01.marketo.org>
+Subject: =?UTF-8?Q?Let=C2=B4s_get_to_work?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-2011432535_523709859.1423036881662"
+X-PVIQ: 000326-001313-000001-000000-011927
+X-Binding: bg-sj-01
+X-MarketoID: 402-YSS-156:7490:6678:22287:0:7101:7:43242119
+X-Mailfrom: 402-YSS-156.0.6678.0.0.7101.7.43242119@em-sj-77.mktomail.com
+X-MktMailDKIM: true
+
+------=_Part_-2011432535_523709859.1423036881662
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+View this email in your browser <http://info.unity3d.com/index.php/email/em=
+ailWebview?mkt_tok=3D3RkMMJWWfF9wsRogvavBZKXonjHpfsX86O4pW6a3i4kz2EFye%2BLI=
+HETpodcMS8NiNK%2BTFAwTG5toziV8R7TFLs15ycYQWhTk>
+Hi Alex,
+Congratulations on downloading the Unity engine. You=E2=80=99ve just taken =
+your first step towards making fully multiplatform games and other interact=
+ive content fast!
+=20
+
+
+Let=C2=B4s get started ...
+A multitude of tutorials are available from the Unity Learn site. Use them =
+to get up to speed quickly with fundamental Unity concepts and workflows. I=
+f you=E2=80=99re completely new to Unity, why not start out making a simple=
+ Roll-a-Ball game <http://unity3d.com/learn/tutorials/projects/roll-a-ball/=
+introduction?utm_source=3Dmarketo&utm_medium=3Demail&utm_campaign=3Dunity_d=
+rip_tmp_2014_12>.
+
+
+
+Give and get
+
+The Unity community brings together a vibrant gang of helpful and committed=
+ developers eager to share and learn. If you want feedback on your project,=
+ or need help and advice, just reach out.
+Post specific questions to Unity Answers <http://answers.unity3d.com?utm_so=
+urce=3Dmarketo&utm_medium=3Demail&utm_campaign=3Dunity_drip_tmp_2014_12>
+ Discuss all things Unity on the forums <http://forum.unity3d.com?utm_sourc=
+e=3Dmarketo&utm_medium=3Demail&utm_campaign=3Dunity_drip_tmp_2014_12>
+ Find your local Unity User Group <http://unity3d.com/community/user-groups=
+?utm_source=3Dmarketo&utm_medium=3Demail&utm_campaign=3Dunity_drip_tmp_2014=
+_12>
+
+Source content
+
+To tailor the Unity editor to your specific needs, check out the fantastic =
+variety of free and paid-for editor extensions available from Unity=E2=80=
+=99s Asset Store. The Asset Store is also the place to get ready made asset=
+s for editor prototyping or game projects. Check out these free 3D model pa=
+ckages <https://www.assetstore.unity3d.com/en/#!/category/0/page/1/sortby/p=
+rice?utm_source=3Dmarketo&utm_medium=3Demail&utm_campaign=3Dunity_drip_tmp_=
+2014_12>
+
+Stay up to date
+
+The Unity engine is constantly evolving. To keep up to speed on new and upc=
+oming features, don=E2=80=99t forget to signup for the Unity newsletter <ht=
+tp://unity3d.com/newsletters/manage?utm_source=3Dmarketo&utm_medium=3Demail=
+&utm_campaign=3Dunity_drip_tmp_2014_12>.
+Keep creating!
+
+The Unity Team
+Forward to a friend <http://news.unity3d.com/v/hox7OVS00Y000rGcC210SGf> | M=
+anage your Unity e-mail preferences <http://unity3d.com/newsletters/manage>=
+ | or unsubscribe <http://unity3d.com/newsletters/unsubscribe/all?mkt_unsub=
+scribe=3D1&mkt_tok=3D3RkMMJWWfF9wsRogvavBZKXonjHpfsX86O4pW6a3i4kz2EFye%2BLI=
+HETpodcMS8NiNK%2BTFAwTG5toziV8R7TFLs15ycYQWhTk> from all emails
+
+
+------=_Part_-2011432535_523709859.1423036881662
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><!=
+-- Facebook sharing information tags -->
+<meta property=3D"og:title" content=3D"Unity">
+<title>Unity</title>
+
+<style type=3D"text/css">
+                        body {margin:0; padding:0;}
+                        img {border:0; height:auto; line-height:100%; outli=
+ne:none; text-decoration:none; display:block;}
+                        table td {border-collapse:collapse;}
+</style>
+<!-- replace with max-device-width -->
+
+<style type=3D"text/css">
+                        @media only screen and (max-width: 480px) {
+                             table[class=3D"table"], td[class=3D"cell"] {
+                                  width: 300px !important;
+                             }
+                             table[class=3D"table-box"] {
+                                  width: 260px !important;
+                             }
+                             td[class=3D"half-cell"] {
+                                  width: 150px !important;
+                             }
+                                img[id=3D"logo"] {
+                                        width: 85px !important;
+                                        height: 47px !important;
+                                }
+                                img[id=3D"logo-asset-store"] {
+                                        width: 106px !important;
+                                        height: 47px !important;
+                                }
+                                img[class=3D"img-header"] {
+                                        width: 260px !important;
+                                        height: 115px !important;
+                                }
+                                img[class=3D"img-large"] {
+                                        width: 260px !important;
+                                        height: 83px !important;
+                                }
+                                img[class=3D"img-large-alt"] {
+                                        width: 220px !important;
+                                        height: 60px !important;
+                                }
+                                img[class=3D"img-small"] {
+                                        width: 80px !important;
+                                        height: 80px !important;
+                                }
+                        }
+</style>
+</head>
+<body ><div style=3D"background:#F5F5F5; " ><table bgcolor=3D"#F5F5F5" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" ><tr ><td bgcol=
+or=3D"#F5F5F5" width=3D"100%" ><table align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" class=3D"table" width=3D"600" ><tr>
+<td width=3D"600" class=3D"cell" height=3D"20">&nbsp;</td>
+</tr>
+<tr ><td width=3D"600" class=3D"cell" height=3D"15" ><div class=3D"mktEdita=
+ble" id=3D"summary" style=3D"color:#333333; font-family:'Helvetica Neue',He=
+lvetica,Arial,sans-serif; font-size:11px; font-weight:normal; line-height:1=
+5px; " ></div>
+</td>
+</tr>
+<tr ><td width=3D"600" class=3D"cell" height=3D"15" ><div class=3D"mktEdita=
+ble" id=3D"view-in-browser" style=3D"color:#5284BD; font-family:'Helvetica =
+Neue',Helvetica,Arial,sans-serif; font-size:11px; font-weight:normal; line-=
+height:15px; " ><a href=3D
+"http://news.unity3d.com/s0Pc2o70fSCH0Y0rVx10G0S" style=3D"color:#ff0066;fo=
+nt-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:11px;font-w=
+eight:normal;line-height:15px;" target=3D"_blank"
+>View this email in your browser</a></div>
+</td>
+</tr>
+<tr>
+<td width=3D"600" class=3D"cell" height=3D"20">&nbsp;</td>
+</tr>
+<tr ><td width=3D"600" class=3D"cell" ><!-- HEADER -->
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"table" width=3D"600">
+<tr>
+<td colspan=3D"3" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"20">&nbsp;</td>
+<td align=3D"left" valign=3D"top" style=3D"border-bottom:1px solid #CCCCCC;=
+"><a href=3D
+"http://news.unity3d.com/P000C2GYoS0xQV0c0fIS7r1" target=3D"_blank"
+><img src=3D"http://info.unity3d.com/rs/unity3d/images/UNT_logo_2015_171x95=
+.gif" id=3D"logo" width=3D"171" height=3D"95" alt=3D"Unity logo" style=3D"d=
+isplay:block;border:0 none;"></a></td>
+<td width=3D"20">&nbsp;</td>
+</tr>
+</table>
+<!-- CONTENT -->
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"table" width=3D"600" ><tr ><td width=3D"20">&nbs=
+p;</td>
+<td ><div height=3D"20" style=3D"font-size:20px;line-height:20px;">&nbsp;</=
+div>
+<div class=3D"mktEditable" id=3D"main_img" ><img src=3D"http://info.unity3d=
+.com/rs/unity3d/images/UNT_drip_tmp_2014_main.jpg" alt=3D"" width=3D"560" h=
+eight=3D"180" style=3D"display:block;border:0 none;" class=3D"img-large"></=
+div>
+<div height=3D"20" style=3D"font-size:20px;line-height:20px;">&nbsp;</div>
+<div class=3D"mktEditable" id=3D"headline" style=3D"color:#333333; font-fam=
+ily:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:24px; font-weigh=
+t:bold; line-height:24px; margin:0; " ><div>Hi Alex,</div></div>
+<div height=3D"10" style=3D"font-size:10px;line-height:10px;">&nbsp;</div>
+<div class=3D"mktEditable" id=3D"paragraph_1" style=3D"color:#333333; font-=
+family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:14px; line-he=
+ight:20px; margin:0; " >Congratulations on downloading the Unity engine. Yo=
+u=E2=80=99ve just taken your first step towards making fully multiplatform =
+games and other interactive content fast!</div>
+<div height=3D"20" style=3D"font-size:20px;line-height:20px;">&nbsp;</div>
+<div class=3D"mktEditable" id=3D"main_img" ><span style=3D"font-family: ari=
+al,helvetica,sans-serif;"><strong>Let=C2=B4s get started ...</strong></span=
+></div>
+<div height=3D"10" style=3D"font-size:10px;line-height:10px;">&nbsp;</div>
+<div class=3D"mktEditable" id=3D"paragraph_1" style=3D"color:#333333; font-=
+family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:14px; line-he=
+ight:20px; margin:0; " ><p>A multitude of tutorials are available from the =
+Unity Learn site.       Use them to get up to speed quickly with fundamenta=
+l Unity concepts and workflows.       If you&rsquo;re completely new to Uni=
+ty, why not start out making a simple <a style=3D"color: #ff0066;" href=3D
+"http://news.unity3d.com/v2Vf0CcR0GoSYxJ7S01r000" target=3D"_blank"
+>Roll-a-Ball       game</a>.</p>
+<p><a href=3D
+"http://news.unity3d.com/v2Vf0CcR0GoSYxJ7S01r000" target=3D"_blank"
+><img src=3D"http://info.unity3d.com/rs/unity3d/images/UNT_drip_tmp_2014_ro=
+ll_a_ball.jpg" alt=3D"Roll a ball" width=3D"560" height=3D"180" /></a></p>
+<p><strong>Give and get</strong></p>
+<p>The Unity community brings together a vibrant gang of helpful and commit=
+ted developers eager to share and learn.       If you want feedback on your=
+ project, or need help and advice, just reach out.</p>
+<div>Post specific questions to <a style=3D"color: #ff0066;" href=3D
+"http://news.unity3d.com/f00cG0o0fS027S1rYCSKx0V" target=3D"_blank"
+>Unity    Answers</a><br /> Discuss all things Unity on the <a style=3D"col=
+or: #ff0066;" href=3D
+"http://news.unity3d.com/z0rf1Go002VSCTc7YxL0S00" target=3D"_blank"
+>forums</a><br /> Find your local <a style=3D"color: #ff0066;" href=3D
+"http://news.unity3d.com/eC0fUS01020SYc0rV7Mox0G" target=3D"_blank"
+>Unity User Group</a></div>
+<p><strong>Source content</strong></p>
+<p>To tailor the Unity editor to your specific needs, check out the fantast=
+ic variety of free and paid-for editor       extensions available from Unit=
+y&rsquo;s Asset Store.       The Asset Store is also the place to get ready=
+ made assets for editor prototyping or game projects. Check out these <a st=
+yle=3D"color: #ff0066;" href=3D
+"http://news.unity3d.com/K00rVYS20ocV1NGfx07C0S0" target=3D"_blank"
+>free 3D model packages</a></p>
+<p><strong>Stay up to date</strong></p>
+<p>The Unity engine is constantly evolving.       To keep up to speed on ne=
+w and upcoming features, don&rsquo;t forget to <a style=3D"color: #ff0066;"=
+ href=3D
+"http://news.unity3d.com/F7fSo00WO0Y2x1cr000SGCV" target=3D"_blank"
+>signup for the Unity newsletter</a>.</p></div>
+<div height=3D"20" style=3D"font-size:20px;line-height:20px;">&nbsp;</div>
+</td>
+<td width=3D"20">&nbsp;</td>
+</tr>
+</table>
+<!-- PARAGRAPH -->
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"table" width=3D"600" ><tr>
+<td colspan=3D"3" height=3D"20">&nbsp;</td>
+</tr>
+<tr ><td width=3D"20">&nbsp;</td>
+<td ><div class=3D"mktEditable" id=3D"signature" style=3D"color:#222C37; fo=
+nt-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:14px; line=
+-height:20px; margin:0; " >Keep creating!<br>
+<b>The Unity Team</b></div>
+</td>
+<td width=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"3" height=3D"20">&nbsp;</td>
+</tr>
+</table>
+<!-- FOOTER -->
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"table" width=3D"600">
+<tr>
+<td colspan=3D"5" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"20">&nbsp;</td>
+<td colspan=3D"3" height=3D"20" style=3D"border-top:1px solid #CCCCCC;">&nb=
+sp;</td>
+<td width=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td width=3D"380" align=3D"left" valign=3D"top"><a href=3D
+"http://news.unity3d.com/P000C2GYoS0xQV0c0fIS7r1" target=3D"_blank"
+><img src=3D"http://info.unity3d.com/rs/unity3d/images/UNT_logo_small_2015.=
+gif" width=3D"82" height=3D"31" alt=3D"Unity logo" style=3D"display:block;b=
+order:0 none;"></a><br></td>
+<td width=3D"180" valign=3D"top" align=3D"right">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr align=3D"right">
+<td width=3D"28"><a href=3D
+"http://news.unity3d.com/n0Yx0XP01rCo0SS0f720GcV" target=3D"_blank"
+><img src=3D"http://info.unity3d.com/rs/unity3d/images/UNT_icon_facebook.gi=
+f" width=3D"24" height=3D"24" alt=3D"Facebook" style=3D"display:block;borde=
+r:0 none;"></a></td>
+<td width=3D"28"><a href=3D
+"http://news.unity3d.com/hox7YVS00Y000rGcC210SQf" target=3D"_blank"
+><img src=3D"http://info.unity3d.com/rs/unity3d/images/UNT_icon_youtube.gif=
+" width=3D"24" height=3D"24" alt=3D"YouTube" style=3D"display:block;border:=
+0 none;"></a></td>
+<td width=3D"28"><a href=3D
+"http://news.unity3d.com/LrV1SS0070Zc2YRfx0o0G0C" target=3D"_blank"
+><img src=3D"http://info.unity3d.com/rs/unity3d/images/UNT_icon_twitter.gif=
+" width=3D"24" height=3D"24" alt=3D"Twitter" style=3D"display:block;border:=
+0 none;"></a></td>
+<td width=3D"28"><a href=3D
+"http://news.unity3d.com/dG0ox70Cdr2Sf00SVT010Y0" target=3D"_blank"
+><img src=3D"http://info.unity3d.com/rs/unity3d/images/UNT_icon_linkedin.gi=
+f" width=3D"24" height=3D"24" alt=3D"LinkedIn" style=3D"display:block;borde=
+r:0 none;"></a></td>
+<td width=3D"28"><a href=3D
+"http://news.unity3d.com/E0G0Y2xUS1f0C0rS1d0Vo07" target=3D"_blank"
+><img src=3D"http://info.unity3d.com/rs/unity3d/images/UNT_icon_google_plus=
+.gif" width=3D"24" height=3D"24" alt=3D"Google+" style=3D"display:block;bor=
+der:0 none;"></a></td>
+</tr>
+</table>
+</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width=3D"600" class=3D"cell" height=3D"20">
+<div height=3D"20" style=3D"font-size:20px;line-height:20px;">&nbsp;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<center ><div class=3D"mktEditable" id=3D"email-preferences" style=3D"color=
+:#666666; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; font-siz=
+e:11px; font-weight:normal; line-height:20px; margin:0; " ><a href=3D"http:=
+//news.unity3d.com/v/hox7OVS00Y000rGcC210SGf" style=3D"color:#ff0066;">Forw=
+ard to a friend</a> | Manage your Unity <a href=3D
+"http://news.unity3d.com/CSx00V02o2dY0CGf1r07S0V" style=3D"color:#ff0066;"
+>e-mail preferences</a> | or <a style=3D"color:#ff0066;" href=3D
+"http://news.unity3d.com/m200CW10V0rG7oxfSd30YS0"
+>unsubscribe</a> from all emails</div>
+</center>
+<br>
+<div class=3D"mktEditable" id=3D"tracking-code" ></div>
+</div>
+
+<IMG SRC=3D"http://news.unity3d.com/trk?t=3D1&mid=3DNDAyLVlTUy0xNTY6NzQ5MDo=
+2Njc4OjIyMjg3OjA6NzEwMTo3OjQzMjQyMTE5OmRpbnNtb3JlYWxleEBnbWFpbC5jb20%3D" WI=
+DTH=3D"1" HEIGHT=3D"1" BORDER=3D"0" ALT=3D"" />
+</body>
+</html>
+------=_Part_-2011432535_523709859.1423036881662--

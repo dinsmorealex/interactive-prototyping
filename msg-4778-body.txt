@@ -1,0 +1,1228 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.173.13 with SMTP id bg13csp42376ldc;
+        Fri, 11 Oct 2013 08:15:02 -0700 (PDT)
+X-Received: by 10.66.218.226 with SMTP id pj2mr22273732pac.62.1381504501554;
+        Fri, 11 Oct 2013 08:15:01 -0700 (PDT)
+Return-Path: <inttax.3385@envfrm.rsys2.com>
+Received: from omp.e.turbotax.intuit.com (omp.e.turbotax.intuit.com. [12.130.139.190])
+        by mx.google.com with ESMTP id ad7si39377162pbd.358.1969.12.31.16.00.00;
+        Fri, 11 Oct 2013 08:15:01 -0700 (PDT)
+Received-SPF: pass (google.com: domain of inttax.3385@envfrm.rsys2.com designates 12.130.139.190 as permitted sender) client-ip=12.130.139.190;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of inttax.3385@envfrm.rsys2.com designates 12.130.139.190 as permitted sender) smtp.mail=inttax.3385@envfrm.rsys2.com;
+       dkim=pass (test mode) header.i=TurboTax@e.turbotax.intuit.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=e.turbotax.intuit.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=intuit; d=e.turbotax.intuit.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:Message-ID; i=TurboTax@e.turbotax.intuit.com;
+ bh=lD5Y7wYyPgfwd23Jr4g0WKma0NE=;
+ b=Ggd81cHyHoQOTs2YoiGZiYylkpILWc2HdCX6WN9X/vuVvYcGu1tEQVseK+Rt882/87lTzMK1SDma
+   z8DDokO3XIRH3Q23hsuWnY3mzx42JOlHWvmxaEQFpqKAimcArAAcNlMd0Y+GDYKrKRpNUd6BEVQK
+   j9iRt5mOPX+0m46bEq0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=intuit; d=e.turbotax.intuit.com;
+ b=ESoGrOTO15P2XYXOq578sI+u6N85+TkJ9bUSeWozBmJC+CM0otZPzn5uAsO4VSXLS7awUqqdIN8q
+   13h3YTF+kOXUV1aSzsDuTB4q/ro3UzqbRQVGjtA/ASF/g4FvZWocxx3ACKWATOIQim/gDD9H6egL
+   yp8uITThmJgn9rtita0=;
+Received: by omp.e.turbotax.intuit.com id hb0ava1hdbg3 for <dinsmorealex@gmail.com>; Fri, 11 Oct 2013 08:06:10 -0700 (envelope-from <inttax.3385@envfrm.rsys2.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 11 Oct 2013 08:06:10 -0700
+To: dinsmorealex@gmail.com
+From: "TurboTax" <TurboTax@e.turbotax.intuit.com>
+Reply-To: "TurboTax" <taxemail@e.turbotax.intuit.com>
+Subject: Your taxes DONE RIGHT and your BIGGEST REFUND - Order Today!
+X-sgxh1: KpgkuhjLHtLzfxnuHptQJhu
+X-rext: 4.interact2.Eheb2TcdTVXE-pC5eUH3j_y9w_JNAwmUH2hxG-e9BkA
+X-cid: inttax.100195642
+Message-ID: <0.1.50.C8C.1CEC6936B7191E4.0@omp.e.turbotax.intuit.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head><custom name=3D=22opencounter=22 type=3D=22tracking=22>
+<title></title>
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width, initial-scal=
+e=3D1=2E0=22>
+<style type=3D=22text/css=22>
+
+=40media screen and (max-width: 480px) =7B
+  =2EdesktopSection110 =7Bdisplay: none =21important;=7D
+  =2Esocialsizing =7Bwidth: 38px =21important; height: 34px =21important;=7D
+  =2Eimagesizing1 =7Bwidth: 159px =21important; height: 52px =21important;=
+=7D
+  =2Eimagesizing2 =7Bwidth: 296px =21important; height: 237px =21important;=
+=7D
+  =2Eimagesizing3 =7Bwidth: 305px =21important; height: 33px =21important;=
+=7D
+  =2Eimagesizing4 =7Bwidth: 305px =21important; height: 90px =21important;=
+=7D
+  =2Eimagesizing7 =7Bwidth: 112px =21important; height: 26px =21important;=
+=7D
+  =2Eimagesizing8 =7Bwidth: 24px =21important; height: 26px =21important;=7D
+  =2Eimagesizing9 =7Bwidth: 26px =21important; height: 26px =21important;=7D
+  table=5Bclass=3Demailwrapto100pct=5D, img=5Bclass=3Demailwrapto100pct=5D
+  =7B
+    display:block =21important;
+    width:100% =21important;
+  =7D
+  =2Emobile_again =7B
+    display : block =21important;
+    width : auto =21important;
+  =7D
+=7D
+
+=40media not screen and (max-width: 480px) =7B
+  img=2EemailMobileHide =7Bwidth:1px; height:1px;=7D
+  span=2EemailMobileHide =7Bcolor:=23ffffff;=7D
+=7D
+
+=2Eemailwrapto100pct =7Bwidth:0; overflow:hidden;float:left; display: none;=
+=7D</style>
+<=21-- start padding for iOS -->
+                                                                           =
+                        =20
+                                                                           =
+                        =20
+                                                                           =
+                        =20
+                                                                           =
+                        =20
+                                                                           =
+                        =20
+                                                                           =
+                        =20
+                                                                           =
+                        =20
+                                                                           =
+                        =20
+<=21-- end padding for iOS -->
+</head>
+<body style=3D=22padding:0; margin:0;-webkit-text-size-adjust:none;-ms-text=
+-size-adjust:100%; background-color:=23ffffff;=22 bgcolor=3D=22=23ffffff=22>
+<=21-- START DESKTOP -->
+<table class=3D=22desktopSection110=22 width=3D=22640=22 border=3D=220=22 c=
+ellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22center=22 bgcolor=3D=
+=22=23ffffff=22>
+	<tr>
+    	<td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 s=
+rc=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conte=
+ntlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2216=22 hei=
+ght=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+        <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=
+=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/=
+contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=22624=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    </tr>
+    <tr>
+    	<td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 s=
+rc=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conte=
+ntlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2216=22 hei=
+ght=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+		<td align=3D=22left=22><span style=3D=22font-size:11px; line-height:13px;=
+ font-family:Arial, Helvetica, sans-serif; color:=23333333;=22>&nbsp;<br />=
+Get a head start on your taxes&=238212;<a href=3D=22https://e=2Eturbotax=2E=
+intuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPD=
+OXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDUDT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFc=
+MKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCXArdAhZj=
+gymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22 style=3D=22c=
+olor:=23005bbb;=22>order TurboTax today</a>=21<br />View <a href=3D=22https=
+://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK=
+2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDWST&_ei_=3DEolaGGF4SNM=
+vxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrt4NhFA4QMwDf1qotj2E9ZnSJarOcHwGRjgONarsaXI=
+RazZTvw_MEr5dbmCjfLFSjCamwhg-2BSHl8KQU5_v_oI74GqmnYIg0w01dbD25aUpoB0qFBWtZR=
+syPmZyGUvPeevbDD-k5NqbBi2aFHi4N3tyXcDXIPcBUIsxLpNepz9xwrhVomRSpO1K7wzML4QKt=
+Bgf5x6u8cVCysoNIeOWC5GA7P1F0B9L6DoshH3Mh8IhD5PnbwZcPeOdotH9Kmq9RmNGzuXu5HOP=
+xof2WRE1yrir3ZtqcL-ieLcQYrabw1JYFiUD9g3lzFHAIMnnLMkkbsgxSpuLjjdoWuDJvmtwK96=
+qDDnEbERTbz7RzaD7XbLWwarD6lN0bXNrdi8Z3hCGtXEfQy26T7AJ1ErIUjNw4zfwaDmwAtSy7o=
+cCJok7T2hbUMm6DuN-u3AYFCRlEjjBFyVb_=2E=22 target=3D=22_blank=22 style=3D=22=
+color:=23005bbb;=22>online</a>=2E<br />&nbsp;</span></td>
+	</tr>
+    <tr>
+    	<td style=3D=22line-height:4px;=22 colspan=3D=222=22 bgcolor=3D=22=230=
+07ac9=22><img style=3D=22display:block;=22 src=3D=22http://responsys=2Ehs=
+=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/28527=
+-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=224=22 border=3D=220=22=
+ alt=3D=22=22 /></td>
+	</tr>
+</table><table class=3D=22desktopSection110=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22center=22 bg=
+color=3D=22=23ffffff=22>
+  <tr>
+    <td valign=3D=22top=22><table width=3D=22344=22 border=3D=220=22 cellsp=
+acing=3D=220=22 cellpadding=3D=220=22>
+      <tr>
+        <td align=3D=22left=22><img style=3D=22display:block; font-size:15p=
+x; font-family:Arial, Helvetica, sans-serif; color:=23bb2828;=22 src=3D=22h=
+ttp://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary=
+/2013/10/28527/28527-1/images/logo=2Egif=22 width=3D=22159=22 height=3D=225=
+2=22 border=3D=220=22 alt=3D=22Intuit(R) TurboTax(R)=22 /></td>
+      </tr>
+      <tr>
+        <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=
+=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/=
+contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=22326=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+      </tr>
+      <tr>
+        <td style=3D=22line-height:9px;=22><img style=3D=22display:block;=
+=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/=
+contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=221=22=
+ height=3D=229=22 border=3D=220=22 alt=3D=22=22 /></td>
+      </tr>
+      <tr>
+        <td><table width=3D=22344=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22>
+          <tr>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2232=
+3=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+          </tr>
+          <tr>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+            <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22font=
+-size:26px; line-height:28px; font-family:Arial, Helvetica, sans-serif; col=
+or:=23007ac9;=22>Step one to getting your taxes done right and your guarant=
+eed biggest&nbsp;refund=21</span></td>
+          </tr>
+          <tr>
+            <td style=3D=22line-height:18px;=22 colspan=3D=222=22><img styl=
+e=3D=22display:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/re=
+sponsysimages/inttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Eg=
+if=22 width=3D=221=22 height=3D=2218=22 border=3D=220=22 alt=3D=22=22 /></t=
+d>
+          </tr>
+          <tr>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+            <td><table width=3D=22323=22 border=3D=220=22 cellspacing=3D=22=
+0=22 cellpadding=3D=220=22>
+              <tr>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=2226=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=228=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=22289=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+              </tr>
+              <tr>
+                <td valign=3D=22top=22 align=3D=22right=22 style=3D=22line-=
+height:16px;=22><img style=3D=22display:block;=22 src=3D=22http://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/=
+28527-1/images/checkmark=2Egif=22 width=3D=2214=22 height=3D=2216=22 border=
+=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=228=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22=
+font-size:15px; line-height:19px; font-family:Arial, Helvetica, sans-serif;=
+ color:=23616365;=22>Federal Tax Return&nbsp;Preparation</span></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+            <td><table width=3D=22323=22 border=3D=220=22 cellspacing=3D=22=
+0=22 cellpadding=3D=220=22>
+              <tr>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=2226=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=228=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=22289=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+              </tr>
+              <tr>
+                <td valign=3D=22top=22 align=3D=22right=22 style=3D=22line-=
+height:16px;=22><img style=3D=22display:block;=22 src=3D=22http://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/=
+28527-1/images/checkmark=2Egif=22 width=3D=2214=22 height=3D=2216=22 border=
+=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=228=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22=
+font-size:15px; line-height:19px; font-family:Arial, Helvetica, sans-serif;=
+ color:=23616365;=22>FREE Federal E-files (5&nbsp;returns)</span></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+            <td><table width=3D=22323=22 border=3D=220=22 cellspacing=3D=22=
+0=22 cellpadding=3D=220=22>
+              <tr>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=2226=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=228=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=22289=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+              </tr>
+              <tr>
+                <td valign=3D=22top=22 align=3D=22right=22 style=3D=22line-=
+height:16px;=22><img style=3D=22display:block;=22 src=3D=22http://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/=
+28527-1/images/checkmark=2Egif=22 width=3D=2214=22 height=3D=2216=22 border=
+=3D=220=22 alt=3D=22=22 /></td>
+                <td style=3D=22line-height:1px;=22><img style=3D=22display:=
+block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/i=
+nttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=
+=228=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+                <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22=
+font-size:15px; line-height:19px; font-family:Arial, Helvetica, sans-serif;=
+ color:=23616365;=22>Included FREE&=238211;1 State&nbsp;Download*</span></t=
+d>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td colspan=3D=222=22><img style=3D=22display:block;=22 src=3D=
+=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlib=
+rary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=
+=2231=22 border=3D=220=22 alt=3D=22=22 /></td>
+          </tr>
+        </table><table width=3D=22344=22 border=3D=220=22 cellspacing=3D=22=
+0=22 cellpadding=3D=220=22>
+          <tr>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2232=
+3=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+          </tr>
+          <tr>
+            <td style=3D=22line-height:1px;=22><img style=3D=22display:bloc=
+k;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/intta=
+x/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=
+=22 height=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+      		<td><table width=3D=22157=22 border=3D=220=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 bgcolor=3D=22=23fd8e1f=22>
+                          <tr>
+                            <td rowspan=3D=223=22><a href=3D=22https://e=2E=
+turbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGq=
+i8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDWUT&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz=
+5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22><=
+img style=3D=22display:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i2/responsysimages/inttax/contentlibrary/2013/10/28527/28527-1/images/bu=
+tton_left=2Egif=22 width=3D=224=22 height=3D=2232=22 border=3D=220=22 alt=
+=3D=22=22 /></a></td>
+                            <td style=3D=22line-height:4px;=22><a href=3D=
+=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQ=
+GoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDWYT&_ei_=3DEol=
+aGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3c=
+ir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=
+=3D=22_blank=22><img style=3D=22display:block;=22 src=3D=22http://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/=
+28527-1/images/button_top=2Egif=22 width=3D=22149=22 height=3D=224=22 borde=
+r=3D=220=22 alt=3D=22=22 /></a></td>
+                            <td rowspan=3D=223=22><a href=3D=22https://e=2E=
+turbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGq=
+i8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDWBT&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz=
+5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22><=
+img style=3D=22display:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i2/responsysimages/inttax/contentlibrary/2013/10/28527/28527-1/images/bu=
+tton_right=2Egif=22 width=3D=224=22 height=3D=2232=22 border=3D=220=22 alt=
+=3D=22=22 /></a></td>
+                          </tr>
+                          <tr>
+                            <td height=3D=2221=22 align=3D=22center=22 bgco=
+lor=3D=22=23fd8e1f=22 background=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i=
+2/responsysimages/inttax/contentlibrary/2013/10/28527/28527-1/images/button=
+_mid=2Egif=22><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtp=
+KX%3DSRRSBDWDT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX=
+2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0=
+Y0u9CvVxN0=2E=22 style=3D=22font-family:'Helvetica Neue', Helvetica, Arial,=
+ sans-serif; font-size:17px; line-height:19px; color:=23ffffff; text-decora=
+tion:none;=22 target=3D=22_blank=22>Order Today</a></td>
+                          </tr>
+                          <tr>
+                            <td style=3D=22line-height:7px;=22><a href=3D=
+=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQ=
+GoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDYST&_ei_=3DEol=
+aGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3c=
+ir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=
+=3D=22_blank=22><img style=3D=22display:block;=22 src=3D=22http://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/=
+28527-1/images/button_btm=2Egif=22 width=3D=22149=22 height=3D=227=22 borde=
+r=3D=220=22 alt=3D=22=22 /></a></td>
+                          </tr>
+      		</table></td>
+          </tr>
+          <tr>
+      	  	<td colspan=3D=222=22><img style=3D=22display:block;=22 src=3D=22=
+http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrar=
+y/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=22=
+25=22 border=3D=220=22 alt=3D=22=22 /></td>
+      	  </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td valign=3D=22top=22><table width=3D=22296=22 border=3D=220=22 cellsp=
+acing=3D=220=22 cellpadding=3D=220=22>
+      <tr>
+        <td><img style=3D=22display:block;=22 src=3D=22http://responsys=2Eh=
+s=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/2852=
+7-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=2225=22 border=3D=220=
+=22 alt=3D=22=22 /></td>
+      </tr>
+      <tr>
+        <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3D=
+X0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%=
+3DSRRSBDYUT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG=
+-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u=
+9CvVxN0=2E=22 target=3D=22_blank=22><img style=3D=22display:block;=22 src=
+=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/content=
+library/2013/10/28527/28527-1/images/03boxes=2Ejpg=22 width=3D=22296=22 hei=
+ght=3D=22237=22 border=3D=220=22 alt=3D=22intuit(R) TurboTax -- Federal and=
+ State Returns=22 /></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table><table class=3D=22desktopSection110=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22center=22 bg=
+color=3D=22=23ffffff=22>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=22599=22 hei=
+ght=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2220=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22font-size:14=
+px; line-height:22px; font-family:Arial, Helvetica, sans-serif; color:=2361=
+6365;=22>Last year you used TurboTax to get your biggest refund=2E This yea=
+r it's even easier to get every penny you deserve again=2E Plus, we always =
+guarantee 100% accurate calculations* and your maximum refund* possible&=23=
+8212;<a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSB=
+DYYT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08=
+VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=
+=2E=22 target=3D=22_blank=22 style=3D=22color:=23007ac9;=22>order&nbsp;toda=
+y</a>=21</span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2220=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td colspan=3D=223=22><img style=3D=22display:block;=22 src=3D=22http:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013=
+/10/28527/28527-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=2225=22 =
+border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td colspan=3D=223=22 align=3D=22center=22><span style=3D=22font-size:1=
+7px; line-height:19px; font-family:Arial, Helvetica, sans-serif; color:=230=
+07ac9;=22>Taxes done right=2E Your biggest refund&nbsp;guaranteed=2E</span>=
+</td>
+  </tr>
+  <tr>
+    <td colspan=3D=223=22 style=3D=22line-height:17px;=22><img style=3D=22d=
+isplay:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 wi=
+dth=3D=221=22 height=3D=2217=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+</table><table class=3D=22desktopSection110=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22center=22 bg=
+color=3D=22=23ffffff=22>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2219=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=22188=22 hei=
+ght=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=22188=22 hei=
+ght=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2217=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=22192=22 hei=
+ght=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2215=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2219=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td align=3D=22center=22><img style=3D=22display:block;=22 src=3D=22htt=
+p://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2=
+013/10/28527/28527-1/images/icon01=2Egif=22 width=3D=22100=22 height=3D=221=
+06=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td align=3D=22center=22><img style=3D=22display:block;=22 src=3D=22htt=
+p://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2=
+013/10/28527/28527-1/images/icon02=2Egif=22 width=3D=22101=22 height=3D=221=
+06=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2217=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td align=3D=22center=22><img style=3D=22display:block;=22 src=3D=22htt=
+p://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2=
+013/10/28527/28527-1/images/icon03=2Egif=22 width=3D=22101=22 height=3D=221=
+06=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2215=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2219=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22font-size:14=
+px; line-height:16px; font-family:Arial, Helvetica, sans-serif; color:=2300=
+7ac9;=22><strong>You've Got a Head&nbsp;Start</strong></span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22font-size:14=
+px; line-height:16px; font-family:Arial, Helvetica, sans-serif; color:=2300=
+7ac9;=22><strong>Step-By-Step Guidance</strong></span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2217=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22font-size:14=
+px; line-height:16px; font-family:Arial, Helvetica, sans-serif; color:=2300=
+7ac9;=22><strong>Done Right=2E Every&nbsp;Time=2E</strong></span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2215=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td colspan=3D=227=22 style=3D=22line-height:12px;=22><img style=3D=22d=
+isplay:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 wi=
+dth=3D=221=22 height=3D=2212=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2219=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22font-size:14=
+px; line-height:22px; font-family:Arial, Helvetica, sans-serif; color:=2361=
+6365;=22>As a returning customer, we automatically transfer last year's dat=
+a to save you time and ensure&nbsp;accuracy=2E</span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2221=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22font-size:14=
+px; line-height:22px; font-family:Arial, Helvetica, sans-serif; color:=2361=
+6365;=22>TurboTax guides you through your unique tax situation so you can b=
+e confident you don't miss a&nbsp;thing=2E</span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2217=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td valign=3D=22top=22 align=3D=22left=22><span style=3D=22font-size:14=
+px; line-height:22px; font-family:Arial, Helvetica, sans-serif; color:=2361=
+6365;=22>TurboTax double-checks your tax return as you go, and before you f=
+ile, so you're sure nothing has been left&nbsp;out=2E</span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2215=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td colspan=3D=227=22><img style=3D=22display:block;=22 src=3D=22http:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013=
+/10/28527/28527-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=2235=22 =
+border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td colspan=3D=227=22 align=3D=22center=22><table width=3D=22157=22 bor=
+der=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 bgcolor=3D=22=23f=
+d8e1f=22>
+                          <tr>
+                            <td rowspan=3D=223=22><a href=3D=22https://e=2E=
+turbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGq=
+i8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDYBT&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz=
+5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22><=
+img style=3D=22display:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i2/responsysimages/inttax/contentlibrary/2013/10/28527/28527-1/images/bu=
+tton_left=2Egif=22 width=3D=224=22 height=3D=2232=22 border=3D=220=22 alt=
+=3D=22=22 /></a></td>
+                            <td style=3D=22line-height:4px;=22><a href=3D=
+=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQ=
+GoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDYDT&_ei_=3DEol=
+aGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3c=
+ir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=
+=3D=22_blank=22><img style=3D=22display:block;=22 src=3D=22http://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/=
+28527-1/images/button_top=2Egif=22 width=3D=22149=22 height=3D=224=22 borde=
+r=3D=220=22 alt=3D=22=22 /></a></td>
+                            <td rowspan=3D=223=22><a href=3D=22https://e=2E=
+turbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGq=
+i8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDAST&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz=
+5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22><=
+img style=3D=22display:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2En=
+et/i2/responsysimages/inttax/contentlibrary/2013/10/28527/28527-1/images/bu=
+tton_right=2Egif=22 width=3D=224=22 height=3D=2232=22 border=3D=220=22 alt=
+=3D=22=22 /></a></td>
+                          </tr>
+                          <tr>
+                            <td height=3D=2221=22 align=3D=22center=22 bgco=
+lor=3D=22=23fd8e1f=22 background=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i=
+2/responsysimages/inttax/contentlibrary/2013/10/28527/28527-1/images/button=
+_mid=2Egif=22><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtp=
+KX%3DSRRSBDAST&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX=
+2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0=
+Y0u9CvVxN0=2E=22 style=3D=22font-family:'Helvetica Neue', Helvetica, Arial,=
+ sans-serif; font-size:17px; line-height:19px; color:=23ffffff; text-decora=
+tion:none;=22 target=3D=22_blank=22>Order Today</a></td>
+                          </tr>
+                          <tr>
+                            <td style=3D=22line-height:7px;=22><a href=3D=
+=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQ=
+GoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDAUT&_ei_=3DEol=
+aGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3c=
+ir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=
+=3D=22_blank=22><img style=3D=22display:block;=22 src=3D=22http://responsys=
+=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/=
+28527-1/images/button_btm=2Egif=22 width=3D=22149=22 height=3D=227=22 borde=
+r=3D=220=22 alt=3D=22=22 /></a></td>
+                          </tr>
+      		</table></td>
+  </tr>
+  <tr>
+    <td colspan=3D=227=22><img style=3D=22display:block;=22 src=3D=22http:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013=
+/10/28527/28527-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=2221=22 =
+border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td colspan=3D=227=22 align=3D=22center=22><span style=3D=22font-size:1=
+8px; line-height:20px; font-family:Arial, Helvetica, sans-serif; color:=230=
+07ac9;=22>100% Satisfaction Guaranteed=21*</span></td>
+  </tr>
+  <tr>
+    <td colspan=3D=227=22><img style=3D=22display:block;=22 src=3D=22http:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013=
+/10/28527/28527-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=2235=22 =
+border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+</table><table class=3D=22desktopSection110=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22center=22 bg=
+color=3D=22=23666666=22>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=22450=22 hei=
+ght=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2214=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2224=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=229=22 heigh=
+t=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2226=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=229=22 heigh=
+t=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2226=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=228=22 heigh=
+t=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2226=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=228=22 heigh=
+t=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2226=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2214=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td style=3D=22line-height:6px;=22 colspan=3D=2212=22><img style=3D=22d=
+isplay:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 wi=
+dth=3D=221=22 height=3D=226=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td align=3D=22right=22><span style=3D=22font-size:10px; line-height:12=
+px; font-family:Arial, Helvetica, sans-serif; color:=23ffffff;=22>Join the =
+conversation</span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2214=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDAYT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/facebook=2Egif=22 width=3D=2224=22 he=
+ight=3D=2226=22 border=3D=220=22 alt=3D=22Facebook=22 /></a></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=229=22 heigh=
+t=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDABT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/twitter=2Egif=22 width=3D=2226=22 hei=
+ght=3D=2226=22 border=3D=220=22 alt=3D=22Twitter=22 /></a></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=229=22 heigh=
+t=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDADT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/youtube=2Egif=22 width=3D=2226=22 hei=
+ght=3D=2226=22 border=3D=220=22 alt=3D=22YouTube=22 /></a></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=228=22 heigh=
+t=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDBST&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/pinterest=2Egif=22 width=3D=2226=22 h=
+eight=3D=2226=22 border=3D=220=22 alt=3D=22Pinterest=22 /></a></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=228=22 heigh=
+t=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDBUT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/blog=2Egif=22 width=3D=2226=22 height=
+=3D=2226=22 border=3D=220=22 alt=3D=22Blog=22 /></a></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2214=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td style=3D=22line-height:7px;=22 colspan=3D=2212=22><img style=3D=22d=
+isplay:block;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysi=
+mages/inttax/contentlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 wi=
+dth=3D=221=22 height=3D=227=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+</table><table class=3D=22desktopSection110=22 width=3D=22640=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22center=22 bg=
+color=3D=22=23ebebeb=22>
+   <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2220=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=22600=22 hei=
+ght=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2220=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td colspan=3D=223=22><img style=3D=22display:block;=22 src=3D=22http:/=
+/responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013=
+/10/28527/28527-1/images/spacer=2Egif=22 width=3D=221=22 height=3D=2230=22 =
+border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+  <tr>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2220=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-size:10px; li=
+ne-height:12px; font-family:Arial, Helvetica, sans-serif; color:=23666666;>=
+<span style=3D=22font-size:10px; line-height:12px; font-family:Arial, Helve=
+tica, sans-serif; color:=23666666;=22>Terms, conditions, features, availabi=
+lity, pricing, fees, service and support options subject to change without&=
+nbsp;notice=2E
+    <br />&nbsp;<br />
+    *<a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSB=
+DBYT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC7K1=
+mEDhckg=2E=22 target=3D=22_blank=22 style=3D=22color:=23336699;=22>Click He=
+re</a> to see TurboTax product guarantees, disclaimers and other important =
+information=2E <br />&nbsp;<br />
+    This email was sent to the following address: dinsmorealex=40gmail=2Ecom
+    <br />&nbsp;<br />=20
+    <a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBD=
+BBT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC7K1m=
+EDhckg=2E=22 target=3D=22_blank=22 style=3D=22color:=23336699;=22>Privacy P=
+olicy</a>=2E  <a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtp=
+KX%3DSRRSBDBDT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrt4NhFA4QM=
+wDf1qotj2E9ZgcMOgC4GuwO7-MqZDfazHuIErc=2E=22 target=3D=22_blank=22 style=3D=
+=22color:=23336699;=22>Manage Preferences</a>=2E <a href=3D=22mailto:spoof=
+=40intuit=2Ecom=22 target=3D=22_blank=22 style=3D=22color:=23336699;=22>Rep=
+ort to Security</a>=2E  =20
+     <br />&nbsp;<br />
+    &copy; 2013 Intuit Inc=2E All rights reserved=2E <a href=3D=22https://e=
+=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zez=
+cGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDCST&_ei_=3DEolaGGF4SNMvxFF=
+7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC7K1mEDhckg=2E=22 target=3D=22_=
+blank=22 style=3D=22color:=23336699;=22>Trademark</a>
+    <br />&nbsp;<br />
+    Customer Communications, 2800 E=2E Commerce Center Place, Tucson, AZ&nb=
+sp;85706
+    <br />&nbsp;<br />
+    28527-1<br />&nbsp;<br />&nbsp;<br />&nbsp;
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22>
+<tr>
+<td style=3D=22color: =23505150; font-size: 12px; font-family: Arial, Helve=
+tica, sans-serif;=22>
+</td></tr></table>
+<img src=3D=22http://pixel=2Emonitor1=2Ereturnpath=2Enet/pixel=2Egif?r=3Dc1=
+202efe1ef11f59783f611d101217fe0d5bb0ba&s=3D171938247&CMC_ID=3D28527&Campaig=
+n_Name=3D28527_001_PreOrderPersonal_BAL2&CELL=3D001&SEGMENT_CODE=3D015&BU=
+=3DCGTTX=22 width=3D=221=22 height=3D=221=22></span></td>
+    <td style=3D=22line-height:1px;=22><img style=3D=22display:block;=22 sr=
+c=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/conten=
+tlibrary/2013/10/28527/28527-1/images/spacer=2Egif=22 width=3D=2220=22 heig=
+ht=3D=221=22 border=3D=220=22 alt=3D=22=22 /></td>
+  </tr>
+</table>
+<=21-- END DESKTOP -->
+<=21-- START MOBILE -->
+<=21--=5Bif =21mso 9=5D><=21-->
+<div style=3D=22mso-hide:all=22>
+<div class=3D=22mobile_again=22 style=3D=22width:0; overflow:hidden; displa=
+y:none=22>
+<table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=
+=3D=220=22 align=3D=22center=22 bgcolor=3D=22=23FFFFFF=22>
+	<tr>
+		<td valign=3D=22top=22><img style=3D=22display:block;=22 border=3D=220=22=
+ src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/con=
+tentlibrary/2013/10/28527/28527-1/images/logo=2Egif=22 alt=3D=22Intuit(R) T=
+urboTax(R)=22 width=3D=22159=22 height=3D=2252=22 class=3D=22emailwrapto100=
+pct imagesizing1=22 /></td>
+	</tr>
+	<tr>
+		<td><table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:19px;=
+ padding-right:19px; padding-top:5px; padding-bottom:20px;=22><span style=
+=3D=22font-size:26px; line-height:28px; font-family:Arial, Helvetica, sans-=
+serif; color:=23007ac9;=22>Step one to getting your taxes done right and yo=
+ur guaranteed biggest&nbsp;refund=21</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td><table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:19px;=
+ padding-right:14px; padding-top:1px; padding-bottom:1px;=22><span style=3D=
+=22font-size:15px; line-height:19px; font-family:Arial, Helvetica, sans-ser=
+if; color:=23616365;=22><img style=3D=22display:inline;=22 src=3D=22http://=
+responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/=
+10/28527/28527-1/images/checkmark=2Egif=22 width=3D=2214=22 height=3D=2216=
+=22 border=3D=220=22 alt=3D=22=22 />&nbsp;Federal Tax Return&nbsp;Preparati=
+on</span></td>
+			</tr>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:19px;=
+ padding-right:14px; padding-top:1px; padding-bottom:1px;=22><span style=3D=
+=22font-size:15px; line-height:19px; font-family:Arial, Helvetica, sans-ser=
+if; color:=23616365;=22><img style=3D=22display:inline;=22 src=3D=22http://=
+responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/=
+10/28527/28527-1/images/checkmark=2Egif=22 width=3D=2214=22 height=3D=2216=
+=22 border=3D=220=22 alt=3D=22=22 />&nbsp;FREE Federal E-files (5&nbsp;retu=
+rns)</span></td>
+			</tr>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:19px;=
+ padding-right:14px; padding-top:1px; padding-bottom:1px;=22><span style=3D=
+=22font-size:15px; line-height:19px; font-family:Arial, Helvetica, sans-ser=
+if; color:=23616365;=22><img style=3D=22display:inline;=22 src=3D=22http://=
+responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/=
+10/28527/28527-1/images/checkmark=2Egif=22 width=3D=2214=22 height=3D=2216=
+=22 border=3D=220=22 alt=3D=22=22 />&nbsp;Included FREE&=238211;1 State&nbs=
+p;Download*</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td valign=3D=22top=22><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/p=
+ub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfE=
+qLD7s6VXtpKX%3DSRRSBDCUT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoB=
+r0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmn=
+YeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22><img style=3D=22display:bl=
+ock;=22 border=3D=220=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/re=
+sponsysimages/inttax/contentlibrary/2013/10/28527/28527-1/images/03boxes=2E=
+jpg=22 alt=3D=22intuit(R) TurboTax -- Federal & State Returns=22 width=3D=
+=22296=22 height=3D=22237=22 class=3D=22emailwrapto100pct imagesizing2=22 /=
+></a></td>
+	</tr>
+	<tr>
+		<td valign=3D=22top=22 align=3D=22center=22><a href=3D=22https://e=2Eturb=
+otax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL=
+3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDCYT&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+N2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCX=
+ArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22><img =
+style=3D=22display:block;=22 border=3D=220=22 src=3D=22http://responsys=2Eh=
+s=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/2852=
+7-1/images/mobile_cta=2Ejpg=22 alt=3D=22Order Today=22 width=3D=22305=22 he=
+ight=3D=2233=22 class=3D=22emailwrapto100pct imagesizing3=22 /></a></td>
+	</tr>
+	<tr>
+		<td><table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:19px;=
+ padding-right:19px; padding-top:20px; padding-bottom:20px;=22><span style=
+=3D=22font-size:14px; line-height:22px; font-family:Arial, Helvetica, sans-=
+serif; color:=23616365;=22>Last year you used TurboTax to get your biggest =
+refund=2E This year it's even easier to get every penny you deserve again=
+=2E Plus, we always guarantee 100% accurate calculations* and your maximum =
+refund* possible&=238212;<a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/p=
+ub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfE=
+qLD7s6VXtpKX%3DSRRSBDCBT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoB=
+r0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCXArdAhZjgymzhQgAYVzZmn=
+YeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22 style=3D=22color:=23007ac9=
+;=22>order&nbsp;today</a>=21</span></td>
+			</tr>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22center=22 style=3D=22padding-left:19p=
+x; padding-right:19px; padding-top:0px; padding-bottom:20px;=22><span style=
+=3D=22font-size:17px; line-height:19px; font-family:Arial, Helvetica, sans-=
+serif; color:=23007ac9;=22>Taxes done right=2E Your biggest refund&nbsp;gua=
+ranteed=2E</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td valign=3D=22top=22><img style=3D=22display:block;=22 border=3D=220=22=
+ src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/con=
+tentlibrary/2013/10/28527/28527-1/images/mobile_icon1=2Egif=22 alt=3D=22=22=
+ width=3D=22305=22 height=3D=2290=22 class=3D=22emailwrapto100pct imagesizi=
+ng4=22 /></td>
+	</tr>
+	<tr>
+		<td><table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22center=22 style=3D=22padding-left:19p=
+x; padding-right:19px; padding-top:10px; padding-bottom:7px;=22><span style=
+=3D=22font-size:14px; line-height:16px; font-family:Arial, Helvetica, sans-=
+serif; color:=23007ac9;=22><strong>You've Got a Head&nbsp;Start</strong></s=
+pan></td>
+			</tr>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:19px;=
+ padding-right:19px; padding-top:5px; padding-bottom:10px;=22><span style=
+=3D=22font-size:14px; line-height:22px; font-family:Arial, Helvetica, sans-=
+serif; color:=23616365;=22>As a returning customer, we automatically transf=
+er last year's data to save you time and ensure&nbsp;accuracy=2E</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td valign=3D=22top=22><img style=3D=22display:block;=22 border=3D=220=22=
+ src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/con=
+tentlibrary/2013/10/28527/28527-1/images/mobile_icon2=2Egif=22 alt=3D=22=22=
+ width=3D=22305=22 height=3D=2290=22 class=3D=22emailwrapto100pct imagesizi=
+ng4=22 /></td>
+	</tr>
+	<tr>
+		<td><table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22center=22 style=3D=22padding-left:19p=
+x; padding-right:19px; padding-top:10px; padding-bottom:7px;=22><span style=
+=3D=22font-size:14px; line-height:16px; font-family:Arial, Helvetica, sans-=
+serif; color:=23007ac9;=22><strong>Step-By-Step Guidance</strong></span></t=
+d>
+			</tr>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:19px;=
+ padding-right:19px; padding-top:5px; padding-bottom:10px;=22><span style=
+=3D=22font-size:14px; line-height:22px; font-family:Arial, Helvetica, sans-=
+serif; color:=23616365;=22>TurboTax guides you through your unique tax situ=
+ation so you can be confident you don't miss a&nbsp;thing=2E</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td valign=3D=22top=22><img style=3D=22display:block;=22 border=3D=220=22=
+ src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsysimages/inttax/con=
+tentlibrary/2013/10/28527/28527-1/images/mobile_icon3=2Egif=22 alt=3D=22=22=
+ width=3D=22305=22 height=3D=2290=22 class=3D=22emailwrapto100pct imagesizi=
+ng4=22 /></td>
+	</tr>
+	<tr>
+		<td><table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22center=22 style=3D=22padding-left:19p=
+x; padding-right:19px; padding-top:10px; padding-bottom:7px;=22><span style=
+=3D=22font-size:14px; line-height:16px; font-family:Arial, Helvetica, sans-=
+serif; color:=23007ac9;=22><strong>Done Right=2E Every&nbsp;Time=2E</strong=
+></span></td>
+			</tr>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:19px;=
+ padding-right:19px; padding-top:5px; padding-bottom:20px;=22><span style=
+=3D=22font-size:14px; line-height:22px; font-family:Arial, Helvetica, sans-=
+serif; color:=23616365;=22>TurboTax double-checks your tax return as you go=
+, and before you file, so you're sure nothing has been left&nbsp;out=2E</sp=
+an></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td valign=3D=22top=22 align=3D=22center=22><a href=3D=22https://e=2Eturb=
+otax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL=
+3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSBDCDT&_ei_=3DEolaGGF4SNMvxFF7KucKuW=
+N2DhXFcMKEk1oIsUIVnoBr0NcxQnmHX2CG-vREb08VhpOInbMbv6zl3cir61eNoocV0Aqjz5wCX=
+ArdAhZjgymzhQgAYVzZmnYeGUwtzuz0Y0u9CvVxN0=2E=22 target=3D=22_blank=22><img =
+style=3D=22display:block;=22 border=3D=220=22 src=3D=22http://responsys=2Eh=
+s=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/2852=
+7-1/images/mobile_cta=2Ejpg=22 alt=3D=22Order Today=22 width=3D=22305=22 he=
+ight=3D=2233=22 class=3D=22emailwrapto100pct imagesizing3=22 /></a></td>
+	</tr>
+	<tr>
+		<td><table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22center=22 style=3D=22padding-left:19p=
+x; padding-right:19px; padding-top:20px; padding-bottom:20px;=22><span styl=
+e=3D=22font-size:18px; line-height:20px; font-family:Arial, Helvetica, sans=
+-serif; color:=23007ac9;=22>100% Satisfaction Guaranteed=21*</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td><table bgcolor=3D=22=23666666=22 width=3D=22305=22 border=3D=220=22 c=
+ellspacing=3D=220=22 cellpadding=3D=220=22>
+			<tr>
+				<td><img style=3D=22display:block; padding-left: 15px; padding-right: 4=
+px; padding-top: 4px; padding-bottom: 4px;=22 src=3D=22http://responsys=2Eh=
+s=2Ellnwd=2Enet/i2/responsysimages/inttax/contentlibrary/2013/10/28527/2852=
+7-1/images/mobile_join=2Egif=22 width=3D=22112=22 height=3D=2226=22 border=
+=3D=220=22 alt=3D=22Join the Conversation=22 class=3D=22emailwrapto100pct i=
+magesizing7=22 /></td>
+				<td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDDST&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block; paddi=
+ng-right: 9px;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsys=
+images/inttax/contentlibrary/2013/10/28527/28527-1/images/facebook=2Egif=22=
+ width=3D=2224=22 height=3D=2226=22 border=3D=220=22 alt=3D=22Facebook=22 c=
+lass=3D=22emailwrapto100pct imagesizing8=22 /></a></td>
+				<td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDDUT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block; paddi=
+ng-right: 9px;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsys=
+images/inttax/contentlibrary/2013/10/28527/28527-1/images/twitter=2Egif=22 =
+width=3D=2226=22 height=3D=2226=22 border=3D=220=22 alt=3D=22Twitter=22 cla=
+ss=3D=22emailwrapto100pct imagesizing9=22 /></a></td>
+				<td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDDYT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block; paddi=
+ng-right: 9px;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsys=
+images/inttax/contentlibrary/2013/10/28527/28527-1/images/youtube=2Egif=22 =
+width=3D=2226=22 height=3D=2226=22 border=3D=220=22 alt=3D=22YouTube=22 cla=
+ss=3D=22emailwrapto100pct imagesizing9=22 /></a></td>
+				<td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDDBT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block; paddi=
+ng-right: 9px;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsys=
+images/inttax/contentlibrary/2013/10/28527/28527-1/images/pinterest=2Egif=
+=22 width=3D=2226=22 height=3D=2226=22 border=3D=220=22 alt=3D=22Pinterest=
+=22 class=3D=22emailwrapto100pct imagesizing9=22 /></a></td>
+				<td><a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSR=
+RSBDDDT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC=
+7K1mEDhckg=2E=22 target=3D=22_blank=22><img style=3D=22display:block; paddi=
+ng-right: 10px;=22 src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i2/responsy=
+simages/inttax/contentlibrary/2013/10/28527/28527-1/images/blog=2Egif=22 wi=
+dth=3D=2226=22 height=3D=2226=22 border=3D=220=22 alt=3D=22Blog=22 class=3D=
+=22emailwrapto100pct imagesizing9=22 /></a></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td><table width=3D=22305=22 border=3D=220=22 cellspacing=3D=220=22 cellp=
+adding=3D=220=22 bgcolor=3D=22=23ebebeb=22>
+			<tr>
+				<td valign=3D=22top=22 align=3D=22left=22 style=3D=22padding-left:15px;=
+ padding-right:15px; padding-top:20px; padding-bottom:30px;=22><span style=
+=3D=22font-size:10px; line-height:12px; font-family:Arial, Helvetica, sans-=
+serif; color:=23666666;=22>Terms, conditions, features, availability, prici=
+ng, fees, service and support options subject to change without&nbsp;notice=
+=2E
+    <br />&nbsp;<br />
+    *<a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSC=
+RRST&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC7K1=
+mEDhckg=2E=22 target=3D=22_blank=22 style=3D=22color:=23336699;=22>Click He=
+re</a> to see TurboTax product guarantees, disclaimers and other important =
+information=2E <br />&nbsp;<br />
+    This email was sent to the following address: dinsmorealex=40gmail=2Ecom
+    <br />&nbsp;<br />=20
+    <a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSCR=
+RUT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC7K1m=
+EDhckg=2E=22 target=3D=22_blank=22 style=3D=22color:=23336699;=22>Privacy P=
+olicy</a>=2E  <a href=3D=22https://e=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtp=
+KX%3DSRRSBDBDT&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrt4NhFA4QM=
+wDf1qotj2E9ZgcMOgC4GuwO7-MqZDfazHuIErc=2E=22 target=3D=22_blank=22 style=3D=
+=22color:=23336699;=22>Manage Preferences</a>=2E <a href=3D=22mailto:spoof=
+=40intuit=2Ecom=22 target=3D=22_blank=22 style=3D=22color:=23336699;=22>Rep=
+ort to Security</a>=2E  =20
+     <br />&nbsp;<br />
+    &copy; 2013 Intuit Inc=2E All rights reserved=2E <a href=3D=22https://e=
+=2Eturbotax=2Eintuit=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2zez=
+cGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXtpKX%3DSRRSCRRYT&_ei_=3DEolaGGF4SNMvxFF=
+7KucKuWN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC7K1mEDhckg=2E=22 target=3D=22_=
+blank=22 style=3D=22color:=23336699;=22>Trademark</a>
+    <br />&nbsp;<br />
+    Customer Communications, 2800 E=2E Commerce Center Place, Tucson, AZ&nb=
+sp;85706 <br><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 border=3D=220=22>
+<tr>
+<td style=3D=22color: =23505150; font-size: 12px; font-family: Arial, Helve=
+tica, sans-serif;=22>
+</td></tr></table>
+<img src=3D=22http://pixel=2Emonitor1=2Ereturnpath=2Enet/pixel=2Egif?r=3Dc1=
+202efe1ef11f59783f611d101217fe0d5bb0ba&s=3D171938247&CMC_ID=3D28527&Campaig=
+n_Name=3D28527_001_PreOrderPersonal_BAL2&CELL=3D001&SEGMENT_CODE=3D015&BU=
+=3DCGTTX=22 width=3D=221=22 height=3D=221=22>
+    <br />&nbsp;<br />
+28527-1<br /></span></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+</div>
+</div>
+<=21--<=21=5Bendif=5D-->
+<=21-- END MOBILE --><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22https:/=
+/e=2Eturbotax=2Eintuit=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlTQGoLIT2JK2z=
+ezcGqi8YL3aUrXPDOXcv6Ou3aTozfEqLD7s6VXHkMX%3Dw&_ei_=3DEolaGGF4SNMvxFF7KucKu=
+WN2DhXFcMKEk1oIsUIVnoBrTYaUCi_yaSPxDOqC7K1mEDhckg=2E=22>
+
+
+</body>
+</html>
+
+

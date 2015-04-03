@@ -1,0 +1,382 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.175.144 with SMTP id ca16csp336191ldc;
+        Sat, 6 Dec 2014 16:17:54 -0800 (PST)
+X-Received: by 10.140.34.233 with SMTP id l96mr37392081qgl.74.1417911474090;
+        Sat, 06 Dec 2014 16:17:54 -0800 (PST)
+Return-Path: <hello@mail.etsy.com>
+Received: from mailout13.etsy.com (mailout13.etsy.com. [38.106.64.67])
+        by mx.google.com with ESMTP id l7si12346353qcz.4.2014.12.06.16.17.53
+        for <dinsmorealex@gmail.com>;
+        Sat, 06 Dec 2014 16:17:54 -0800 (PST)
+Received-SPF: pass (google.com: domain of hello@mail.etsy.com designates 38.106.64.67 as permitted sender) client-ip=38.106.64.67;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of hello@mail.etsy.com designates 38.106.64.67 as permitted sender) smtp.mail=hello@mail.etsy.com;
+       dkim=pass header.i=@mail.etsy.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=mail.etsy.com
+Return-Path: <hello@mail.etsy.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.etsy.com;
+	s=default; t=1417911472;
+	bh=2r/uj+lqUDvAi0YV24/xsqTVXToXfAJTVNw7kzW8UyQ=;
+	h=Date:MIME-Version:Content-type:From:To:Subject;
+	b=E71egubKq0j5qdSWr+zhy4u/tVO0x8/p7Ca2iPXwvto797rUlRJwcMa4OZfkRV3/B
+	 HNYWz5Q0PAN5xMPBKFu4Dpp6DZA6CuChtzjoZ+q2fX3TiPkiRZIxmwvF4MT0GyGq+w
+	 Kae2HQ1M9ZH1veIhCy2bevN+T6YGwX+gNZNnTA1I=
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=default; d=mail.etsy.com;
+	h=X-MSFBL:Received:Date:Message-ID:X-YarnBlaster:X-EmailType:EtsyMail:MIME-Version:Content-type:From:X-EUID:X-EAID:X-UTM-CAMPAIGN:X-CAMPAIGN-LABEL:X-UTM-SOURCE:Reply-To:Sender:To:Subject;
+	b=VDQZbiW9+uIHzRQDZjPuoQc0YjpFWIoqaOYE/IshDneS5bdqcVwXFq4WH2+vVJ/8
+	M+W6ADZA7i2Pr2PouB8jx+Jlw/7HyfOd24jmPqCRi7rXmMr/5YUcmb8QitIys2cr
+	orin6Yf4RH8dmqMMdKYIB3zqnlZE6IzH3XIiMBqkKb8=
+X-MSFBL: ZGluc21vcmVhbGV4QGdtYWlsLmNvbUBzeXNub3RpZi1iQHN5c25vdGlmQA==
+Received: from [10.100.19.37] ([10.100.19.37:19071] helo=www.etsy.com)
+	by msysmta02.ny5.etsy.com (envelope-from <hello@mail.etsy.com>)
+	(ecelerity 3.6.4.44580 r(Platform:3.6.4.1)) with ESMTP
+	id 1E/6B-02210-0BC93845; Sun, 07 Dec 2014 00:17:52 +0000
+Date: Sun, 07 Dec 2014 00:17:52 +0000
+Message-ID: <1E.6B.02210.0BC93845@msysmta02.ny5.etsy.com>
+X-YarnBlaster: sysnotif
+X-EmailType: circle_connection_notification_010170_7625379938_0_0
+EtsyMail: works every time
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary="b13cd475ef3d32d5ec404de987b2fba549995f4a"
+From: Etsy <emails@mail.etsy.com>
+X-EUID: tEQM1qpyIhuZjPjOFKoghcezj162
+X-EAID: 2836091578
+X-UTM-CAMPAIGN: circle_connection_notification_010170_7625379938_0_0
+X-CAMPAIGN-LABEL: circle_connection_notification
+X-UTM-SOURCE: transactional
+Reply-To: noreply@mail.etsy.com
+Sender: noreply@mail.etsy.com
+To: dinsmorealex@gmail.com
+Subject: BURGER started following you on Etsy!
+
+--b13cd475ef3d32d5ec404de987b2fba549995f4a
+Content-type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<img style=3D'position: absolute; left: -9000px;' width=3D'1' height=3D'1' =
+src=3D'https://www.etsy.com/mailinglist/beacon/?campaign_label=3Dcircle_con=
+nection_notification&utm_source=3Dtransactional&utm_campaign=3Dcircle_conne=
+ction_notification_010170_7625379938_0_0&utm_medium=3Demail&utm_content=3D&=
+email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D28360915=
+78&x_eaid=3Deca338c35d'/><img style=3D'position: absolute; left: -9000px;' =
+width=3D'1' height=3D'1' src=3D'http://bcn.etsy.com/beacon?.user_id=3D&requ=
+est_uuid=3DLlydV7Y6nUSKshlQHZ7hmCAM7oz1&php_event_name=3Demail_open&php_uni=
+que_id=3D54839cb06805b6.93090653&php_event_date=3D07%2FDec%2F2014%3A00%3A17=
+%3A52&locale_currency_code=3DUSD&pref_language=3Den-US&region=3DXX&detected=
+_currency_code=3DUSD&detected_language=3Den-US&detected_region=3DXX&cdn-pro=
+vider=3D&isMobileDevice=3D0&isMobileSupported=3D0&isMobileRequestIgnoreCook=
+ie=3D0&isTabletSupported=3D0&isTouch=3D0&isEtsyApp=3D0&isPreviewRequest=3D0=
+&isChromeInstantRequest=3D0&isMozPrefetchRequest=3D0&campaign_label=3Dcircl=
+e_connection_notification&utm_source=3Dtransactional&utm_campaign=3Dcircle_=
+connection_notification_010170_7625379938_0_0&utm_medium=3Demail&email_sent=
+=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&email=3D1&.event_source=3Demail&.event_logger=3Dbackend&.vers=
+ion=3D0&.page_guid=3Dce55518abab.fd29751f51de5118cc8b.00&php_ab_test_names=
+=3Denabled_locale_subdirectories%3Bsearch_perf.perf_improvements_2014q4%3Bp=
+roteus_header_v2%3Bproteus_buttons_v2%3Bxssauditor%3Binternational.language=
+s.el%3Binternational.languages.pl%3Bsimplified_locale_experience&php_ab_var=
+_names=3Doff%3Boff%3Boff%3Boff%3Boff%3Boff%3Boff%3Boff&php_ab_selector_name=
+s=3Dx%3Bx%3Bx%3Bx%3Bw%3Bx%3Bx%3Bx&.p=3D1&.np=3D1&.guid=3Dce55518abab.619cb3=
+4a44cd7a71d5ec.00'/>=0A<head>=0A    <style type=3D"text/css">=0A           =
+         bdo, samp { width: 33.333% !important; }=0A    dfn { width: 33% !i=
+mportant; max-width: 33% !important; }=0A=0A    table th table { width: 596=
+px !important; }=0A    table th table table { width: 100% !important; }=0A =
+       table th bdo table, table th dfn table, table th samp table { width:=
+ 90% !important; }=0A    table th bdo table, table th samp table { margin: =
+0 5% !important; }=0A        dl > dt, dl > div { width: 48.201% !important;=
+ display: inline-block !important; padding: 0 3.598% 0 0 !important; }=0A  =
+  dl > dt + dt, dl > dt + div, dl > div + dt { padding: 0 !important; }=0A =
+   dl > dt:only-of-type { width: 30.935% !important; }=0A    dl > div { wid=
+th: 65.468% !important; }=0A        ol { overflow: hidden; display: table; =
+width: 100%; }=0A    ol li { display: table-row !important; text-align: lef=
+t !important; }=0A    ol li > p { display: table-cell !important; margin: 0=
+ !important; text-align: left; }=0A    ol li > p + p { text-align: right; }=
+=0A        var > a { background: transparent url(https://www.etsy.com/image=
+s/email/meteor/canvas/call-to-action-arrow.png) right center no-repeat !imp=
+ortant; text-align: right !important; padding: 0 18px 0 0 !important; }=0A =
+       dfn + a td + td + td > div { width: auto !important; }=0A        a i=
+mg { border: none !important; }=0A        cite td { text-align: left !impor=
+tant; }=0A=0A    </style>=0A</head>=0A<body style=3D"font-family: Arial, He=
+lvetica, sans-serif; -webkit-text-size-adjust: none; -moz-text-size-adjust:=
+ none; -ms-text-size-adjust: 100%; margin: 0 !important; padding 0 !importa=
+nt;">=0A    <style type=3D"text/css">=0A                    bdo, samp { wid=
+th: 33.333% !important; }=0A    dfn { width: 33% !important; max-width: 33%=
+ !important; }=0A=0A    table th table { width: 596px !important; }=0A    t=
+able th table table { width: 100% !important; }=0A        table th bdo tabl=
+e, table th dfn table, table th samp table { width: 90% !important; }=0A   =
+ table th bdo table, table th samp table { margin: 0 5% !important; }=0A   =
+     dl > dt, dl > div { width: 48.201% !important; display: inline-block !=
+important; padding: 0 3.598% 0 0 !important; }=0A    dl > dt + dt, dl > dt =
++ div, dl > div + dt { padding: 0 !important; }=0A    dl > dt:only-of-type =
+{ width: 30.935% !important; }=0A    dl > div { width: 65.468% !important; =
+}=0A        ol { overflow: hidden; display: table; width: 100%; }=0A    ol =
+li { display: table-row !important; text-align: left !important; }=0A    ol=
+ li > p { display: table-cell !important; margin: 0 !important; text-align:=
+ left; }=0A    ol li > p + p { text-align: right; }=0A        var > a { bac=
+kground: transparent url(https://www.etsy.com/images/email/meteor/canvas/ca=
+ll-to-action-arrow.png) right center no-repeat !important; text-align: righ=
+t !important; padding: 0 18px 0 0 !important; }=0A        dfn + a td + td +=
+ td > div { width: auto !important; }=0A        a img { border: none !impor=
+tant; }=0A        cite td { text-align: left !important; }=0A=0A           =
+     @media (max-width: 654px) {=0A            .content { width: auto !impo=
+rtant; }=0A            table[class=3Dproteus_logo_header] { width: 100% !im=
+portant; }=0A            dl[class=3Dproteus_twocol] > dt, dl[class=3Dproteu=
+s_twocol] > div { width: 100% !important; display: block !important; paddin=
+g: 0 0 12px 0 !important; }=0A            ol[class=3Dproteus_text_with_butt=
+on] li > p { width: 100% !important; display: block !important; margin: 0 0=
+ 6px 0 !important; text-align: center !important; }=0A            ol[class=
+=3Dproteus_text_with_button] li > p + p { margin: 0 !important; }=0A       =
+     div[class=3D"text-button-cta"] div {=0A                float: none !im=
+portant;=0A                display: block !important;=0A                pad=
+ding: 0 !important;=0A                width: 100% !important;=0A           =
+ }=0A            div[class=3D"text-button-cta"] div + div img {=0A         =
+       width: 60% !important;=0A                display: block !important;=
+=0A                margin: 0 auto -20px !important;=0A                float=
+: none !important;=0A                padding: 5px 0;=0A            }=0A=0A =
+           div[class=3D"proteus_seller_header"] {=0A                width: =
+100% !important;=0A            }=0A=0A            div[class=3D"proteus_sell=
+er_header"] div {=0A                width: 100% !important;=0A             =
+   text-align: center !important;=0A            }=0A        }=0A=0A        =
+=0A        @media (max-width: 454px) {=0A            .hide {visibility: hid=
+den !important; display: none !important;}=0A                        samp[y=
+ahoo] { width: 50% !important; }=0A            dfn[yahoo] { max-width: none=
+ !important; width: 49.5% !important; border-bottom: 2px solid white;}=0A  =
+          table th dfn, table th dfn table{ border-right: none !important; =
+}=0A            bdo[yahoo] { width: auto !important; }=0A            bdo[ya=
+hoo] table { width: 97% !important; margin: 0 1.5% !important; }=0A        =
+    dfn[yahoo]:first-of-type, dfn[yahoo]:last-of-type { width: 99% !importa=
+nt; }=0A            var[class=3Dproteus_cta_link] a { background: #e6f5f9 !=
+important; text-align: center !important; padding: 5% !important; }=0A     =
+       table[class=3Dproteus_logo_header] td { text-align: center !importan=
+t; }=0A       }=0A=0A    </style>=0A    <table style=3D"width: 100%; border=
+-spacing: 0;" cellpadding=3D"0" cellspacing=3D"0">=0A            <tr><th st=
+yle=3D"background: #f5f5f1; border-top: solid 6px #D15600; font-weight: nor=
+mal; text-align: left; ">=0A    <table style=3D"width: 100%; max-width: 596=
+px; border-spacing: 0; margin: 0 auto;" class=3D"content" cellpadding=3D"0"=
+ cellspacing=3D"0" align=3D"center"><tr><td>=0A    <table style=3D"margin: =
+0%; width: 100%; border-spacing: 0; table-layout: fixed;" cellpadding=3D"0"=
+ cellspacing=3D"0">=0A    <tr><td style=3D"border-spacing: 0; padding-left:=
+ 1.679%; padding-right: 1.679%;">=0A    <div style=3D"overflow: hidden; ; f=
+ont-size: 15px; color: #555; padding: 24px 0 12px;; padding-left: 1.679%; p=
+adding-right: 1.679%;"><a href=3D"https://www.etsy.com?campaign_label=3Dcir=
+cle_connection_notification&utm_source=3Dtransactional&utm_campaign=3Dcircl=
+e_connection_notification_010170_7625379938_0_0&utm_medium=3Demail&utm_cont=
+ent=3D&email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2=
+836091578&x_eaid=3Deca338c35d&link_clicked=3D0" title=3D"Etsy.com"><img src=
+=3D"https://www.etsy.com/images/email/etsy_logo@2x_email.png" border=3D"0" =
+height=3D"24" width=3D"47" alt=3D"Etsy" style=3D"vertical-align: top;" /></=
+a></div>=0A</td></tr><tr><td style=3D"border-spacing: 0; padding-left: 3.35=
+8%; padding-right: 3.358%;">=0A    <div style=3D"overflow: hidden; backgrou=
+nd: #fff;; font-size: 15px; color: #555; border-bottom-color: #eaeae3; bord=
+er-bottom-style: solid; border-bottom-width: 2px;; padding-left: 3.358%; pa=
+dding-right: 3.358%;">        <h1 style=3D"font-family: Georgia, Times, 'Ti=
+mes New Roman', serif; color: #222222; font-weight: normal; font-size: 20px=
+; margin: 0; margin: 20px 0 14px;; margin-left: 0; margin-right: 0;">      =
+                      Hi Alex, you have a new follower on Etsy!=0A         =
+           </h1>    </div>=0A</td></tr><tr><td style=3D"border-spacing: 0; =
+padding-left: 3.358%; padding-right: 3.358%;">=0A    <div style=3D"overflow=
+: hidden; background: #fff;; font-size: 15px; color: #555; line-height: 2em=
+; padding: 30px 2% 0; font-size: 13px; text-align: center;; padding-left: 3=
+.358%; padding-right: 3.358%;">        <a href=3D"https://www.etsy.com/peop=
+le/BurgerRecords?utm_source=3Dtransactional&utm_medium=3Demail&utm_campaign=
+=3Dcircle_connection_notification_010170_7625379938_0_0&campaign_label=3Dci=
+rcle_connection_notification&utm_content=3D&email_sent=3D1417904148&euid=3D=
+tEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=3Deca338c35d&link_cli=
+cked=3D1">=0A            <img src=3D'http://img1.etsystatic.com/055/0/57639=
+793/iusa_75x75.28771125_5itl.jpg' width=3D75 height=3D75 style=3D'border-ra=
+dius: 50px; margin-bottom: 10px;' />=0A        </a>=0A        <a href=3D"ht=
+tps://www.etsy.com/people/BurgerRecords?utm_source=3Dtransactional&utm_medi=
+um=3Demail&utm_campaign=3Dcircle_connection_notification_010170_7625379938_=
+0_0&campaign_label=3Dcircle_connection_notification&utm_content=3D&email_se=
+nt=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eai=
+d=3Deca338c35d&link_clicked=3D2" style=3D"font-family: Georgia, serif;font-=
+size: 18px; color: #0192B5; display: block; text-decoration: none;">BURGER =
+(BurgerRecords)</a>=0A        <span style=3D"font-size: 13px; color: #666; =
+display: block; text-decoration: none;">Fullerton, California, United State=
+s</span>=0A                    <span style=3D"padding-bottom: 10px; display=
+: block; white-space: nowrap font-size: 13px; color: #666;">=0A            =
+                        Favorites: <a href=3D"https://www.etsy.com/people/B=
+urgerRecords/favorites?campaign_label=3Dcircle_connection_notification&utm_=
+source=3Dtransactional&utm_campaign=3Dcircle_connection_notification_010170=
+_7625379938_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1417904148&e=
+uid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=3Deca338c35d&li=
+nk_clicked=3D3" style=3D"color: #0192B5; text-decoration: none;">16</a>=0A =
+                                           </span>=0A                    </=
+div>=0A</td></tr><tr><td style=3D"border-spacing: 0; padding-left: 3.358%; =
+padding-right: 3.358%;">=0A    <div style=3D"overflow: hidden; background: =
+#fff;; font-size: 15px; color: #555; text-align: center;; padding-left: 3.3=
+58%; padding-right: 3.358%;">        <div><table align=3D"center" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: auto!important; mar=
+gin: 0; margin-left: auto; margin-right: auto; border-spacing: 0; margin-to=
+p: 10px;">=0A            <tr><td height=3D"100%" style=3D"background: #34a8=
+c4; border-bottom: 2px solid #0192b5; border-radius: 5px; border-top: 2px s=
+olid #67bed3; color: #fff; display: block; padding: 3px 15px; border-collap=
+se: collapse;">=0A                <a href=3D"https://www.etsy.com/people/Bu=
+rgerRecords?utm_source=3Dtransactional&utm_medium=3Demail&utm_campaign=3Dci=
+rcle_connection_notification_010170_7625379938_0_0&campaign_label=3Dcircle_=
+connection_notification&utm_content=3D&email_sent=3D1417904148&euid=3DtEQM1=
+qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=
+=3D4" style=3D"background: #34a8c4; border-radius: 5px; color: #fff; displa=
+y: block; font-family: Arial,sans-serif; font-size: 15px; font-weight: bold=
+; line-height: 17px; padding-bottom: 5px; padding-left: 5px; padding-right:=
+ 5px; padding-top: 5px; text-align: center; text-decoration: none;">=0A    =
+                <span>Follow BURGER</span>=0A                </a>=0A       =
+     </td></tr>=0A        </table></div>=0A    </div>=0A</td></tr><tr><td s=
+tyle=3D"border-spacing: 0; padding-left: 3.358%; padding-right: 3.358%;">=
+=0A    <div style=3D"overflow: hidden; background: #fff;; font-size: 15px; =
+color: #555; padding-top: 30px;; padding-left: 3.358%; padding-right: 3.358=
+%;">        <h2 style=3D"font-family: Georgia, Times, 'Times New Roman', se=
+rif; color: #222222; font-weight: normal; font-size: 18px; margin: 0; margi=
+n: 0 1% 16px;; margin-left: 0; margin-right: 0;">Recently favorited items f=
+rom BURGER:</h2>        </div>=0A<div style=3D"background: #fff;; padding-l=
+eft: 1.679%; padding-right: 1.679%;">=0A<a href=3D"https://www.etsy.com/lis=
+ting/193545368/burger-hobo-baby?campaign_label=3Dcircle_connection_notifica=
+tion&utm_source=3Dtransactional&utm_campaign=3Dcircle_connection_notificati=
+on_010170_7625379938_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D141=
+7904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=3Deca3=
+38c35d&link_clicked=3D5"><bdo yahoo=3D"fix" style=3D"padding: 0; display: i=
+nline-block; border: none; margin: 0; width: 100%;"><table style=3D"width: =
+96%; padding: 0 0 20px 0; table-layout: fixed; font-size: 13px;" cellpaddin=
+g=3D"0" cellspacing=3D"0" align=3D"center"><tr><td style=3D"border-spacing:=
+ 0;  ">=0A            <img src=3D'http://img1.etsystatic.com/026/0/9635497/=
+il_340x270.616797043_ahja.jpg' style=3D'width: 100%;' />=0A        <div sty=
+le=3D"font-family: Arial, Helvetica, sans-serif; ">=0A        <div href=3D"=
+https://www.etsy.com/listing/193545368/burger-hobo-baby?campaign_label=3Dci=
+rcle_connection_notification&utm_source=3Dtransactional&utm_campaign=3Dcirc=
+le_connection_notification_010170_7625379938_0_0&utm_medium=3Demail&utm_con=
+tent=3D&email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D=
+2836091578&x_eaid=3Deca338c35d&link_clicked=3D6" style=3D"color: #555; disp=
+lay: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;=
+ text-decoration: none; padding: 6px 0 3px;">BURGER HOBO BABY</div>=0A     =
+   <span style=3D"display: block; white-space: nowrap;">=0A                =
+        <span class=3D"price" style=3D"color: #7AC142; float: right; paddin=
+g-left: 4px; "><span class=3D"currency-symbol">$</span><span class=3D"curre=
+ncy-value">30.00</span> <span class=3D"currency-code">USD</span></span>=0A =
+                       <a href=3D"https://www.etsy.com/shop/WEIRDCLASS?camp=
+aign_label=3Dcircle_connection_notification&utm_source=3Dtransactional&utm_=
+campaign=3Dcircle_connection_notification_010170_7625379938_0_0&utm_medium=
+=3Demail&utm_content=3D&email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKog=
+hcezj162&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D7" style=3D"d=
+isplay: block; overflow: hidden; text-overflow: ellipsis; color: #777; text=
+-decoration: none;">WEIRDCLASS</a>=0A                    </span>=0A    </di=
+v>=0A</td></tr></table>=0A</bdo></a><a href=3D"https://www.etsy.com/listing=
+/193554187/diy-burger-flyer?campaign_label=3Dcircle_connection_notification=
+&utm_source=3Dtransactional&utm_campaign=3Dcircle_connection_notification_0=
+10170_7625379938_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1417904=
+148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=3Deca338c3=
+5d&link_clicked=3D8"><bdo yahoo=3D"fix" style=3D"padding: 0; display: inlin=
+e-block; border: none; margin: 0; width: 100%;"><table style=3D"width: 96%;=
+ padding: 0 0 20px 0; table-layout: fixed; font-size: 13px;" cellpadding=3D=
+"0" cellspacing=3D"0" align=3D"center"><tr><td style=3D"border-spacing: 0; =
+ ">=0A            <img src=3D'http://img1.etsystatic.com/027/0/9635497/il_3=
+40x270.616790445_8148.jpg' style=3D'width: 100%;' />=0A        <div style=
+=3D"font-family: Arial, Helvetica, sans-serif; ">=0A        <div href=3D"ht=
+tps://www.etsy.com/listing/193554187/diy-burger-flyer?campaign_label=3Dcirc=
+le_connection_notification&utm_source=3Dtransactional&utm_campaign=3Dcircle=
+_connection_notification_010170_7625379938_0_0&utm_medium=3Demail&utm_conte=
+nt=3D&email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D28=
+36091578&x_eaid=3Deca338c35d&link_clicked=3D9" style=3D"color: #555; displa=
+y: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; t=
+ext-decoration: none; padding: 6px 0 3px;">DIY BURGER FLYER</div>=0A       =
+ <span style=3D"display: block; white-space: nowrap;">=0A                  =
+      <span class=3D"price" style=3D"color: #7AC142; float: right; padding-=
+left: 4px; "><span class=3D"currency-symbol">$</span><span class=3D"currenc=
+y-value">50.00</span> <span class=3D"currency-code">USD</span></span>=0A   =
+                     <a href=3D"https://www.etsy.com/shop/WEIRDCLASS?campai=
+gn_label=3Dcircle_connection_notification&utm_source=3Dtransactional&utm_ca=
+mpaign=3Dcircle_connection_notification_010170_7625379938_0_0&utm_medium=3D=
+email&utm_content=3D&email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghce=
+zj162&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D10" style=3D"dis=
+play: block; overflow: hidden; text-overflow: ellipsis; color: #777; text-d=
+ecoration: none;">WEIRDCLASS</a>=0A                    </span>=0A    </div>=
+=0A</td></tr></table>=0A</bdo></a><a href=3D"https://www.etsy.com/listing/2=
+10313080/penelope-gazin-15-track-cassette-tape-on?campaign_label=3Dcircle_c=
+onnection_notification&utm_source=3Dtransactional&utm_campaign=3Dcircle_con=
+nection_notification_010170_7625379938_0_0&utm_medium=3Demail&utm_content=
+=3D&email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836=
+091578&x_eaid=3Deca338c35d&link_clicked=3D11"><bdo yahoo=3D"fix" style=3D"p=
+adding: 0; display: inline-block; border: none; margin: 0; width: 100%;"><t=
+able style=3D"width: 96%; padding: 0 0 20px 0; table-layout: fixed; font-si=
+ze: 13px;" cellpadding=3D"0" cellspacing=3D"0" align=3D"center"><tr><td sty=
+le=3D"border-spacing: 0;  ">=0A            <img src=3D'http://img1.etsystat=
+ic.com/047/1/5432509/il_340x270.679349189_qupc.jpg' style=3D'width: 100%;' =
+/>=0A        <div style=3D"font-family: Arial, Helvetica, sans-serif; ">=0A=
+        <div href=3D"https://www.etsy.com/listing/210313080/penelope-gazin-=
+15-track-cassette-tape-on?campaign_label=3Dcircle_connection_notification&u=
+tm_source=3Dtransactional&utm_campaign=3Dcircle_connection_notification_010=
+170_7625379938_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D141790414=
+8&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=3Deca338c35d=
+&link_clicked=3D12" style=3D"color: #555; display: block; white-space: nowr=
+ap; overflow: hidden; text-overflow: ellipsis; text-decoration: none; paddi=
+ng: 6px 0 3px;">PENELOPE GAZIN 15 track Cassette Tape on Weiner Records plu=
+s FREE pin</div>=0A        <span style=3D"display: block; white-space: nowr=
+ap;">=0A                        <span class=3D"price" style=3D"color: #7AC1=
+42; float: right; padding-left: 4px; "><span class=3D"currency-symbol">$</s=
+pan><span class=3D"currency-value">6.50</span> <span class=3D"currency-code=
+">USD</span></span>=0A                        <a href=3D"https://www.etsy.c=
+om/shop/PenelopeMeatloaf?campaign_label=3Dcircle_connection_notification&ut=
+m_source=3Dtransactional&utm_campaign=3Dcircle_connection_notification_0101=
+70_7625379938_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1417904148=
+&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=3Deca338c35d&=
+link_clicked=3D13" style=3D"display: block; overflow: hidden; text-overflow=
+: ellipsis; color: #777; text-decoration: none;">PenelopeMeatloaf</a>=0A   =
+                 </span>=0A    </div>=0A</td></tr></table>=0A</bdo></a>=0A<=
+/div>=0A<div>=0A    </div>=0A</td></tr><tr><td style=3D"border-spacing: 0; =
+padding-left: 3.358%; padding-right: 3.358%;">=0A    <div style=3D"overflow=
+: hidden; background: #fff;; font-size: 15px; color: #555; padding-bottom: =
+10px;; padding-left: 3.358%; padding-right: 3.358%;">        <var class=3D"=
+proteus_cta_link">=0A    <a style=3D"display: block; background: #e6f5f9; c=
+olor: #34A8C4; font-size: 14px; text-align: center; padding: 5%; font-style=
+: normal; border-radius: 6px; text-decoration: none;" href=3D"https://www.e=
+tsy.com/people/BurgerRecords/favorites?campaign_label=3Dcircle_connection_n=
+otification&utm_source=3Dtransactional&utm_campaign=3Dcircle_connection_not=
+ification_010170_7625379938_0_0&utm_medium=3Demail&utm_content=3D&email_sen=
+t=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&link_clicked=3D14">           See more of BURGER's favorites=
+=0A       </a>=0A</var>    </div>=0A</td></tr><tr><td style=3D"border-spaci=
+ng: 0; padding-left: 3.358%; padding-right: 3.358%;">=0A    <div style=3D"o=
+verflow: hidden; background: #fff;; font-size: 15px; color: #555; padding: =
+3%;; padding-left: 3.358%; padding-right: 3.358%;">            <div style=
+=3D"padding: 3% 3%; height: 100%; overflow: hidden; background: #efefeb; bo=
+rder: 1px solid #E6E6E5; border-radius: 6px;">=0A                          =
+      <ol style=3D"margin: 0; padding: 0; list-style: none;" class=3D"prote=
+us_text_with_button">=0A    <li style=3D"text-align: center;">=0A        <p=
+ style=3D"margin: 0 0 6px 0;">                    <span style=3D"color: #33=
+3; font-size: 14px; margin-bottom: 6px; display: inline-block;">See who you=
+ already know on Etsy.</span>=0A                </p>=0A        <p style=3D"=
+margin: 0;">                    =0A    =0A<a style=3D"display: inline-block=
+; font-size: 15px; padding: 6px 25px; color: #666; background: #f8f8f8; bor=
+der-top: solid 1px #d2d2d2; border-right: solid 1px #d2d2d2; border-bottom:=
+ solid 1px #d2d2d2; border-left: solid 1px #d2d2d2; border-radius: 3px; tex=
+t-decoration: none; white-space: nowrap; font-weight: bold; " href=3D"https=
+://www.etsy.com/friends?campaign_label=3Dcircle_connection_notification&utm=
+_source=3Dtransactional&utm_campaign=3Dcircle_connection_notification_01017=
+0_7625379938_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1417904148&=
+euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836091578&x_eaid=3Deca338c35d&l=
+ink_clicked=3D15">Find Your Friends</a></p>=0A    </li>=0A</ol>            =
+</div>=0A        </div>=0A</td></tr><tr><td style=3D"border-spacing: 0; pad=
+ding-left: 1.679%; padding-right: 1.679%;">=0A    <div style=3D"overflow: h=
+idden; ; font-size: 15px; color: #555; padding: 24px; text-align: center; f=
+ont-size: 13px; color: #555; ; padding-left: 7%; padding-right: 7%;">      =
+              <div style=3D"padding-top:4px;">=0AYou can control which emai=
+ls we send you in your account's <a style=3D"color: #0192b5; text-decoratio=
+n: none;" href=3D"https://www.etsy.com/your/account/email?utm_source=3Dtran=
+sactional&utm_medium=3Demail&utm_campaign=3Dcircle_connection_notification_=
+010170_7625379938_0_0&campaign_label=3Dcircle_connection_notification&utm_c=
+ontent=3D&email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=
+=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D16">email settings</a>.<br=
+/>=0A</div>                You are receiving this email from Etsy, Inc. bec=
+ause you registered on <a style=3D"color: #555; font-weight: normal; text-d=
+ecoration: underline;" href=3D"https://www.etsy.com?campaign_label=3Dcircle=
+_connection_notification&utm_source=3Dtransactional&utm_campaign=3Dcircle_c=
+onnection_notification_010170_7625379938_0_0&utm_medium=3Demail&utm_content=
+=3D&email_sent=3D1417904148&euid=3DtEQM1qpyIhuZjPjOFKoghcezj162&eaid=3D2836=
+091578&x_eaid=3Deca338c35d&link_clicked=3D17">Etsy.com</a> with this email =
+address.        <br />=0A        <br />=0A        Copyright &copy; 2014 Ets=
+y, Inc. 55 Washington St. Suite 512, Brooklyn, NY 11201 USA. All rights res=
+erved.=0A    </div>=0A</td></tr>=0A    </table>=0A    </td></tr></table>=0A=
+    </th></tr>=0A        </table>=0A</body>
+
+--b13cd475ef3d32d5ec404de987b2fba549995f4a--
+

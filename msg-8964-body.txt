@@ -1,0 +1,220 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.160.197 with SMTP id xm5csp499332ldb;
+        Sun, 25 Jan 2015 00:15:25 -0800 (PST)
+X-Received: by 10.140.17.70 with SMTP id 64mr13191177qgc.53.1422173724783;
+        Sun, 25 Jan 2015 00:15:24 -0800 (PST)
+Return-Path: <20150125081523569cd74462b9480c94dbdc5ba7ca9d09-C3CP3NGELZNEBB@bounces.amazon.com>
+Received: from a15-124.smtp-out.amazonses.com (a15-124.smtp-out.amazonses.com. [54.240.15.124])
+        by mx.google.com with ESMTPS id w5si8833468qag.72.2015.01.25.00.15.24
+        for <dinsmorealex@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 25 Jan 2015 00:15:24 -0800 (PST)
+Received-SPF: pass (google.com: domain of 20150125081523569cd74462b9480c94dbdc5ba7ca9d09-C3CP3NGELZNEBB@bounces.amazon.com designates 54.240.15.124 as permitted sender) client-ip=54.240.15.124;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 20150125081523569cd74462b9480c94dbdc5ba7ca9d09-C3CP3NGELZNEBB@bounces.amazon.com designates 54.240.15.124 as permitted sender) smtp.mail=20150125081523569cd74462b9480c94dbdc5ba7ca9d09-C3CP3NGELZNEBB@bounces.amazon.com;
+       dkim=pass header.i=@amazon.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=amazon.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1422173723;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=KTdLl2i/daMdGAIqeYMu4vwphf48yvYSv6fLLTlqO/o=;
+	b=tm6fg3sK+UZPcKpx7no4ZTJ3v4VoQMcNi5I0ormB5edarDKH/sETd/JFWPGIPg77
+	NL0PyFuuy0rFZoBAwD5E2TPalb9jU8jPVQlZcy5WLTRAg/ErbJzN0r34yzd3uh2kmnj
+	GO7ZLthFkmbXab+V0pFBw+nZ8cR2HqWwKuykQSHg=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=v52wzeq2nhi2ivaga2mkkcxigoeqeycs; d=amazon.com; t=1422173723;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=KTdLl2i/daMdGAIqeYMu4vwphf48yvYSv6fLLTlqO/o=;
+	b=T2G/s8BaLwh0heX9K+Jv7mU8gcuIntxzEXB20ni9xhU8D1I8UBVwCEY1/YTl0+LL
+	DBLxF2F7gb/IcqkbFHGkeLFdOhcUdQ0FgpEKAua/OAxQPfh1BM1ZiUahwXu+Kj0DvKM
+	xTdD9KX9nkpq53sF6djDYcVCQPQAi70w4eBF48q8=
+Date: Sun, 25 Jan 2015 08:15:23 +0000
+From: "Amazon.com" <store-news@amazon.com>
+To: "dinsmorealex@gmail.com" <dinsmorealex@gmail.com>
+Message-ID: <0000014b2028db81-87c39ed9-bf41-4992-bf68-c9bf70bc28f6-000000@email.amazonses.com>
+Subject: Leave Packaging Feedback for your recent purchases at Amazon.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_62972593_1121940718.1422173723458"
+Bounces-to: 20150125081523569cd74462b9480c94dbdc5ba7ca9d09-C3CP3NGELZNEBB@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: merchandizing
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20150125081523569cd74462b9480c94dbdc5ba7ca9d09@1422173723508.massmail-sender-na-1d-i-69035506.us-east-1.amazon.com>
+X-SES-Outgoing: 2015.01.25-54.240.15.124
+Feedback-ID: us-east-1.MjAxNTAxMjUwODE1MjM1NjljZDc0NDYyYjk0ODBjOTRkYmRjNWJhN2NhOWQwOS1DM0NQM05HRUxaTkVCQkBib3VuY2VzLmFtYXpvbi5jb20=:AmazonSES
+
+------=_Part_62972593_1121940718.1422173723458
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_62972594_1551226766.1422173723458"
+
+------=_Part_62972594_1551226766.1422173723458
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+
+Dear Alex Dinsmore,
+        
+        
+    Thank you for your recent purchase from Amazon.com!
+        
+    Did you know that you can help improve Amazon's packaging by leaving feedback for your recent purchases ? It's very easy--just click the link below: 
+        
+ 
+    http://www.amazon.com/packaging
+        
+        
+    Need Help?
+        
+        
+    If you have any trouble with the link above, you can rate your shipment's packaging by completing these steps:
+        
+    1. Go to http://www.amazon.com/packaging
+        
+    2. You'll be prompted to login.
+        
+    3. After logging in, you'll see a list of all of the shipments that need feedback.
+        
+    4. Find the shipment on the list and click the "Leave Packaging Feedback" button on the right.
+        
+        
+    
+         
+ 
+ Please note that this message was sent to the following e-mail address: dinsmorealex@gmail.com
+
+We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please visit the opt-out link here: http://www.amazon.com//gp/gss/o/1fvA1yfZDO.cU2WDb8eVcefjzdthuAifGD23GKQPz7NrF1aLVpDvL7RQ2XfZIuYlK
+
+(c) 2015 Amazon.com. All rights reserved. Amazon.com is a registered trademark of Amazon.com, Inc.
+
+Amazon.com, 410 Terry Avenue N., Seattle, WA 98109-5210.
+
+Reference 131801420
+
+
+
+
+------=_Part_62972594_1551226766.1422173723458
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+        <html> <head> <link href=3D'http://z-ecx.images-amazon.com/images/G=
+/01/nav2/gamma/websiteGlobalCSS/websiteGlobalCSS-websiteGlobal-10346._V1_.c=
+ss' type=3D'text/css' rel=3D'stylesheet'> <style type=3D"text/css"><!-- .sa=
+ns, .small, .h1, .h3color, .big, .tiny, .tinyprice, .highlight, .eyebrow,  =
+   a:active, a:visited, a:link, div.unified_widget p.seeMore,     div.unifi=
+ed_widget .carat, div.left_nav .carat, div.left_nav, div.left_nav     h2, d=
+iv.left_nav h3, div.left_nav a:link, div.left_nav a:visited,     .popover-t=
+iny, .horizontal-search, .horizontal-websearch, .topnav,     .topnav-active=
+ a:link, .tabon a, .tabon a:visited, .taboff a, .taboff     a:visited div.l=
+eftnav_popover h2, .signInMsg{   font-family: verdana,arial,helvetica,sans-=
+serif; } .listprice {   font-family: arial,verdana,helvetica,sans-serif; } =
+.price {   font-family: arial,verdana,helvetica,sans-serif; } .serif, .sans=
+, .h1, div.unified_widget .headline{   font-size: medium; } .big {   font-s=
+ize: xx-large; } .small, .h3color, .highlight, .horizontal-search {   font-=
+size: small; } .signInMsg {   font-size: x-small; } .tiny, .tinyprice, .pop=
+over-tiny, .horizontal-websearch {   font-size: x-small; } body, td, th {  =
+ font-family: verdana,arial,helvetica,sans-serif;   font-size: small; } .ey=
+ebrowBackGroundColor {   background-color: ; } div.left_nav, div.left_nav a=
+:link, div.left_nav a:visited {   font-family: Arial, sans-serif; } body { =
+  color: #000000;   margin-top: 0px; } --></style> </head> <body link=3D"#0=
+03090"><img src=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D1CE=
+ASOCIXQZ2X&H=3DOY1M2BTYH1JVQGUSQFHEWZPMU4EA&T=3DO&U=3Dhttp%3A%2F%2Fimages.a=
+mazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif" /> <div style=3D""> <center=
+> <table width=3D"450" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <t=
+r> <td colspan=3D"3"> <img src=3D"http://g-ecx.images-amazon.com/images/G/0=
+1/x-locale/misc/amazon-logo-table-top._V192250399_.gif" width=3D"584" heigh=
+t=3D"48" border=3D"0" /> </td> </tr> <tr> <td width=3D"2" bgcolor=3D"#cccc9=
+9"></td> <td width=3D"446" align=3D"center"> <br /> <table width=3D"95%" ce=
+llspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tr> <td align=3D"left" wid=
+th=3D"100%" style=3D"font-size:12;">
+                               =20
+
+Dear Alex Dinsmore,
+                                <br /><br />
+                                Thank you for your recent purchase from Ama=
+zon.com!<br /><br />
+                                Did you know that you can help improve Amaz=
+on's packaging by leaving feedback for your recent purchases?  It's very ea=
+sy--just click the "Leave Packaging Feedback" button below. <BR> <BR>=20
+Amazon's Packaging Feedback form is now optimized for your smartphone and m=
+obile device.  Please leave your feedback today!  <br /><br /> <table width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"border: solid 1px #a=
+2c8d8;" border=3D"0"> <tr     style=3D"border-top: solid 1px #A2C8D8; paddi=
+ng: 7px 10px 7px 10px; vertical-align: top; font-size:12;"> <td style=3D"bo=
+rder-top: solid 1px #A2C8D8; padding: 7px 10px 7px 10px; vertical-align: to=
+p; font-size:12; text-align:center; font-weight: bold; background-color:#DB=
+EAF1">January   16, 2015</td> </tr> <tr     style=3D"border-top: solid 1px =
+#A2C8D8; padding: 7px 10px 7px 10px; vertical-align: top; font-size:12;"> <=
+td style=3D"border-top: solid 1px #A2C8D8; padding: 7px 10px 7px 10px; vert=
+ical-align: top; font-size:12;"> <div style=3D"margin: 0px; padding: 0px; t=
+ext-align: left; font-size: 12px;"><table width=3D"100%" style=3D"border: 0=
+px;"><tr><td style=3D"text-align: left; width: 55px; font-size: 12px; paddi=
+ng: 0px 0px;"><span style=3D"width: 55px; height: 50px; display: block; flo=
+at: left; font-size:12;"><img src=3D"http://ecx.images-amazon.com/images/I/=
+41MsJttUZmL._SY50_.jpg" width=3D"50" align=3D"left" height=3D"50" border=3D=
+"0" /></span></td><td style=3D"vertical-align: top; text-align: left; posit=
+ion: relative; left: -1px; font-size:12; padding: 0px 0px;">Parts Express P=
+ush-On &quot;F&quot; Type Balun</td></tr><tr><td style=3D"text-align: left;=
+ width: 55px; font-size: 12px; padding: 0px 0px;"><span style=3D"width: 55p=
+x; height: 50px; display: block; float: left; font-size:12;"><img src=3D"ht=
+tp://ecx.images-amazon.com/images/I/61PP911GeuL._SY50_.jpg" width=3D"48" al=
+ign=3D"left" height=3D"50" border=3D"0" /></span></td><td style=3D"vertical=
+-align: top; text-align: left; position: relative; left: -1px; font-size:12=
+; padding: 0px 0px;">Terk Technology AM/FM Radio Antenna</td></tr></table><=
+/div> </td> </tr> <tr      style=3D"border-top: solid 1px #A2C8D8; padding:=
+ 7px 10px 7px 10px; vertical-align: top; font-size:12;"> <td  style=3D"bord=
+er-top: solid 0px #A2C8D8; padding: 7px 10px 7px 10px; vertical-align: top;=
+ font-size:12; text-align: center;"> <a href=3D"http://www.amazon.com/gp/r.=
+html?R=3DEO7IV5N71WEX&C=3D1CEASOCIXQZ2X&H=3DBSU3CS9NY9TVIEP5IXVCYVMHV4EA&T=
+=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Frmp%2Fhomepage%2Fref%3Dpe_8589=
+00_131801420_pkg_rt%3Fie%3DUTF8%26orderId%3D111-4487342-1558618%26packageId=
+%3D1%26pageNum%3D1%26refId%3DDlw2X7SrN%26refType%3DFulfillmentShipment%26st=
+artDay%3D1%26view%3Dedit" > <img src=3D"http://g-ecx.images-amazon.com/imag=
+es/G/01/green/packaging/button_feedback._V192571242_.gif" width=3D"165" alt=
+=3D"Leave Packaging Feedback" title=3D"Leave Packaging Feedback" height=3D"=
+22" border=3D"0" /> </a> </td> </tr> </table> <br> <a href=3D"http://www.am=
+azon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D1CEASOCIXQZ2X&H=3DTEYXBQXIPGREWSV8H=
+AT7Y8UKLEAA&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Frmp%2Fhomepage%2F=
+ref%3Dpe_858900_131801420_pkg_rt_all" >See all shipments awaiting your feed=
+back
+                                    </a> <hr/> <b>Need Help?</b> <br/>If yo=
+u have any trouble with the link above, you can rate your shipment's packag=
+ing by completing these steps:<br/><br/> <ol> <li>Go to&nbsp;<a href=3D"htt=
+p://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D1CEASOCIXQZ2X&H=3DYEWSOWK=
+1MBVUVX24WM3MSAA7COMA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fpackaging%3Fr=
+ef_%3Dpe_858900_131801420">http://www.amazon.com/packaging</a></li> <li>Aft=
+er logging in, you'll see a list of all of the shipments that need feedback=
+.</li> <li>Find the shipment on the list and click the "Leave Packaging Fee=
+dback" button on the right.</li> </ol> <hr/> </td> </tr> <tr> <td align=3D"=
+left" width=3D"100%"> <table border=3D'0' cellpadding=3D'8' cellspacing=3D'=
+0' width=3D'100%'><tr><td><font size=3D'1'  face=3D'Verdana, Arial, Helveti=
+ca, sans-serif'>We hope you found this message to be useful. However, if yo=
+u'd rather not receive future e-mails of this sort from Amazon.com, please =
+opt-out <a href=3D"http://www.amazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D1CE=
+ASOCIXQZ2X&H=3DQW1MUC4ZPYTRQXLJJESCMZYHCMSA&T=3DX&U=3Dhttp%3A%2F%2Fwww.amaz=
+on.com%2F%2Fgp%2Fgss%2Fo%2F1fvA1yfZDO.cU2WDb8eVcefjzdthuAifGD23GKQPz7NrF1aL=
+VpDvL7RQ2XfZIuYlK">here</a>.<br /> <br />
+(c) 2015 Amazon.com, Inc. or its affiliates. All rights reserved. Amazon, A=
+mazon.com and the Amazon.com logo and 1-Click are registered trademarks of =
+Amazon.com, Inc. or its affiliates.<br /> <br />
+Amazon.com, 410 Terry Avenue N., Seattle, WA 98109-5210.<br /> <br />
+Reference 131801420<br /> <br />
+Please note that this message was sent to the following e-mail address: din=
+smorealex@gmail.com<br /> <br /> </font></td></tr></table> </td> </tr> </ta=
+ble> </td> <td width=3D"2" bgcolor=3D"#cccc99"></td> </tr> <tr> <td colspan=
+=3D"3"> <img src=3D"http://g-ecx.images-amazon.com/images/G/01/x-locale/com=
+munities/amazon-table-btm._V192235713_.gif" width=3D"584" height=3D"28" bor=
+der=3D"0" /> </td> </tr> </table> </center> </div> <img src=3D"http://www.a=
+mazon.com/gp/r.html?R=3DEO7IV5N71WEX&C=3D1CEASOCIXQZ2X&H=3D5BJCLRKCGQXTERR7=
+INZRAMMVX0AA&T=3DE&U=3Dhttp%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fn=
+av%2Ftransp.gif" /></body> </html>
+
+
+
+------=_Part_62972594_1551226766.1422173723458--
+
+------=_Part_62972593_1121940718.1422173723458--

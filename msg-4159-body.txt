@@ -1,0 +1,67 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.161.116 with SMTP id xr20csp209272ldb;
+        Tue, 6 Aug 2013 16:39:29 -0700 (PDT)
+X-Received: by 10.66.155.36 with SMTP id vt4mr1297813pab.93.1375832368393;
+        Tue, 06 Aug 2013 16:39:28 -0700 (PDT)
+Return-Path: <service@paypal.com>
+Received: from mx2.slc.paypal.com (mx1.slc.paypal.com. [173.0.84.226])
+        by mx.google.com with ESMTP id dz4si2724080pbc.329.2013.08.06.16.39.27
+        for <dinsmorealex@gmail.com>;
+        Tue, 06 Aug 2013 16:39:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of service@paypal.com designates 173.0.84.226 as permitted sender) client-ip=173.0.84.226;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of service@paypal.com designates 173.0.84.226 as permitted sender) smtp.mail=service@paypal.com;
+       dkim=pass header.i=@paypal.com;
+       dmarc=pass (p=REJECT dis=NONE) d=paypal.com
+DKIM-Signature: v=1; a=rsa-sha256; d=paypal.com; s=pp-dkim1; c=relaxed/relaxed;
+	q=dns/txt; i=@paypal.com; t=1375832367;
+	h=From:From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=X4jvogmN09dB65/zof/zq5m/EqxV8CiS/ijdMZG9NtY=;
+	b=R2uZ2PgzlT5azqJxXR9QHDpg4TGwQg5ClxmriTBbRZYQJb6zmixpPrnMfkpLOGmq
+	yZXPpvZmDNBRRaGEJNJIKr8uSwLyrCdc4WVFWQ1I/d5c1S1fFSiwGho1xJvKFfOQ
+	2PebcOVurDkvJyA/zH8Y4yL62nuDPoUOAZuCQThg/JgXzp8OkSu7pDDbVdoR7Lpm
+	teHMVa7qXPYGwCeGk4VveDjuxSOaBPKsQUSmMgPCGdpVDaIdDGMJc25LdKfnQpy4
+	muz5lXzqwFxTnPcx4qMNbCkLm+UU6rkpMtix/GUAFqRyyz0QzC3nJ5oev6785a0y
+	M0JFMtnhJvwn96tL/28OKg==;
+Received: (qmail 15498 invoked by uid 99); 6 Aug 2013 23:39:27 -0000
+Date: Tue, 06 Aug 2013 16:39:27 -0700
+Message-Id: <1375832367.15498@paypal.com>
+Subject: PayPal Primary Email Address Change
+X-MaxCode-Template: email-security-primary-email
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+From: "service@paypal.com" <service@paypal.com>
+X-Email-Type-Id: PP234
+X-XPT-XSL-Name: email_pimp/default/en_US/account/security/SecurityPrimaryEmail.xsl
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=windows-1252
+MIME-Version: 1.0
+
+Hello Alex Dinsmore,
+
+
+The primary email for Alex Dinsmore's PayPal account was changed on Aug 6, =
+2013.
+
+If you did not authorize this change, please contact us using the link =
+below:
+
+https://www.paypal.com/us/cgi-bin/?cmd=3D_contact-phone
+
+Sincerely,
+PayPal
+
+
+Security Advisory: When you log in to your PayPal account, be sure to open =
+up a new web browser (e.g. Internet Explorer or Firefox) and type in the =
+PayPal URL to make sure you are on the real PayPal website.
+For more information on protecting yourself from fraud, please review the =
+Security Tips in our Security Center.
+
+
+
+Please do not reply to this email. This mailbox is not monitored and you =
+will not receive a response. For assistance, log in to your PayPal account =
+and click the Help link in the top right corner of any PayPal page.
+
+PPID PP234 =20
+

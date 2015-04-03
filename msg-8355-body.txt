@@ -1,0 +1,1607 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.175.144 with SMTP id ca16csp331944ldc;
+        Tue, 25 Nov 2014 15:15:33 -0800 (PST)
+X-Received: by 10.140.29.165 with SMTP id b34mr40946000qgb.94.1416957332909;
+        Tue, 25 Nov 2014 15:15:32 -0800 (PST)
+Return-Path: <hello@mail.etsy.com>
+Received: from mailout01.etsy.com (mailout01.etsy.com. [38.106.64.76])
+        by mx.google.com with ESMTP id j31si3002809qgf.85.2014.11.25.15.15.32
+        for <dinsmorealex@gmail.com>;
+        Tue, 25 Nov 2014 15:15:32 -0800 (PST)
+Received-SPF: pass (google.com: domain of hello@mail.etsy.com designates 38.106.64.76 as permitted sender) client-ip=38.106.64.76;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of hello@mail.etsy.com designates 38.106.64.76 as permitted sender) smtp.mail=hello@mail.etsy.com;
+       dkim=pass header.i=@mail.etsy.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=mail.etsy.com
+Return-Path: <hello@mail.etsy.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.etsy.com;
+	s=default; t=1416957330;
+	bh=H+gdxclmdLj3u2SD1Z9BZyt1RkGWf519VMoRgtNp6lA=;
+	h=Date:MIME-Version:Content-type:From:To:Subject;
+	b=bJD9n4oXlaENJHytGJlCrN+XSzargZKYm4ii3ADgolxs/weBVPzK7Z7jdIq+N3Suk
+	 j/cbFUIdJZAyovIWUdFbsTO3jAp+stwgW2PrnE4ZOwyxyho5GRRQ1o7znlXFhq4mfR
+	 2dmvUCF8fC1Iz6ve2f5lb0OyJXhPR8sGlEivg6FI=
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=default; d=mail.etsy.com;
+	h=X-MSFBL:Received:Date:Message-ID:X-YarnBlaster:X-EmailType:EtsyMail:MIME-Version:Content-type:From:X-EUID:X-EAID:X-UTM-CAMPAIGN:X-CAMPAIGN-LABEL:X-UTM-SOURCE:X-rpcampaign:reply-to:List-Unsubscribe:To:Subject;
+	b=TPyxVyiiQzvPXrf6C4YE9STdTtbbodo+09HdxuVTubDLvvY21qT1jMM9cXs+p8tK
+	4AFMg8JRK3ugD7KVLb+SjYqZq9CaK5CSujXpf/dwA+sYtT8URN8UlEU3K7Ux4eaM
+	0bZwKTHVUKACf7h4XOgWu5tISweB/SPsNiJW3hxRIiU=
+X-MSFBL: ZGluc21vcmVhbGV4QGdtYWlsLmNvbUBidWxrLWFAYnVsa0A=
+Received: from [10.100.19.34] ([10.100.19.34:28102] helo=www.etsy.com)
+	by msysmta01.ny5.etsy.com (envelope-from <hello@mail.etsy.com>)
+	(ecelerity 3.6.4.44580 r(Platform:3.6.4.1)) with ESMTP
+	id 9F/57-26975-29D05745; Tue, 25 Nov 2014 23:15:30 +0000
+Date: Tue, 25 Nov 2014 23:15:30 +0000
+Message-ID: <9F.57.26975.29D05745@msysmta01.ny5.etsy.com>
+X-YarnBlaster: bulk
+X-EmailType: new_at_etsy_rbn_112514_18320919984_0_0
+EtsyMail: works every time
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary="5e33bd5f88b74cacab92534235a2aede3a8c0f01"
+From: Etsy <emails@mail.etsy.com>
+X-EUID: L4V5QWZ87p2Cj4C-ODkaGF7tGA5x
+X-EAID: 2836091578
+X-UTM-CAMPAIGN: new_at_etsy_rbn_112514_18320919984_0_0
+X-CAMPAIGN-LABEL: new_at_etsy_rbn
+X-UTM-SOURCE: adhoc
+X-rpcampaign: ETSY18320919984
+reply-to: Etsy <donotreply@etsy.com>
+List-Unsubscribe: <https://www.etsy.com/mailinglist/unsubscribe_token/Y2svVDVVamNvdmFyK2JqQWZBRXU0ekg0Q1ZBalUrcDcxQkFjVC9JenliVT0uLjE0MTY5NTczMzA=?header>
+To: dinsmorealex@gmail.com
+Subject: The Nice List
+
+--5e33bd5f88b74cacab92534235a2aede3a8c0f01
+Content-type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey! Our emails look much better in HTML.=0A=0AClick here to see this email=
+:=0Ahttps://www.etsy.com/mailinglist/email/Y2svVDVVamNvdmFyK2JqQWZBRXU0ekg0=
+Q1ZBalUrcDcxQkFjVC9JenliVT0uLjE0MTY5NTczMzA=3D=0A=0AManage Your Preferences=
+ Here=0Ahttps://www.etsy.com/your/account/email=0A=0AUnsubscribe Here=0Ahtt=
+ps://www.etsy.com/mailinglist/unsubscribe_token/Y2svVDVVamNvdmFyK2JqQWZBRXU=
+0ekg0Q1ZBalUrcDcxQkFjVC9JenliVT0uLjE0MTY5NTczMzA=3D
+
+--5e33bd5f88b74cacab92534235a2aede3a8c0f01
+Content-type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<img style=3D'position: absolute; left: -9000px;' width=3D'1' height=3D'1' =
+src=3D'https://www.etsy.com/mailinglist/beacon/?campaign_label=3Dnew_at_ets=
+y_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_=
+0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5=
+Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d'/><img style=
+=3D'position: absolute; left: -9000px;' width=3D'1' height=3D'1' src=3D'htt=
+p://bcn.etsy.com/beacon?.user_id=3D&request_uuid=3DGkIpbBv6xUv5hVRfYVJdXfky=
+QfjR&php_event_name=3Demail_open&php_unique_id=3D54750d92ba5d32.83722736&ph=
+p_event_date=3D25%2FNov%2F2014%3A23%3A15%3A30&locale_currency_code=3DUSD&pr=
+ef_language=3Den-US&region=3DXX&detected_currency_code=3DUSD&detected_langu=
+age=3Den-US&detected_region=3DXX&cdn-provider=3D&isMobileDevice=3D0&isMobil=
+eSupported=3D0&isMobileRequestIgnoreCookie=3D0&isTabletSupported=3D0&isTouc=
+h=3D0&isEtsyApp=3D0&isPreviewRequest=3D0&isChromeInstantRequest=3D0&isMozPr=
+efetchRequest=3D0&campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_c=
+ampaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&email_s=
+ent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_ea=
+id=3Deca338c35d&email=3D1&.event_source=3Demail&.event_logger=3Dbackend&.ve=
+rsion=3D0&.page_guid=3Dce31c5f4dab.9f726297c7e50c1ace57.00&php_ab_test_name=
+s=3Dinternational.languages.el%3Binternational.languages.pl%3Bsimplified_lo=
+cale_experience%3Benabled_locale_subdirectories%3Bsearch_perf.perf_improvem=
+ents_2014q4%3Bxssauditor%3Bnearby_local_events%3Bbug_2538_decoding%3Bnew_ev=
+ent_logger%3Btranslation_profiler.profiling%3Btranslation_profiler.logging%=
+3Btranslation_profiler.backend_event_logging&php_ab_var_names=3Doff%3Boff%3=
+Boff%3Boff%3Boff%3Boff%3Boff%3Bon%3Boff%3Bon%3Bon%3Bon&php_ab_selector_name=
+s=3Dx%3Bx%3Bx%3Bx%3Bx%3Bw%3Bx%3Bx%3Bw%3Bx%3Bx%3Bx&.p=3D1&.np=3D1&.guid=3Dce=
+31c6234f4.ca4e0b09d1294680f8f9.00'/><head>=0A=0A=0A<style noinline=3D"">@ch=
+arset "UTF-8";ol li,ol li[yahoo]{width:49%!important;display:inline-block!i=
+mportant;margin:0!important;float:left;text-align:right}ol li+li,ol li[yaho=
+o]+li[yahoo]{float:right}ol li+li a+a{width:15%}dfn{width:32.2%!important;f=
+ont-style:normal;padding-right:1.6%!important}dfn+dfn+dfn{padding-right:0!i=
+mportant}dfn+dfn+dfn+dfn,dfn+dfn+dfn+dfn+dfn{padding-right:1.6%!important}d=
+fn+dfn+dfn+dfn+dfn+dfn{padding-right:0!important}samp>div{width:13%!importa=
+nt;display:inline-block;text-align:left!important;margin:0!important}samp d=
+iv+div{width:50%!important;color:#999;line-height:22px;padding-left:5px;ver=
+tical-align:top}samp div+div>div{width:70%!important}samp div+div div div{w=
+idth:70%!important;display:inline!important;height:20px;color:#999;vertical=
+-align:top}samp div+div+div{width:auto!important;display:inline-block!impor=
+tant;float:right;margin:20px 2%!important}samp div+div div img{display:inli=
+ne-block!important;margin-left:-3px!important;float:left!important}samp div=
+ img{text-align:left!important}div i{height:22px!important}</style></head><=
+body style=3D"margin:0;padding:0;" ><div style=3D"-moz-text-size-adjust: no=
+ne; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: none; color: #555=
+555; line-height: 23px; background-color: #F5F5F1; font-family: Arial,Helve=
+tica,sans-serif; font-size: 15px; margin: 0; padding: 0; text-align: left; =
+width: 100%;"><style type=3D"text/css">@media only screen and (max-width: 4=
+80px){.col2 .bottom,.col3 .price-shop,.full-image .bottom,.three-images .bo=
+ttom{height:46px;}.content .header-content{padding:0px 10px !important;}td.=
+module{width:100% !important;}.footer .promo-cta li>a{height:auto !importan=
+t;}.footer .promo-cta .ios-container>div{padding-bottom:0px !important;}div=
+.canvas-module.type-shop.view-mode .seller-container div.cta-container{widt=
+h:35% !important;display:block !important;margin:10px auto !important;float=
+:none !important;}td.featured-shop samp .seller-avatar{padding:5px 0 !impor=
+tant;}td.featured-shop .seller-details{width:100% !important;}td.canvas-mod=
+ule.type-shop.view-mode table td.cta-container,td.featured-shop .seller-ava=
+tar,td.featured-shop .seller-details,td.featured-shop .seller-avatar img,td=
+.featured-shop .seller-details img,td.featured-shop .reviews-container{marg=
+in:0 auto !important;display:block !important;text-align:center !important;=
+}.product-row-2,.interior-table{width:100% !important;}.templateColumnConta=
+iner{display:block !important;width:100% !important;}.columnImage{height:au=
+to !important;max-width:480px !important;width:100% !important;}.footer .pr=
+omo-cta ol li{width:100% !important;padding-top:10px !important;}.image-mod=
+ule{height:auto !important;}.module img{height:auto !important;max-width:10=
+0% !important;-ms-interpolation-mode:bicubic;}i.cta-image,.shopname{display=
+:none !important;visibility:hidden !important;width:0 !important;}.call-to-=
+action .canvas-module.type-call-to-action.view-mode table{margin:0px auto !=
+important;}.call-to-action .button{margin-top:5% !important;margin-bottom:3=
+%;}.vertical-image .img-left .image-module-placeholder{width:100% !importan=
+t;height:auto !important;padding-bottom:151.4% !important;}.col3 .price-sho=
+p{height:46px;}.price-shop .price{text-align:left !important;float:none !im=
+portant;width:100% !important;padding-left:0 !important;}.col3{width:49.2% =
+!important;display:inline-block !important;vertical-align:top;}.col3 .canva=
+s-module{width:220px !important;display:inline-block !important;}.module .c=
+ol3 .image-module-placeholder{padding-bottom:39% !important;max-height:147p=
+x !important;}.col3 .listing-image{width:100%;}.col3:nth-of-type(odd){paddi=
+ng-right:1.6% !important;}.col3-img-padding,.col3:nth-of-type(even){padding=
+-right:0 !important;}} @media only screen and (max-width: 420px){.col3 .can=
+vas-module{width:187px !important;}}</style>=0A        =0A        =0A      =
+  =0A        =0A        =0A    =0A    <table  align=3D"center" style=3D"bor=
+der-spacing: 0; padding: 0; border-collapse: separate; border-top: 5px soli=
+d #D5641C; color: #FFFFFF !important; font-family: Arial,Helvetica,Sans-ser=
+if; font-size: 1px !important; line-height: 100%; text-align: left; width: =
+100%; background-color: #FFFFFF;"><tbody><tr><td  style=3D"padding: 0; -web=
+kit-text-size-adjust: none; border: 0; border-collapse: collapse;">Holiday =
+Inspiration and Gift Ideas.</td></tr></tbody></table><style noinline=3D"">@=
+charset "UTF-8";ol li,ol li[yahoo]{width:49%!important;display:inline-block=
+!important;margin:0!important;float:left;text-align:right}ol li+li,ol li[ya=
+hoo]+li[yahoo]{float:right}ol li+li a+a{width:15%}dfn{width:32.2%!important=
+;font-style:normal;padding-right:1.6%!important}dfn+dfn+dfn{padding-right:0=
+!important}dfn+dfn+dfn+dfn,dfn+dfn+dfn+dfn+dfn{padding-right:1.6%!important=
+}dfn+dfn+dfn+dfn+dfn+dfn{padding-right:0!important}samp>div{width:13%!impor=
+tant;display:inline-block;text-align:left!important;margin:0!important}samp=
+ div+div{width:50%!important;color:#999;line-height:22px;padding-left:5px;v=
+ertical-align:top}samp div+div>div{width:70%!important}samp div+div div div=
+{width:70%!important;display:inline!important;height:20px;color:#999;vertic=
+al-align:top}samp div+div+div{width:auto!important;display:inline-block!imp=
+ortant;float:right;margin:20px 2%!important}samp div+div div img{display:in=
+line-block!important;margin-left:-3px!important;float:left!important}samp d=
+iv img{text-align:left!important}div i{height:22px!important}</style><table=
+  cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0; padding: =
+0; border-collapse: separate; background-color: #F5F5F1; margin: 0; width: =
+100%;"><tbody><tr><td style=3D"padding: 0; -webkit-text-size-adjust: none; =
+border: 0; border-collapse: collapse;">=0A                <table  style=3D"=
+border-spacing: 0; padding: 0; border-collapse: separate; margin-bottom: 17=
+px; margin-top: 0px !important; padding-bottom: 9px; padding-top: 9px; back=
+ground-color: #fff; border-bottom: 1px solid #ECECEC; width: 100%;"><tbody>=
+<tr><td  style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; bo=
+rder-collapse: collapse; max-width: 580px; width: 100%; margin: 0px auto; t=
+able-layout: fixed; line-height: 0;">=0A        <div class=3D"content"  sty=
+le=3D"-webkit-text-size-adjust: none; display: block; margin: 0 auto; max-w=
+idth: 580px;">=0A            <table class=3D"header-content"  style=3D"bord=
+er-spacing: 0; padding: 0; border-collapse: separate; width: 100%;"><tbody>=
+<tr><td  style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; bo=
+rder-collapse: collapse; line-height: 0; padding-left: 0; padding-top: 3px =
+!important; width: 52px;">=0A                        <a href=3D"https://www=
+.etsy.com?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=
+=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D=
+&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091=
+578&x_eaid=3Deca338c35d&link_clicked=3D0" title=3D"Etsy.com" style=3D"-webk=
+it-text-size-adjust: none; color: #D5641C; font-family: Georgia,Times,'Time=
+s New Roman',serif; font-size: 20px; text-decoration: none;">=0A           =
+                  <img src=3D"https://www.etsy.com/images/email/logo_transp=
+arent.png" border=3D"0" height=3D"24" width=3D"49" alt=3D"Etsy" style=3D"bo=
+rder: 0; -ms-interpolation-mode: bicubic; height: auto; max-width: 100%; ou=
+tline: 0;"></a>=0A                    </td>=0A                    <td  styl=
+e=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; border-collapse=
+: collapse; line-height: 0;">=0A                        <h2  style=3D"font-=
+family: Georgia,serif; color: #AAAAAA; font-size: 20px; font-weight: normal=
+; margin: 0;"></h2>=0A                    </td>=0A                    <td  =
+align=3D"right" style=3D"padding: 0; -webkit-text-size-adjust: none; border=
+: 0; border-collapse: collapse; line-height: 0; max-width: 140px; padding-r=
+ight: 0; padding-top: 4px;">=0A                        <div  style=3D"-webk=
+it-text-size-adjust: none; color: #A9A9A6; font-family: Arial,Helvetica,San=
+s-serif; font-size: 12px; line-height: 100%; text-align: right;">=0A       =
+                     <a href=3D"https://www.etsy.com/mailinglist/email/Y2sv=
+VDVVamNvdmFyK2JqQWZBRXU0ekg0Q1ZBalUrcDcxQkFjVC9JenliVT0uLjE0MTY5NTczMzA=3D?=
+campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_e=
+tsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=
+=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&link_clicked=3D1" target=3D"_blank" style=3D"-webkit-text-siz=
+e-adjust: none; color: #97928F; font-weight: normal; text-decoration: none;=
+">View this email online</a>=0A                        </div>=0A           =
+         </td>=0A                </tr></tbody></table></div>=0A        </td=
+>=0A    </tr></tbody></table><script type=3D"application/ld+json" >=0A{=0A =
+ "@context": "http://schema.org",=0A  "@type": "EmailMessage",=0A  "publish=
+er": {=0A    "@type": "Organization",=0A    "name": "Etsy",=0A    "url/goog=
+lePlus": "https://plus.google.com/104349440187288824940"=0A  },=0A  "about"=
+: {=0A    "@type": "Offer",=0A    "image": "https://img1.etsystatic.com/056=
+/0/5338713/icnv_fullxfull.684513687_o9o7dm1t.jpg"=0A  }=0A}=0A</script><tab=
+le  align=3D"center" style=3D"border-spacing: 0; padding: 10px 10px; border=
+-collapse: separate; height: auto; max-width: 600px; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; margin: 0 auto; width: 100%;" cellpad=
+ding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"padding: 0; -webkit-te=
+xt-size-adjust: none; border: 0; border-collapse: collapse;">=0A           =
+                 <div class=3D"content"  style=3D"-webkit-text-size-adjust:=
+ none; display: block; margin: 0 auto; max-width: 580px;">=0A              =
+                  <table style=3D"border-spacing: 0; padding: 0; border-col=
+lapse: separate; margin: 0; max-width: 600px; table-layout: fixed;" cellpad=
+ding=3D"0" cellspacing=3D"0"><tbody><tr >=0A    =0A        =0A             =
+                                                   =0A    =0A=0A    <td cla=
+ss=3D"module"  style=3D"padding: 0; -webkit-text-size-adjust: none; border:=
+ 0; border-collapse: collapse; padding-bottom: 30px; width: 600px !importan=
+t;">=0A        <h3  style=3D"font-family: Georgia,serif; color: #666666; fo=
+nt-size: 21px; font-weight: 400; line-height: 24px; margin-bottom: 10px; ma=
+rgin-top: 0; text-align: left; text-decoration: none;"><a href=3D"https://w=
+ww.etsy.com/trending?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&ut=
+m_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_=
+content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=
+=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D2" class=3D"canvas-module =
+view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; cle=
+ar: both; position: relative; -webkit-transition: background-color 0.25s ea=
+se-out; transition: background-color 0.25s ease-out; color: #666666; text-d=
+ecoration: none; display: block;"><span data-prev-md5=3D"">Picked for You</=
+span></a></h3><dfn class=3D"col3 col3-img-padding"  style=3D"display: inlin=
+e-block !important; font-style: normal; padding-bottom: 1.6% !important; pa=
+dding-right: 1.6%; vertical-align: top; width: 49.2%;"><div class=3D"canvas=
+-module view-mode image-module"  style=3D"-webkit-text-size-adjust: none; d=
+isplay: block; line-height: 12px; border-radius: 0; background-color: trans=
+parent; max-width: 100%; width: 100% !important; position: relative;">=0A  =
+      =0A<div class=3D"listing-card" style=3D"border-spacing: 0; border-rad=
+ius: 0 0 6px 6px !important; background: #fff; font-size: 13px; line-height=
+: 14px;">=0A    <a href=3D"https://www.etsy.com/listing/130209931/take-noth=
+ing-leave-everything?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&ut=
+m_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_=
+content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=
+=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D3" style=3D"display: block=
+;">=0A        <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 10=
+0%; table-layout: fixed;">=0A            <tr>=0A                <td>=0A    =
+                <img src=3D"http://img0.etsystatic.com/012/0/6198438/il_340=
+x270.451955942_6swt.jpg" alt=3D"take nothing leave everything screenprinted=
+ BACK PATCH pro earth anti stupid recycle yourself" style=3D"width: 100%; m=
+ax-width: 100%; -ms-interpolation-mode: bicubic; vertical-align: top;" />=
+=0A                </td>=0A            </tr>=0A            <tr>=0A         =
+       <td class=3D"price-shop" style=3D"line-height: 14px; padding: 5px 10=
+px; font-size: 13px;">=0A                    <div class=3D"listing-title" s=
+tyle=3D"color: #666; display: block !important; white-space: nowrap; overfl=
+ow: hidden; text-overflow: ellipsis; text-decoration: none; visibility: vis=
+ible !important; margin-bottom: 3px; padding: 6px 0 0;">take nothing leave =
+everything screenprinted BACK PATCH pro earth anti stupid recycle yourself<=
+/div>=0A                    <span>=0A                        <span class=3D=
+"price" style=3D"width: 100%; font-size: 13px; color: #7AC142;">=0A        =
+                    $7.00 USD=0A                        </span>=0A         =
+           </span>=0A                </td>=0A            </tr>=0A        </=
+table>=0A    </a>=0A</div>        =0A    </div></dfn><dfn class=3D"col3 col=
+3-img-padding"  style=3D"display: inline-block !important; font-style: norm=
+al; padding-bottom: 1.6% !important; padding-right: 0; vertical-align: top;=
+ width: 49.2%;"><div class=3D"canvas-module view-mode image-module"  style=
+=3D"-webkit-text-size-adjust: none; display: block; line-height: 12px; bord=
+er-radius: 0; background-color: transparent; max-width: 100%; width: 100% !=
+important; position: relative;">=0A        =0A<div class=3D"listing-card" s=
+tyle=3D"border-spacing: 0; border-radius: 0 0 6px 6px !important; backgroun=
+d: #fff; font-size: 13px; line-height: 14px;">=0A    <a href=3D"https://www=
+.etsy.com/listing/100986209/sleep-stoner-metal-patch-punk-grindcore?campaig=
+n_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn=
+_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416=
+956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca33=
+8c35d&link_clicked=3D4" style=3D"display: block;">=0A        <table cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"width: 100%; table-layout: fixed;">=
+=0A            <tr>=0A                <td>=0A                    <img src=
+=3D"http://img0.etsystatic.com/018/0/6649316/il_340x270.485431346_ldc5.jpg"=
+ alt=3D"SLEEP stoner metal patch punk grindcore screen printed crust" style=
+=3D"width: 100%; max-width: 100%; -ms-interpolation-mode: bicubic; vertical=
+-align: top;" />=0A                </td>=0A            </tr>=0A            =
+<tr>=0A                <td class=3D"price-shop" style=3D"line-height: 14px;=
+ padding: 5px 10px; font-size: 13px;">=0A                    <div class=3D"=
+listing-title" style=3D"color: #666; display: block !important; white-space=
+: nowrap; overflow: hidden; text-overflow: ellipsis; text-decoration: none;=
+ visibility: visible !important; margin-bottom: 3px; padding: 6px 0 0;">SLE=
+EP stoner metal patch punk grindcore screen printed crust</div>=0A         =
+           <span>=0A                        <span class=3D"price" style=3D"=
+width: 100%; font-size: 13px; color: #7AC142;">=0A                         =
+   $2.00 USD=0A                        </span>=0A                    </span=
+>=0A                </td>=0A            </tr>=0A        </table>=0A    </a>=
+=0A</div>        =0A    </div></dfn><dfn class=3D"col3"  style=3D"display: =
+inline-block !important; font-style: normal; padding-bottom: 1.6% !importan=
+t; padding-right: 1.6%; vertical-align: top; width: 49.2%;"><div class=3D"c=
+anvas-module view-mode image-module"  style=3D"-webkit-text-size-adjust: no=
+ne; display: block; line-height: 12px; border-radius: 0; background-color: =
+transparent; max-width: 100%; width: 100% !important; position: relative;">=
+=0A        =0A<div class=3D"listing-card" style=3D"border-spacing: 0; borde=
+r-radius: 0 0 6px 6px !important; background: #fff; font-size: 13px; line-h=
+eight: 14px;">=0A    <a href=3D"https://www.etsy.com/listing/74709204/beer-=
+sucks-drink-water-xxx-straightedge?campaign_label=3Dnew_at_etsy_rbn&utm_sou=
+rce=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_mediu=
+m=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6W=
+Vz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D5" style=3D"=
+display: block;">=0A        <table cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"width: 100%; table-layout: fixed;">=0A            <tr>=0A             =
+   <td>=0A                    <img src=3D"http://img1.etsystatic.com/000/0/=
+6198438/il_340x270.246612529.jpg" alt=3D"Beer Sucks Drink Water XXX Straigh=
+tedge Patch" style=3D"width: 100%; max-width: 100%; -ms-interpolation-mode:=
+ bicubic; vertical-align: top;" />=0A                </td>=0A            </=
+tr>=0A            <tr>=0A                <td class=3D"price-shop" style=3D"=
+line-height: 14px; padding: 5px 10px; font-size: 13px;">=0A                =
+    <div class=3D"listing-title" style=3D"color: #666; display: block !impo=
+rtant; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text=
+-decoration: none; visibility: visible !important; margin-bottom: 3px; padd=
+ing: 6px 0 0;">Beer Sucks Drink Water XXX Straightedge Patch</div>=0A      =
+              <span>=0A                        <span class=3D"price" style=
+=3D"width: 100%; font-size: 13px; color: #7AC142;">=0A                     =
+       $1.00 USD=0A                        </span>=0A                    </=
+span>=0A                </td>=0A            </tr>=0A        </table>=0A    =
+</a>=0A</div>        =0A    </div></dfn><dfn class=3D"col3 col3-img-padding=
+"  style=3D"display: inline-block !important; font-style: normal; padding-b=
+ottom: 1.6% !important; padding-right: 0; vertical-align: top; width: 49.2%=
+;"><div class=3D"canvas-module view-mode image-module"  style=3D"-webkit-te=
+xt-size-adjust: none; display: block; line-height: 12px; border-radius: 0; =
+background-color: transparent; max-width: 100%; width: 100% !important; pos=
+ition: relative;">=0A        =0A<div class=3D"listing-card" style=3D"border=
+-spacing: 0; border-radius: 0 0 6px 6px !important; background: #fff; font-=
+size: 13px; line-height: 14px;">=0A    <a href=3D"https://www.etsy.com/list=
+ing/81546840/reconsider-the-zoo-canvas-patch?campaign_label=3Dnew_at_etsy_r=
+bn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0=
+&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2=
+aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D6"=
+ style=3D"display: block;">=0A        <table cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"width: 100%; table-layout: fixed;">=0A            <tr>=0A  =
+              <td>=0A                    <img src=3D"http://img1.etsystatic=
+.com/007/0/6198438/il_340x270.371364301_ma8x.jpg" alt=3D"Reconsider the Zoo=
+ canvas patch" style=3D"width: 100%; max-width: 100%; -ms-interpolation-mod=
+e: bicubic; vertical-align: top;" />=0A                </td>=0A            =
+</tr>=0A            <tr>=0A                <td class=3D"price-shop" style=
+=3D"line-height: 14px; padding: 5px 10px; font-size: 13px;">=0A            =
+        <div class=3D"listing-title" style=3D"color: #666; display: block !=
+important; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; =
+text-decoration: none; visibility: visible !important; margin-bottom: 3px; =
+padding: 6px 0 0;">Reconsider the Zoo canvas patch</div>=0A                =
+    <span>=0A                        <span class=3D"price" style=3D"width: =
+100%; font-size: 13px; color: #7AC142;">=0A                            $1.0=
+0 USD=0A                        </span>=0A                    </span>=0A   =
+             </td>=0A            </tr>=0A        </table>=0A    </a>=0A</di=
+v>        =0A    </div></dfn><dfn class=3D"col3 col3-img-padding"  style=3D=
+"display: inline-block !important; font-style: normal; padding-bottom: 1.6%=
+ !important; padding-right: 1.6%; vertical-align: top; width: 49.2%;"><div =
+class=3D"canvas-module view-mode image-module"  style=3D"-webkit-text-size-=
+adjust: none; display: block; line-height: 12px; border-radius: 0; backgrou=
+nd-color: transparent; max-width: 100%; width: 100% !important; position: r=
+elative;">=0A        =0A<div class=3D"listing-card" style=3D"border-spacing=
+: 0; border-radius: 0 0 6px 6px !important; background: #fff; font-size: 13=
+px; line-height: 14px;">=0A    <a href=3D"https://www.etsy.com/listing/1091=
+61408/squat-the-moon-squatters-rights-patch?campaign_label=3Dnew_at_etsy_rb=
+n&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&=
+utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2a=
+Yl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D7" =
+style=3D"display: block;">=0A        <table cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"width: 100%; table-layout: fixed;">=0A            <tr>=0A  =
+              <td>=0A                    <img src=3D"http://img1.etsystatic=
+.com/003/0/6198438/il_340x270.374146341_15na.jpg" alt=3D"Squat the moon SQU=
+ATTERS RIGHTS patch esoteric anarchist I suppose" style=3D"width: 100%; max=
+-width: 100%; -ms-interpolation-mode: bicubic; vertical-align: top;" />=0A =
+               </td>=0A            </tr>=0A            <tr>=0A             =
+   <td class=3D"price-shop" style=3D"line-height: 14px; padding: 5px 10px; =
+font-size: 13px;">=0A                    <div class=3D"listing-title" style=
+=3D"color: #666; display: block !important; white-space: nowrap; overflow: =
+hidden; text-overflow: ellipsis; text-decoration: none; visibility: visible=
+ !important; margin-bottom: 3px; padding: 6px 0 0;">Squat the moon SQUATTER=
+S RIGHTS patch esoteric anarchist I suppose</div>=0A                    <sp=
+an>=0A                        <span class=3D"price" style=3D"width: 100%; f=
+ont-size: 13px; color: #7AC142;">=0A                            $1.00 USD=
+=0A                        </span>=0A                    </span>=0A        =
+        </td>=0A            </tr>=0A        </table>=0A    </a>=0A</div>   =
+     =0A    </div></dfn><dfn class=3D"col3"  style=3D"display: inline-block=
+ !important; font-style: normal; padding-bottom: 1.6% !important; padding-r=
+ight: 0; vertical-align: top; width: 49.2%;"><div class=3D"canvas-module vi=
+ew-mode image-module"  style=3D"-webkit-text-size-adjust: none; display: bl=
+ock; line-height: 12px; border-radius: 0; background-color: transparent; ma=
+x-width: 100%; width: 100% !important; position: relative;">=0A        =0A<=
+div class=3D"listing-card" style=3D"border-spacing: 0; border-radius: 0 0 6=
+px 6px !important; background: #fff; font-size: 13px; line-height: 14px;">=
+=0A    <a href=3D"https://www.etsy.com/listing/109158148/katy-perry-inspire=
+d-grindcore-black?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_c=
+ampaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_con=
+tent=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D=
+2836091578&x_eaid=3Deca338c35d&link_clicked=3D8" style=3D"display: block;">=
+=0A        <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100%;=
+ table-layout: fixed;">=0A            <tr>=0A                <td>=0A       =
+             <img src=3D"http://img0.etsystatic.com/006/0/6198438/il_340x27=
+0.374121130_fohk.jpg" alt=3D"KATY PERRY inspired grindcore black metal punk=
+ as heck patch" style=3D"width: 100%; max-width: 100%; -ms-interpolation-mo=
+de: bicubic; vertical-align: top;" />=0A                </td>=0A           =
+ </tr>=0A            <tr>=0A                <td class=3D"price-shop" style=
+=3D"line-height: 14px; padding: 5px 10px; font-size: 13px;">=0A            =
+        <div class=3D"listing-title" style=3D"color: #666; display: block !=
+important; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; =
+text-decoration: none; visibility: visible !important; margin-bottom: 3px; =
+padding: 6px 0 0;">KATY PERRY inspired grindcore black metal punk as heck p=
+atch</div>=0A                    <span>=0A                        <span cla=
+ss=3D"price" style=3D"width: 100%; font-size: 13px; color: #7AC142;">=0A   =
+                         $1.00 USD=0A                        </span>=0A    =
+                </span>=0A                </td>=0A            </tr>=0A     =
+   </table>=0A    </a>=0A</div>        =0A    </div></dfn>=0A    </td>=0A=
+=0A    =0A        =0A                =0A    =0A</tr><tr ><td class=3D"modul=
+e"  style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; border-=
+collapse: collapse; padding-bottom: 30px; width: 600px !important;">=0A=09=
+=09<h3  style=3D"font-family: Georgia,serif; color: #666666; font-size: 21p=
+x; font-weight: 400; line-height: 24px; margin-bottom: 10px; margin-top: 0;=
+ text-align: left; text-decoration: none;"><a href=3D"https://www.etsy.com/=
+browse/gifts?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campai=
+gn=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=
+=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836=
+091578&x_eaid=3Deca338c35d&link_clicked=3D9" class=3D"canvas-module view-mo=
+de"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: bot=
+h; position: relative; -webkit-transition: background-color 0.25s ease-out;=
+ transition: background-color 0.25s ease-out; color: #666666; text-decorati=
+on: none; display: block;"><span data-prev-md5=3D"">The Nice List</span></a=
+></h3><bdo class=3D"col2"  style=3D"display: inline-block !important; verti=
+cal-align: top; width: 49.2%; padding-right: 1.6% !important; padding-botto=
+m: 1.6% !important;"><a href=3D"https://www.etsy.com/listing/190711561/what=
+ever-im-late-anyway-watch-unisex?campaign_label=3Dnew_at_etsy_rbn&utm_sourc=
+e=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=
+=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WV=
+z7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D10" class=3D"=
+canvas-module view-mode image-module"  style=3D"-webkit-text-size-adjust: n=
+one; display: block; line-height: 12px; border-radius: 0; background-color:=
+ transparent; max-width: 100%; width: 100% !important; position: relative;"=
+><img src=3D"https://img0.etsystatic.com/052/0/5338713/icnv_fullxfull.68381=
+1342_dkgcaweu.jpg" alt=3D"Whatever I=E2=80=99m Late Anyway Watch. Unisex Wa=
+tch for Men and Women, Wristwach, Gift." data-prev-md5=3D"" style=3D"border=
+: 0; -ms-interpolation-mode: bicubic; height: auto !important; max-width: 1=
+00%; outline: 0; display: block; vertical-align: top; width: 100%;"></a><di=
+v class=3D"bottom call-to-action"  style=3D"-webkit-text-size-adjust: none;=
+ -moz-border-radius: 0px 0px 5px 5px; background: #FFF; border: 1px solid #=
+ECECEC; border-radius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://=
+www.etsy.com/browse/men/other-accessories/watches/?ship_to=3D&campaign_labe=
+l=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_11251=
+4_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299=
+&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&=
+link_clicked=3D11" class=3D"canvas-module view-mode"  data-prev-md5=3D"" st=
+yle=3D"-webkit-text-size-adjust: none; clear: both; position: relative; -we=
+bkit-transition: background-color 0.25s ease-out; transition: background-co=
+lor 0.25s ease-out; color: #666; display: block; font-size: 15px; overflow:=
+ hidden; text-decoration: none;">=0A        <span  data-prev-md5=3D"" style=
+=3D"float: left;">Watches</span>=0A        <i class=3D"cta-image"  style=3D=
+"background: url(https://www.etsy.com/assets/dist/images/email/meteor/canva=
+s/categories_cta.20141104214315.png) no-repeat !important; color: #666; dis=
+play: block; float: right; height: 0; width: 22px;"></i>=0A    </a></div></=
+bdo><bdo class=3D"col2"  style=3D"display: inline-block !important; vertica=
+l-align: top; width: 49.2%; padding-bottom: 1.6% !important;"><a href=3D"ht=
+tps://www.etsy.com/listing/209040667/double-pearl-earring-preorder-mise-en?=
+campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_e=
+tsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=
+=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&link_clicked=3D12" class=3D"canvas-module view-mode image-mod=
+ule"  style=3D"-webkit-text-size-adjust: none; display: block; line-height:=
+ 12px; border-radius: 0; background-color: transparent; max-width: 100%; wi=
+dth: 100% !important; position: relative;"><img src=3D"https://img1.etsysta=
+tic.com/058/0/5338713/icnv_fullxfull.683959483_9nmte356.jpg" alt=3D"Double =
+Pearl Earring PREORDER - Mise en Pearl Earrings, Oversized Pearl Earrings, =
+Wedding Pearl Earrings, Bridesmaid Gift" data-prev-md5=3D"" style=3D"border=
+: 0; -ms-interpolation-mode: bicubic; height: auto !important; max-width: 1=
+00%; outline: 0; display: block; vertical-align: top; width: 100%;"></a><di=
+v class=3D"bottom call-to-action"  style=3D"-webkit-text-size-adjust: none;=
+ -moz-border-radius: 0px 0px 5px 5px; background: #FFF; border: 1px solid #=
+ECECEC; border-radius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://=
+www.etsy.com/browse/jewelry?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Da=
+dhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Dema=
+il&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN=
+_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D13" class=3D"canvas=
+-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: n=
+one; clear: both; position: relative; -webkit-transition: background-color =
+0.25s ease-out; transition: background-color 0.25s ease-out; color: #666; d=
+isplay: block; font-size: 15px; overflow: hidden; text-decoration: none;">=
+=0A        <span  data-prev-md5=3D"" style=3D"float: left;">Trending Jewelr=
+y</span>=0A        <i class=3D"cta-image"  style=3D"background: url(https:/=
+/www.etsy.com/assets/dist/images/email/meteor/canvas/categories_cta.2014110=
+4214315.png) no-repeat !important; color: #666; display: block; float: righ=
+t; height: 0; width: 22px;"></i>=0A    </a></div></bdo><bdo class=3D"col2" =
+ style=3D"display: inline-block !important; vertical-align: top; width: 49.=
+2%; padding-right: 1.6% !important;"><a href=3D"https://www.etsy.com/listin=
+g/212153019/babies-merry-christmas-ya-filthy-animal?campaign_label=3Dnew_at=
+_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919=
+984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXl=
+UUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_click=
+ed=3D14" class=3D"canvas-module view-mode image-module"  style=3D"-webkit-t=
+ext-size-adjust: none; display: block; line-height: 12px; border-radius: 0;=
+ background-color: transparent; max-width: 100%; width: 100% !important; po=
+sition: relative;"><img src=3D"https://img1.etsystatic.com/056/0/17122841/i=
+cnv_fullxfull.688662551_1gegooyx.jpg" alt=3D"BABIES Merry Christmas Ya FILT=
+HY Animal - funny you ugly christmas sweater movie xmas contest kids - Red =
+LongSleeve Baby One-Piece DT0040" data-prev-md5=3D"" style=3D"border: 0; -m=
+s-interpolation-mode: bicubic; height: auto !important; max-width: 100%; ou=
+tline: 0; display: block; vertical-align: top; width: 100%;"></a><div class=
+=3D"bottom call-to-action"  style=3D"-webkit-text-size-adjust: none; -moz-b=
+order-radius: 0px 0px 5px 5px; background: #FFF; border: 1px solid #ECECEC;=
+ border-radius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://www.ets=
+y.com/search?q=3Dchristmas+children+clothing&campaign_label=3Dnew_at_etsy_r=
+bn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0=
+&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2=
+aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D15=
+" class=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-te=
+xt-size-adjust: none; clear: both; position: relative; -webkit-transition: =
+background-color 0.25s ease-out; transition: background-color 0.25s ease-ou=
+t; color: #666; display: block; font-size: 15px; overflow: hidden; text-dec=
+oration: none;">=0A        <span  data-prev-md5=3D"" style=3D"float: left;"=
+>Festive Kids' Clothing</span>=0A        <i class=3D"cta-image"  style=3D"b=
+ackground: url(https://www.etsy.com/assets/dist/images/email/meteor/canvas/=
+categories_cta.20141104214315.png) no-repeat !important; color: #666; displ=
+ay: block; float: right; height: 0; width: 22px;"></i>=0A    </a></div></bd=
+o><bdo class=3D"col2"  style=3D"display: inline-block !important; vertical-=
+align: top; width: 49.2%;"><a href=3D"https://www.etsy.com/listing/17628914=
+6/iphone-6-dock?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_cam=
+paign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_conte=
+nt=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D28=
+36091578&x_eaid=3Deca338c35d&link_clicked=3D16" class=3D"canvas-module view=
+-mode image-module"  style=3D"-webkit-text-size-adjust: none; display: bloc=
+k; line-height: 12px; border-radius: 0; background-color: transparent; max-=
+width: 100%; width: 100% !important; position: relative;"><img src=3D"https=
+://img0.etsystatic.com/050/0/5338713/icnv_fullxfull.683811274_ij31i49f.jpg"=
+ alt=3D"iPhone 6 dock" data-prev-md5=3D"" style=3D"border: 0; -ms-interpola=
+tion-mode: bicubic; height: auto !important; max-width: 100%; outline: 0; d=
+isplay: block; vertical-align: top; width: 100%;"></a><div class=3D"bottom =
+call-to-action"  style=3D"-webkit-text-size-adjust: none; -moz-border-radiu=
+s: 0px 0px 5px 5px; background: #FFF; border: 1px solid #ECECEC; border-rad=
+ius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://www.etsy.com/brows=
+e/mobile-accessories?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&ut=
+m_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_=
+content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=
+=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D17" class=3D"canvas-module=
+ view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; cl=
+ear: both; position: relative; -webkit-transition: background-color 0.25s e=
+ase-out; transition: background-color 0.25s ease-out; color: #666; display:=
+ block; font-size: 15px; overflow: hidden; text-decoration: none;">=0A     =
+   <span  data-prev-md5=3D"" style=3D"float: left;">Mobile Accessories</spa=
+n>=0A        <i class=3D"cta-image"  style=3D"background: url(https://www.e=
+tsy.com/assets/dist/images/email/meteor/canvas/categories_cta.2014110421431=
+5.png) no-repeat !important; color: #666; display: block; float: right; hei=
+ght: 0; width: 22px;"></i>=0A    </a></div></bdo>=0A    </td>=0A</tr><tr ><=
+td class=3D"module"  style=3D"padding: 0; -webkit-text-size-adjust: none; b=
+order: 0; border-collapse: collapse; padding-bottom: 30px; width: 600px !im=
+portant;">=0A        <h3  style=3D"font-family: Georgia,serif; color: #6666=
+66; font-size: 21px; font-weight: 400; line-height: 24px; margin-bottom: 10=
+px; margin-top: 0; text-align: left; text-decoration: none;"><a href=3D"htt=
+ps://www.etsy.com/browse/holidays?campaign_label=3Dnew_at_etsy_rbn&utm_sour=
+ce=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=
+=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WV=
+z7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D18" class=3D"=
+canvas-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adj=
+ust: none; clear: both; position: relative; -webkit-transition: background-=
+color 0.25s ease-out; transition: background-color 0.25s ease-out; color: #=
+666666; text-decoration: none; display: block;"><span data-prev-md5=3D"">'T=
+is the Season</span></a></h3><table width=3D"100%" align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0; padd=
+ing: 0; border-collapse: separate; table-layout: fixed;"><tbody><tr><td row=
+span=3D"2" class=3D"three-images vertical-image"  style=3D"padding: 0; -web=
+kit-text-size-adjust: none; border: 0; border-collapse: collapse; padding-r=
+ight: 1.6% !important; width: 49.2% !important;"><a href=3D"https://www.ets=
+y.com/listing/208181298/delphine-light-pink-nude-lace-overlay?campaign_labe=
+l=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_11251=
+4_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299=
+&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&=
+link_clicked=3D19" class=3D"canvas-module view-mode image-module"  style=3D=
+"-webkit-text-size-adjust: none; display: block; line-height: 12px; border-=
+radius: 0; background-color: transparent; max-width: 100%; width: 100% !imp=
+ortant; position: relative;"><img src=3D"https://img1.etsystatic.com/059/0/=
+5338713/icnv_fullxfull.684187773_r8k6zbgx.jpg" alt=3D"DELPHINE - Light pink=
+ nude lace overlay dress / long elbow sleeves / circle skirt / boatneck nec=
+kline / bridesmaid / cocktail / wedding" data-prev-md5=3D"" style=3D"border=
+: 0; -ms-interpolation-mode: bicubic; height: auto !important; max-width: 1=
+00%; outline: 0; display: block; vertical-align: top; width: 100%;"></a><di=
+v class=3D"bottom call-to-action"  style=3D"-webkit-text-size-adjust: none;=
+ -moz-border-radius: 0px 0px 5px 5px; background: #FFF; border: 1px solid #=
+ECECEC; border-radius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://=
+www.etsy.com/search?q=3Dparty+dress&campaign_label=3Dnew_at_etsy_rbn&utm_so=
+urce=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medi=
+um=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6=
+WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D20" class=
+=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size=
+-adjust: none; clear: both; position: relative; -webkit-transition: backgro=
+und-color 0.25s ease-out; transition: background-color 0.25s ease-out; colo=
+r: #666; display: block; font-size: 15px; overflow: hidden; text-decoration=
+: none;">=0A        <span  data-prev-md5=3D"" style=3D"float: left;">Party =
+Dresses</span>=0A        <i class=3D"cta-image"  style=3D"background: url(h=
+ttps://www.etsy.com/assets/dist/images/email/meteor/canvas/categories_cta.2=
+0141104214315.png) no-repeat !important; color: #666; display: block; float=
+: right; height: 0; width: 22px;"></i>=0A    </a></div></td><td class=3D"th=
+ree-images"  style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0=
+; border-collapse: collapse; padding-bottom: 1.6% !important; width: 49.2% =
+!important;"><a href=3D"https://www.etsy.com/listing/164586503/noelani-neck=
+lace-gold-druzy-pendant?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc=
+&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&u=
+tm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&e=
+aid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D21" class=3D"canvas-mod=
+ule view-mode image-module"  style=3D"-webkit-text-size-adjust: none; displ=
+ay: block; line-height: 12px; border-radius: 0; background-color: transpare=
+nt; max-width: 100%; width: 100% !important; position: relative;"><img src=
+=3D"https://img0.etsystatic.com/057/0/5338713/icnv_fullxfull.682738456_s5pz=
+rfva.jpg" alt=3D"Noelani necklace -  gold druzy pendant necklace, gold neck=
+lace, gold pendant necklace, hawaii druzy necklace, round druzy necklace, m=
+aui" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic=
+; height: auto !important; max-width: 100%; outline: 0; display: block; ver=
+tical-align: top; width: 100%;"></a></td></tr><tr><td class=3D"three-images=
+"  style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; border-c=
+ollapse: collapse; width: 49.2% !important; vertical-align: top;"><a href=
+=3D"https://www.etsy.com/listing/199683865/portable-mint-tin-amp-and-speake=
+r-for?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dne=
+w_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&emai=
+l_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x=
+_eaid=3Deca338c35d&link_clicked=3D22" class=3D"canvas-module view-mode imag=
+e-module"  style=3D"-webkit-text-size-adjust: none; display: block; line-he=
+ight: 12px; border-radius: 0; background-color: transparent; max-width: 100=
+%; width: 100% !important; position: relative;"><img src=3D"https://img0.et=
+systatic.com/047/0/5338713/icnv_fullxfull.682733988_ju3npqab.jpg" alt=3D"Po=
+rtable Mint Tin Amp and Speaker for Electric Guitar- Green/Tweed" data-prev=
+-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto=
+ !important; max-width: 100%; outline: 0; display: block; vertical-align: t=
+op; width: 100%;"></a><div class=3D"bottom call-to-action"  style=3D"-webki=
+t-text-size-adjust: none; -moz-border-radius: 0px 0px 5px 5px; background: =
+#FFF; border: 1px solid #ECECEC; border-radius: 0px 0px 5px 5px; padding: 1=
+0px;"><a href=3D"https://www.etsy.com/browse/gifts/stocking-stuffers?campai=
+gn_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rb=
+n_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D141=
+6956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca3=
+38c35d&link_clicked=3D23" class=3D"canvas-module view-mode"  data-prev-md5=
+=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position: relat=
+ive; -webkit-transition: background-color 0.25s ease-out; transition: backg=
+round-color 0.25s ease-out; color: #666; display: block; font-size: 15px; o=
+verflow: hidden; text-decoration: none;">=0A        <span  data-prev-md5=3D=
+"" style=3D"float: left;">Stocking Stuffers</span>=0A        <i class=3D"ct=
+a-image"  style=3D"background: url(https://www.etsy.com/assets/dist/images/=
+email/meteor/canvas/categories_cta.20141104214315.png) no-repeat !important=
+; color: #666; display: block; float: right; height: 0; width: 22px;"></i>=
+=0A    </a></div></td></tr></tbody></table></td>=0A</tr><tr ><td class=3D"m=
+odule featured-shop"  style=3D"padding: 0; -webkit-text-size-adjust: none; =
+border: 0; border-collapse: collapse; padding-bottom: 30px; width: 100%;">=
+=0A=09    =09    <h3  style=3D"font-family: Georgia,serif; color: #666666; =
+font-size: 21px; font-weight: 400; line-height: 24px; margin-bottom: 10px; =
+margin-top: 0; text-align: left; text-decoration: none;">=0A=09        <a h=
+ref=3D"https://www.etsy.com/redirect/22df5d0653d3a6c8acaa982281b30c00?campa=
+ign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_r=
+bn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D14=
+16956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca=
+338c35d&link_clicked=3D24" class=3D"canvas-module view-mode"  data-prev-md5=
+=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position: relat=
+ive; -webkit-transition: background-color 0.25s ease-out; transition: backg=
+round-color 0.25s ease-out; color: #666666; text-decoration: none; display:=
+ block;"><span data-prev-md5=3D"">Featured Shop: Pale Fish NY</span></a>=0A=
+=09    </h3>=0A=09    =09    <div  style=3D"-webkit-text-size-adjust: none;=
+"><div class=3D"canvas-module type-shop view-mode"  style=3D"-webkit-text-s=
+ize-adjust: none; position: relative;">=0A        <samp class=3D"seller-con=
+tainer"  style=3D"font-family: Arial,Helvetica,Sans-serif !important; backg=
+round-color: #FFF; border: 1px solid #ECECEC; border-radius: 5px 5px 0px 0p=
+x; display: block !important; min-height: 78px; padding: 10px;">=0A        =
+    <div class=3D"seller-avatar"  style=3D"-webkit-text-size-adjust: none; =
+height: auto !important; margin: 0 auto;">=0A                <a href=3D"htt=
+ps://www.etsy.com/shop/palefishny?campaign_label=3Dnew_at_etsy_rbn&utm_sour=
+ce=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=
+=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WV=
+z7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D25" style=3D"=
+-webkit-text-size-adjust: none; height: auto !important; margin: 0 auto; di=
+splay: block !important;">=0A                    <img src=3D"https://img1.e=
+tsystatic.com/047/0/9390092/iusa_75x75.28145493_50pl.jpg" style=3D"border: =
+0; -ms-interpolation-mode: bicubic; height: auto !important; max-width: 100=
+%; outline: 0; display: block; vertical-align: top; margin: 0 auto; border-=
+radius: 5px;"></a>=0A            </div>=0A            <div class=3D"seller-=
+details"  style=3D"-webkit-text-size-adjust: none; text-align: center;">=0A=
+                <a  href=3D"https://www.etsy.com/shop/palefishny?campaign_l=
+abel=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_11=
+2514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956=
+299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c3=
+5d&link_clicked=3D26" style=3D"-webkit-text-size-adjust: none; color: #34a8=
+c4; display: block; font-family: Georgia,Times New Roman,serif; font-size: =
+18px; font-weight: 400; outline: 0; overflow: hidden; padding-right: 5px; t=
+ext-decoration: none; text-overflow: ellipsis; width: auto;">palefishny</a>=
+=0A                <span >New Orleans, Louisiana, New York, New York, Unite=
+d States</span>=0A                <div class=3D"reviews-container"  style=
+=3D"-webkit-text-size-adjust: none;">=0A                    <img  src=3D"ht=
+tps://www.etsy.com/images/email/stars.png" style=3D"-ms-interpolation-mode:=
+ bicubic; display: block; height: auto !important; max-width: 100%; vertica=
+l-align: top; margin: 0 auto;"><div  style=3D"-webkit-text-size-adjust: non=
+e; white-space: nowrap;">(497)</div>=0A                </div>=0A           =
+ </div>=0A            <div class=3D"cta-container"  style=3D"-webkit-text-s=
+ize-adjust: none; background: #34a8c4; border-bottom: 2px solid #0192b5; bo=
+rder-radius: 5px; border-top: 2px solid #67bed3; color: #FFFFFF !important;=
+ display: block; padding: 3px 15px; margin: 0 auto; width: 30%;">=0A       =
+         <a  href=3D"https://www.etsy.com/shop/palefishny?campaign_label=3D=
+new_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18=
+320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&eui=
+d=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link=
+_clicked=3D27" style=3D"-webkit-text-size-adjust: none; background: #34a8c4=
+; border-radius: 5px; color: #FFFFFF !important; display: block; font-famil=
+y: Arial,sans-serif; font-size: 15px; font-weight: bold; line-height: 17px;=
+ padding: 5px; text-align: center; text-decoration: none;">=0A             =
+       <div style=3D"-webkit-text-size-adjust: none; white-space: nowrap;">=
+Shop Now</div>=0A                </a>=0A            </div>=0A        </samp=
+>=0A    </div></div><bdo  style=3D"display: inline-block !important; margin=
+: 0% !important; vertical-align: top; width: 50%;"><a href=3D"https://www.e=
+tsy.com/listing/196562118/two-gemstone-double-birthstone?campaign_label=3Dn=
+ew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_183=
+20919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=
+=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_=
+clicked=3D28" class=3D"canvas-module view-mode image-module"  style=3D"-web=
+kit-text-size-adjust: none; display: block; line-height: 12px; border-radiu=
+s: 0; background-color: transparent; max-width: 100%; width: 100% !importan=
+t; position: relative;"><img src=3D"https://img1.etsystatic.com/045/0/53387=
+13/icnv_fullxfull.683945089_slvkqxwy.jpg" alt=3D"Gemstone Rings" data-prev-=
+md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto =
+!important; max-width: 100%; outline: 0; display: block; vertical-align: to=
+p; width: 100%;"></a></bdo><bdo  style=3D"display: inline-block !important;=
+ margin: 0% !important; vertical-align: top; width: 50%;"><a href=3D"https:=
+//www.etsy.com/listing/196740869/versatile-unique-teardrop-ring-14k-gold?ca=
+mpaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_ets=
+y_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=
+=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&link_clicked=3D29" class=3D"canvas-module view-mode image-mod=
+ule"  style=3D"-webkit-text-size-adjust: none; display: block; line-height:=
+ 12px; border-radius: 0; background-color: transparent; max-width: 100%; wi=
+dth: 100% !important; position: relative;"><img src=3D"https://img0.etsysta=
+tic.com/054/0/5338713/icnv_fullxfull.683825522_3piod793.jpg" alt=3D"Versati=
+le, Unique Teardrop Ring, 14K Gold Filled or Silver Ring - Original Stateme=
+nt Stacking Ring  By Pale Fish NY" data-prev-md5=3D"" style=3D"border: 0; -=
+ms-interpolation-mode: bicubic; height: auto !important; max-width: 100%; o=
+utline: 0; display: block; vertical-align: top; width: 100%;"></a></bdo><di=
+v class=3D"bottom canvas-module view-mode call-to-action"  data-prev-md5=3D=
+"" style=3D"-webkit-text-size-adjust: none; background-color: #FFFFFF; clea=
+r: both; display: block; line-height: 21px !important; margin-bottom: 0px !=
+important; padding: 10px; text-align: left !important; width: auto !importa=
+nt; -moz-border-radius: 0px 0px 5px 5px; background: #FFF; border: 1px soli=
+d #ECECEC; border-radius: 0px 0px 5px 5px; position: relative; -webkit-tran=
+sition: background-color 0.25s ease-out; transition: background-color 0.25s=
+ ease-out; padding-top: 15px !important;"><p style=3D"border: 0; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: none; margin-bottom: 10px; color: #6=
+66666; font-size: 14px; line-height: 19px;">"These items start the week as =
+a creation in my studio, but by week=E2=80=99s end they are a part of someo=
+ne=E2=80=99s life on another end of the world." - Yeonsoo</p></div>=0A    <=
+/td>=0A</tr><tr ><td class=3D"module"  style=3D"padding: 0; -webkit-text-si=
+ze-adjust: none; border: 0; border-collapse: collapse; padding-bottom: 30px=
+; width: 600px !important;">=0A        <h3  style=3D"font-family: Georgia,s=
+erif; color: #666666; font-size: 21px; font-weight: 400; line-height: 24px;=
+ margin-bottom: 10px; margin-top: 0; text-align: left; text-decoration: non=
+e;"><a href=3D"https://www.etsy.com/browse/holidays?campaign_label=3Dnew_at=
+_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919=
+984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXl=
+UUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_click=
+ed=3D30" class=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-we=
+bkit-text-size-adjust: none; clear: both; position: relative; -webkit-trans=
+ition: background-color 0.25s ease-out; transition: background-color 0.25s =
+ease-out; color: #666666; text-decoration: none; display: block;"><span dat=
+a-prev-md5=3D"">Merry & Bright</span></a></h3><bdo class=3D"col2"  style=3D=
+"display: inline-block !important; vertical-align: top; width: 49.2%; paddi=
+ng-right: 1.6% !important;"><a href=3D"https://www.etsy.com/listing/1714585=
+87/personalized-dog-christmas-ornament-with?campaign_label=3Dnew_at_etsy_rb=
+n&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&=
+utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2a=
+Yl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D31"=
+ class=3D"canvas-module view-mode image-module"  style=3D"-webkit-text-size=
+-adjust: none; display: block; line-height: 12px; border-radius: 0; backgro=
+und-color: transparent; max-width: 100%; width: 100% !important; position: =
+relative;"><img src=3D"https://img1.etsystatic.com/053/0/5338713/icnv_fullx=
+full.682853905_nu1x14pk.jpg" alt=3D"Personalized Dog Christmas Ornament wit=
+h Name in Gold - Gift Boxed" data-prev-md5=3D"" style=3D"border: 0; -ms-int=
+erpolation-mode: bicubic; height: auto !important; max-width: 100%; outline=
+: 0; display: block; vertical-align: top; width: 100%;"></a><div class=3D"b=
+ottom call-to-action"  style=3D"-webkit-text-size-adjust: none; -moz-border=
+-radius: 0px 0px 5px 5px; background: #FFF; border: 1px solid #ECECEC; bord=
+er-radius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://www.etsy.com=
+/browse/holidays/holiday-decor/ornaments/?ship_to=3D&campaign_label=3Dnew_a=
+t_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_1832091=
+9984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DX=
+lUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clic=
+ked=3D32" class=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-w=
+ebkit-text-size-adjust: none; clear: both; position: relative; -webkit-tran=
+sition: background-color 0.25s ease-out; transition: background-color 0.25s=
+ ease-out; color: #666; display: block; font-size: 15px; overflow: hidden; =
+text-decoration: none;">=0A        <span  data-prev-md5=3D"" style=3D"float=
+: left;">Ornaments</span>=0A        <i class=3D"cta-image"  style=3D"backgr=
+ound: url(https://www.etsy.com/assets/dist/images/email/meteor/canvas/categ=
+ories_cta.20141104214315.png) no-repeat !important; color: #666; display: b=
+lock; float: right; height: 0; width: 22px;"></i>=0A    </a></div></bdo><bd=
+o class=3D"col2"  style=3D"display: inline-block !important; vertical-align=
+: top; width: 49.2%;"><a href=3D"https://www.etsy.com/listing/199132376/ext=
+ra-deep-red-thin-hanging-bin-holiday?campaign_label=3Dnew_at_etsy_rbn&utm_s=
+ource=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_med=
+ium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB=
+6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D33" class=
+=3D"canvas-module view-mode image-module"  style=3D"-webkit-text-size-adjus=
+t: none; display: block; line-height: 12px; border-radius: 0; background-co=
+lor: transparent; max-width: 100%; width: 100% !important; position: relati=
+ve;"><img src=3D"https://img1.etsystatic.com/054/0/5338713/icnv_fullxfull.6=
+82853939_98n4v4ka.jpg" alt=3D"Extra Deep Red Thin Hanging Bin Holiday Decor=
+ Hostess Gift Office Organizer Doorknob Catchall Candy Cane Basket" data-pr=
+ev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: au=
+to !important; max-width: 100%; outline: 0; display: block; vertical-align:=
+ top; width: 100%;"></a><div class=3D"bottom call-to-action"  style=3D"-web=
+kit-text-size-adjust: none; -moz-border-radius: 0px 0px 5px 5px; background=
+: #FFF; border: 1px solid #ECECEC; border-radius: 0px 0px 5px 5px; padding:=
+ 10px;"><a href=3D"https://www.etsy.com/browse/holidays/holiday-decor?campa=
+ign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_r=
+bn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D14=
+16956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca=
+338c35d&link_clicked=3D34" class=3D"canvas-module view-mode"  data-prev-md5=
+=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position: relat=
+ive; -webkit-transition: background-color 0.25s ease-out; transition: backg=
+round-color 0.25s ease-out; color: #666; display: block; font-size: 15px; o=
+verflow: hidden; text-decoration: none;">=0A        <span  data-prev-md5=3D=
+"" style=3D"float: left;">Decorations</span>=0A        <i class=3D"cta-imag=
+e"  style=3D"background: url(https://www.etsy.com/assets/dist/images/email/=
+meteor/canvas/categories_cta.20141104214315.png) no-repeat !important; colo=
+r: #666; display: block; float: right; height: 0; width: 22px;"></i>=0A    =
+</a></div></bdo>=0A    </td>=0A</tr><tr ><td class=3D"module"  style=3D"pad=
+ding: 0; -webkit-text-size-adjust: none; border: 0; border-collapse: collap=
+se; padding-bottom: 30px; width: 600px !important;">=0A        <h3  style=
+=3D"font-family: Georgia,serif; color: #666666; font-size: 21px; font-weigh=
+t: 400; line-height: 24px; margin-bottom: 10px; margin-top: 0; text-align: =
+left; text-decoration: none;"><a href=3D"https://www.etsy.com/search?q=3Dgo=
+ld+home+decor&order=3Dmost_relevant&campaign_label=3Dnew_at_etsy_rbn&utm_so=
+urce=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medi=
+um=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6=
+WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D35" class=
+=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size=
+-adjust: none; clear: both; position: relative; -webkit-transition: backgro=
+und-color 0.25s ease-out; transition: background-color 0.25s ease-out; colo=
+r: #666666; text-decoration: none; display: block;"><span data-prev-md5=3D"=
+">Gilded Home</span></a></h3><table width=3D"100%" align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0; padd=
+ing: 0; border-collapse: separate; table-layout: fixed;"><tbody><tr><td row=
+span=3D"2" class=3D"three-images vertical-image"  style=3D"padding: 0; -web=
+kit-text-size-adjust: none; border: 0; border-collapse: collapse; padding-r=
+ight: 1.6% !important; width: 49.2% !important;"><a href=3D"https://www.ets=
+y.com/listing/211769086/glam-brass-pineapple-base-lamp?campaign_label=3Dnew=
+_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320=
+919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=
+=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_=
+clicked=3D36" class=3D"canvas-module view-mode image-module"  style=3D"-web=
+kit-text-size-adjust: none; display: block; line-height: 12px; border-radiu=
+s: 0; background-color: transparent; max-width: 100%; width: 100% !importan=
+t; position: relative;"><img src=3D"https://img0.etsystatic.com/050/0/17122=
+841/icnv_fullxfull.688547818_72z1maqe.jpg" alt=3D"Glam Brass Pineapple Base=
+ Lamp" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicub=
+ic; height: auto !important; max-width: 100%; outline: 0; display: block; v=
+ertical-align: top; width: 100%;"></a><div class=3D"bottom call-to-action" =
+ style=3D"-webkit-text-size-adjust: none; -moz-border-radius: 0px 0px 5px 5=
+px; background: #FFF; border: 1px solid #ECECEC; border-radius: 0px 0px 5px=
+ 5px; padding: 10px;"><a href=3D"https://www.etsy.com/search?q=3Dbrass+ligh=
+t&campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at=
+_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_se=
+nt=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eai=
+d=3Deca338c35d&link_clicked=3D37" class=3D"canvas-module view-mode"  data-p=
+rev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position=
+: relative; -webkit-transition: background-color 0.25s ease-out; transition=
+: background-color 0.25s ease-out; color: #666; display: block; font-size: =
+15px; overflow: hidden; text-decoration: none;">=0A        <span  data-prev=
+-md5=3D"" style=3D"float: left;">Brass Lighting</span>=0A        <i class=
+=3D"cta-image"  style=3D"background: url(https://www.etsy.com/assets/dist/i=
+mages/email/meteor/canvas/categories_cta.20141104214315.png) no-repeat !imp=
+ortant; color: #666; display: block; float: right; height: 0; width: 22px;"=
+></i>=0A    </a></div></td><td class=3D"three-images"  style=3D"padding: 0;=
+ -webkit-text-size-adjust: none; border: 0; border-collapse: collapse; padd=
+ing-bottom: 1.6% !important; width: 49.2% !important;"><a href=3D"https://w=
+ww.etsy.com/listing/210079255/arrow-spoon-brass?campaign_label=3Dnew_at_ets=
+y_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_=
+0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5=
+Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=
+=3D38" class=3D"canvas-module view-mode image-module"  style=3D"-webkit-tex=
+t-size-adjust: none; display: block; line-height: 12px; border-radius: 0; b=
+ackground-color: transparent; max-width: 100%; width: 100% !important; posi=
+tion: relative;"><img src=3D"https://img1.etsystatic.com/045/0/5338713/icnv=
+_fullxfull.683963489_138n2l44.jpg" alt=3D"Arrow Spoon - Brass" data-prev-md=
+5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto !i=
+mportant; max-width: 100%; outline: 0; display: block; vertical-align: top;=
+ width: 100%;"></a></td></tr><tr><td class=3D"three-images"  style=3D"paddi=
+ng: 0; -webkit-text-size-adjust: none; border: 0; border-collapse: collapse=
+; width: 49.2% !important; vertical-align: top;"><a href=3D"https://www.ets=
+y.com/listing/208013981/iphone-6-leather-sleeve-in-brown-with?campaign_labe=
+l=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_11251=
+4_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299=
+&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&=
+link_clicked=3D39" class=3D"canvas-module view-mode image-module"  style=3D=
+"-webkit-text-size-adjust: none; display: block; line-height: 12px; border-=
+radius: 0; background-color: transparent; max-width: 100%; width: 100% !imp=
+ortant; position: relative;"><img src=3D"https://img1.etsystatic.com/050/0/=
+5338713/icnv_fullxfull.684512715_dt5vey7z.jpg" alt=3D"Iphone 6 leather slee=
+ve in brown with gold dots - confetti dots, iPhone 6 case, minimalist phone=
+ case, gift under 30" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolat=
+ion-mode: bicubic; height: auto !important; max-width: 100%; outline: 0; di=
+splay: block; vertical-align: top; width: 100%;"></a><div class=3D"bottom c=
+all-to-action"  style=3D"-webkit-text-size-adjust: none; -moz-border-radius=
+: 0px 0px 5px 5px; background: #FFF; border: 1px solid #ECECEC; border-radi=
+us: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://www.etsy.com/search=
+?q=3Diphone+6+case&campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_=
+campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_co=
+ntent=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=
+=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D40" class=3D"canvas-module=
+ view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; cl=
+ear: both; position: relative; -webkit-transition: background-color 0.25s e=
+ase-out; transition: background-color 0.25s ease-out; color: #666; display:=
+ block; font-size: 15px; overflow: hidden; text-decoration: none;">=0A     =
+   <span  data-prev-md5=3D"" style=3D"float: left;">iPhone 6 Cases</span>=
+=0A        <i class=3D"cta-image"  style=3D"background: url(https://www.ets=
+y.com/assets/dist/images/email/meteor/canvas/categories_cta.20141104214315.=
+png) no-repeat !important; color: #666; display: block; float: right; heigh=
+t: 0; width: 22px;"></i>=0A    </a></div></td></tr></tbody></table></td>=0A=
+</tr><tr ><td class=3D"module"  style=3D"padding: 0; -webkit-text-size-adju=
+st: none; border: 0; border-collapse: collapse; padding-bottom: 30px; width=
+: 600px !important;">=0A        <h3  style=3D"font-family: Georgia,serif; c=
+olor: #666666; font-size: 21px; font-weight: 400; line-height: 24px; margin=
+-bottom: 10px; margin-top: 0; text-align: left; text-decoration: none;"><a =
+href=3D"https://www.etsy.com/browse/holidays?campaign_label=3Dnew_at_etsy_r=
+bn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0=
+&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2=
+aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D41=
+" class=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-te=
+xt-size-adjust: none; clear: both; position: relative; -webkit-transition: =
+background-color 0.25s ease-out; transition: background-color 0.25s ease-ou=
+t; color: #666666; text-decoration: none; display: block;"><span data-prev-=
+md5=3D"">A Touch of Magic</span></a></h3><bdo class=3D"col2"  style=3D"disp=
+lay: inline-block !important; vertical-align: top; width: 49.2%; padding-ri=
+ght: 1.6% !important;"><a href=3D"https://www.etsy.com/listing/208158217/ha=
+ndwritten-personalized-letter-from?campaign_label=3Dnew_at_etsy_rbn&utm_sou=
+rce=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_mediu=
+m=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6W=
+Vz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D42" class=3D=
+"canvas-module view-mode image-module"  style=3D"-webkit-text-size-adjust: =
+none; display: block; line-height: 12px; border-radius: 0; background-color=
+: transparent; max-width: 100%; width: 100% !important; position: relative;=
+"><img src=3D"https://img1.etsystatic.com/049/0/5338713/icnv_fullxfull.6841=
+59881_ov2stbry.jpg" alt=3D"Handwritten Personalized Letter from Santa" data=
+-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; height:=
+ auto !important; max-width: 100%; outline: 0; display: block; vertical-ali=
+gn: top; width: 100%;"></a><div class=3D"bottom call-to-action"  style=3D"-=
+webkit-text-size-adjust: none; -moz-border-radius: 0px 0px 5px 5px; backgro=
+und: #FFF; border: 1px solid #ECECEC; border-radius: 0px 0px 5px 5px; paddi=
+ng: 10px;"><a href=3D"https://www.etsy.com/search?q=3Dletter+from+santa&cam=
+paign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy=
+_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D=
+1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3De=
+ca338c35d&link_clicked=3D43" class=3D"canvas-module view-mode"  data-prev-m=
+d5=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position: rel=
+ative; -webkit-transition: background-color 0.25s ease-out; transition: bac=
+kground-color 0.25s ease-out; color: #666; display: block; font-size: 15px;=
+ overflow: hidden; text-decoration: none;">=0A        <span  data-prev-md5=
+=3D"" style=3D"float: left;">Letters From Santa</span>=0A        <i class=
+=3D"cta-image"  style=3D"background: url(https://www.etsy.com/assets/dist/i=
+mages/email/meteor/canvas/categories_cta.20141104214315.png) no-repeat !imp=
+ortant; color: #666; display: block; float: right; height: 0; width: 22px;"=
+></i>=0A    </a></div></bdo><bdo class=3D"col2"  style=3D"display: inline-b=
+lock !important; vertical-align: top; width: 49.2%;"><a href=3D"https://www=
+.etsy.com/listing/207816179/diy-embroidery-kit-2015-wall-calendar?campaign_=
+label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_1=
+12514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D141695=
+6299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c=
+35d&link_clicked=3D44" class=3D"canvas-module view-mode image-module"  styl=
+e=3D"-webkit-text-size-adjust: none; display: block; line-height: 12px; bor=
+der-radius: 0; background-color: transparent; max-width: 100%; width: 100% =
+!important; position: relative;"><img src=3D"https://img1.etsystatic.com/06=
+0/0/5338713/icnv_fullxfull.684132767_kfyz6295.jpg" alt=3D"DIY Embroidery Ki=
+t: 2015 Wall Calendar" data-prev-md5=3D"" style=3D"border: 0; -ms-interpola=
+tion-mode: bicubic; height: auto !important; max-width: 100%; outline: 0; d=
+isplay: block; vertical-align: top; width: 100%;"></a><div class=3D"bottom =
+call-to-action"  style=3D"-webkit-text-size-adjust: none; -moz-border-radiu=
+s: 0px 0px 5px 5px; background: #FFF; border: 1px solid #ECECEC; border-rad=
+ius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://www.etsy.com/brows=
+e/holidays/diy?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_camp=
+aign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_conten=
+t=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D283=
+6091578&x_eaid=3Deca338c35d&link_clicked=3D45" class=3D"canvas-module view-=
+mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: b=
+oth; position: relative; -webkit-transition: background-color 0.25s ease-ou=
+t; transition: background-color 0.25s ease-out; color: #666; display: block=
+; font-size: 15px; overflow: hidden; text-decoration: none;">=0A        <sp=
+an  data-prev-md5=3D"" style=3D"float: left;">DIY Holidays</span>=0A       =
+ <i class=3D"cta-image"  style=3D"background: url(https://www.etsy.com/asse=
+ts/dist/images/email/meteor/canvas/categories_cta.20141104214315.png) no-re=
+peat !important; color: #666; display: block; float: right; height: 0; widt=
+h: 22px;"></i>=0A    </a></div></bdo>=0A    </td>=0A</tr><tr ><td class=3D"=
+module"  style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; bo=
+rder-collapse: collapse; padding-bottom: 30px; width: 600px !important;">=
+=0A        <h3 class=3D"call-to-action"  style=3D"font-family: Georgia,seri=
+f; color: #666666; font-size: 21px; font-weight: 400; line-height: 24px; ma=
+rgin-bottom: 0px; margin-top: 0; text-align: left; text-decoration: none;">=
+<a href=3D"https://www.etsy.com/browse/women?campaign_label=3Dnew_at_etsy_r=
+bn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0=
+&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2=
+aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D46=
+" class=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-te=
+xt-size-adjust: none; -moz-border-radius: 5px 5px 0px 0px; background: #FFF=
+; border: 1px solid #ECECEC; border-radius: 5px 5px 0px 0px; padding: 10px;=
+ clear: both; position: relative; -webkit-transition: background-color 0.25=
+s ease-out; transition: background-color 0.25s ease-out; color: #0192b5 !im=
+portant; text-decoration: none; display: block; margin-top: 10px; padding-t=
+op: 15px !important; background-color: #FFFFFF; line-height: 21px !importan=
+t; margin-bottom: 0px !important; text-align: left !important; width: auto =
+!important;"><span data-prev-md5=3D"">Fashion Forward</span></a></h3><bdo  =
+style=3D"float: left; display: inline-block !important; margin: 0% !importa=
+nt; vertical-align: top; width: 50%;"><a href=3D"https://www.etsy.com/listi=
+ng/169485040/scarf-hangerhanger-for?campaign_label=3Dnew_at_etsy_rbn&utm_so=
+urce=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medi=
+um=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6=
+WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D47" class=
+=3D"canvas-module view-mode image-module"  style=3D"-webkit-text-size-adjus=
+t: none; display: block; line-height: 12px; border-radius: 0; background-co=
+lor: transparent; max-width: 100%; width: 100% !important; position: relati=
+ve;"><img src=3D"https://img1.etsystatic.com/051/0/5338713/icnv_fullxfull.6=
+84157581_kcz28kck.jpg" alt=3D"Scarf hanger,Hanger for scarves,hanger,Christ=
+mas , wooden gift,accessories,closet organizer,functional gift,scarves orga=
+nizer,gift,Scarf" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-=
+mode: bicubic; height: auto !important; max-width: 100%; outline: 0; displa=
+y: block; vertical-align: top; width: 100%;"></a></bdo><bdo  style=3D"float=
+: right; display: inline-block !important; margin: 0% !important; vertical-=
+align: top; width: 50%;"><a href=3D"https://www.etsy.com/listing/207591457/=
+red-orange-raw-edge-trims-plaid-shawl?campaign_label=3Dnew_at_etsy_rbn&utm_=
+source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_me=
+dium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPP=
+B6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D48" class=
+=3D"canvas-module view-mode image-module"  style=3D"-webkit-text-size-adjus=
+t: none; display: block; line-height: 12px; border-radius: 0; background-co=
+lor: transparent; max-width: 100%; width: 100% !important; position: relati=
+ve;"><img src=3D"https://img1.etsystatic.com/049/0/5338713/icnv_fullxfull.6=
+84157449_n44s5s93.jpg" alt=3D"Red Orange Raw Edge Trims Plaid Shawl Long Sc=
+arf Wrap" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bi=
+cubic; height: auto !important; max-width: 100%; outline: 0; display: block=
+; vertical-align: top; width: 100%;"></a></bdo><div class=3D"bottom call-to=
+-action"  style=3D"-webkit-text-size-adjust: none; background-color: #FFFFF=
+F; clear: both; display: block; line-height: 21px !important; margin-bottom=
+: 0px !important; padding: 10px; text-align: left !important; width: auto !=
+important; -moz-border-radius: 0px 0px 5px 5px; background: #FFF; border: 1=
+px solid #ECECEC; border-radius: 0px 0px 5px 5px; padding-top: 15px !import=
+ant;"><div class=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-=
+webkit-text-size-adjust: none; clear: both; position: relative; -webkit-tra=
+nsition: background-color 0.25s ease-out; transition: background-color 0.25=
+s ease-out;"><p style=3D"border: 0; margin: 0; padding: 0; -webkit-text-siz=
+e-adjust: none; margin-bottom: 10px; color: #666666; font-size: 15px; line-=
+height: 21px;">Give the gift of fresh style this holiday season.</p></div><=
+div class=3D"canvas-module view-mode type-call-to-action button"  style=3D"=
+-webkit-text-size-adjust: none; width: 100%; position: relative; margin-bot=
+tom: 1%; margin-top: 2% !important;">=0A        <table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" align=3D"center" style=3D"border-spacing: 0; p=
+adding: 0; border-collapse: separate; margin: 0px !important; table-layout:=
+ fixed;"><tbody><tr><td class=3D"cta-container"  height=3D"100%" style=3D"p=
+adding: 3px 15px; -webkit-text-size-adjust: none; border: 0; border-collaps=
+e: collapse; font-family: Helvetica,Arial,sans-serif; text-align: left; bac=
+kground: #34a8c4; border-bottom: 2px solid #0192b5; border-radius: 5px; bor=
+der-top: 2px solid #67bed3; color: #FFFFFF !important; display: block;">=0A=
+                        <a href=3D"https://www.etsy.com/browse/women?campai=
+gn_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rb=
+n_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D141=
+6956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca3=
+38c35d&link_clicked=3D49"  style=3D"-webkit-text-size-adjust: none; color: =
+#FFFFFF !important; display: block; font-size: 15px; overflow: hidden; text=
+-decoration: none; text-align: center; background: #34a8c4; border-radius: =
+5px; font-family: Arial,sans-serif; font-weight: bold; line-height: 17px; p=
+adding: 5px;">=0A                            <span  data-prev-md5=3D"">Wint=
+er Fashion Trends</span>=0A                            =0A                 =
+       </a>=0A                    </td>=0A                </tr></tbody></ta=
+ble></div></div>=0A    </td>=0A</tr><tr ><td class=3D"module"  style=3D"pad=
+ding: 0; -webkit-text-size-adjust: none; border: 0; border-collapse: collap=
+se; padding-bottom: 30px; width: 600px !important;">=0A                    =
+<h3 class=3D"call-to-action"  style=3D"font-family: Georgia,serif; color: #=
+666666; font-size: 21px; font-weight: 400; line-height: 24px; margin-bottom=
+: 0px; margin-top: 0; text-align: left; text-decoration: none;">=0A        =
+        <a href=3D"https://www.etsy.com/browse/holidays/holiday-decor?campa=
+ign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_r=
+bn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D14=
+16956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca=
+338c35d&link_clicked=3D50" class=3D"canvas-module view-mode"  data-prev-md5=
+=3D"" style=3D"-webkit-text-size-adjust: none; -moz-border-radius: 5px 5px =
+0px 0px; background: #FFF; border: 1px solid #ECECEC; border-radius: 5px 5p=
+x 0px 0px; padding: 10px; clear: both; position: relative; -webkit-transiti=
+on: background-color 0.25s ease-out; transition: background-color 0.25s eas=
+e-out; color: #0192b5 !important; text-decoration: none; display: block; ma=
+rgin-top: 10px; padding-top: 15px !important; background-color: #FFFFFF; li=
+ne-height: 21px !important; margin-bottom: 0px !important; text-align: left=
+ !important; width: auto !important;"><span data-prev-md5=3D"">Holiday Chee=
+r</span></a>=0A            </h3>=0A        =0A        <a href=3D"https://ww=
+w.etsy.com/listing/209952970/custom-tiny-felted-wool-bowl-with-love?campaig=
+n_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn=
+_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416=
+956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca33=
+8c35d&link_clicked=3D51" class=3D"canvas-module view-mode image-module"  st=
+yle=3D"-webkit-text-size-adjust: none; display: block; line-height: 12px; b=
+order-radius: 0; background-color: transparent; max-width: 100%; width: 100=
+% !important; position: relative;"><img src=3D"https://img0.etsystatic.com/=
+054/0/5338713/icnv_fullxfull.683971250_7il57qsk.jpg" alt=3D'custom tiny fel=
+ted wool bowl with "love" embroidered in cotton - ready in 2 weeks - stocki=
+ng stuffer - gifts for friends - ring bowl' data-prev-md5=3D"" style=3D"bor=
+der: 0; -ms-interpolation-mode: bicubic; height: auto !important; max-width=
+: 100%; outline: 0; display: block; vertical-align: top; width: 100%;"></a>=
+=0A=0A        <div class=3D"bottom call-to-action"  style=3D"-webkit-text-s=
+ize-adjust: none; background-color: #FFFFFF; clear: both; display: block; l=
+ine-height: 21px !important; margin-bottom: 0px !important; padding: 10px; =
+text-align: left !important; width: auto !important; -moz-border-radius: 0p=
+x 0px 5px 5px; background: #FFF; border: 1px solid #ECECEC; border-radius: =
+0px 0px 5px 5px; padding-top: 15px !important;">=0A            <div class=
+=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size=
+-adjust: none; clear: both; position: relative; -webkit-transition: backgro=
+und-color 0.25s ease-out; transition: background-color 0.25s ease-out;"><p =
+style=3D"border: 0; margin: 0; padding: 0; -webkit-text-size-adjust: none; =
+margin-bottom: 10px; color: #666666; font-size: 15px; line-height: 21px;">F=
+estive accents to brighten any space.</p></div>=0A            <div class=3D=
+"canvas-module view-mode type-call-to-action button"  style=3D"-webkit-text=
+-size-adjust: none; width: 100%; position: relative; margin-bottom: 1%; mar=
+gin-top: 2% !important;">=0A        <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"center" style=3D"border-spacing: 0; padding: 0; b=
+order-collapse: separate; margin: 0px !important; table-layout: fixed;"><tb=
+ody><tr><td class=3D"cta-container"  height=3D"100%" style=3D"padding: 3px =
+15px; -webkit-text-size-adjust: none; border: 0; border-collapse: collapse;=
+ font-family: Helvetica,Arial,sans-serif; text-align: left; background: #34=
+a8c4; border-bottom: 2px solid #0192b5; border-radius: 5px; border-top: 2px=
+ solid #67bed3; color: #FFFFFF !important; display: block;">=0A            =
+            <a href=3D"https://www.etsy.com/browse/holidays/holiday-decor?c=
+ampaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_et=
+sy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=
+=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&link_clicked=3D52"  style=3D"-webkit-text-size-adjust: none; =
+color: #FFFFFF !important; display: block; font-size: 15px; overflow: hidde=
+n; text-decoration: none; text-align: center; background: #34a8c4; border-r=
+adius: 5px; font-family: Arial,sans-serif; font-weight: bold; line-height: =
+17px; padding: 5px;">=0A                            <span  data-prev-md5=3D=
+"">Holiday Decor</span>=0A                            =0A                  =
+      </a>=0A                    </td>=0A                </tr></tbody></tab=
+le></div>=0A        </div>=0A=0A    </td>=0A</tr><tr ><td class=3D"module" =
+ style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; border-col=
+lapse: collapse; padding-bottom: 30px; width: 600px !important;">=0A       =
+ <a href=3D"https://www.etsy.com/browse/holidays?campaign_label=3Dnew_at_et=
+sy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984=
+_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN=
+5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=
+=3D53" class=3D"canvas-module view-mode image-module"  style=3D"-webkit-tex=
+t-size-adjust: none; display: block; line-height: 12px; border-radius: 0; b=
+ackground-color: transparent; max-width: 100%; width: 100% !important; posi=
+tion: relative;"><img src=3D"https://img0.etsystatic.com/052/0/5338713/icnv=
+_fullxfull.683967278_nve95lbq.png" alt=3D"Holiday Inspiration" data-prev-md=
+5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto !i=
+mportant; max-width: 100%; outline: 0; display: block; vertical-align: top;=
+ width: 100%;"></a>=0A    </td>=0A</tr><tr ><td class=3D"module"  style=3D"=
+padding: 0; -webkit-text-size-adjust: none; border: 0; border-collapse: col=
+lapse; padding-bottom: 30px; width: 600px !important;">=0A=09=09<h3  style=
+=3D"font-family: Georgia,serif; color: #666666; font-size: 21px; font-weigh=
+t: 400; line-height: 24px; margin-bottom: 10px; margin-top: 0; text-align: =
+left; text-decoration: none;"><a href=3D"https://www.etsy.com/browse/gifts?=
+campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_e=
+tsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=
+=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&link_clicked=3D54" class=3D"canvas-module view-mode"  data-pr=
+ev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position:=
+ relative; -webkit-transition: background-color 0.25s ease-out; transition:=
+ background-color 0.25s ease-out; color: #666666; text-decoration: none; di=
+splay: block;"><span data-prev-md5=3D"">Gifts for Every Budget</span></a></=
+h3><bdo class=3D"col2"  style=3D"display: inline-block !important; vertical=
+-align: top; width: 49.2%; padding-right: 1.6% !important; padding-bottom: =
+1.6% !important;"><a href=3D"https://www.etsy.com/listing/187199744/the-jac=
+k-dopp-kit-trio-waxed-canvas?campaign_label=3Dnew_at_etsy_rbn&utm_source=3D=
+adhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Dem=
+ail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXs=
+N_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D55" class=3D"canva=
+s-module view-mode image-module"  style=3D"-webkit-text-size-adjust: none; =
+display: block; line-height: 12px; border-radius: 0; background-color: tran=
+sparent; max-width: 100%; width: 100% !important; position: relative;"><img=
+ src=3D"https://img0.etsystatic.com/058/0/5338713/icnv_fullxfull.684062202_=
+coqf3tdy.jpg" alt=3D"The Jack Dopp Kit TRIO // Waxed Canvas Expandable Dopp=
+ Kits / Travel Bags / Toiletry Bag/ Cosmetics Pouches with Pocketed Linings=
+" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; h=
+eight: auto !important; max-width: 100%; outline: 0; display: block; vertic=
+al-align: top; width: 100%;"></a><div class=3D"bottom call-to-action"  styl=
+e=3D"-webkit-text-size-adjust: none; -moz-border-radius: 0px 0px 5px 5px; b=
+ackground: #FFF; border: 1px solid #ECECEC; border-radius: 0px 0px 5px 5px;=
+ padding: 10px;"><a href=3D"https://www.etsy.com/browse/gifts/gifts-for-men=
+?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_=
+etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sen=
+t=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&link_clicked=3D56" class=3D"canvas-module view-mode"  data-pr=
+ev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position:=
+ relative; -webkit-transition: background-color 0.25s ease-out; transition:=
+ background-color 0.25s ease-out; color: #666; display: block; font-size: 1=
+5px; overflow: hidden; text-decoration: none;">=0A        <span  data-prev-=
+md5=3D"" style=3D"float: left;">For Him</span>=0A        <i class=3D"cta-im=
+age"  style=3D"background: url(https://www.etsy.com/assets/dist/images/emai=
+l/meteor/canvas/categories_cta.20141104214315.png) no-repeat !important; co=
+lor: #666; display: block; float: right; height: 0; width: 22px;"></i>=0A  =
+  </a></div></bdo><bdo class=3D"col2"  style=3D"display: inline-block !impo=
+rtant; vertical-align: top; width: 49.2%; padding-bottom: 1.6% !important;"=
+><a href=3D"https://www.etsy.com/listing/186562099/custom-engraved-lazy-sus=
+an-cake-stand?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campa=
+ign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=
+=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836=
+091578&x_eaid=3Deca338c35d&link_clicked=3D57" class=3D"canvas-module view-m=
+ode image-module"  style=3D"-webkit-text-size-adjust: none; display: block;=
+ line-height: 12px; border-radius: 0; background-color: transparent; max-wi=
+dth: 100%; width: 100% !important; position: relative;"><img src=3D"https:/=
+/img0.etsystatic.com/049/0/5338713/icnv_fullxfull.683968456_k178pm96.jpg" a=
+lt=3D"Custom Engraved Lazy Susan Cake Stand Centerpiece - Monogram Floral W=
+reath Design" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode=
+: bicubic; height: auto !important; max-width: 100%; outline: 0; display: b=
+lock; vertical-align: top; width: 100%;"></a><div class=3D"bottom call-to-a=
+ction"  style=3D"-webkit-text-size-adjust: none; -moz-border-radius: 0px 0p=
+x 5px 5px; background: #FFF; border: 1px solid #ECECEC; border-radius: 0px =
+0px 5px 5px; padding: 10px;"><a href=3D"https://www.etsy.com/browse/gifts/h=
+ostess-gourmet?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_camp=
+aign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_conten=
+t=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D283=
+6091578&x_eaid=3Deca338c35d&link_clicked=3D58" class=3D"canvas-module view-=
+mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: b=
+oth; position: relative; -webkit-transition: background-color 0.25s ease-ou=
+t; transition: background-color 0.25s ease-out; color: #666; display: block=
+; font-size: 15px; overflow: hidden; text-decoration: none;">=0A        <sp=
+an  data-prev-md5=3D"" style=3D"float: left;">Hostess & Gourmet</span>=0A  =
+      <i class=3D"cta-image"  style=3D"background: url(https://www.etsy.com=
+/assets/dist/images/email/meteor/canvas/categories_cta.20141104214315.png) =
+no-repeat !important; color: #666; display: block; float: right; height: 0;=
+ width: 22px;"></i>=0A    </a></div></bdo><bdo class=3D"col2"  style=3D"dis=
+play: inline-block !important; vertical-align: top; width: 49.2%; padding-r=
+ight: 1.6% !important;"><a href=3D"https://www.etsy.com/listing/181331998/s=
+parkle-shine-engraved-pencils-gold?campaign_label=3Dnew_at_etsy_rbn&utm_sou=
+rce=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_mediu=
+m=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6W=
+Vz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D59" class=3D=
+"canvas-module view-mode image-module"  style=3D"-webkit-text-size-adjust: =
+none; display: block; line-height: 12px; border-radius: 0; background-color=
+: transparent; max-width: 100%; width: 100% !important; position: relative;=
+"><img src=3D"https://img0.etsystatic.com/055/0/5338713/icnv_fullxfull.6839=
+68148_r0p6moyg.jpg" alt=3D"Sparkle & Shine Engraved Pencils - Gold Pencil S=
+et of 6 - By A Blissful Nest" data-prev-md5=3D"" style=3D"border: 0; -ms-in=
+terpolation-mode: bicubic; height: auto !important; max-width: 100%; outlin=
+e: 0; display: block; vertical-align: top; width: 100%;"></a><div class=3D"=
+bottom call-to-action"  style=3D"-webkit-text-size-adjust: none; -moz-borde=
+r-radius: 0px 0px 5px 5px; background: #FFF; border: 1px solid #ECECEC; bor=
+der-radius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"https://www.etsy.co=
+m/browse/gifts/teenage-gifts?campaign_label=3Dnew_at_etsy_rbn&utm_source=3D=
+adhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Dem=
+ail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXs=
+N_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D60" class=3D"canva=
+s-module view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: =
+none; clear: both; position: relative; -webkit-transition: background-color=
+ 0.25s ease-out; transition: background-color 0.25s ease-out; color: #666; =
+display: block; font-size: 15px; overflow: hidden; text-decoration: none;">=
+=0A        <span  data-prev-md5=3D"" style=3D"float: left;">For Teens</span=
+>=0A        <i class=3D"cta-image"  style=3D"background: url(https://www.et=
+sy.com/assets/dist/images/email/meteor/canvas/categories_cta.20141104214315=
+.png) no-repeat !important; color: #666; display: block; float: right; heig=
+ht: 0; width: 22px;"></i>=0A    </a></div></bdo><bdo class=3D"col2"  style=
+=3D"display: inline-block !important; vertical-align: top; width: 49.2%;"><=
+a href=3D"https://www.etsy.com/listing/175235423/carrie-infinity-scarf?camp=
+aign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_=
+rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1=
+416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Dec=
+a338c35d&link_clicked=3D61" class=3D"canvas-module view-mode image-module" =
+ style=3D"-webkit-text-size-adjust: none; display: block; line-height: 12px=
+; border-radius: 0; background-color: transparent; max-width: 100%; width: =
+100% !important; position: relative;"><img src=3D"https://img0.etsystatic.c=
+om/046/0/17122841/icnv_fullxfull.688547970_9mt6jb5t.jpg" alt=3D"CARRIE INFI=
+NITY SCARF" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: =
+bicubic; height: auto !important; max-width: 100%; outline: 0; display: blo=
+ck; vertical-align: top; width: 100%;"></a><div class=3D"bottom call-to-act=
+ion"  style=3D"-webkit-text-size-adjust: none; -moz-border-radius: 0px 0px =
+5px 5px; background: #FFF; border: 1px solid #ECECEC; border-radius: 0px 0p=
+x 5px 5px; padding: 10px;"><a href=3D"https://www.etsy.com/browse/gifts/gif=
+ts-for-women?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campai=
+gn=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=
+=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836=
+091578&x_eaid=3Deca338c35d&link_clicked=3D62" class=3D"canvas-module view-m=
+ode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: bo=
+th; position: relative; -webkit-transition: background-color 0.25s ease-out=
+; transition: background-color 0.25s ease-out; color: #666; display: block;=
+ font-size: 15px; overflow: hidden; text-decoration: none;">=0A        <spa=
+n  data-prev-md5=3D"" style=3D"float: left;">For Her</span>=0A        <i cl=
+ass=3D"cta-image"  style=3D"background: url(https://www.etsy.com/assets/dis=
+t/images/email/meteor/canvas/categories_cta.20141104214315.png) no-repeat !=
+important; color: #666; display: block; float: right; height: 0; width: 22p=
+x;"></i>=0A    </a></div></bdo>=0A    </td>=0A</tr><tr ><td class=3D"module=
+"  style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; border-c=
+ollapse: collapse; padding-bottom: 30px; width: 600px !important;">=0A     =
+   <h3  style=3D"font-family: Georgia,serif; color: #666666; font-size: 21p=
+x; font-weight: 400; line-height: 24px; margin-bottom: 10px; margin-top: 0;=
+ text-align: left; text-decoration: none;"><a href=3D"https://www.etsy.com/=
+search?q=3Dwinter+sparkle&campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadh=
+oc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail=
+&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w=
+&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D63" class=3D"canvas-m=
+odule view-mode"  data-prev-md5=3D"" style=3D"-webkit-text-size-adjust: non=
+e; clear: both; position: relative; -webkit-transition: background-color 0.=
+25s ease-out; transition: background-color 0.25s ease-out; color: #666666; =
+text-decoration: none; display: block;"><span data-prev-md5=3D"">Winter Spa=
+rkle</span></a></h3><table width=3D"100%" align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0; padding: 0; bo=
+rder-collapse: separate; table-layout: fixed;"><tbody><tr><td rowspan=3D"2"=
+ class=3D"three-images vertical-image"  style=3D"padding: 0; -webkit-text-s=
+ize-adjust: none; border: 0; border-collapse: collapse; padding-right: 1.6%=
+ !important; width: 49.2% !important;"><a href=3D"https://www.etsy.com/list=
+ing/130606740/hilary-lace-dress-made-to-order?campaign_label=3Dnew_at_etsy_=
+rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_=
+0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap=
+2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D6=
+4" class=3D"canvas-module view-mode image-module"  style=3D"-webkit-text-si=
+ze-adjust: none; display: block; line-height: 12px; border-radius: 0; backg=
+round-color: transparent; max-width: 100%; width: 100% !important; position=
+: relative;"><img src=3D"https://img0.etsystatic.com/053/0/17122841/icnv_fu=
+llxfull.688550256_rykn8dzb.jpg" alt=3D"Hilary Lace Dress Made to Order" dat=
+a-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; height=
+: auto !important; max-width: 100%; outline: 0; display: block; vertical-al=
+ign: top; width: 100%;"></a><div class=3D"bottom call-to-action"  style=3D"=
+-webkit-text-size-adjust: none; -moz-border-radius: 0px 0px 5px 5px; backgr=
+ound: #FFF; border: 1px solid #ECECEC; border-radius: 0px 0px 5px 5px; padd=
+ing: 10px;"><a href=3D"https://www.etsy.com/search?q=3Dlittle+black+dress&c=
+ampaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_et=
+sy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=
+=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=
+=3Deca338c35d&link_clicked=3D65" class=3D"canvas-module view-mode"  data-pr=
+ev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position:=
+ relative; -webkit-transition: background-color 0.25s ease-out; transition:=
+ background-color 0.25s ease-out; color: #666; display: block; font-size: 1=
+5px; overflow: hidden; text-decoration: none;">=0A        <span  data-prev-=
+md5=3D"" style=3D"float: left;">Little Black Dresses</span>=0A        <i cl=
+ass=3D"cta-image"  style=3D"background: url(https://www.etsy.com/assets/dis=
+t/images/email/meteor/canvas/categories_cta.20141104214315.png) no-repeat !=
+important; color: #666; display: block; float: right; height: 0; width: 22p=
+x;"></i>=0A    </a></div></td><td class=3D"three-images"  style=3D"padding:=
+ 0; -webkit-text-size-adjust: none; border: 0; border-collapse: collapse; p=
+adding-bottom: 1.6% !important; width: 49.2% !important;"><a href=3D"https:=
+//www.etsy.com/listing/194628843/enamel-bridal-hair-jewelry-hair-piece?camp=
+aign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_=
+rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1=
+416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Dec=
+a338c35d&link_clicked=3D66" class=3D"canvas-module view-mode image-module" =
+ style=3D"-webkit-text-size-adjust: none; display: block; line-height: 12px=
+; border-radius: 0; background-color: transparent; max-width: 100%; width: =
+100% !important; position: relative;"><img src=3D"https://img1.etsystatic.c=
+om/059/0/17122841/icnv_fullxfull.688665085_8828gf0q.jpg" alt=3D"Enamel brid=
+al hair jewelry hair piece set - Sweetest Thing  Style no. 2024" data-prev-=
+md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto =
+!important; max-width: 100%; outline: 0; display: block; vertical-align: to=
+p; width: 100%;"></a></td></tr><tr><td class=3D"three-images"  style=3D"pad=
+ding: 0; -webkit-text-size-adjust: none; border: 0; border-collapse: collap=
+se; width: 49.2% !important; vertical-align: top;"><a href=3D"https://www.e=
+tsy.com/listing/211263784/antique-diamond-ring-edwardian-rose-cut?campaign_=
+label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_1=
+12514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D141695=
+6299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c=
+35d&link_clicked=3D67" class=3D"canvas-module view-mode image-module"  styl=
+e=3D"-webkit-text-size-adjust: none; display: block; line-height: 12px; bor=
+der-radius: 0; background-color: transparent; max-width: 100%; width: 100% =
+!important; position: relative;"><img src=3D"https://img1.etsystatic.com/04=
+6/0/5338713/icnv_fullxfull.684155939_pugl7ifw.jpg" alt=3D"Antique Diamond R=
+ing - Edwardian Rose Cut Diamond Platinum and 18 Karat  Yellow Gold Winter =
+Engagement Ring for Her by Thenorthwaystudio" data-prev-md5=3D"" style=3D"b=
+order: 0; -ms-interpolation-mode: bicubic; height: auto !important; max-wid=
+th: 100%; outline: 0; display: block; vertical-align: top; width: 100%;"></=
+a><div class=3D"bottom call-to-action"  style=3D"-webkit-text-size-adjust: =
+none; -moz-border-radius: 0px 0px 5px 5px; background: #FFF; border: 1px so=
+lid #ECECEC; border-radius: 0px 0px 5px 5px; padding: 10px;"><a href=3D"htt=
+ps://www.etsy.com/browse/weddings/rings/engagement-rings/?ship_to=3D&campai=
+gn_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rb=
+n_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D141=
+6956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca3=
+38c35d&link_clicked=3D68" class=3D"canvas-module view-mode"  data-prev-md5=
+=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; position: relat=
+ive; -webkit-transition: background-color 0.25s ease-out; transition: backg=
+round-color 0.25s ease-out; color: #666; display: block; font-size: 15px; o=
+verflow: hidden; text-decoration: none;">=0A        <span  data-prev-md5=3D=
+"" style=3D"float: left;">Engagement Rings</span>=0A        <i class=3D"cta=
+-image"  style=3D"background: url(https://www.etsy.com/assets/dist/images/e=
+mail/meteor/canvas/categories_cta.20141104214315.png) no-repeat !important;=
+ color: #666; display: block; float: right; height: 0; width: 22px;"></i>=
+=0A    </a></div></td></tr></tbody></table></td>=0A</tr><tr ><td class=3D"f=
+ull-image module"  style=3D"padding: 0; -webkit-text-size-adjust: none; bor=
+der: 0; border-collapse: collapse; padding-bottom: 30px; width: 600px !impo=
+rtant;">=0A                    <h3  style=3D"font-family: Georgia,serif; co=
+lor: #666666; font-size: 21px; font-weight: 400; line-height: 24px; margin-=
+bottom: 10px; margin-top: 0; text-align: left; text-decoration: none;">=0A =
+               <a href=3D"https://www.etsy.com/search?q=3Dhandwriting+jewel=
+ry&campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_a=
+t_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_s=
+ent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_ea=
+id=3Deca338c35d&link_clicked=3D69" class=3D"canvas-module view-mode"  data-=
+prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; positio=
+n: relative; -webkit-transition: background-color 0.25s ease-out; transitio=
+n: background-color 0.25s ease-out; color: #666666; text-decoration: none; =
+display: block;"><span data-prev-md5=3D"">Custom Heirlooms</span></a>=0A   =
+         </h3>=0A        =0A        <a href=3D"https://www.etsy.com/listing=
+/200975442/personalized-signature-bracelet?campaign_label=3Dnew_at_etsy_rbn=
+&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&u=
+tm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aY=
+l2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D70" =
+class=3D"canvas-module view-mode image-module"  style=3D"-webkit-text-size-=
+adjust: none; display: block; line-height: 12px; border-radius: 0; backgrou=
+nd-color: transparent; max-width: 100%; width: 100% !important; position: r=
+elative;"><img src=3D"https://img0.etsystatic.com/058/0/5338713/icnv_fullxf=
+ull.684038298_6vx45o8d.jpg" alt=3D"Personalized Signature Bracelet- Signatu=
+re Bangle/Handwriting Bangle/Handwritten Bangle - Bridesmaid Gift - Christm=
+as gift" data-prev-md5=3D"" style=3D"border: 0; -ms-interpolation-mode: bic=
+ubic; height: auto !important; max-width: 100%; outline: 0; display: block;=
+ vertical-align: top; width: 100%;"></a>=0A        =0A        <div class=3D=
+"bottom call-to-action"  style=3D"-webkit-text-size-adjust: none; -moz-bord=
+er-radius: 0px 0px 5px 5px; background: #FFF; border: 1px solid #ECECEC; bo=
+rder-radius: 0px 0px 5px 5px; padding: 10px;">=0A            <a href=3D"htt=
+ps://www.etsy.com/search?q=3Dhandwriting+jewelry&campaign_label=3Dnew_at_et=
+sy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984=
+_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN=
+5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=
+=3D71" class=3D"canvas-module view-mode"  data-prev-md5=3D"" style=3D"-webk=
+it-text-size-adjust: none; clear: both; position: relative; -webkit-transit=
+ion: background-color 0.25s ease-out; transition: background-color 0.25s ea=
+se-out; color: #666; display: block; font-size: 15px; overflow: hidden; tex=
+t-decoration: none;">=0A        <span  data-prev-md5=3D"" style=3D"float: l=
+eft;">Handwritten Jewelry</span>=0A        <i class=3D"cta-image"  style=3D=
+"background: url(https://www.etsy.com/assets/dist/images/email/meteor/canva=
+s/categories_cta.20141104214315.png) no-repeat !important; color: #666; dis=
+play: block; float: right; height: 0; width: 22px;"></i>=0A    </a>=0A     =
+   </div>=0A=0A    </td>=0A</tr><tr ><td style=3D"padding: 0; -webkit-text-=
+size-adjust: none; border: 0; border-collapse: collapse;">=0A        <table=
+  align=3D"center" style=3D"border-spacing: 0; padding: 0; border-collapse:=
+ separate; -moz-border: 1px solid #99D3E1; -moz-border-radius: 5px; -webkit=
+-border: 1px solid #99D3E1; -webkit-border-radius: 5px; background-color: #=
+d6edf4; border: 1px solid #99D3E1; border-radius: 5px; margin-top: 20px; wi=
+dth: 100%;"><tbody><tr><td  align=3D"center" valign=3D"top" style=3D"paddin=
+g: 0; -webkit-text-size-adjust: none; border: 0; border-collapse: collapse;=
+ color: #666666; font-family: Georgia,serif; font-size: 20px; padding-top: =
+25px; margin: 0 auto; padding-left: 45px; padding-right: 45px; text-align: =
+center;">=0A                    <div class=3D"canvas-module view-mode"  dat=
+a-prev-md5=3D"" style=3D"-webkit-text-size-adjust: none; clear: both; color=
+: #666666; font-family: Georgia,serif; font-size: 18px; line-height: 24px; =
+text-align: center; position: relative; -webkit-transition: background-colo=
+r 0.25s ease-out; transition: background-color 0.25s ease-out; max-width: 5=
+00px; width: 100%;"><p style=3D"border: 0; margin: 0px; padding: 0; -webkit=
+-text-size-adjust: none; margin-bottom: 0; max-width: 500px; text-align: ce=
+nter; width: 100%;">There's much, much more to see.</p></div>=0A           =
+     </td>=0A            </tr><tr></tr><tr><td  align=3D"center" valign=3D"=
+top" style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0; border=
+-collapse: collapse; padding-bottom: 25px; padding-top: 20px; margin: 0 aut=
+o; padding-left: 45px; padding-right: 45px; text-align: center;">=0A       =
+             <div class=3D"canvas-module view-mode type-call-to-action butt=
+on"  style=3D"-webkit-text-size-adjust: none; width: 100%; position: relati=
+ve; text-align: center;">=0A        <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"center" style=3D"border-spacing: 0; padding: 0; b=
+order-collapse: separate; margin: 0 auto;"><tbody><tr><td class=3D"cta-cont=
+ainer"  height=3D"100%" style=3D"padding: 3px 15px; -webkit-text-size-adjus=
+t: none; border: 0; border-collapse: collapse; font-family: Helvetica,Arial=
+,sans-serif; text-align: left; background: #34a8c4; border-bottom: 2px soli=
+d #0192b5; border-radius: 5px; border-top: 2px solid #67bed3; color: #FFFFF=
+F !important; display: block;">=0A                        <a href=3D"https:=
+//www.etsy.com/browse/gifts?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Da=
+dhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Dema=
+il&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN=
+_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D72"  style=3D"-webk=
+it-text-size-adjust: none; color: #FFFFFF !important; text-align: center; t=
+ext-decoration: none; background: #34a8c4; border-radius: 5px; display: blo=
+ck; font-family: Arial,sans-serif; font-size: 15px; font-weight: bold; line=
+-height: 17px; padding: 5px;">=0A                            <span  data-pr=
+ev-md5=3D"">Shop Gift Ideas</span>=0A                            =0A       =
+                 </a>=0A                    </td>=0A                </tr></=
+tbody></table></div>=0A                </td>=0A            </tr></tbody></t=
+able></td>=0A</tr></tbody></table><table class=3D"footer"  style=3D"border-=
+spacing: 0; padding: 0; border-collapse: separate; max-width: 600px; paddin=
+g-bottom: 30px; width: 100%; margin: 0px auto;"><tbody><tr><td  style=3D"pa=
+dding: 0; -webkit-text-size-adjust: none; border: 0; border-collapse: colla=
+pse; color: #97928f; max-width: 600px; text-align: center; width: 100%; pad=
+ding-bottom: 0; padding-top: 30px;">=0A            =0A        </td>=0A    <=
+/tr><tr class=3D"promo-cta" ><td style=3D"padding: 0 3%; padding: 24px 0 0;=
+ -webkit-text-size-adjust: none; border: 0; border-collapse: collapse; colo=
+r: #97928f; max-width: 600px; text-align: center; width: 100%; border-spaci=
+ng: 0; font-size: 0px;">  =0A            <ol  style=3D"list-style-type: non=
+e; margin: 0; overflow: hidden; padding: 0;"><li yahoo=3D"fix" style=3D"-we=
+bkit-text-size-adjust: none; margin: 0 0 12px 0; width: 100%; float: left;"=
+>=0A                    <a href=3D"https://www.etsy.com/giftcards?campaign_=
+label=3Dnew_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_1=
+12514_18320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D141695=
+6299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c=
+35d&link_clicked=3D73" style=3D"-webkit-text-size-adjust: none; background:=
+ #eae9e3; border: solid 2px #e2e2e2; border-radius: 10px; display: block; o=
+verflow: hidden; padding: 20px 12px 20px 15px; text-decoration: none;">=0A =
+                       <div  style=3D"-webkit-text-size-adjust: none; borde=
+r-spacing: 0; vertical-align: middle; width: 118px;">=0A                   =
+         <img width=3D"106" height=3D"59" src=3D"https://www.etsy.com/image=
+s/email/spgiftcard.png" style=3D"border: 0; -ms-interpolation-mode: bicubic=
+; height: 59px; max-width: 106px; outline: 0; float: left; margin: 0; borde=
+r-spacing: 0; vertical-align: middle;"></div>=0A                        <di=
+v  style=3D"-webkit-text-size-adjust: none; border-spacing: 0; color: #666;=
+ font-family: Georgia,Times New Roman,serif; font-size: 13px; line-height: =
+18px; padding: 11px 0;"><span>Let them pick the gift.</span>=0A            =
+                <span  style=3D"color: #0192B5; display: block; font-family=
+: Arial,Helvetica,sans-serif;">Buy an Etsy gift card.</span>=0A            =
+            </div>=0A                    </a>=0A                </li>=0A   =
+             <li yahoo=3D"fix" class=3D"ios-container"  style=3D"-webkit-te=
+xt-size-adjust: none; float: right !important; margin: 0 0 12px 0; width: 1=
+00%;">=0A                    <div style=3D"-webkit-text-size-adjust: none; =
+background: #eae9e3; border: solid 2px #e2e2e2; border-radius: 10px; displa=
+y: block; overflow: hidden; padding: 20px 12px 20px 15px; text-decoration: =
+none; padding-bottom: 0px;">=0A                        <div  style=3D"-webk=
+it-text-size-adjust: none; border-spacing: 0; vertical-align: middle; width=
+: 118px;">=0A                            <img width=3D"106" height=3D"79"  =
+src=3D"https://www.etsy.com/images/email/devices@2x.png" style=3D"float: le=
+ft; margin: 0; border-spacing: 0; height: 78px; max-width: 106px; vertical-=
+align: middle;"></div>=0A                        <div  style=3D"-webkit-tex=
+t-size-adjust: none; border-spacing: 0; color: #666; font-family: Georgia,T=
+imes New Roman,serif; font-size: 13px; line-height: 18px; padding: 11px 0;"=
+><span>Inspiration Everywhere.</span><br><a  href=3D"http://itunes.apple.co=
+m/app/etsy/id477128284?mt=3D8" style=3D"-webkit-text-size-adjust: none; col=
+or: #0192B5; display: inline-block; font-family: Arial,Helvetica,sans-serif=
+; text-decoration: none;">iOS App</a>=0A                            <a  hre=
+f=3D"https://play.google.com/store/apps/details?id=3Dcom.etsy.android" styl=
+e=3D"-webkit-text-size-adjust: none; color: #0192B5; display: inline-block;=
+ font-family: Arial,Helvetica,sans-serif; text-decoration: none; width: 34%=
+;">Android App</a>=0A                        </div>=0A                    <=
+/div>=0A                </li>=0A            </ol></td>=0A    </tr><tr><td  =
+style=3D"padding: 20px 0; -webkit-text-size-adjust: none; border: 0; border=
+-collapse: collapse; color: #97928f; max-width: 600px; text-align: center; =
+width: 120px; margin: 0 auto; padding-bottom: 15px;">=0A            <div st=
+yle=3D"-webkit-text-size-adjust: none; text-align: center;">=0A            =
+    <a href=3D"https://www.etsy.com/redirect/EtsyFacebook?campaign_label=3D=
+new_at_etsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18=
+320919984_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&eui=
+d=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link=
+_clicked=3D74" style=3D"-webkit-text-size-adjust: none; color: #0192B5;"><i=
+mg src=3D"https://www.etsy.com/images/email/meteor/canvas/social-icons/face=
+book.png" alt=3D"Facebook" style=3D"border: 0; -ms-interpolation-mode: bicu=
+bic; height: auto; max-width: 100%; outline: 0;"></a>=0A                <a =
+href=3D"https://www.etsy.com/redirect/EtsyTwitter?campaign_label=3Dnew_at_e=
+tsy_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_1832091998=
+4_0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUU=
+N5Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=
+=3D75" style=3D"-webkit-text-size-adjust: none; color: #0192B5;"><img src=
+=3D"https://www.etsy.com/images/email/meteor/canvas/social-icons/twitter.pn=
+g" alt=3D"Twitter" style=3D"border: 0; -ms-interpolation-mode: bicubic; hei=
+ght: auto; max-width: 100%; outline: 0;"></a>=0A                <a href=3D"=
+https://www.etsy.com/redirect/EtsyTumblr?campaign_label=3Dnew_at_etsy_rbn&u=
+tm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm=
+_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2=
+rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D76" st=
+yle=3D"-webkit-text-size-adjust: none; color: #0192B5;"><img src=3D"https:/=
+/www.etsy.com/images/email/meteor/canvas/social-icons/tumblr.png" alt=3D"Tu=
+mblr" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto; ma=
+x-width: 100%; outline: 0;"></a>=0A                <a href=3D"https://www.e=
+tsy.com/redirect/EtsyPinterest?campaign_label=3Dnew_at_etsy_rbn&utm_source=
+=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=
+=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WV=
+z7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D77" style=3D"=
+-webkit-text-size-adjust: none; color: #0192B5;"><img src=3D"https://www.et=
+sy.com/images/email/meteor/canvas/social-icons/pinterest.png" alt=3D"Pinter=
+est" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto; max=
+-width: 100%; outline: 0;"></a>=0A                <a href=3D"https://www.et=
+sy.com/redirect/EtsyGooglePlus?campaign_label=3Dnew_at_etsy_rbn&utm_source=
+=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=
+=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WV=
+z7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D78" style=3D"=
+-webkit-text-size-adjust: none; color: #0192B5;"><img src=3D"https://www.et=
+sy.com/images/email/meteor/canvas/social-icons/googleplus.png" alt=3D"Googl=
+e Plus" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto; =
+max-width: 100%; outline: 0;"></a>=0A                <a href=3D"https://www=
+.etsy.com/redirect/EtsyInstagram?campaign_label=3Dnew_at_etsy_rbn&utm_sourc=
+e=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=
+=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WV=
+z7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D79" style=3D"=
+-webkit-text-size-adjust: none; color: #0192B5;"><img src=3D"https://www.et=
+sy.com/images/email/meteor/canvas/social-icons/instagram.png" alt=3D"Instag=
+ram" style=3D"border: 0; -ms-interpolation-mode: bicubic; height: auto; max=
+-width: 100%; outline: 0;"></a>=0A            </div>=0A        </td>=0A    =
+</tr><tr><td style=3D"padding: 0; -webkit-text-size-adjust: none; border: 0=
+; border-collapse: collapse; color: #97928f; max-width: 600px; text-align: =
+center; width: 100%;">=0A            <table border=3D"0" align=3D"center" c=
+ellspacing=3D"0" cellpadding=3D"20"  style=3D"border-spacing: 0; padding: 0=
+; border-collapse: separate;"><tbody><tr><td valign=3D"top"  style=3D"paddi=
+ng: 0; -webkit-text-size-adjust: none; border: 0; border-collapse: collapse=
+; color: #97928f; max-width: 600px; text-align: center; width: 100%; backgr=
+ound-color: #F5F5F1; font-family: Arial,Helvetica,Sans-serif; font-size: 12=
+px; line-height: 16px;">=0A            <div style=3D"-webkit-text-size-adju=
+st: none;">=0A                                    <span>You are receiving t=
+his email from Etsy, Inc. because you registered on <a title=3D"Etsy" href=
+=3D"https://www.etsy.com?campaign_label=3Dnew_at_etsy_rbn&utm_source=3Dadho=
+c&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_0_0&utm_medium=3Demail&=
+utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5Ap2aYl2rPPB6WVz7GXsN_w&=
+eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=3D80" style=3D"-webkit-t=
+ext-size-adjust: none; color: #97928f; font-weight: normal; text-decoration=
+: underline;">Etsy.com</a> with this email address.</span>                 =
+   <span>To stop receiving Etsy emails, <a rel=3D"nofollow" href=3D"https:/=
+/www.etsy.com/mailinglist/unsubscribe_token/Y2svVDVVamNvdmFyK2JqQWZBRXU0ekg=
+0Q1ZBalUrcDcxQkFjVC9JenliVT0uLjE0MTY5NTczMzA=3D?campaign_label=3Dnew_at_ets=
+y_rbn&utm_source=3Dadhoc&utm_campaign=3Dnew_at_etsy_rbn_112514_18320919984_=
+0_0&utm_medium=3Demail&utm_content=3D&email_sent=3D1416956299&euid=3DXlUUN5=
+Ap2aYl2rPPB6WVz7GXsN_w&eaid=3D2836091578&x_eaid=3Deca338c35d&link_clicked=
+=3D81" title=3D"Unsubscribe" style=3D"-webkit-text-size-adjust: none; color=
+: #97928f; font-weight: normal; text-decoration: underline;">unsubscribe he=
+re</a>.</span>                                <br><br><span>Copyright =C2=
+=A9 2014 Etsy, Inc. 55 Washington St. Suite 512, Brooklyn, NY 11201 USA. Al=
+l rights reserved. </span>=0A                            </div>=0A        <=
+/td>=0A    </tr></tbody></table></td>=0A    </tr><tr><td  style=3D"padding:=
+ 0; -webkit-text-size-adjust: none; border: 0; border-collapse: collapse; c=
+olor: #97928f; max-width: 600px; text-align: center; width: 100%;">=0A     =
+       =0A        </td>=0A    </tr></tbody></table></div></td></tr></tbody>=
+</table></td>=0A                    </tr></tbody></table></div></body>
+
+--5e33bd5f88b74cacab92534235a2aede3a8c0f01--
+

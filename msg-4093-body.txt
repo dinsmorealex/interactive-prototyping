@@ -1,0 +1,388 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.161.116 with SMTP id xr20csp253690ldb;
+        Wed, 31 Jul 2013 04:32:22 -0700 (PDT)
+X-Received: by 10.66.145.34 with SMTP id sr2mr80034193pab.94.1375270341645;
+        Wed, 31 Jul 2013 04:32:21 -0700 (PDT)
+Return-Path: <m-axHqxq7ng5TRIAbwVRQXRmNwDSxxk3y66gQTxx0ugUgyzUhnURMpBHEnoh6u@bounce.linkedin.com>
+Received: from maile-fd.linkedin.com (maile-fd.linkedin.com. [199.101.162.92])
+        by mx.google.com with ESMTP id tb9si1198672pbc.189.2013.07.31.04.32.20
+        for <dinsmorealex@gmail.com>;
+        Wed, 31 Jul 2013 04:32:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of m-axHqxq7ng5TRIAbwVRQXRmNwDSxxk3y66gQTxx0ugUgyzUhnURMpBHEnoh6u@bounce.linkedin.com designates 199.101.162.92 as permitted sender) client-ip=199.101.162.92;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of m-axHqxq7ng5TRIAbwVRQXRmNwDSxxk3y66gQTxx0ugUgyzUhnURMpBHEnoh6u@bounce.linkedin.com designates 199.101.162.92 as permitted sender) smtp.mail=m-axHqxq7ng5TRIAbwVRQXRmNwDSxxk3y66gQTxx0ugUgyzUhnURMpBHEnoh6u@bounce.linkedin.com;
+       dkim=pass header.i=@linkedin.com;
+       dmarc=pass (p=REJECT dis=NONE) d=linkedin.com
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-Class:X-LinkedIn-fbl;
+	b=cJn/zoJU34kf4e2dQ5s+KL16VOtaPT+YTnJXuInhAEyFVdxxgu0LMPtgZXoD9/mA
+	sYDBsMfFhwt5DwMwJIPDfenQIAJ5YXAFgPi46kqMyv8k9FSNLY2iFvZtN2vzHzMP
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1375270339;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl:
+	X-LinkedIn-Template;
+	bh=3TVRq1hMGP/jxHf9b6myPEtslsw=;
+	b=zCjs+jY8IBISy8P0VySsxQm8J4djBbwY0/94WAeP+4JmUkhUVoqoQleO5LEvc6vH
+	zT/HEY5CgP8jbp3TnBx0F5HlZJhit7xY37FuHI2QZM1pZ8hpMzJnlH86oReXJ9j+
+	Ru6vQ7st2rkRvXl9P6LWcbK63cLbeWZcxYEQDrYui/s=;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Wed, 31 Jul 2013 11:32:19 +0000 (UTC)
+From: LinkedIn <messages-noreply@linkedin.com>
+To: Alex Dinsmore <dinsmorealex@gmail.com>
+Message-ID: <734661880.105555774.1375270339446.JavaMail.app@ela4-app3409.prod>
+Subject: Alex, join these 4 groups we've recommended for you
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_105555769_1342626586.1375270339440"
+X-LinkedIn-Template: tickle_gyml
+X-LinkedIn-Class: TIK
+X-LinkedIn-fbl: m-axHqxq7ng5TRIAbwVRQXRmNwDSxxk3y66gQTxx0ugUgyzUhnURMpBHEnoh6u
+
+------=_Part_105555769_1342626586.1375270339440
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Alex,
+
+Joining a LinkedIn group makes it easy to stay up-to-date with classmates, colleagues, and other professionals.
+
+Here are some groups your connections have joined.
+
+Fine Art USA Jobs - job vacancies
+
+Join Group: http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/4379490/eml-groups-group_name-0-GYML/?hs=false&tok=3gQXecm7PkLRQ1
+
+
+Feminist Art Forum
+
+Join Group: http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1108847/eml-groups-group_name-0-GYML/?hs=false&tok=3jcTgtXS_kLRQ1
+
+
+Photography & Multimedia - Non Profit Network
+
+Join Group: http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/2055063/eml-groups-group_name-0-GYML/?hs=false&tok=0Mg2YlbbLkLRQ1
+
+
+Prints and Printmaking Enthusiasts
+
+Join Group: http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1395817/eml-groups-group_name-0-GYML/?hs=false&tok=1jxQe_ZPDkLRQ1
+
+
+Interested in joining more groups?
+
+See More Groups You May Like
+http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vgr/eml-groups-see_more-0-GYML/?hs=false&tok=1z_j3pHQrkLRQ1
+
+You are receiving LinkedIn Marketing emails.
+
+Unsubscribe.
+https://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/VeOB1VMOP_NWzMXi2S2bhEYwYi_icJiPe5b/ndp/email/nsettings-li-announcements/eml-groups-unsub-0-GYML/?hs=false&tok=3iPigD28bkLRQ1
+
+(c) 2012 LinkedIn Corporation. 2029 Stierlin Ct., Mountain View, CA 94043 USA
+
+------=_Part_105555769_1342626586.1375270339440
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+      <html>
+        <head>
+          <style type="text/css">
+            html {-webkit-text-size-adjust:none;}
+            body {background-color: #F4F4F4; padding:0; margin:0; width:100%; margin:0 auto;}
+            *[class].tdwrap{display: inline-block !important;}
+            *[class].vspacer{ margin-left: 50px; }
+            *[class].responsive-50per{ width: 50% !important; }
+            *[class].responsive-75per{ width: 75% !important; }
+            @media all and (max-width: 590px){
+              *[class].responsive{width:320px !important;}
+              *[class].responsive-spacer table{width: 20px !important; }
+              *[class].vspacer{ margin-top: 10px !important; margin-bottom: 15px !important; margin-left: 0 !important; }
+              *[class].res-font16{font-size:16px !important;}
+              *[class].res-font15{font-size:15px !important;}
+              *[class].res-font12{font-size:12px !important;}
+              *[class].res-font18{font-size:18px !important;}
+              *[class].res-font18 span{font-size: 18px !important;}
+              *[class].res-font28{font-size:28px !important;}
+              *[class].responsive-50per{ width: 100% !important;}
+              *[class].responsive-spacer70{ width: 70px !important; }
+              *[class].hideIMG{ height: 0px !important; width: 0px !important; }
+              *[class].res-height20{ height: 20px !important; }
+              *[class].res-height20 div{ height: 20px !important; }
+              *[class].res-height10{ height: 10px !important; }
+              *[class].res-height10 div{ height: 10px !important; }
+              *[class].res-height0 { height: 0px !important; }
+              *[class].res-height0 div{ height: 0px !important; }
+              *[class].res-width280{ width: 280px !important; }
+              *[class].res-width25{ width: 25px !important; }
+              *[class].res-width10{ width: 10px !important; }
+              *[class].res-width10 table{ width: 10px !important; }
+              *[class].res-width60{width: 60px !important;}
+              *[class].res-padding{ width: 0 !important; }
+              *[class].res-padding table{ width: 0 !important; }
+              *[class].cellpadding-none{ width: 0px !important; }
+              *[class].cellpadding-none table{ border: collapse !important; }
+              *[class].cellpadding-none table td{ padding: 0 !important; }
+              *[class].display-none{ display: none !important; }
+              *[class].display-block{ display: block !important; }
+              *[class].remove-margin{ margin: 0 !important; }
+              *[class].remove-border{ border: none !important; }
+              *[class].res-img60{width: 60px !important; height: 60px !important;}
+              *[class].res-img100{ width: 100px !important; height: 100px !important; }
+              *[class].res-img320{width: 320px !important; height: auto !important; position: relative;}
+              *[class].res-border{border-top: 1px solid #E1E1E1 !important;}
+              *[class].mobile-hidden{ display: none !important; height: 0px !important; width:0px !important; }
+              *[class].full-width{ width:100% !important; }
+              *[class].mobile-capitalize{ text-transform: capitalize !important; }
+            }
+            @media only screen and (max-device-width: 480px) {
+              p[class=anet-digest-activity],
+              span[class=anet-digest-count],
+              td[class=anet-digest-right-rail] {
+                display:none;
+              }
+            }
+            
+          </style>
+        </head>
+        <body >
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #DFDFDF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;" bgcolor="#DFDFDF" width="100%" class=""><tr><td width="98%" valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px none;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none" bgcolor="#DFDFDF" width="650" class=""><tr><td width="98%" valign="top" align="left">
+  
+      <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+        <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+        <tr>
+          <td width="59">
+            <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+              <td width="16">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/plh/http%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Flinkedin/c602/?hs=false&amp;tok=2pyWiHHf_kLRQ1">
+                  <img src="http://s.c.lnkd.licdn.com/scds/common/u/img/email/icon_follow_linkedin.png" alt="LinkedIn" border="0" height="16" width="16">
+                </a>
+              </td>
+              <td><table width="3" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+              <td width="16">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/plh/http%3A%2F%2Ftwitter%2Ecom%2FLinkedIn/qdFk/?hs=false&amp;tok=2j8eNasf7kLRQ1">
+                  <img src="http://s.c.lnkd.licdn.com/scds/common/u/img/email/icon_follow_twitter.png" alt="Twitter" border="0" height="16" width="16">
+                </a>
+              </td>
+              <td><table width="3" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+              <td width="16">
+                <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/plh/http%3A%2F%2Fwww%2Efacebook%2Ecom%2FLinkedIn/Jdk1/?hs=false&amp;tok=0Uu-mCjVPkLRQ1">
+                  <img src="http://s.c.lnkd.licdn.com/scds/common/u/img/email/icon_follow_facebook.png" alt="Facebook" border="0" height="16" width="16">
+                </a>
+              </td>
+              <td><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+            </table>
+          </td>
+          <td align="left" style="color:#666;font-size:12px" valign="top">Follow Us</td>
+        </tr>
+      </table>
+    
+
+  <!-- KATY DARK GREY BAR -->
+  
+
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #DDDDDD;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;" bgcolor="#FFFFFF" width="100%" class=""><tr><td colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table></td></tr><tr><td width="1%" class=""><table width="15" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td><td width="98%" valign="top" align="">
+    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;font-family:Arial;sans-serif;font-size:12px" width="100%">
+      
+      
+        <tr><td align="right">
+          <img src="http://s.c.lnkd.licdn.com/scds/common/u/img/logos/logo_emails_trans_98x24.png" alt="LinkedIn" border="0" height="24" width="98">
+        </td></tr>
+      
+      <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+      <tr><td align="left" style="font-family:arial,sans-serif;font-size:12px">
+        Alex,
+      </td></tr>
+      <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+      <tr><td align="left" style="font-family:arial,sans-serif;font-size:12px">
+        Joining a LinkedIn group makes it easy to stay up-to-date with classmates, colleagues, and other professionals.
+      </td></tr>
+      <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+      <tr><td align="left" style="font-family:arial,sans-serif;font-size:12px">
+        Here are some groups your connections have joined.
+      </td></tr>
+      <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td></tr>
+      <tr><td>
+        
+        <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+          
+            
+            <tr>
+            <td width="50%" valign="top">
+              <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+                <tr>
+                  <td rowspan="3" valign="top" width="60">
+                    <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/4379490/eml-groups-group_photo-0-GYML/?hs=false&amp;tok=2O1C2lIDLkLRQ1" style="text-decoration:none">
+                    
+                    
+                        <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_60_30/p/4/000/151/2c0/0d1d236.png" alt="Fine Art USA Jobs - job vacancies" border="0" height="30" width="60">
+                      
+                    
+                    </a>
+                  </td>
+                  <td rowspan="3"><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" colspan="3" width="100%"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/4379490/eml-groups-group_name-0-GYML/?hs=false&amp;tok=3gQXecm7PkLRQ1" style="color:#069;font-family:arial,sans-serif;font-size:12px;font-weight:bold;text-decoration:none">Fine Art USA Jobs - job vacancies</a></td>
+                </tr>
+                <tr><td align="left" width="100%" colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                <tr>
+                  <td align="left" valign="middle" width="12"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/4379490/eml-groups-group_name-0-GYML/?hs=false&amp;tok=3gQXecm7PkLRQ1" style="text-decoration:none"><img src="http://s.c.lnkd.licdn.com/scds/common/u/img/icon/icon_plus_circle_12x13.png" border="0" alt="Fine Art USA Jobs - job vacancies"></a></td>
+                  <td width="5"><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" valign="middle" width="100%">
+                    
+                                <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/4379490/eml-groups-group_name-0-GYML/?hs=false&amp;tok=3gQXecm7PkLRQ1" style="color:#069;font-family:arial,sans-serif;font-size:12px;text-decoration:none">JOIN GROUP</a>
+                        
+
+                  </td>
+                </tr>
+              </table>
+            </td>
+            <td><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+            
+            
+          
+            
+            
+            <td width="50%" valign="top">
+              <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+                <tr>
+                  <td rowspan="3" valign="top" width="60">
+                    <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1108847/eml-groups-group_photo-0-GYML/?hs=false&amp;tok=11r_bkMLvkLRQ1" style="text-decoration:none">
+                    
+                    
+                        <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_60_30/p/1/000/014/066/315fa3d.png" alt="Feminist Art Forum" border="0" height="30" width="60">
+                      
+                    
+                    </a>
+                  </td>
+                  <td rowspan="3"><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" colspan="3" width="100%"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1108847/eml-groups-group_name-0-GYML/?hs=false&amp;tok=3jcTgtXS_kLRQ1" style="color:#069;font-family:arial,sans-serif;font-size:12px;font-weight:bold;text-decoration:none">Feminist Art Forum</a></td>
+                </tr>
+                <tr><td align="left" width="100%" colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                <tr>
+                  <td align="left" valign="middle" width="12"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1108847/eml-groups-group_name-0-GYML/?hs=false&amp;tok=3jcTgtXS_kLRQ1" style="text-decoration:none"><img src="http://s.c.lnkd.licdn.com/scds/common/u/img/icon/icon_plus_circle_12x13.png" border="0" alt="Feminist Art Forum"></a></td>
+                  <td width="5"><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" valign="middle" width="100%">
+                    
+                                <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1108847/eml-groups-group_name-0-GYML/?hs=false&amp;tok=3jcTgtXS_kLRQ1" style="color:#069;font-family:arial,sans-serif;font-size:12px;text-decoration:none">JOIN GROUP</a>
+                        
+
+                  </td>
+                </tr>
+              </table>
+            </td>
+            
+            </tr><tr><td colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table></td></tr>
+            
+          
+            
+            <tr>
+            <td width="50%" valign="top">
+              <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+                <tr>
+                  <td rowspan="3" valign="top" width="60">
+                    <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/2055063/eml-groups-group_photo-0-GYML/?hs=false&amp;tok=2gjLEx0kjkLRQ1" style="text-decoration:none">
+                    
+                    
+                        <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_60_30/p/2/000/02a/140/3feae8c.png" alt="Photography &amp; Multimedia - Non Profit Network" border="0" height="30" width="60">
+                      
+                    
+                    </a>
+                  </td>
+                  <td rowspan="3"><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" colspan="3" width="100%"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/2055063/eml-groups-group_name-0-GYML/?hs=false&amp;tok=0Mg2YlbbLkLRQ1" style="color:#069;font-family:arial,sans-serif;font-size:12px;font-weight:bold;text-decoration:none">Photography &amp; Multimedia - Non Profit Network</a></td>
+                </tr>
+                <tr><td align="left" width="100%" colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                <tr>
+                  <td align="left" valign="middle" width="12"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/2055063/eml-groups-group_name-0-GYML/?hs=false&amp;tok=0Mg2YlbbLkLRQ1" style="text-decoration:none"><img src="http://s.c.lnkd.licdn.com/scds/common/u/img/icon/icon_plus_circle_12x13.png" border="0" alt="Photography &amp; Multimedia - Non Profit Network"></a></td>
+                  <td width="5"><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" valign="middle" width="100%">
+                    
+                                <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/2055063/eml-groups-group_name-0-GYML/?hs=false&amp;tok=0Mg2YlbbLkLRQ1" style="color:#069;font-family:arial,sans-serif;font-size:12px;text-decoration:none">JOIN GROUP</a>
+                        
+
+                  </td>
+                </tr>
+              </table>
+            </td>
+            <td><table width="10" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+            
+            
+          
+            
+            
+            <td width="50%" valign="top">
+              <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+                <tr>
+                  <td rowspan="3" valign="top" width="60">
+                    <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1395817/eml-groups-group_photo-0-GYML/?hs=false&amp;tok=2t_nItirLkLRQ1" style="text-decoration:none">
+                    
+                    
+                        <img src="http://m.c.lnkd.licdn.com/mpr/mpr/shrink_60_30/p/3/000/016/308/0768f09.png" alt="Prints and Printmaking Enthusiasts" border="0" height="30" width="60">
+                      
+                    
+                    </a>
+                  </td>
+                  <td rowspan="3"><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" colspan="3" width="100%"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1395817/eml-groups-group_name-0-GYML/?hs=false&amp;tok=1jxQe_ZPDkLRQ1" style="color:#069;font-family:arial,sans-serif;font-size:12px;font-weight:bold;text-decoration:none">Prints and Printmaking Enthusiasts</a></td>
+                </tr>
+                <tr><td align="left" width="100%" colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+                <tr>
+                  <td align="left" valign="middle" width="12"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1395817/eml-groups-group_name-0-GYML/?hs=false&amp;tok=1jxQe_ZPDkLRQ1" style="text-decoration:none"><img src="http://s.c.lnkd.licdn.com/scds/common/u/img/icon/icon_plus_circle_12x13.png" border="0" alt="Prints and Printmaking Enthusiasts"></a></td>
+                  <td width="5"><table width="5" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+                  <td align="left" valign="middle" width="100%">
+                    
+                                <a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vga/1395817/eml-groups-group_name-0-GYML/?hs=false&amp;tok=1jxQe_ZPDkLRQ1" style="color:#069;font-family:arial,sans-serif;font-size:12px;text-decoration:none">JOIN GROUP</a>
+                        
+
+                  </td>
+                </tr>
+              </table>
+            </td>
+            
+            </tr><tr><td colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table></td></tr>
+            
+          
+        </table>
+      </td></tr>
+      
+      <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td></tr>
+      <tr><td align="left" style="font-family:arial,sans-serif;font-size:12px">
+        Interested in joining more groups?
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+        <table border="0" cellpadding="6" cellspacing="1" align=""><tr><td align="center" valign="middle" bgcolor="#DEEEF5" background="http://s.c.lnkd.licdn.com/scds/common/u/img/bg/blue_button_back.png" style="background:url(http://s.c.lnkd.licdn.com/scds/common/u/img/bg/blue_button_back.png) repeat-x scroll 100% 0 #DEEEF5;background-color:#DEEEF5;border:1px solid #A3CFE4;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;"><div style="padding-right:10px;padding-left:10px;"><a href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/vgr/eml-groups-see_more-0-GYML/?hs=false&amp;tok=1z_j3pHQrkLRQ1" style="text-decoration:none;"><span style="font-size:12px;font-family:Arial;color:#006699;white-space:nowrap;display:block;font-weight:bold">
+          See More Groups You May Like
+        </span></a></div></td></tr></table>
+      </td></tr>
+    </table>
+  </td><td width="1%" class=""><table width="15" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td></tr><tr><td colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table></td></tr></table>
+
+  <!-- DARK GREY BAR(EMPTY) -->
+  
+
+  <!-- FOOTER -->
+  
+  
+    
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" class="responsive">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+  <tr>
+    <td align="left" style="font-size:11px; font-family:Arial,sans-serif; color:#999999;">
+            This is an occasional email to help you get the most out of LinkedIn. <a style="color:#006699;text-decoration:underline;" href="https://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/VeOB1VMOP_NWzMXi2S2bhEYwYi_icJiPe5b/uns/20005/161002932/gsh6tk0irtjq51h/dinsmorealex%40gmail%2Ecom/-2qaq1e-hjsgg9db-y/eml-groups-unsub-0-GYML/?hs=false&tok=2oPRwwx0zkLRQ1">Unsubscribe</a>.
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+
+                This email was intended for Alex Dinsmore (Assistant at Yorgo Alexopoulos Multimedia). <a style="color: #006699" href="http://www.linkedin.com/e/-2qaq1e-hjsgg9db-y/plh/http%3A%2F%2Flinkedin%2Ecusthelp%2Ecom%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F4788/2t30/?hs=false&tok=2edc4171fkLRQ1">Learn why we included this</a>. &copy; 2013, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, USA
+    </td>
+  </tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+</table>
+
+
+  
+  
+</td></tr></table></td></tr></table>
+</body>
+      </html>
+------=_Part_105555769_1342626586.1375270339440--

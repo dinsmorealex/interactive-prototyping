@@ -1,0 +1,209 @@
+Delivered-To: dinsmorealex@gmail.com
+Received: by 10.114.183.137 with SMTP id em9csp293317ldc;
+        Wed, 2 Apr 2014 06:13:29 -0700 (PDT)
+X-Received: by 10.50.132.2 with SMTP id oq2mr8831294igb.45.1396444408556;
+        Wed, 02 Apr 2014 06:13:28 -0700 (PDT)
+Return-Path: <blurb.52610@envfrm.rsys5.com>
+Received: from omp.makebooks.blurb.com (omp.makebooks.blurb.com. [199.7.204.114])
+        by mx.google.com with ESMTP id bs7si2375484icc.73.2014.04.02.06.13.27
+        for <dinsmorealex@gmail.com>;
+        Wed, 02 Apr 2014 06:13:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) client-ip=199.7.204.114;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of blurb.52610@envfrm.rsys5.com designates 199.7.204.114 as permitted sender) smtp.mail=blurb.52610@envfrm.rsys5.com;
+       dkim=pass (test mode) header.i=support@makebooks.blurb.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=makebooks.blurb.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=blurb; d=makebooks.blurb.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=support@makebooks.blurb.com;
+ bh=IZBGRJfbiDfBR86PBGpGVSvwvCk=;
+ b=Lqex6XqIy2Qz1n3padDwoQQKkfugzTBW+HyIdGi2cLCaW6wRfuY/1xXC7eZiPAD+UGLSEtD/4vbD
+   w66qog7doi7xskH3N0Vxz6M3ERuLTTu70r99JzdweQk7OF/9aylSHzuMRdU4kG04eb0Rtll7pEEF
+   yTnwyQ9RslysJkSvwrQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=blurb; d=makebooks.blurb.com;
+ b=Caaj66rBIuYHjoMSoFxVKJCILFh3JUsXib950L7wk1n2dXr0Sp7oCowQNmT4396fOpruMmSt0cNa
+   0eqCDE90apZ1kUwrRok11mVDyLoKq0RHwxLEASYL6hX5Z34zChfRjkbe7bjJOReo+K3iUNdNwNLp
+   A46gv14NJe+KkVkRk44=;
+Received: by omp.makebooks.blurb.com id h7g6fg1hdb09 for <dinsmorealex@gmail.com>; Wed, 2 Apr 2014 06:06:50 -0700 (envelope-from <blurb.52610@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 2 Apr 2014 06:06:50 -0700
+To: dinsmorealex@gmail.com
+From: "Blurb" <support@makebooks.blurb.com>
+Reply-To: "Blurb" <noreply@makebooks.blurb.com>
+Subject: =?UTF-8?B?QSBmcmVlIGJvb2stbWFraW5nIGd1aWRlIEFORCAzMCUgb2ZmLiA=?=
+	=?UTF-8?B?SXTigJlzIHRpbWUgdG8gbWFrZSAob3IgZmluaXNoKSB0aGF0IGJvb2su?=
+List-Unsubscribe: <http://makebooks.blurb.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOn&_ei_=EolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2>, <mailto:unsubscribe-WQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOn@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: KpgkuhjLHtLzfxnuHptQJhu
+X-rext: 4.interact5.Ei1ZSWZdmaZ7e425XQkWM9lAEoPlzbshwg
+X-cid: blurb.124355
+Message-ID: <0.1.E.AF4.1CF4E7469111550.0@omp.makebooks.blurb.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+ <head>
+ </head>
+ <body style=3D=22margin:0=22>
+  <p>
+  <meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3DU=
+TF-8=22>
+  <title>Guide to making your own book with Blurb</title>
+  </meta>
+  </p>
+  <table width=3D=22600=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 align=3D=22center=22>
+   <tbody>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUBTY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-671-1=2Egif=22 width=3D=22600=22 height=3D=22319=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22Download Free Bl=
+urb Book-making Guide =22 /></a></td>
+    </tr>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUBWY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-671-2=2Epng=22 width=3D=22600=22 height=3D=22262=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22Pick your tool=
+=22 /></a></td>
+    </tr>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUBAY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-1007-offer=2Epng=22 width=3D=22600=22 height=3D=
+=22330=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22Save up to=
+ 30 percent=22 /></a></td>
+    </tr>
+    <tr>
+     <td><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimag=
+es/content/blurb/MAR-671-4=2Egif=22 width=3D=22600=22 height=3D=22253=22 bo=
+rder=3D=220=22 style=3D=22display:block;=22 alt=3D=22What is in the guide=
+=22 /></td>
+    </tr>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUBCY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-671-5=2Egif=22 width=3D=22600=22 height=3D=2245=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22Download=22 /></=
+a></td>
+    </tr>
+    <tr>
+     <td><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimag=
+es/content/blurb/MAR-671-6=2Egif=22 width=3D=22600=22 height=3D=2239=22 bor=
+der=3D=220=22 style=3D=22display:block;=22 alt=3D=22How to make a book with=
+ Blurb=22 /></td>
+    </tr>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUCRY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-671-7=2Egif=22 width=3D=22600=22 height=3D=2220=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22Online=22 /></a>=
+</td>
+    </tr>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUCTY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-671-8=2Egif=22 width=3D=22600=22 height=3D=2220=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22downloadable sof=
+tware=22 /></a></td>
+    </tr>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUCWY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-671-9=2Egif=22 width=3D=22600=22 height=3D=2220=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22Adobe InDesign=
+=22 /></a></td>
+    </tr>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUCAY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-671-10=2Egif=22 width=3D=22600=22 height=3D=2220=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22Adobe Lightroom=
+=22 /></a></td>
+    </tr>
+    <tr>
+     <td><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%=
+3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUCCY&_ei_=
+=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSB=
+v2UdWief=2E=22><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/respons=
+ysimages/content/blurb/MAR-671-11=2Egif=22 width=3D=22600=22 height=3D=2245=
+=22 border=3D=220=22 style=3D=22display:block;=22 alt=3D=22Download=22 /></=
+a></td>
+    </tr>
+    <tr>
+     <td><img src=3D=22http://responsys=2Ehs=2Ellnwd=2Enet/i5/responsysimag=
+es/content/blurb/MAR-671-12=2Egif=22 width=3D=22600=22 height=3D=2249=22 bo=
+rder=3D=220=22 style=3D=22display:block;=22 alt=3D=22=22 /></td>
+    </tr>
+    <tr>
+     &=239;
+     <td style=3D=22LINE-HEIGHT: 16px; FONT-FAMILY: Arial, Helvetica, sans-=
+serif; text-decoration: none; FONT-SIZE: 11px; text-align:center; color:=23=
+666666; padding:0;=22 valign=3D=22top=22>
+     <p style=3D=22line-height: 12px; margin: 30px 0 20px 0; font-size: 10p=
+x=22><a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQ=
+pglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3DTYUDRY&_ei_=3DEi2=
+L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSBv2UdWi=
+ef=2E=22 style=3D=22color: =2300adef; text-decoration: none=22 target=3D=22=
+_top=22>Blurb</a> =7C <a href=3D=22http://makebooks=2Eblurb=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6GhytFIkoOnVXtpKX%3D=
+TYUDTY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6GxZyj4ETc9VGSNAzJFsH8=
+qP_xG4dlNSBv2UdWief=2E=22 style=3D=22color: =2300adef; text-decoration: non=
+e=22 target=3D=22_top=22>Privacy</a> =7C <a href=3D=22http://makebooks=2Ebl=
+urb=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpSzd14zdKuHzdBLWTYzczas4fDt6=
+GhytFIkoOnVXtpKX%3DTYUDCY&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYuie_5Ai6Gx=
+Zyj4ETc9VGSNAzJFsH8qP_xG4dlNSBv2UdWief=2E=22 style=3D=22color: =2300adef; t=
+ext-decoration: none=22 target=3D=22_top=22>Pricing</a> =7C <a href=3D=22ht=
+tp://makebooks=2Eblurb=2Ecom/pub/optout?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpSzd1=
+4zdKuHzdBLWTYzczas4fDt6GhytFIkoOn&_ei_=3DEolaGGF4SNMvxFF7KucKuWN2DhXFcMKEk1=
+oIsUIVnoBrlJUPjCcf9alPhVhr9d1Ps1gx2mlXfSPwa6K2=22 style=3D=22color: =2300ad=
+ef; text-decoration: none=22 target=3D=22_top=22>Unsubscribe</a><br /><br /=
+> Blurb, Inc=2E PO Box 728, San Francisco, CA 94104-0728<br />     &copy;20=
+14 Blurb, All Rights Reserved<br /><br />     *Offer valid through April 30=
+, 2014 (11:59 p=2Em=2E local time)=2E Valid for first-time customers purcha=
+sing printed books only=2E A 25% discount is applied to your print book pro=
+duct total with no minimum purchase required=2E Maximum discount is USD =24=
+150, AUD =24150, CAD =24150, EUR &euro;150, or GBP &pound;150 off product t=
+otal=2E This offer is good for one-time use, and cannot be combined with vo=
+lume discounts, other promotional codes, gift cards, or used for adjustment=
+s on previous orders=2E<br /> **Offer valid until April 30, 2014 (11:59 p=
+=2Em=2E local time)=2E Valid for first-time customers purchasing printed bo=
+oks only=2E A 30% discount is applied to your product total with a minimum =
+purchase of USD =24100, CAD =24100, AUD =24100, EUR &euro;100 or GBP &pound=
+;65=2E Maximum discount is USD =24150, CAD =24150, AUD =24150, EUR &euro;15=
+0, or GBP &pound;150 off product total=2E This offer is good for one-time u=
+se, and cannot be combined with volume discounts, other promotional codes, =
+gift cards, or used for adjustments on previous orders</p>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <p></p><br>
+<br><img border=3D=220=22 width=3D=223=22 height=3D=223=22 src=3D=22http://=
+makebooks=2Eblurb=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpSzd14zdKuHzdB=
+LWTYzczas4fDt6GhytFIkoOnVXHkMX%3Dw&_ei_=3DEi2L-z0LtlVkTFJ2DQ5sd828MRazn8tYu=
+ie_5Ai6GxZyj4ETc9VGSNAzJFsH8qP_xG4dlNSBv2UdWief=2E=22>
+
+
+ </body>
+</html>
+
+
